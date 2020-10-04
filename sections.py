@@ -1,8 +1,9 @@
-from typing import List
+from typing import List, Dict
 from webvtt import Caption
 import string
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+
 
 def clean_string(text):
     return ''.join([word for word in text if word not in string.punctuation]).lower()
@@ -47,6 +48,25 @@ class SubtitlePair:
     def __str__(self):
         texts = self.get_texts()
         return f"Generated: {texts[0]} \nSubtitle: {texts[1]}"
+
+    def __repr__(self):
+        return self.__str__()
+
+
+class SubtitlePairWords:
+
+    def __init__(self, words: List[Dict], caption: Caption, similarity: float):
+        self.words = words
+        self.caption = caption
+        self.similarity = similarity
+
+    def get_texts(self) -> (str, str):
+        subtitle_text = ' '.join([x['word'] for x in self.words])
+        return subtitle_text.replace('\n', " "), self.caption.text.replace('\n', " ")
+
+    def __str__(self):
+        texts = self.get_texts()
+        return f"Generated: {texts[0]} \nSubtitle: {texts[1]} \nSimilarity: {self.similarity}"
 
     def __repr__(self):
         return self.__str__()
