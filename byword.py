@@ -9,6 +9,8 @@ import string
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
+from estnltk import Text
+from estnltk.taggers import VabamorfTagger
 
 def clean_string(text):
     text = text.replace('\n', " ")
@@ -20,11 +22,18 @@ def is_word_in_caption(capt: webvtt.Caption, word_dict: dict) -> bool:
 
 
 def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> float:
-    real = clean_string(this_caption.text)
-    generated = ' '.join([x['word'] for x in word_dict])
-    generated = clean_string(generated)
+    real = Text(clean_string(this_caption.text))
+    real.tag_layer(['morph_analysis'])
+    real_lemmas = [item[0] for sublist in real.lemma.amb_attr_tuple_list for item in sublist]
+    real_lemmas = ' '.join(real_lemmas)
 
-    arr = [real, generated]
+    generated = ' '.join([x['word'] for x in word_dict])
+    generated = Text(clean_string(generated))
+    generated.tag_layer(['morph_analysis'])
+    gen_lemmas = [item[0] for sublist in generated.lemma.amb_attr_tuple_list for item in sublist]
+    gen_lemmas = ' '.join(gen_lemmas)
+
+    arr = [real_lemmas, gen_lemmas]
 
     vectorizer = CountVectorizer().fit_transform(arr)
     vectors = vectorizer.toarray()
