@@ -22,16 +22,10 @@ def is_word_in_caption(capt: webvtt.Caption, word_dict: dict) -> bool:
 
 
 def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> float:
-    real = Text(clean_string(this_caption.text))
-    real.tag_layer(['morph_analysis'])
-    real_lemmas = [item[0] for sublist in real.lemma.amb_attr_tuple_list for item in sublist]
-    real_lemmas = ' '.join(real_lemmas)
+    real_lemmas = create_lemmatized_string(this_caption.text)
 
     generated = ' '.join([x['word'] for x in word_dict])
-    generated = Text(clean_string(generated))
-    generated.tag_layer(['morph_analysis'])
-    gen_lemmas = [item[0] for sublist in generated.lemma.amb_attr_tuple_list for item in sublist]
-    gen_lemmas = ' '.join(gen_lemmas)
+    gen_lemmas = create_lemmatized_string(generated)
 
     arr = [real_lemmas, gen_lemmas]
 
@@ -42,6 +36,14 @@ def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -
     vec2 = vectors[1].reshape(1, -1)
 
     return cosine_similarity(vec1, vec2)[0][0]
+
+
+def create_lemmatized_string(generated):
+    generated = Text(clean_string(generated))
+    generated.tag_layer(['morph_analysis'])
+    gen_lemmas = [item[0] for sublist in generated.lemma.amb_attr_tuple_list for item in sublist]
+    gen_lemmas = ' '.join(gen_lemmas)
+    return gen_lemmas
 
 
 def generate_results(pairs: List[SubtitlePairWords]):
