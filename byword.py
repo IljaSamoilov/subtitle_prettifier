@@ -10,21 +10,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-subtiltes = webvtt.read('data/foorum-4-aasta-eelarvestrateegia.vtt')
-
-with open('data/foorum-4-aasta-eelarvestrateegia.json', encoding='utf-8', errors='ignore') as fh:
-    json_text = json.load(fh)
-
-
 def clean_string(text):
     text = text.replace('\n', " ")
     return ''.join([word for word in text if word not in string.punctuation]).lower()
 
+
 def is_word_in_caption(capt: webvtt.Caption, word_dict: dict) -> bool:
     return capt.end_in_seconds > word_dict['end']
 
-def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> float:
 
+def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> float:
     real = clean_string(this_caption.text)
     generated = ' '.join([x['word'] for x in word_dict])
     generated = clean_string(generated)
@@ -40,44 +35,60 @@ def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -
     return cosine_similarity(vec1, vec2)[0][0]
 
 
-generated_subtitles = json_text['sections'][0]['turns']
+def generate_results(pairs: List[SubtitlePairWords]):
+    with open('word-result.txt', encoding='utf-8', errors='ignore', mode="a+") as result_file:
+        for pair in pairs:
+            result_file.write(pair.__str__())
+            result_file.write("\n\n")
 
-i = 0
-pairs: List[SubtitlePairWords] = []
 
-words_arrays = list(map(lambda x: x['words'], generated_subtitles))
-words = [item for sublist in words_arrays for item in sublist]
+def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
+    subtitles = webvtt.read(f'data/{file_name}.vtt')
 
-for caption in subtiltes.captions:
+    with open(f'data/{file_name}.json', encoding='utf-8', errors='ignore') as fh:
+        json_text = json.load(fh)
 
-    words_in_captions: List[Dict] = []
+    generated_subtitles = json_text['sections'][0]['turns']
 
-    while i < len(words) and is_word_in_caption(caption, words[i]):
-        words_in_captions.append(words[i])
-        i += 1
+    i = 0
+    pairs: List[SubtitlePairWords] = []
 
-    similarity: float = get_cosine_similarity(caption, words_in_captions)
+    words_arrays = list(map(lambda x: x['words'], generated_subtitles))
+    words = [item for sublist in words_arrays for item in sublist]
 
-    if i < len(words):
-        with_next_word = words_in_captions + [words[i]]
-        one_less_word = words_in_captions[:-1]
+    for caption in subtitles.captions:
 
-        similarity_with_next_word = get_cosine_similarity(caption, with_next_word)
-        similarity_one_less_word = get_cosine_similarity(caption, one_less_word)
+        words_in_captions: List[Dict] = []
 
-        if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
-            if similarity_with_next_word > similarity_one_less_word:
-                i += 1
-                words_in_captions = with_next_word
-                similarity = similarity_with_next_word
-            else:
-                i -= 1
-                words_in_captions = one_less_word
-                similarity = similarity_one_less_word
+        while i < len(words) and is_word_in_caption(caption, words[i]):
+            words_in_captions.append(words[i])
+            i += 1
 
-    pairs.append(SubtitlePairWords(words_in_captions, caption, similarity))
+        similarity: float = get_cosine_similarity(caption, words_in_captions)
 
-with open('word-result.txt', encoding='utf-8', errors='ignore', mode="a+") as result_file:
-    for pair in pairs:
-        result_file.write(pair.__str__())
-        result_file.write("\n\n")
+        if i < len(words):
+            with_next_word = words_in_captions + [words[i]]
+            one_less_word = words_in_captions[:-1]
+
+            similarity_with_next_word = get_cosine_similarity(caption, with_next_word)
+            similarity_one_less_word = get_cosine_similarity(caption, one_less_word)
+
+            if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
+                if similarity_with_next_word > similarity_one_less_word:
+                    i += 1
+                    words_in_captions = with_next_word
+                    similarity = similarity_with_next_word
+                else:
+                    i -= 1
+                    words_in_captions = one_less_word
+                    similarity = similarity_one_less_word
+
+        pairs.append(SubtitlePairWords(words_in_captions, caption, similarity))
+
+    return pairs
+
+
+if __name__ == '__main__':
+    result_pairs = process_subtitles("foorum-4-aasta-eelarvestrateegia")
+
+    generate_results(result_pairs)
