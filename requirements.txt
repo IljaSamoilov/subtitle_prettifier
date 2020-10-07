@@ -1,1 +1,2 @@
 scikit-learn~=0.23.2
+estnltk~=1.6.5beta

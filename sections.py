@@ -61,7 +61,7 @@ class SubtitlePairWords:
         self.similarity = similarity
 
     def get_texts(self) -> (str, str):
-        subtitle_text = ' '.join([x['word'] for x in self.words])
+        subtitle_text = ' '.join([x['word_with_punctuation'] for x in self.words])
         return subtitle_text.replace('\n', " "), self.caption.text.replace('\n', " ")
 
     def __str__(self):
