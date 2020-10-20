@@ -15,8 +15,8 @@ import os
 
 import numpy as np
 
-
 import Levenshtein
+
 
 def clean_string(text):
     text = text.replace('\n', " ")
@@ -27,12 +27,12 @@ def is_word_in_caption(capt: webvtt.Caption, word_dict: dict) -> bool:
     return capt.end_in_seconds > word_dict['end']
 
 
-def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> float:
+def get_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> (float, float):
     real_lemmas = create_lemmatized_string(this_caption.text)
 
     generated = ' '.join([x['word'] for x in word_dict])
     gen_lemmas = create_lemmatized_string(generated)
-
+    levenshtein_distance = Levenshtein.distance(real_lemmas, gen_lemmas)
     arr = [real_lemmas, gen_lemmas]
 
     vectorizer = CountVectorizer().fit_transform(arr)
@@ -41,7 +41,7 @@ def get_cosine_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -
     vec1 = vectors[0].reshape(1, -1)
     vec2 = vectors[1].reshape(1, -1)
 
-    return cosine_similarity(vec1, vec2)[0][0]
+    return cosine_similarity(vec1, vec2)[0][0], levenshtein_distance
 
 
 def create_lemmatized_string(generated):
@@ -53,7 +53,7 @@ def create_lemmatized_string(generated):
 
 
 def generate_results(pairs: List[SubtitlePairWords], name: str):
-    result_file_name = f'{name}-result-try-more-or-less.txt'
+    result_file_name = f'{name}-result-try-more-or-less-levenshtein.txt'
     if os.path.exists(result_file_name):
         os.remove(result_file_name)
     with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
@@ -63,7 +63,8 @@ def generate_results(pairs: List[SubtitlePairWords], name: str):
         mean = np.mean([item.similarity for item in pairs])
         result_file.write(f"Mean similarity: {mean}")
 
-def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
+
+def process_subtitles(file_name: str, use_levishtein=False) -> List[SubtitlePairWords]:
     subtitles = webvtt.read(f'data/{file_name}.vtt')
 
     with open(f'data/{file_name}.json', encoding='utf-8', errors='ignore') as fh:
@@ -86,38 +87,51 @@ def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
             words_in_captions.append(words[i])
             i += 1
 
-        similarity: float = get_cosine_similarity(caption, words_in_captions)
-
+        cos_similarity, lev_distance = get_similarity(caption, words_in_captions)
+        similarity = lev_distance if use_levishtein else cos_similarity
         if i < len(words):
-            i, similarity, words_in_captions = try_more_or_less_words(caption, i, similarity, words, words_in_captions)
+            i, similarity, words_in_captions = try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
 
         pairs.append(SubtitlePairWords(words_in_captions, caption, similarity))
 
     return pairs
 
 
-def try_more_or_less_words(caption, i, similarity, words, words_in_captions):
+def try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein):
     if i >= len(words):
         return i, similarity, words_in_captions
 
     with_next_word = words_in_captions + [words[i]]
     one_less_word = words_in_captions[:-1]
 
-    similarity_with_next_word = get_cosine_similarity(caption, with_next_word)
-    similarity_one_less_word = get_cosine_similarity(caption, one_less_word)
-
-    if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
-        if similarity_with_next_word > similarity_one_less_word:
-            i += 1
-            words_in_captions = with_next_word
-            similarity = similarity_with_next_word
-            return try_more_or_less_words(caption, i, similarity, words, words_in_captions)
-        else:
-            i -= 1
-            words_in_captions = one_less_word
-            similarity = similarity_one_less_word
-            return try_more_or_less_words(caption, i, similarity, words, words_in_captions)
-    return i, similarity, words_in_captions
+    similarity_with_next_word, lev_distance1 = get_similarity(caption, with_next_word)
+    similarity_one_less_word, lev_distance2 = get_similarity(caption, one_less_word)
+    if use_levishtein:
+        if lev_distance1 < similarity or lev_distance2 < similarity:
+            if lev_distance1 < lev_distance2:
+                i += 1
+                words_in_captions = with_next_word
+                similarity = lev_distance1
+                return try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
+            else:
+                i -= 1
+                words_in_captions = one_less_word
+                similarity = lev_distance2
+                return try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
+        return i, similarity, words_in_captions
+    else:
+        if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
+            if similarity_with_next_word > similarity_one_less_word:
+                i += 1
+                words_in_captions = with_next_word
+                similarity = similarity_with_next_word
+                return try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
+            else:
+                i -= 1
+                words_in_captions = one_less_word
+                similarity = similarity_one_less_word
+                return try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
+        return i, similarity, words_in_captions
 
 
 if __name__ == '__main__':
@@ -126,5 +140,5 @@ if __name__ == '__main__':
     for file_name in files_no_ext:
         if file_name.startswith("."):
             continue
-        result_pairs = process_subtitles(file_name)
+        result_pairs = process_subtitles(file_name, use_levishtein=True)
         generate_results(result_pairs, file_name)
