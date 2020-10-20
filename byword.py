@@ -11,6 +11,10 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 from estnltk import Text
 from estnltk.taggers import VabamorfTagger
+import os
+
+
+import Levenshtein
 
 def clean_string(text):
     text = text.replace('\n', " ")
@@ -46,8 +50,8 @@ def create_lemmatized_string(generated):
     return gen_lemmas
 
 
-def generate_results(pairs: List[SubtitlePairWords]):
-    with open('word-result.txt', encoding='utf-8', errors='ignore', mode="a+") as result_file:
+def generate_results(pairs: List[SubtitlePairWords], name: str):
+    with open(f'{name}-result.txt', encoding='utf-8', errors='ignore', mode="a+") as result_file:
         for pair in pairs:
             result_file.write(pair.__str__())
             result_file.write("\n\n")
@@ -59,7 +63,8 @@ def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
     with open(f'data/{file_name}.json', encoding='utf-8', errors='ignore') as fh:
         json_text = json.load(fh)
 
-    generated_subtitles = json_text['sections'][0]['turns']
+    generated_subtitles = [x['turns'] for x in json_text['sections'] if (x['type'] == "speech" and "turns" in x.keys())]
+    generated_subtitles = [item for sublist in generated_subtitles for item in sublist]
 
     i = 0
     pairs: List[SubtitlePairWords] = []
@@ -100,6 +105,10 @@ def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
 
 
 if __name__ == '__main__':
-    result_pairs = process_subtitles("foorum-4-aasta-eelarvestrateegia")
+    files_no_ext = set([os.path.splitext(f)[0] for f in os.listdir('data/')])
 
-    generate_results(result_pairs)
+    for file_name in files_no_ext:
+        if file_name.startswith("."):
+            continue
+        result_pairs = process_subtitles(file_name)
+        generate_results(result_pairs, file_name)
