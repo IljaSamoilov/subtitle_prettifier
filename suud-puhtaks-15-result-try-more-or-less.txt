@@ -1,0 +1,4569 @@
+Generated: O. Lihtne maailm on kadunud nagu saunaaken peale Tootsi tehtud pauku, 
+Subtitle: Lihtne maailm on kadunud nagu saunaaken peale Tootsi tehtud pauku. 
+Similarity: 0.9999999999999998
+
+Generated: arvamuste karussell keerleb pöörase kiirusega 
+Subtitle: Arvamuste karussell keerleb pöörase kiirusega 
+Similarity: 1.0
+
+Generated: ja ajab inimestel pead segi ning paneb otsima lihtsaid vastuseid. 
+Subtitle: ja ajab inimestel pead segi ning paneb otsima lihtsaid vastuseid. 
+Similarity: 1.0
+
+Generated: Lihtsaid vastuseid aga ei ole, ei ole ka meie tänases saates. 
+Subtitle: Lihtsaid vastuseid aga ei ole, ei ole ka meie tänases saates. 
+Similarity: 0.9999999999999998
+
+Generated: Inimkond on läbi aja otsinud võimalust kiiremini, kõrgemale ja kaugemale 
+Subtitle: Inimkond on läbi aja otsinud võimalust saada kiiremini, kõrgemale ja kaugemale. 
+Similarity: 0.9780192938436516
+
+Generated: pääsemiseks meie täna kõrgemale ei lähe. Küll aga proovime vaadata, 
+Subtitle: Meie täna kõrgemale ei lähe, küll aga proovime vaadata, 
+Similarity: 0.9486832980505138
+
+Generated: kas on võimalik kiiremini ja. Kaugemale 
+Subtitle: kas on võimalik kiiremini ja kaugemale. 
+Similarity: 0.9999999999999999
+
+Generated: me räägime täna Rail Balticust. 
+Subtitle: Me räägime täna Rail Balticust. 
+Similarity: 1.0
+
+Generated: Rail Balticu arendajad lubavad 
+Subtitle: Rail Balticu arendajad lubavad 
+Similarity: 1.0
+
+Generated: mugavat reisi Tallinnast Riiga vähem kui kahe tunniga. 
+Subtitle: mugavat reisi Tallinnast Riiga vähem kui kahe tunniga. 
+Similarity: 1.0000000000000002
+
+Generated: Värske tasuvusuuringu põhistsenaariumi järgi 
+Subtitle: Värske tasuvusuuringu stsenaariumi järgi 
+Similarity: 0.75
+
+Generated: kasutab 2030. aastal Rail Balticut viis miljonit reisijat aastas 
+Subtitle: kasutab 2030. aastal Rail Balticut 5 miljonit reisijat aastas 
+Similarity: 0.9534625892455924
+
+Generated: ja kaupa veetakse üle 16 miljoni tonni. 
+Subtitle: ja kaupa veetakse üle 16 miljoni tonni. 
+Similarity: 0.9999999999999998
+
+Generated: Aastani 2055 on projekti laiem sotsiaal-majanduslik kasu 
+Subtitle: Aastani 2055 on projekti laiem sotsiaalmajanduslik kasu 
+Similarity: 1.0
+
+Generated: 16 miljardit eurot. 
+Subtitle: 16 miljardit eurot. 
+Similarity: 1.0000000000000002
+
+Generated: Suurem rongiliiklus säästab 400 inimelu. Maanteeveod vähenevad 
+Subtitle: Suurem rongiliiklus säästab 400 inimelu, maanteeveod vähenevad 30-40%, 
+Similarity: 0.9354143466934852
+
+Generated: 30 kuni 40 protsenti, mis on suur võit CO kahe emissiooni piiramise 
+Subtitle: mis on suur võit CO2 emissiooni piiramisel, 
+Similarity: 0.7844645405527363
+
+Generated: ja reisijad säästavad 5,3 miljonit tundi aega 
+Subtitle: ja reisijad säästavad 5,3 miljonit tundi aega, 
+Similarity: 0.9999999999999998
+
+Generated: ehk lausa müstilised 605 aastat kuid kriitika ei näita taandumise märke. 
+Subtitle: mis teeb lausa müstilised 605 aastat, kuid kriitika ei näita taandumise märke. 
+Similarity: 0.7784989441615229
+
+Generated: Keskkonnakaitsjad kardavad meie looduskeskkonna lõhestamist raudteekoridori, 
+Subtitle: Keskkonnakaitsjad kardavad me loodus- keskkonna lõhestamist raudteekoridoriga. 
+Similarity: 0.7715167498104596
+
+Generated: ka kriitikud kahtlevad ka Rail Balticu majanduslikus mõttekuses. 
+Subtitle: Kriitikud kahtlevad ka Rail Balticu majanduslikus mõttekuses. 
+Similarity: 0.9561828874675149
+
+Generated: Niivõrd suure investeeringu juures ei pruugi jätkuda ei reisijaid ega kaupa. 
+Subtitle: Niivõrd suure investeeringu juures ei pruugi jätkuda ei reisijaid ega kaupa. 
+Similarity: 1.0
+
+Generated: Värske tasuvusuuring tunnistab, 
+Subtitle: Värske tasuvusuuring tunnistab, 
+Similarity: 1.0000000000000002
+
+Generated: et ilma Euroopa Liidu finantseeringute poleks Rail Balticu rajamine mõistlik 
+Subtitle: et ilma Euroopa Liidu finantseeringuta poleks Rail Balticu rajamine mõistlik 
+Similarity: 1.0
+
+Generated: ja ilma kaudselt sotsiaalmajanduslikku kasu arvesse võtmata. 
+Subtitle: ja ilma kaudset majanduslikku kasu arvesse võtmata 
+Similarity: 0.7142857142857142
+
+Generated: Rail Balticu opereerimine algset investeeringut kaugel tagasi teenida ei suuda. 
+Subtitle: Rail Balticu opereerimine algseid investeeringud tagasi teenida ei suuda. 
+Similarity: 0.9486832980505138
+
+Generated: Ilma laiemat sotsiaalmajanduslikku kasu arvestamata 
+Subtitle: Ilma laiemat sotsiaalmajanduslikku kasu arvestamata 
+Similarity: 1.0
+
+Generated: hinnatakse kogu raudteeprojekti enda kahjumiks 3,96 miljardit eurot. 
+Subtitle: hinnatakse raudteeprojekti enda kahjumiks 3,96 miljardit eurot. 
+Similarity: 0.9354143466934852
+
+Generated: Räägime suud puhtaks. 
+Subtitle: Räägime suud puhtaks. 
+Similarity: 1.0000000000000002
+
+Generated: Tere õhtust kõigile 
+Subtitle: Tere õhtust kõigile. 
+Similarity: 1.0000000000000002
+
+Generated: tõepoolest tänaõhtune Eesti Televisiooni saade suud puhtaks, 
+Subtitle: Tõepoolest, tänaõhtune Eesti Televisiooni saade "Suud puhtaks" 
+Similarity: 0.9999999999999998
+
+Generated: niisiis Rail Balticu teemadel 
+Subtitle: on Rail Balticu teemadel. 
+Similarity: 0.5669467095138407
+
+Generated: ei räägi meie siin stuudios ainult omavahel, 
+Subtitle: Ei räägi me siin stuudios ainult omavahel, 
+Similarity: 0.9999999999999998
+
+Generated: loomulikult ootame kaasa rääkima 
+Subtitle: loomulikult ootame kaasa rääkima teidki. 
+Similarity: 0.8944271909999159
+
+Generated: teid ka teie arvamusi. Ootame siia stuudiosse nii rahvusringhäälinguportaali vahendusel, 
+Subtitle: Arvamusi ootame stuudiosse rahvus- ringhäälingu portaali vahendusel: err.ee. 
+Similarity: 0.408248290463863
+
+Generated: ERR punkt-EE on seal võimalik meie vestlust jälgida ja oma sekka sõna sekka öelda. 
+Subtitle: Seal on võimalik meie vestlust jälgida ja oma sõna sekka öelda. 
+Similarity: 0.9197090092274487
+
+Generated: Ja juhul, kui kasutate Twitterit, märkige 
+Subtitle: Juhul kui kasutate Twitterit, märkige teemaviiteks suudpuhtaks. 
+Similarity: 0.8581163303210332
+
+Generated: kindlasti teema viiteks suud puhtaks. Täna valib ekraanile jõudvad sõnumid välja europarlamendi saadik Indrek Tarand, 
+Subtitle: Täna valib ekraanile jõudvad sõnumid europarlamendi saadik Indrek Tarand, 
+Similarity: 0.7745966692414832
+
+Generated: kes lubas muide spetsiaalselt selle jaoks tööle tagasi minna, 
+Subtitle: kes lubas selle jaoks spetsiaalselt tööle tagasi minna - 
+Similarity: 0.9574271077563382
+
+Generated: sest Belgias olevat Internetiga nagu on. 
+Subtitle: Belgias olevat internetiga nagu on. 
+Similarity: 0.9682458365518543
+
+Generated: Aga hakkame siis pihta, suud puhtaks ja Rail Baltic, 
+Subtitle: Hakkame siis pihta, "Suud puhtaks" ja Rail Baltic. 
+Similarity: 0.9428090415820632
+
+Generated: kõigepealt Kristjan Kaunissaare, küsin teie 
+Subtitle: Kristjan Kaunissaare, küsin kõigepealt teie 
+Similarity: 1.0
+
+Generated: käest, Rail Balticu projekti koordinaator 
+Subtitle: kui projekti Rail Baltic koordinaatori käest: 
+Similarity: 0.44721359549995787
+
+Generated: sellel nädalal esitles öönstanud yang Riias värsket Rail Balticu 
+Subtitle: sellel nädalal esitles Ernst & Young Riias värsket Rail Balticu tasuvusuuringut. 
+Similarity: 0.5368754921931593
+
+Generated: tasuvusanalüüsi. Mis oli selle analüüsi peamine kokkuvõte 
+Subtitle: Mis oleks selle analüüsi peamine kokkuvõte? 
+Similarity: 0.9486832980505138
+
+Generated: teie jaoks? No üldises plaanis ta ütles sedasama, mida on öelnud ka varasemad uuringud, 
+Subtitle: Ta ütles sama, mida on öelnud ka varasemad uuringud: 
+Similarity: 0.8805874420954336
+
+Generated: et Rail Balticu rajamine on mõistlik, ta aitab lahendada meie transpordiprobleeme, 
+Subtitle: Rail Balticu rajamine on mõistlik ja aitab lahendada meie transpordiprobleeme, 
+Similarity: 0.8894991799933216
+
+Generated: viib inimesed ühest kohast kiiremini teise ja, ja aitab ka kaubaveod siis maanteedelt ära 
+Subtitle: viib inimesed kiiremini ühest kohast teise ja aitab kaubaveo maanteedelt ära viia, 
+Similarity: 0.9100315103865804
+
+Generated: ning toob sellega kaasa või siis nii-öelda positiivse keskkonnamõjud siis saaste vähenemise 
+Subtitle: tuues sellega kaasa positiivse keskkonnamõjude vähenemise. 
+Similarity: 0.6546536707079772
+
+Generated: tõttu. Te istusite seal kuulasite ja kas oli ka kergendus. 
+Subtitle: Te istusite seal ja kuulasite. Kas oli ka kergendus? 
+Similarity: 0.9486832980505138
+
+Generated: Ja see küsimus on nüüd natukene irooniline, sest et kas te tõesti oleksite kujutanud ka ette, 
+Subtitle: See küsimus on natuke irooniline, sest kas te tõesti oleksite kujutanud ette, 
+Similarity: 0.9020066914544322
+
+Generated: et see analüüs oleks nii-öelda põrmustanud kogu selle projekti, 
+Subtitle: et see analüüs oleks selle projekti põrmustanud? 
+Similarity: 0.5962847939999438
+
+Generated: kas see võimalus üldse oli olemas? 
+Subtitle: Kas see võimalus oli üldse olemas? 
+Similarity: 0.9999999999999998
+
+Generated: Noh, selleks, et, et see analüüs oleks nüüd äärmiselt negatiivne, 
+Subtitle: Et see analüüs oleks äärmiselt negatiivne, 
+Similarity: 0.8728715609439697
+
+Generated: see tähendaks sisuliselt 
+Subtitle: tähendaks sisuliselt seda, 
+Similarity: 1.0000000000000002
+
+Generated: seda, et peaks juhtuma midagi täiesti katastroofilist, 
+Subtitle: et peaks juhtuma midagi täiesti katastroofilist, 
+Similarity: 0.9258200997725514
+
+Generated: et ühel hetkel muutuvad raudteeveod millegipärast täiesti võimatuks 
+Subtitle: et ühel hetkel peaksid raudteeveod muutuma täiesti võimatuks, 
+Similarity: 0.9090909090909092
+
+Generated: või meeletult keskkonda saastavaks või, või, või siis keelatakse raudteed üleüldse Euroopas ära. 
+Subtitle: meeletult keskkonda saastavaks või keeletaks raudteed Euroopas ära. 
+Similarity: 0.7299963950884313
+
+Generated: Millegipärast aga no sellist tendentsi näha ei ole olnud, ei ole ka tulevikus näha, Euroopa 
+Subtitle: Sellist tendentsi näha ei ole olnud, ei ole ka tulevikus Euroopas näha. 
+Similarity: 0.9548637106322309
+
+Generated: suund siiski on sellele, et maanteedelt nii 
+Subtitle: Suund on sellele, et tuua nii palju kui võimalik 
+Similarity: 0.6531972647421808
+
+Generated: reisijad kui kaubad ära, nii palju, kui see võimalik on teha ja seda kõikides puhtama keskkonna nimel. 
+Subtitle: maanteedelt kaubad ja reisijad puhtama keskkonna nimel ära. 
+Similarity: 0.41247895569215265
+
+Generated: Ahti Kuningas, mis valitsusele nüüd edasi plaanis on, 
+Subtitle: Ahti Kuningas, mis on valitsusel edasi plaanis? 
+Similarity: 0.9660917830792959
+
+Generated: meil on see analüüs olemas, seal öeldakse seda, mida seal öeldakse. 
+Subtitle: Meil on see analüüs olemas, seal öeldakse, mida öeldakse, 
+Similarity: 0.9659092088013586
+
+Generated: Küllap me jõuame täna sellest rääkida ka, mis järgmised sammud on? 
+Subtitle: me jõuame sellest täna rääkida ka. Millised on järgmised sammud? 
+Similarity: 0.8072073527955749
+
+Generated: Nüüd järgmiseks Riigikokku, 
+Subtitle: Nüüd järgmiseks riigikokku. 
+Similarity: 1.0000000000000002
+
+Generated: et on vaja Balti riikide vaheline leping ratifitseerida 
+Subtitle: Balti riikide vaheline leping on vaja ratifitseerida 
+Similarity: 0.9534625892455924
+
+Generated: ja ka Riigikogu soovis ka seda analüüsi näha, 
+Subtitle: ja riigikogu soovis seda analüüsi näha. 
+Similarity: 0.7745966692414834
+
+Generated: et eks isegi tahaks näha seda täisversiooni ja läbi lugeda. 
+Subtitle: Isegi tahaks seda täisversiooni ja seda läbi lugeda. 
+Similarity: 0.8
+
+Generated: Miks ta muidu veel ei ole üldse, miks me seda nagu näha ei saa, miks 
+Subtitle: Miks seda veel ei ole? Miks seda näha ei saa? 
+Similarity: 0.8825960238069805
+
+Generated: me näeme niisugust pressiteate tasandil kokkuvõtet 
+Subtitle: Miks me näeme pressiteate tasandil kokkuvõtet 
+Similarity: 0.6804138174397717
+
+Generated: või siis natukene niimoodi ilusate piltidega 
+Subtitle: või natuke ilusamat, piltidega kokkuvõtet? 
+Similarity: 0.36514837167011077
+
+Generated: kokku võtta? Noh, analüüs on, see on juba kolmas, kolmas 
+Subtitle: See analüüs on juba kolmas. 
+Similarity: 0.9013878188659974
+
+Generated: uuring, et kokkuvõte sellest olemas, 
+Subtitle: Kokkuvõte on sellest juba olemas, 
+Similarity: 0.6454972243679029
+
+Generated: aga meie inimesed ja lätlased-leedulased on siin on teinud väga palju erinevat redaktsioonilisi parandusi. 
+Subtitle: aga lätlased ja leedulased on teinud sinna väga palju redaktsioonilisi parandusi, 
+Similarity: 0.8227094042292733
+
+Generated: Küsimusi, 
+Subtitle: lisanud küsimusi, 
+Similarity: 0.30151134457776363
+
+Generated: mis asjad need sotsiaal-majanduslikud analüüsid erinevate lõigete lõikes on, et kust need andmed võetud on, 
+Subtitle: mis on need sotsiaal-majanduslikud analüüsid, kust on andmed võetud. 
+Similarity: 0.9071147352221454
+
+Generated: et noh jah. Loomulikult oleks tahtnud, et see oleks juba tegelikult kuu aega tagasi valmis. Aga 
+Subtitle: Loomulikult oleks tahtnud, et see oleks kuu aega tagasi valmis olnud. 
+Similarity: 0.7533177846892134
+
+Generated: saab alles kuu aja pärast, ei ole, see peaks olema reedeks 
+Subtitle: Aga saab alles kuu aja pärast? - Ei, see peaks olema reedeks. 
+Similarity: 0.9198662110077998
+
+Generated: kaante vahel ja reedeks on maantee vahel, aga valitsus otsustab juba homme 
+Subtitle: Reedeks on kaante vahel, aga valitsus otsustab juba homme? 
+Similarity: 0.9101820546182064
+
+Generated: Riigikogu otsustajatega Riigikogu otsust millal Riigikogu 
+Subtitle: Riigikogu otsustab. - Millal? 
+Similarity: 0.6666666666666669
+
+Generated: läbi mitu menetlust ja ma väga loodan. 
+Subtitle: Ta peab tegema mitu menetlust läbi. - Ma väga loodan. 
+Similarity: 0.7559289460184544
+
+Generated: Karl, ma küsin teie käest, kas te 
+Subtitle: Karli, ma küsin teie käest ka. 
+Similarity: 0.6804138174397717
+
+Generated: olete ise olnud üks väga aktiivne oponeerida sellele plaanile? 
+Subtitle: Te olete ise olnud selle plaani väga aktiivne oponent. 
+Similarity: 0.8392543274162825
+
+Generated: Kas see uus nii-öelda Riias esitletud analüüs rahustas 
+Subtitle: Kas uus, nüüd Riias esitatud analüüs rahustas? 
+Similarity: 0.30316953129541624
+
+Generated: teid, saite te need vastused, mida te ootasite ja tahtsite ja 
+Subtitle: Kas te saite vastused, mida ootasite ja tahtsite, 
+Similarity: 0.8356716504931925
+
+Generated: olete valmis nüüd projektile? 
+Subtitle: ja olete valmis projektile alla kirjutama? 
+Similarity: 0.6123724356957946
+
+Generated: Samas ma arvan, et see analüüs oli selles mõttes huvitav, et, et me tõenäoliselt näeme seda ka siin täna, 
+Subtitle: Analüüs oli selles mõttes huvitav, tõenäoselt näeme seda ka siin täna, 
+Similarity: 0.6759263694193747
+
+Generated: et Crystaliseeriso kõikide niigi välja kujunenud arvamusi 
+Subtitle: et kristalliseeris kõikide niigi väljakujunenud arvamusi. 
+Similarity: 0.2672612419124244
+
+Generated: ma olen kaugel 
+Subtitle: Ma olen kaugel arvamusest, 
+Similarity: 0.8660254037844388
+
+Generated: sellest arvama, et keegi nüüd selle uuringu põhjal oma oma seisukohta on valmis muutma 
+Subtitle: et keegi on nüüd selle uuringu põhjal valmis oma seisukohta muutma. 
+Similarity: 0.933138949631687
+
+Generated: ja see on selle arutelu tõeline fenomen, 
+Subtitle: See on selle arutelu tõeline fenomen, 
+Similarity: 0.9574271077563382
+
+Generated: miks inimesed nii jäigalt üksteise otsa vaatavad ja, ja oma seisukohtadest ei loobu. 
+Subtitle: miks inimesed üksteisele nii jäigalt otsa vaatavad ja oma seisukohtadest ei loobu. 
+Similarity: 0.9737289911202953
+
+Generated: Aga tõesti, see on ju kokkuvõte. Uuringut, mille veel ei ole 
+Subtitle: Tõesti, see on kokkuvõte, uuringut meil veel ei ole. 
+Similarity: 0.8183170883849715
+
+Generated: ja, ja igal juhul tuleb tähele panna 
+Subtitle: Igal juhul tuleb tähele panna, 
+Similarity: 0.7453559924999298
+
+Generated: terse Yang väga soliidselt ütleb selle uuringu sissejuhatuseks, et 
+Subtitle: et Ernst & Young ütleb väga soliidselt selle uuringu sissejuhatuses, 
+Similarity: 0.7777777777777778
+
+Generated: tegemist on ju uuringuga, mis ei vasta küsimusele, et 
+Subtitle: et tegemist on uuringuga, mis ei vasta küsimusele, 
+Similarity: 0.9660917830792959
+
+Generated: kas see investeering Balti riikide jaoks on kõige parem, kõige optimaalsem. Ja 
+Subtitle: kas see investeering on kõige parem ja optimaalsem. 
+Similarity: 0.8775269089525568
+
+Generated: samamoodi see uuring ei vasta küsimusele, 
+Subtitle: Samamoodi ei vasta küsimusele, 
+Similarity: 0.8164965809277261
+
+Generated: kas see transpordikoridor, see transpordilahendus on jälle samade Balti riikide jaoks 
+Subtitle: kas see transpordilahendus on samade Balti riikide jaoks parim. 
+Similarity: 0.8660254037844388
+
+Generated: kõige parem, ehk et see uuring vastab ainult küsimusele, 
+Subtitle: See uuring vastab ainult küsimusele, 
+Similarity: 0.7453559924999298
+
+Generated: et kas etteantud eeldustel on Euroopa Liidu kriteeriumite kohaselt 
+Subtitle: et kas etteantud eeldustel on Euroopa liidu kriteeriumite kohaselt 
+Similarity: 1.0
+
+Generated: see projekt elujõuline 
+Subtitle: see projekt elujõuline. 
+Similarity: 1.0000000000000002
+
+Generated: ja abikõlbulik, rohkemat see ERSO ja ongi konkreetne uuring, meile ju vastuseid ei anna. 
+Subtitle: Rohkemale see konkreetne uuring vastuseid ei anna. 
+Similarity: 0.6069769786668839
+
+Generated: Teie oleksite soovinud, et annaks või see oli ju ette teada mida nii-öelda uuritakse, 
+Subtitle: Te oleksite soovinud, et annaks. Oli ju ette teada, mida uuritakse. 
+Similarity: 0.944911182523068
+
+Generated: et seda projekti 
+Subtitle: Seda projekti ju analüüsitakse. 
+Similarity: 0.5773502691896258
+
+Generated: analüüsi. Ei, me loomulikult ei saanud eeldada, et, et sealt mingit ammendavat vastust tuleb, 
+Subtitle: Ei, me ei saanud eeldada, et sealt mingit ammendavamat vastust tuleb - 
+Similarity: 0.90267093384844
+
+Generated: see on ju täiesti selge. Aga eks see ongi korrektselt ilusti, ütles ära, 
+Subtitle: see oli täiesti selge, aga Ernst & Young ütles korrektselt ära - 
+Similarity: 0.7046642634176441
+
+Generated: ma igaks juhuks tahan ju seda seal, kes te kõige jaoks üle rõhutada, aga see ongi see probleem, 
+Subtitle: ma tahan seda kõigi jaoks üle rõhutada, see ongi probleem, 
+Similarity: 0.8013876853447537
+
+Generated: et tegelikult me oleme läinud väga kiiresti, väga kaugele, 
+Subtitle: et me oleme läinud kiiresti väga kaugele, 
+Similarity: 0.9503288904374105
+
+Generated: jätnud väga elementaarsed ja põhjendatud sammud selles analüüsis vahele, 
+Subtitle: jätnud selles analüüsis vahele väga elementaarsed, põhjendatud sammud. 
+Similarity: 0.9813067629253163
+
+Generated: ehk me oleme läinud mingi konkreetse lahenduse analüüsimise juurde 
+Subtitle: Me oleme läinud konkreetse lahenduse analüüsimise juurde 
+Similarity: 0.9428090415820635
+
+Generated: noh, väga selgete eelduste alusel, 
+Subtitle: väga selgete eelduste alusel, 
+Similarity: 0.9128709291752769
+
+Generated: mida siin saaks ju konkreetselt ja konstruktiivselt kritiseerida, 
+Subtitle: mida saaks konkreetselt ja konstruktiivselt kritiseerida, 
+Similarity: 0.9045340337332909
+
+Generated: täna loodetavasti ka me teeme. 
+Subtitle: mida me loodetavasti ka teeme. 
+Similarity: 0.6324555320336758
+
+Generated: Aga see ei vasta. See uuring ei vasta küsimusele, kas niisugune koridor, kas niisugune 
+Subtitle: See uuring ei vasta küsimusele, kas niisugune koridor, 
+Similarity: 0.9381941874331421
+
+Generated: transpordilahendus on nende riikide jaoks parem või ei ole? 
+Subtitle: niisugune transpordilahendus on nende riikide jaoks parim või ei ole. 
+Similarity: 0.9095085938862487
+
+Generated: Minu meelest ei vasta nendele küsimustele, 
+Subtitle: Miks ta ei vasta nendele küsimustele? 
+Similarity: 0.5443310539518174
+
+Generated: mis siin kõlas. No esiteks lähteülesanne on see, et see on Euroopa Liidu poliitiline otsus ääremaad endaga ühendada. 
+Subtitle: Esiteks on Euroopa Liidu poliitiline otsus ühendada ääremaad endaga. 
+Similarity: 0.7593263966019992
+
+Generated: Ja selleks on ta näinud ette eraldi vahendid, 
+Subtitle: Selleks on ta näinud ette eraldi vahendid. 
+Similarity: 0.9759000729485332
+
+Generated: näiteks kutsutakse nii-öelda CF rahadeks. Et kohe alguses ära öeldud, neid rahasid ei saa kasutada siseriiklikult ta ise otsustades need 
+Subtitle: Neid rahasid ei sa kasutada siseriiklikult, ise otsustades. 
+Similarity: 0.5539117094069973
+
+Generated: on mõeldud siis transpordikoridor 
+Subtitle: Need on mõeldud transpordikoridoride, 
+Similarity: 0.9375
+
+Generated: oli ta kusjuures mitte maanteede ehitamiseks vaid raudteede 
+Subtitle: kusjuures mitte maanteede, vaid raudteede ehitamiseks 
+Similarity: 0.8660254037844388
+
+Generated: ehitamiseks ja qi-energiavõrgustikud ühendamiseks, mis on ülepiirilised. 
+Subtitle: ja ülepiiriliste energiavõrgustike ühendamiseks. 
+Similarity: 0.41602514716892186
+
+Generated: Nii see on see lähteülesanne, mis on raha, on saadaval 
+Subtitle: See on lähteülesanne. Niisugune raha on saadaval. 
+Similarity: 0.9134141431056326
+
+Generated: erinevad liigid või et sinna projekte sa, et saata. 
+Subtitle: Erinevad riigid võivad sinna projekte saata. 
+Similarity: 0.492365963917331
+
+Generated: Tore on, et komisjon ise on arvanud, et Eesti tuleks ka raudteega ühendada 
+Subtitle: Tore on, et komisjon ise on arvanud, et Eesti tuleks ka raudteega ühendada 
+Similarity: 1.0
+
+Generated: ja on valmis selleks kaheksakümmend viis protsenti rahastust andma, 
+Subtitle: ja on nõus selleks 85% rahastust andma. 
+Similarity: 0.7302967433402217
+
+Generated: nüüd me tahtsime näha, et see, et kui me 
+Subtitle: Me tahtsime näha, kas siis, 
+Similarity: 0.4472135954999579
+
+Generated: peame kas viisteist või kakskümmend protsenti sinna panema omafinantseeringut 
+Subtitle: kui me paneme sinna 15% või 20% omafinantseeringut, 
+Similarity: 0.40201512610368484
+
+Generated: kas see raudtee läheb meile üle jõu käivaks tulevikus ja vastused on, 
+Subtitle: raudtee läheb meile ülejõu käivaks? Vastus on ei. 
+Similarity: 0.7006490497453707
+
+Generated: et ei, et see on mõistlik investeering sotsiaalmajanduslikult isegi väga tulus seda 
+Subtitle: See on mõistlik investeering, see on majanduslikult isegi väga tulus. 
+Similarity: 0.7648661601319408
+
+Generated: sotsiaalmajanduslikku poolt näiteks ka seletada, 
+Subtitle: Sotsiaalmajanduslikku poolt ma tahaks ka seletada. 
+Similarity: 0.7302967433402215
+
+Generated: et noh enamus riigi poolt investeeritud projekte 
+Subtitle: Enamust riigi poolt investeeritud projekte 
+Similarity: 0.9354143466934852
+
+Generated: vaadataksegi sotsiaalmajanduslikku tulu, 
+Subtitle: vaadatakse kui sotsiaalmajanduslikku tulu. 
+Similarity: 0.6546536707079772
+
+Generated: et no võtame Väo-Maardu lõigu, mis maksis seitsekümmend miljonit. 
+Subtitle: Võtame Väo-Maardu lõigu, mis maksis 70 miljonit, 
+Similarity: 0.8215838362577492
+
+Generated: See on loomulikult, kui vaatame kulusid, on puhas kulu riigi jaoks seati tulenenud seda raha kuskile tagasi, 
+Subtitle: see on riigi jaoks puhas kulu. Sealt ei tule seda raha kuskilt tagasi. 
+Similarity: 0.6532334559639026
+
+Generated: aga me vaatame tegelikult tõesti liiklusohutusega asumist liitus liikumise, kiiruse kasvamist, 
+Subtitle: Kui me vaatame aga liiklusohutuse kasvu, liiklemise kiiruse kasvamist, 
+Similarity: 0.5222329678670936
+
+Generated: ummikute vähenemist, et sama on ka selle Rail Balticu projekti juures, 
+Subtitle: ummikute vähenemist ka selle Rail Balticu projekti juures, 
+Similarity: 0.7559289460184544
+
+Generated: et noh, natuke segaseks, mis tähendab sotsiaalmajanduslik mõju. 
+Subtitle: siis see natuke seletab sotsiaalmajanduslikku mõju. 
+Similarity: 0.36927447293799825
+
+Generated: Aleksandrova. Esiteks, ma tahaks meenutada, 
+Subtitle: Esiteks ma tahaksin meenutada, 
+Similarity: 0.8944271909999159
+
+Generated: on selline firma tütarfirma, eks ole, kas selle uuringu tegi, et see firma 
+Subtitle: et see firma, kes selle uuringu tegi, 
+Similarity: 0.5303300858899107
+
+Generated: on esiteks, jäänud vahele tohutu suure pettusega, millest vallandus teatavasti panga panganduskrahh 
+Subtitle: on vahele jäänud tohutu suure pettusega, millest vallandus panganduskrahh. 
+Similarity: 0.9428090415820635
+
+Generated: ja teiseks kogu aeg räägitakse ühendamisest, 
+Subtitle: Teiseks - kogu aeg räägitakse ühendamisest, 
+Similarity: 0.912870929175277
+
+Generated: et Eesti oleks nagu kuidagi Euroopast lahti või et raudteed Euroopa poole nii-öelda Lääne-Euroopa poole ei ole. 
+Subtitle: nagu Eesti oleks kuidagi Euroopast lahti või et raudteed Euroopa poole ei ole. 
+Similarity: 0.9245003270420489
+
+Generated: Meil on raudtee olemas, 
+Subtitle: Meil on raudtee olemas. 
+Similarity: 1.0
+
+Generated: kas te näete, et see on ummistunud kaubavagunitest või reisijatest? 
+Subtitle: Kas te näete, et see on ummistunud kaubavagunitest või reisijatest? 
+Similarity: 1.0
+
+Generated: Mina ei ole seda näinud. 
+Subtitle: Mina ei ole seda näinud. 
+Similarity: 1.0
+
+Generated: Kas te näete, et see raudtee toob tohutult suurt kasu? 
+Subtitle: Kas te näete, et see raudtee toob tohutut kasu? 
+Similarity: 0.8432740427115678
+
+Generated: Mina ei ole seda näinud. 
+Subtitle: Mina ei ole seda näinud. 
+Similarity: 1.0
+
+Generated: Missugused üldmissugust ülesannet lahendate sellega praegu, 
+Subtitle: Missugust ülesannet te sellega praegu lahendate? 
+Similarity: 0.8333333333333335
+
+Generated: missugust funktsioonide täidate sellega, et ehitate uue raudtee 
+Subtitle: Missugust funktsiooni te sellega täidate, et ehitate uue raudtee? 
+Similarity: 0.9428090415820632
+
+Generated: Sellele saab sellise ärge vinguge, niipalju kui ise ei jõua kõiki korraga ära. 
+Subtitle: Ärge esitage nii palju küsimusi. Me ei jõua ära vastata. 
+Similarity: 0.3779644730092272
+
+Generated: Neli miljard miljardit miinust 
+Subtitle: ...neli miljardit miinust. 
+Similarity: 0.9428090415820636
+
+Generated: meil siiski. Eks kuna meil on väga head laevaühendused Soomega 
+Subtitle: Kuna meil on väga head laevaühendused Soomega - 
+Similarity: 0.8981462390204986
+
+Generated: Maide kaheksa korda päevas, meil liigub Soome vahel üheksa miljonit reisijat, 
+Subtitle: 8 korda päevas, siis liigub Eesti ja Soome vahel 9 miljonit reisijat. 
+Similarity: 0.6674238124719147
+
+Generated: et ühendused loovad tegelikult reisida ühendus, 
+Subtitle: Ühendused loovad tegelikult ühendused. 
+Similarity: 0.8660254037844387
+
+Generated: ärge paluge maja sassi äri ja poliitikat, 
+Subtitle: Ärgem ajagem sassi äri ja poliitikat. 
+Similarity: 0.7715167498104596
+
+Generated: see, et meil kaupa idast ei tule, see on puhas poliitika. 
+Subtitle: See, et meile kaupa idast ei tule, on puhas poliitika, 
+Similarity: 0.9707253433941511
+
+Generated: Et 35 miljoni tonni pealt oleme kukkunud siin tradist seitsme miljoni peale, 
+Subtitle: 35 miljoni tonni pealt oleme kukkunud 7 miljoni tonni peale. 
+Similarity: 0.8703882797784892
+
+Generated: et see on puhtalt poliitilised otsused. 
+Subtitle: Need on puhtalt poliitilised otsused. 
+Similarity: 0.9428090415820632
+
+Generated: Läti on täna suutnud teistmoodi majandada, sinna veel kaup tuleb. 
+Subtitle: Läti on suutnud teistmoodi majandada - sinna kaup tuleb. 
+Similarity: 0.9534625892455924
+
+Generated: Et ma leian, et põhja lõunasuunaliselt teel 
+Subtitle: Ma leian, et põhja-lõuna-suunalisel teel 
+Similarity: 0.7453559924999298
+
+Generated: ei ole poliitilisi otsuseid, see on puhtalt ärilised otsused 
+Subtitle: ei ole poliitilisi otsuseid, seal on ärilised otsused 
+Similarity: 0.9146591207600472
+
+Generated: ja ka see uuring on tehtud ärilistest otsustest lähtuvalt. 
+Subtitle: ja see uuring on tehtud lähtuvalt ärilistest otsustest. 
+Similarity: 0.9759000729485332
+
+Generated: Palun ma pean siinkohal ütlema, et mulle väga meeldib raudteega sõita, 
+Subtitle: Ma pean ütlema, et mulle väga meeldib raudteega sõita. 
+Similarity: 0.9198662110077999
+
+Generated: hea meelega sõidaksin Tallinnast võib-olla isegi kunagi Helsingist jurinal Berliini 
+Subtitle: Võib-olla ma sõidaksin Tallinnast või Helsingist jurinal Berliini välja. 
+Similarity: 0.6674238124719146
+
+Generated: kaugemale välja. Ma juhin tähelepanu hoopis teisele asjale, mis on minu meelest peamine probleem 
+Subtitle: Ma juhin tähelepanu hoopis teisele asjale, mis on peamine probleem, 
+Similarity: 0.917662935482247
+
+Generated: ja asjaomastelt inimestelt, et oleks vaja kommentaari selle kohta. 
+Subtitle: asjaomastelt inimestelt oleks vaja selle kohta kommentaari. 
+Similarity: 0.8819171036881968
+
+Generated: Ma võib-olla olen järsk, aga ma 
+Subtitle: Ma võin olla järsk, 
+Similarity: 0.7071067811865475
+
+Generated: ütlen, et see ettevõtmine nimega Rail Baltica on totaalselt esoteeriline 
+Subtitle: aga ma ütlen, et ettevõtmine nimega Rail Baltic on totaalselt esoteeriline 
+Similarity: 0.8153742483272115
+
+Generated: mõttes, et ta ei erine millegi poolest näiteks mingitest kloorijoojate kloorimüüjate kogumist, 
+Subtitle: ega erine millegi poolest kloorijoojate ja kloorimüüjate kogumist. 
+Similarity: 0.6123724356957945
+
+Generated: seletan kohe, miks ja kommentaarid on olulised asjassepuutuvatest inimestest. 
+Subtitle: Seletan kohe, miks, kommentaarid on olulised asjassepuutuvatelt inimestelt. 
+Similarity: 0.9660917830792959
+
+Generated: Vaadake, me kuuleme siin sellest, et on valminud uuring, 
+Subtitle: Me kuuleme siin sellest, et on valminud uuring. 
+Similarity: 0.9759000729485332
+
+Generated: ka mina võtsin ühendust Rail Baltica nõukogu esimehe esindajaga 
+Subtitle: Mina võtsin ühendust Rail Balticu nõukogu esimehe esindajaga 
+Similarity: 0.8249579113843053
+
+Generated: ja soovisin saada seda uuringut. 
+Subtitle: ja soovisin saada seda uuringut. 
+Similarity: 1.0
+
+Generated: Mulle öeldi, see uuring ei ole veel avalik, 
+Subtitle: Mulle öeldi, et see uuring ei ole veel avalik. 
+Similarity: 0.9428090415820632
+
+Generated: see uuringu tehtud meie kõigi Euroopa Liidu raha eest. 
+Subtitle: See uuring on tehtud meie kõigi Euroopa Liidu raha eest. 
+Similarity: 0.9045340337332908
+
+Generated: See on avalik asi. Me ei ole seda lugenud, 
+Subtitle: See on avalik asi. Me ei ole seda lugenud. 
+Similarity: 1.0
+
+Generated: seda ei anta veel, ütleb ka valitsuse esindaja. 
+Subtitle: Seda ei anta veel, ütleb ka valitsuse esindaja. 
+Similarity: 0.9999999999999998
+
+Generated: Me läheme Rail Baltica koduleheküljele, seal avaldub kõige suurem saladus, 
+Subtitle: Me läheme Rail Balticu koduleheküljele ja seal avaldub kõige suurem saladus. 
+Similarity: 0.8581163303210331
+
+Generated: mul on Gazasse saladokument, mis on tühi paberileht, see 
+Subtitle: Mul on kaasas see saladokument. See on tühi paberileht. 
+Similarity: 0.8467803948114513
+
+Generated: leid ja me kedagi, kes seda asutust juhib. 
+Subtitle: Sealt ei tea me kedagi, kes seda asutust juhib, 
+Similarity: 0.7833494518006403
+
+Generated: Kes seda juhti juhib, kes seal tööl on, meedia, absoluutselt mitte midagi. 
+Subtitle: kes seda juhti juhib, kes seal tööl on - me ei tea mitte midagi. 
+Similarity: 0.9153857298880939
+
+Generated: See lehekülg on tühi 
+Subtitle: See lehekülg on tühi. 
+Similarity: 0.9999999999999998
+
+Generated: meedia, nende inimeste tausta, meedia, nende inimeste palku, 
+Subtitle: Me ei tea nende inimeste tausta, me ei tea nende inimeste palku, 
+Similarity: 0.5698028822981897
+
+Generated: kuigi me maksame neile seda palka 
+Subtitle: kuigi me maksame neile seda palka. 
+Similarity: 0.9999999999999999
+
+Generated: ja asjaolu, et kogu see ettevõtmine ongi esoteeriline, 
+Subtitle: Asjaolu, et kogu see ettevõtmine ongi esoteeriline, 
+Similarity: 0.9534625892455924
+
+Generated: ta on suletud seltskonna tegevus, 
+Subtitle: see on suletud seltskonna tegevus. 
+Similarity: 0.9411764705882353
+
+Generated: mitte keegi, isegi valitsuse esindaja ütleb meile täna siin, me ei ole seda analüüsi lugenud 
+Subtitle: Isegi valitsuse esindaja ütleb meile täna, et ei ole seda analüüsi lugenud. 
+Similarity: 0.8987170342729173
+
+Generated: ja saage aru, selles ongi probleem. 
+Subtitle: Saage aru, selles ongi probleem. 
+Similarity: 0.9428090415820632
+
+Generated: Isegi kui täna on tehtud otsus, et tehakse seda liini pidi 
+Subtitle: Isegi kui täna on tehtud otsus, et tehakse seda liini pidi: 
+Similarity: 0.9999999999999998
+
+Generated: Tallinn, Pärnu, Riia 
+Subtitle: Tallinn, Pärnu, Riia jne, 
+Similarity: 0.8660254037844388
+
+Generated: ja nii edasi siis me ei tea, kes teeb neid otsuseid. 
+Subtitle: siis me ei tea, kes teeb neid otsuseid. 
+Similarity: 0.8864052604279183
+
+Generated: Meil ei ole isegi võimalik küsida, miks te neid otsuseid teete, 
+Subtitle: Meil ei ole isegi võimalik küsida, miks te neid otsuseid teete? 
+Similarity: 1.0
+
+Generated: mis on teie kvalifikatsioon ja see vastus on oluline, 
+Subtitle: Milline on teie kvalifikatsioon? See vastus on oluline. 
+Similarity: 0.8780541105074454
+
+Generated: see küsimus on oluline. Ja ma palun antud hetkel Rail Baltica esindajalt vastust, 
+Subtitle: Küsimus on oluline. Ja ma palun hetkel Rail Balticu esindajalt vastust: 
+Similarity: 0.6948792289723035
+
+Generated: miks te salatsete, miks ei näe me seda, mida avaliku raha eest tehakse? 
+Subtitle: miks te salatsete? Miks ei näe me seda, mida avaliku raha eest tehakse? 
+Similarity: 0.9999999999999998
+
+Generated: Mitte kusagil, me näeme aeg-ajalt Aktuaalses Kaameras näiteks ilmub Rail 
+Subtitle: Me näeme aeg-ajalt, et "Aktuaalses kaameras" Rail Baltic ... 
+Similarity: 0.6708203932499369
+
+Generated: Baltica. Me laseme, kas vastatakse, 
+Subtitle: Laseme vastata. 
+Similarity: 0.6324555320336758
+
+Generated: küsimus on proovi aastas suht-koht, 
+Subtitle: Suht-koht arusaamatu süüdistus. 
+Similarity: 0.2041241452319315
+
+Generated: arusaamatusi siis, ma tõesti, ma tõesti ei tea, mida härra Strandberg vaatamas käis 
+Subtitle: Ma tõesti ei tea, mida hr Strandberg vaatamas käis, 
+Similarity: 0.8391463916782738
+
+Generated: või kuskohas, eks ole, et mõiste. Tühi 
+Subtitle: kus kohas... - Tühi, tühi. 
+Similarity: 0.28571428571428564
+
+Generated: inimeste osas töötajate, seal, 
+Subtitle: Teie töötate seal. Kust ma loen, et teie seal töötate? 
+Similarity: 0.25
+
+Generated: kus loendati töötlemise, kus, millistes kohe kas jutt? Ta on Ekrow ilma mikrofonide 
+Subtitle: Ilma mikrofonita me ei kuule. 
+Similarity: 0.21081851067789198
+
+Generated: kuulelts aga aga. Kas jutt on ühisettevõte Erbereil AS kodulehest, ma, ma isegi ei tea, 
+Subtitle: Kas jutt on ühisettevõtte RBL Rails koduleheküljes... ma isegi ei tea, 
+Similarity: 0.6687338550904235
+
+Generated: millest see konkreetne jutt 
+Subtitle: millest konkreetne jutt käib. 
+Similarity: 0.857142857142857
+
+Generated: praegu peaks, oleks saanud väga lihtsalt suht-koht, niisugune mingisugusest imeliste süüdistust. 
+Subtitle: See on imeliste süüdistuste loopimine. 
+Similarity: 0.3162277660168379
+
+Generated: Ei eita, et väga, ma vabandan. See süüdistus on täiesti konkreetne. 
+Subtitle: Ma vabandan. See süüdistus on täiesti konkreetne. 
+Similarity: 0.8451542547285167
+
+Generated: ERR-il AS kodulehekülg tühi igasugusest personaaliast. Miks. 
+Subtitle: RBL Rails AS kodulehekülg on tühi igasugusest personaaliast. Miks? 
+Similarity: 0.7348469228349533
+
+Generated: Ei oska vastata, ausalt öelda, 
+Subtitle: Ei oska ausalt öelda kosta. 
+Similarity: 0.7999999999999999
+
+Generated: et ma olen olnud majandus ja kommunikatsiooniministeeriumi ametnik, 
+Subtitle: Ma olen majandus- ja kommunikatsiooniministeeriumi ametnik. 
+Similarity: 0.6556100681071858
+
+Generated: et. Ma ma olen sõnastanud, sai, aga kas te saate aru, see on probleem, et see ei ole avalik ettevõtmine. 
+Subtitle: Kas te saate aru, et see on probleem, et see ei ole avalik ettevõtmine. 
+Similarity: 0.8202438661763951
+
+Generated: Me ei tea neid summasid meid ja neid isikuid 
+Subtitle: Me ei tea neid summasid, me ei tea neid isikuid, 
+Similarity: 0.9197090092274487
+
+Generated: meid ja neid otsuseid meedia mitte tuhkagi. 
+Subtitle: me ei tea neid otsuseid, me ei tea mitte tuhkagi. 
+Similarity: 0.5669467095138407
+
+Generated: See asi on esoteeriline, see on avalikkuse eest varjus 
+Subtitle: See asi on esoteeriline, see on avalikkuse eest varjus, 
+Similarity: 1.0000000000000002
+
+Generated: ja see on probleem. 
+Subtitle: see on probleem. 
+Similarity: 0.9258200997725514
+
+Generated: Ahti Kuningas vastas. Palun, 
+Subtitle: Ahti Kuningas vastab. Palun. 
+Similarity: 1.0
+
+Generated: nii et ma väga vabandan, kui sellele kontakte 
+Subtitle: Ma väga vabandan, kui seal veel ei ole kontakte. 
+Similarity: 0.6963106238227914
+
+Generated: üleval terve rallil on mitu lehekülge, et on ka olemas sedasama, mis on see nii öelda ühisettevõte 
+Subtitle: RBL Railil on mitu lehekülge. On seesama, mis on nn ühisettevõte, 
+Similarity: 0.8951435925492912
+
+Generated: mille omanik ettevõtted on siis Eestis, Lätis ja Leedus, 
+Subtitle: mille omanikud on Eestis, Lätis ja Leedus. 
+Similarity: 0.8593378488473193
+
+Generated: aga kui seal kontakt üle ei ole üleval ei ole, siis vaatame üle, et need seal ka oleks. 
+Subtitle: Kui seal kontakte ei ole, siis vaatame üle, et need seal ka oleks. 
+Similarity: 0.9341987329938275
+
+Generated: Mis puudutab seda uuringut, 
+Subtitle: Mis puudutab seda uuringut, 
+Similarity: 0.9999999999999998
+
+Generated: siis loomulikult me inimesed on andnud sinna panust, 
+Subtitle: siis loomulikult on meie inimesed andnud sinna panuse. 
+Similarity: 1.0
+
+Generated: me ise kirjutasid, kirjutab ikkagi sõltumatu audiitorfirma 
+Subtitle: Me ise ei kirjuta. Kirjutab sõltumatu audiitorfirma. 
+Similarity: 0.916666666666667
+
+Generated: Ernst Young ja meie saame sinna sisendit anda ja vaadata kriitiliselt, 
+Subtitle: Meie saama sinna sisendit anda ja vaadata kriitiliselt, 
+Similarity: 0.882522608121828
+
+Generated: kuidas nad seda analüüsi on teinud. 
+Subtitle: kuidas nad seda on teinud. 
+Similarity: 0.9718253158075502
+
+Generated: Et me ei saa anda veel välja täna kahjuks niisugused redaktsioonilist märkustega dokumenti, 
+Subtitle: Me ei saa kahjuks täna anda välja redaktsiooniliste märkustega dokumenti, 
+Similarity: 0.8770580193070294
+
+Generated: aga ma ütlesin, et see tuleb kohe lähitulevikule. 
+Subtitle: ma ütlesin, et see tuleb lähitulevikus. 
+Similarity: 0.8660254037844388
+
+Generated: Ja teavitustegevust on tehtud minu meelest kõikides maakondades 
+Subtitle: Teavitustegevust on minu teada tehtud kõikides maakondades - 
+Similarity: 0.9233805168766386
+
+Generated: käidud praktiliselt nädalate kaupa rääkimas inimestega 
+Subtitle: käidud praktiliselt nädalate kaupa rääkimas inimestega, 
+Similarity: 1.0
+
+Generated: välja antud ajalehti. 
+Subtitle: välja antud ajalehti, 
+Similarity: 1.0000000000000002
+
+Generated: Delfiga koostöös on olemas eraldi Rail Balticu kodulehekülg, 
+Subtitle: Delfiga koostöös on olemas eraldi Rail Balticu kodulehekülg, 
+Similarity: 1.0
+
+Generated: kus on kõik teemad üksikasjalikult ka poolt ja vastu lahti kirjutatud. 
+Subtitle: kus on kõik teemad üksipulgi, nii poolt kui vastu lahti kirjutatud. 
+Similarity: 0.8011927448021526
+
+Generated: Selles seisnebki asja esoteerilises, et me ei loe ühe kodulehekülje pealt seda, 
+Subtitle: Selles seisnebki asja esoteerilisus, et me ei loe ühe kodulehekülje pealt seda, 
+Similarity: 0.9411764705882353
+
+Generated: mis avaliku raha eest tehakse 
+Subtitle: mis avaliku raha eest tehakse. 
+Similarity: 0.9999999999999998
+
+Generated: ja uskuge, see tekitab kahtlusi, see tekitab kõhklusi ja see on 
+Subtitle: Uskuge, see tekitab kahtlusi, kõhklusi ja on see, 
+Similarity: 0.9624354790229066
+
+Generated: see, mille tõttu inimesed on põhiliselt tigedad. Et nad ei saa aru. 
+Subtitle: mille tõttu on inimesed põhiliselt tigedad - et nad ei saa aru. 
+Similarity: 0.97182531580755
+
+Generated: Arusaadav, lähme edasi, raivo 
+Subtitle: Lähme edasi. Raivo Vare, palun. 
+Similarity: 0.6708203932499369
+
+Generated: paremale. Ma tahaks lihtsalt selle kommunikatsiooni teema kuidagi nüüd, kokkuvõte, me 
+Subtitle: Ma tahaksin kommunikatsiooniteema kuidagi kokku võtta 
+Similarity: 0.45291081365783836
+
+Generated: lähme ikka asja juurde ja räägime asjast, 
+Subtitle: ja läheme asja juurde. Räägime ikka asjast. 
+Similarity: 0.9999999999999999
+
+Generated: muidu me vandenõuteooriates põhiliselt räägime. 
+Subtitle: Muidu me räägime põhiliselt vandenõuteooriast. 
+Similarity: 1.0
+
+Generated: Mina jälle võtsin lehed lahti ja vaatasin ka kõik presentatsioonid ära, 
+Subtitle: Mina jälle võtsin lehed lahti ja vaatasin ära ka kõik presentatsioonid, 
+Similarity: 1.0
+
+Generated: mis Riiast tehti, 
+Subtitle: mis Riias tehti, 
+Similarity: 1.0000000000000002
+
+Generated: kaasa arvatud mitte ainult Kersti yangi enda uurimus, 
+Subtitle: mitte ainult Ernst & Youngi uurimuse, 
+Similarity: 0.2672612419124244
+
+Generated: vaid ka näiteks prantslaste tehtud sinna lisaettekanded, ka vastavate ametiisikute ja nende konkreetsete projektijuhtide ettekanded, 
+Subtitle: vaid ka prantslaste tehtud lisaettekanded, ka ametnike ja projektijuhtide ettekanded, 
+Similarity: 0.855920985021826
+
+Generated: need kõik seal on ilusti olemas, vähemalt slaidiprogrammide 
+Subtitle: kõik on seal ilusti olemas slaidiprogrammidena, 
+Similarity: 0.9428090415820634
+
+Generated: kujul, nii et võib öelda, et ikka midagi on ka, aga jätab 
+Subtitle: nii et võib öelda, et midagi on ka. Aga jätame praegu selle. 
+Similarity: 0.8823529411764706
+
+Generated: ja praegusele me, see on ka praegu kommunikatsioon 
+Subtitle: See on ka praegu kommunikatsioon. 
+Similarity: 0.8528028654224417
+
+Generated: oludes ei ole siin vähe valevandenõu teoni. Lähme asjaga. 
+Subtitle: Ei ole siin vandenõuteooriaid, läheme asja juurde. 
+Similarity: 0.5976143046671969
+
+Generated: Aga ma küsin. Kus Marek lõpetas, 
+Subtitle: Ma jätkaksin sealt, kus Marek lõpetas. 
+Similarity: 0.6666666666666669
+
+Generated: tõepoolest, Riias tehtud ettekanded on vägagi 
+Subtitle: Tõepoolest, Riias tehtud ettekanded on vägagi avalikud. 
+Similarity: 0.9733285267845752
+
+Generated: avalikult, nii on mõeldud. Aga selles varasemas protsessis me oleme olnud just selle küsimuse ees, et kes tõepoolest juhib. 
+Subtitle: Varasemas protsessis oleme olnud just küsimuse ees, kes juhib. 
+Similarity: 0.7725393039369071
+
+Generated: Ja nüüd ei ole küsimus mitte kodulehes, vaid selles, 
+Subtitle: Nüüd ei ole küsimus mitte kodulehes, vaid selles, 
+Similarity: 0.9428090415820632
+
+Generated: et kui on Rail Balticu promoivat põhjendanud 
+Subtitle: et kui Rail Balticu promojad on põhjendanud, 
+Similarity: 0.9545454545454545
+
+Generated: suurte põhjendustega, miks meil on seda autot vaja 
+Subtitle: miks on meile seda raudteed vaja, 
+Similarity: 0.8486684247915057
+
+Generated: ja kui need põhjendused on ükshaaval ära langenud 
+Subtitle: ja kui need põhjendused on ükshaaval ära langenud, 
+Similarity: 1.0000000000000002
+
+Generated: ütleme nii, et odav ühiskonnas kriitika alla argumenteeritud sattunud 
+Subtitle: olles sattunud ühiskonna argumenteeritud kriitika alla, 
+Similarity: 0.9035253315161441
+
+Generated: siis ei ole sündinud debatti, mitte ühegi suure argumentidena 
+Subtitle: pole sündinud debatti mitte ühegi suure argumendi äralangemisel. 
+Similarity: 0.9271050693011066
+
+Generated: langeb jõulisemalt. Ei ole küll ei saa küll öelda, härra, 
+Subtitle: Seda te ei saa küll öelda, härra. 
+Similarity: 0.7071067811865475
+
+Generated: seal seisab debatti, on olnud ju sellel teemal ühiskonnas ikka 
+Subtitle: Debatti on ühiskonnas olnud ikka väga palju pikka aega. 
+Similarity: 0.823687767580373
+
+Generated: väga-väga pikka aega. Ma nimetan, aga ma nimelt. Ta on paar põhjust, 
+Subtitle: Ma nimetan paar põhjust. 
+Similarity: 0.6063390625908325
+
+Generated: kõigepealt lugu läks lahti ju sellega 2013 öeldi, et tuleb väävlidirektiivi, 
+Subtitle: Lugu läks lahti aastal 2013 sellega, et öeldi, et tuleb väävli-direktiiv 
+Similarity: 0.8362420100070908
+
+Generated: laevaliiklus jääb seisma või on vaja kiiresti raudteed, 
+Subtitle: ja laevaliiklus jääb seisma, meil on vaja kiiresti raudteed. 
+Similarity: 0.8703882797784892
+
+Generated: päevi direktiiv jõustus, laevad sõidavad edasi 
+Subtitle: Väävlidirektiiv jõustus, laevad sõidavad edasi. 
+Similarity: 0.7302967433402215
+
+Generated: järgmise krabide pikalt räägitud, et peno kiire reisiühendus Berliini. 
+Subtitle: Järgmisena hakati rääkima, et meil on vaja kiiret rongiühendust Berliini. 
+Similarity: 0.3268602252303068
+
+Generated: Seda juttu lihtsalt olema mu ei räägita, sest noh, taibati, 
+Subtitle: Seda juttu ei räägita enam ammu, sest taibati, 
+Similarity: 0.6708203932499369
+
+Generated: eks ole, et lennuk mitte ainuüksi ei ole kiire, vaid on ka odavam, 
+Subtitle: et lennuk pole mitte ainult kiirem vaid on ka odavam. 
+Similarity: 0.8561726894780893
+
+Generated: noh siis räägiti meile sellest, et meil on vaja erinevat rööpalaiust, 
+Subtitle: Siis räägiti sellest, et meile on vaja erinevat rööpalaiust, 
+Similarity: 0.9381941874331421
+
+Generated: et kuidagi idanaabrist ennast lahti lõigata. 
+Subtitle: et ennast idanaabrist lahti lõigata. 
+Similarity: 0.9128709291752769
+
+Generated: See jutt päris lühikeseks saadi aru, 
+Subtitle: See jutt jäi päris lühikeseks, sest saadi aru, 
+Similarity: 0.8660254037844388
+
+Generated: et Rail Balticu üle tuleb suures osas ikkagi Venemaa kaup ja kui Venemaa siia kaupa saadab, 
+Subtitle: et kui Rail Balticule tuleb Venemaa kaup ja kui Venemaa siia kaupa saadab, 
+Similarity: 0.8509629433967631
+
+Generated: siis on see poliitiline, mitte majanduslik. 
+Subtitle: siis on see poliitiline, mitte majanduslik otsus. 
+Similarity: 0.9486832980505138
+
+Generated: Enam ei, ei julge ka öelda, et see kuidagi sõltumatust 
+Subtitle: Enam ei julge me ka öelda, et see on sõltumatus idanaabrist. 
+Similarity: 0.6943650748294137
+
+Generated: rida naabrist tekitab. Noh, viimane suur debatt on olnud see, 
+Subtitle: Viimane suur debatt on olnud see, 
+Similarity: 0.9198662110078
+
+Generated: et kas Rail Baltic võtab siis maantee pealt kaupa 
+Subtitle: kas Rail Baltic võtab maanteelt kaupa vähemaks? 
+Similarity: 0.7559289460184544
+
+Generated: vähemaks, võimeta põhjendatult ilusasti seletatud. 
+Subtitle: Põhjendatult ja ilusasti on seletatud, 
+Similarity: 0.7778444682625972
+
+Generated: Kuidas see tähendaks ikkagi ettevõtluskliimale suurt muutust ja kahju, 
+Subtitle: kuidas see tähendaks ettevõtluskliimale suurt muutust ja kahju, 
+Similarity: 0.9486832980505138
+
+Generated: kui me sunniks sime kaupa minema raudteele 
+Subtitle: kui me sunniksime minema kaupa raudteele. 
+Similarity: 0.8432740427115678
+
+Generated: ja ükshaaval. Need suured põhjused langevad niimoodi ära. 
+Subtitle: Ükshaaval langevad need suured põhjused niimoodi ära, 
+Similarity: 0.9354143466934852
+
+Generated: Et nende üle ei ole saanud piisavalt debateerida 
+Subtitle: et nende üle ei ole saanud piisavalt debateerida, 
+Similarity: 1.0
+
+Generated: ja on otsitud uued põhjendused. 
+Subtitle: ja on otsitud uued põhjendused. 
+Similarity: 1.0
+
+Generated: Miks me siis need on tegelikult ära langenud 
+Subtitle: Kas nad on tegelikult ära langenud? 
+Similarity: 0.7863570994927849
+
+Generated: ikkagi selles mõttes, et kui me lihtsalt ütleme, et nad on langenud ära, 
+Subtitle: Kui me lihtsalt ütleme, et nad on ära langenud, 
+Similarity: 0.9316949906249123
+
+Generated: kas nad on ära langenud 
+Subtitle: siis kas nad on ära langenud? 
+Similarity: 0.9718253158075502
+
+Generated: roomikutega? Ron Romek Kosenkranius, Pärnu linnapea 
+Subtitle: Romek Kosenkranius, Pärnu linnapea. 
+Similarity: 0.8164965809277261
+
+Generated: ei ole ära langenud, 
+Subtitle: Ei ole ära langenud. 
+Similarity: 1.0000000000000002
+
+Generated: et need, kes käisid Riias, mina käisin Riias esmaspäeval, need kuulsid väga selgelt, 
+Subtitle: Need, kes käisid Riias, mina käisin, need kuulsid väga selgelt, 
+Similarity: 0.9307578419910343
+
+Generated: kui Soome pool rääkis sellest, et täna veetakse 
+Subtitle: et kui Soome pool rääkis sellest, et täna veetakse... 
+Similarity: 0.9669875568304563
+
+Generated: 18 kuni 20000 rekkad sõidab Via Baltikal igakuiselt. 
+Subtitle: 12-18 tuhat rekkat sõidab Via Baltical igakuiselt. 
+Similarity: 0.5345224838248487
+
+Generated: Ehk me räägime tegelikult kogu sest kauba kogusest ütleme Võtame Rekani üks, 40 tonni. Me räägime 
+Subtitle: Me räägime kaubakogusest 1 rekka = 40 tonni. 
+Similarity: 0.5107539184552492
+
+Generated: ikkagi sellisest. Kaheksa, kaheksa, kaheksa miljonit, kuni 10 miljonit tonni sõidab aastas sõidab Via 
+Subtitle: Me räägime, et 8-10 miljonit tonni sõidab aastas Via Baltical. 
+Similarity: 0.45184805705753206
+
+Generated: Baltikal ja sealsamas see Soome ära, kes ta isegi esitluse ütles, 
+Subtitle: Soome härra, kes tegi esitluse, ütles, 
+Similarity: 0.6236095644623235
+
+Generated: et sellest pool on kindlasti valmis minema raudteele. 
+Subtitle: et sellest pool on kindlasti nõus minema raudteele, 
+Similarity: 0.9090909090909092
+
+Generated: Kuna need sihtpunktid ei ole mitt te kusagil Baltikumis, vaid nad ongi kuskil kaugemal Austrias, Tšehhis 
+Subtitle: sest sihtpunktid ei ole Baltikumis, vaid kusagil kaugemal - Austrias, Tšehhis. 
+Similarity: 0.7385489458759965
+
+Generated: ja kui vedada seda laevaga 
+Subtitle: Kui vedada seda laevaga, 
+Similarity: 0.9354143466934852
+
+Generated: ehk panna see Helsingis laeva peale ja viia Põhja-Saksamaal, 
+Subtitle: panna Helsingis laeva peale ja viia Põhja-Saksamaale, 
+Similarity: 0.8819171036881968
+
+Generated: siis seal tuleb samamoodi panna see jälle siis kas raudtee peale või auto peale. 
+Subtitle: tuleb see edasi jälle panna kas raudteele või auto peale. 
+Similarity: 0.74535599249993
+
+Generated: Ehk Soome väljendas väga selgelt 
+Subtitle: Soome väljendas väga selgelt seisukohta, 
+Similarity: 0.7999999999999999
+
+Generated: seda. Ma ei tea, kas ta oli transpordiministeeriumist väljendas väga selgelt seda seisukohta, et kusagil 300 rektad päevas on täiesti normaalne, et need sõidavad, 2026 sõidavad Via Baltica, et viiakse ära Rail Balticu peale. 
+Subtitle: et 300 rekkat päevas on täiesti normaalne viia 2026. aastal ära Rail Balticu peale. 
+Similarity: 0.6157935373745562
+
+Generated: Et see on täiesti normaalne 
+Subtitle: See on täiesti normaalne. 
+Similarity: 0.9354143466934852
+
+Generated: ja täna tulin just siia Tallinna poole lugesin 
+Subtitle: Täna tulin Tallinna poole ja lugesin üle, 
+Similarity: 0.6837634587578276
+
+Generated: üle 109, rekord tuli mul Pärnu piirist. Siis Ääsmäe ringini tuli mulle vastu. 
+Subtitle: Pärnu piirist Ääsmäe ringini tuli mulle 109 rekkat vastu. 
+Similarity: 0.8084520834544431
+
+Generated: Tere, Vahur Tõnissoo Avalikult Rail Balticust 
+Subtitle: Tere, Vahur Tõnissoo, Avalikult Rail Balticust. 
+Similarity: 1.0000000000000002
+
+Generated: täna meil Vikerraadios oli väga hea päevakommentaar, 
+Subtitle: Täna oli Vikerraadios väga hea päevakommentaar. 
+Similarity: 0.9258200997725514
+
+Generated: kus Alo Lõhmus tõi välja 
+Subtitle: Alo Lõhmus tõi välja, 
+Similarity: 0.8944271909999159
+
+Generated: siis, et unistus Tallinna-Berliini vahelisest kiirrongist on purunenud. Ja 
+Subtitle: et unistus Tallinna ja Berliini vahelisest kiirrongist on purunenud. 
+Similarity: 0.9047619047619049
+
+Generated: kui me täna alustasime sellest kommunikatsiooniteemast, 
+Subtitle: Me täna alustasime kommunikatsiooniteemast, 
+Similarity: 0.6666666666666666
+
+Generated: siis jääb tõesti mulje, et Rail Balticu propageerijad on 
+Subtitle: jääb mulje, et Rail Balticu propageerijad on Berliini jõudmist 
+Similarity: 0.8333333333333335
+
+Generated: seda kasutanud lihtsalt Diaadiku võttena avalikkuse ärarääkimiseks, 
+Subtitle: kasutanud teadliku võttena avalikkuse ärarääkimiseks. 
+Similarity: 0.8426648406178137
+
+Generated: seda Berliini jõudmist. See aga ei ärata usaldust ja ka Rail Balticu alles jäänud projekti suhtes 
+Subtitle: See aga ei ärata usaldust ka Rail Balticu allesjäänud projekti suhtes. 
+Similarity: 0.48566186425718266
+
+Generated: ja ma toon teile lihtsalt ühe väikse näite. 
+Subtitle: Toon väikese näite. 
+Similarity: 0.45226701686664544
+
+Generated: Viimastel päevadel me räägime kogu aeg jälle 85-st protsendist. 
+Subtitle: Viimastel päevadel me räägime 85 protsendist. 
+Similarity: 0.816496580927726
+
+Generated: Võtke lahti sellesama pressiteade, 
+Subtitle: Võtke lahti seesama pressiteade, 
+Similarity: 1.0
+
+Generated: mis inglise keeles on siis alla Riia kodulehel üleval, 
+Subtitle: mis inglise keeles on Riia kodulehel üleval 
+Similarity: 0.9309493362512626
+
+Generated: jagage Eesti eile eraldatud omafinantseerimine ja siis kogu summa läbi 
+Subtitle: ja jagage Eestile eraldatud omafinantseerimise kogusumma läbi 
+Similarity: 0.8346223261119856
+
+Generated: ja näete, et see ei ole 85 
+Subtitle: ja te näete, et see ei ole 85%. 
+Similarity: 0.9354143466934852
+
+Generated: protsenti, see on 80 protsenti ja, ja ka see viie protsendiline vahe on juba 66 miljonit. 
+Subtitle: See on 80 %. 5-protsendine vahe on 66 miljonit. 
+Similarity: 0.7817359599705717
+
+Generated: Nii et kui me räägime siin sellest, 
+Subtitle: Kui me räägime siin sellest, 
+Similarity: 0.8944271909999159
+
+Generated: et kust me saame usaldusväärset informatsiooni, 
+Subtitle: kas me saame usaldusväärset informatsiooni, 
+Similarity: 0.7302967433402215
+
+Generated: siis asi on tõsine, et me oleme 
+Subtitle: siis asi on tõsine. 
+Similarity: 0.9091372900969896
+
+Generated: täna Rahvusringhäälingustuudios. Meie 
+Subtitle: Me oleme täna rahvusringhäälingu stuudios, 
+Similarity: 0.5163977794943223
+
+Generated: riigikeel on eesti keel 
+Subtitle: meie riigikeel on eesti keel 
+Similarity: 0.9354143466934852
+
+Generated: ja Eestis on meil selle jaoks olemas Rail Baltic punkti info kodulehekülg. Ja 
+Subtitle: ja Eestis on meil teabe saamiseks olemas Railbaltic.info kodulehekülg. 
+Similarity: 0.7462025072446365
+
+Generated: palun külastage vaatlejad praegu seda 
+Subtitle: Vaatajad, palun külastage seda 
+Similarity: 0.6708203932499369
+
+Generated: ja vaadake, mis kuupäevadel sinna on pandud viimased infot 
+Subtitle: ja vaadake, mis kuupäevadel on sinna pandud viimased infod 
+Similarity: 1.0000000000000002
+
+Generated: üles ja kuidas seda Riia konverentsi seal on kajastatud 
+Subtitle: ja kuidas on seal kajastatud Riia konverentsi. 
+Similarity: 0.9511897312113418
+
+Generated: tellija, sealt mitte midagi ja sealt 
+Subtitle: Te ei leia sealt mitte midagi. 
+Similarity: 0.5773502691896258
+
+Generated: eel tellijaga ühtegi nime, millest Jussi Marek ennem rääkis? 
+Subtitle: Sealt lehelt ei leia ka mitte ühtegi nime, millest Marek enne rääkis.. 
+Similarity: 0.669438681395203
+
+Generated: Riia konverentsi kommenteeriks Rail Baltic punkti info kodulehekülg on maakonnaplaneeringute kodulehekülg. Seda tasub tähele panna, 
+Subtitle: Railbaltic.info on maakonna planeeringute kodulehekülg - seda tasub tähele panna. 
+Similarity: 0.6454972243679029
+
+Generated: seal on peamine info, mis seal on, on 
+Subtitle: Peamine info on seal maakonna planeeringute 
+Similarity: 0.7863570994927847
+
+Generated: maakonnaplaneeringute ning keskkonnamõjude strateegilise hindamise 
+Subtitle: ja keskkonnamõjude strateegilise hindamise aruande dokumendid. 
+Similarity: 0.5477225575051662
+
+Generated: arudokumendid lehekülg selleks loodud ja tema peamine eesmärk ongi see. 
+Subtitle: See lehekülg on selleks loodud ja tema peamine eesmärk ongi see. 
+Similarity: 0.9359709753334591
+
+Generated: Kui nüüd selle 85 ja 80 protsendi juurde tulla, 
+Subtitle: Kui 85% ja 80% juurde tulla, 
+Similarity: 0.8660254037844386
+
+Generated: siis tasub lugeda ka meie pressiteateid ning viimati avaldatud informatsiooni, 
+Subtitle: siis tasub lugeda ka meie pressiteateid ja viimati avaldatud informatsiooni. 
+Similarity: 0.9473684210526312
+
+Generated: et tõepoolest 90 ja ongi uuringu kohaselt on üle arvutatud nii-öelda finantspuudujääk 
+Subtitle: Ernst & Youngi uuringu kohaselt on üle arvutatud finantspuudujääk, 
+Similarity: 0.7928249671720918
+
+Generated: Rail Balticu puhul mis nüüdsest on 
+Subtitle: mis nüüdsest on 94,4%. 
+Similarity: 0.8215838362577493
+
+Generated: siis 94,14 protsenti. See tähendabki seda, et, et see nüüd ümber panna. Siis maksumus 
+Subtitle: See tähendabki seda, et see tuleb ümber panna maksumusse 
+Similarity: 0.7905694150420949
+
+Generated: ning arvutada selle kaudu siis välja, milline on siis riiki, pole omafinantseering. 
+Subtitle: ja selle kaudu välja arvutada, milline on riiklik omafinantseering. 
+Similarity: 0.7559289460184545
+
+Generated: Jah, me jõuame tõesti sinna, et, et et et 80 protsenti siis kogu maksumusest 
+Subtitle: Me jõuame tõesti sinna, et 80% kogu maksumusest 
+Similarity: 0.76271276980969
+
+Generated: on siis Euroopa Liidu siis finantseerimise osa, eks ole. 
+Subtitle: on Euroopa Liidu finantseerimise osa. 
+Similarity: 0.8333333333333333
+
+Generated: Et, et seda pole keegi kuskilt maalt varjanud, seda 
+Subtitle: Seda pole keegi kusagil varjanud, 
+Similarity: 0.7977240352174657
+
+Generated: on kõik see aeg pärast uuringu tulemuste avalikustamist, kui välja öeldud, 
+Subtitle: seda on kõik see aeg peale uuringu tulemuste avalikustamist ka välja öeldud. 
+Similarity: 0.8620689655172414
+
+Generated: et see ei tohiks nagu eriti üllatusena tulla. 
+Subtitle: See ei tohiks mingi üllatusena tulla. 
+Similarity: 0.6154574548966638
+
+Generated: Minule tuli aga üllatusena see, et kus kohas me jõuame sinna. 
+Subtitle: Minule tuli aga üllatusena see, kuskohast me jõuame sinna, 
+Similarity: 0.8058229640253803
+
+Generated: Et see, et see, see muudatus justkui tähendab, mis ta ütles 66 miljonit? 
+Subtitle: et see muudatus tähendab justkui 66 miljonit. 
+Similarity: 0.79115480528524
+
+Generated: Sellest ma küll aru ei saanud, kuidas, kuidas või mismoodi tekkida sai. 
+Subtitle: Sellest ma küll aru ei saanud, kuidas see niimoodi tekkida sai. 
+Similarity: 0.8981462390204988
+
+Generated: Andres Reimer, Postimees 
+Subtitle: Andres Reimer, Postimees. 
+Similarity: 1.0000000000000002
+
+Generated: logistikasektor on Eesti majandusele erakordse tähtsusega, 
+Subtitle: Logistikasektor on Eesti majandusele erakordse tähtsusega. 
+Similarity: 0.9999999999999999
+
+Generated: kui oli transiidibuum. 
+Subtitle: Kui oli transiidibuum - 
+Similarity: 1.0000000000000002
+
+Generated: Ma imestan roheliste esindajate repliiki, et, et kus see rikkus ja kaubad seal raudteel on, 
+Subtitle: ma imestan roheliste repliigi üle, et kus see rikkus ja kaubad seal raudteel on, 
+Similarity: 0.9219544457292888
+
+Generated: kus rongid ei mahtunud Eesti Raudteele ära 
+Subtitle: kui rongid ei mahtunud enam Eesti raudteele ära. 
+Similarity: 0.8385254915624212
+
+Generated: siis Eesti Pank uuris transiidiäri osatähtsust 
+Subtitle: Eesti Pank uuris siis transiidiäri osatähtsust 
+Similarity: 1.0000000000000002
+
+Generated: Eesti sisemajanduse kogutoodangus 
+Subtitle: Eesti majanduse kogutoodangus 
+Similarity: 0.6666666666666669
+
+Generated: logistika toonase Transiidi Assotsiatsiooni tellimusel, 
+Subtitle: toonase logistikaassotsiatsiooni tellimusel 
+Similarity: 0.5163977794943223
+
+Generated: et ta sai, et see osatähtsus on umbes põllumajandusega, 
+Subtitle: ja sai tulemuse, et see osatähtsus on põllumajandusega võrdne - ca 3%, 
+Similarity: 0.7412493166611013
+
+Generated: samasugune, selline kolme protsendi ringis, aga ühesõnaga seotult kümnendik. 
+Subtitle: aga seotult kümnendik. 
+Similarity: 0.5773502691896257
+
+Generated: Nüüd viimane uuring, mida siis logistikaassotsiatsioon tellis, näitas, 
+Subtitle: Viimane uuring, mida logistikaassotsiatsioon tellis, näitas, 
+Similarity: 0.9045340337332909
+
+Generated: et selle äri osatähtsus praegu, 
+Subtitle: et selle äri osatähtsus praegu, 
+Similarity: 1.0
+
+Generated: kus on langustrend võib-olla kuskil viiendik Eesti sisemajandusest, 
+Subtitle: kus on langustrend, võib olla kuskil viiendik Eesti sisemajandusest. 
+Similarity: 0.9045340337332908
+
+Generated: see on väga tähtis, 
+Subtitle: See on väga tähtis. 
+Similarity: 0.9999999999999998
+
+Generated: aga see, kogu see ärisektor seisab täielikku ja drastilise muutuse lävel. 
+Subtitle: Kogu see ärisektor seisab täieliku ja drastilise muutuse lävel. 
+Similarity: 0.9245003270420485
+
+Generated: See ärimahud langevad ja peamiselt poliitilistel ja majanduslikel põhjustel, 
+Subtitle: Ärimahud langevad peamiselt poliitilistel ja majanduslikel põhjustel, 
+Similarity: 0.9116846116771036
+
+Generated: mis puudutavad siis ida-lääne suunalist transporti 
+Subtitle: mis puudutavad ida-läänesuunalist transporti. 
+Similarity: 0.7559289460184543
+
+Generated: peale Ust-Luuga sadama ehitamist 
+Subtitle: Peale Ust-Luga sadama ehitamist 
+Similarity: 0.75
+
+Generated: on esiteks venelased suuda suunanud oma Peamised kaubavood, 
+Subtitle: on venelased suunanud oma peamised kaubavood, 
+Similarity: 0.948683298050514
+
+Generated: mis meile siiamaani raha ja, ja heaolu tõid Ust-Luuga sadamasse. 
+Subtitle: mis meile siiamaani raha ja heaolu tõid, Ust-Luga sadamasse. 
+Similarity: 0.894427190999916
+
+Generated: Ja kui siin on inimesi, kes on käinud Moskvas, 
+Subtitle: Kui siin on inimesi, kes on käinud Moskvas, 
+Similarity: 0.9867543820659304
+
+Generated: siis te teate, et Moskvas on Leningradi vaksal ja 
+Subtitle: siis te teate, et Moskvas on Leningradi vaksal ja Riia vaksal. 
+Similarity: 0.9258200997725516
+
+Generated: Riiawaxel Tallinna vaksali. Seal ei ole 
+Subtitle: Tallinna vaksalit seal ei ole. 
+Similarity: 0.9128709291752769
+
+Generated: Vene transpordisüsteemist aru saades tähendab see seda, 
+Subtitle: Vene transpordisüsteemist aru saades tähendab see seda, 
+Similarity: 1.0
+
+Generated: et Eesti raudteed asuvad teisejärguliselt kõrvalteel 
+Subtitle: et Eesti raudteed asuvad teisejärgulisel kõrvalteel. 
+Similarity: 0.8333333333333335
+
+Generated: ja kui meil oleksid head poliitilised läbisaamised Venemaaga 
+Subtitle: Kui meil oleks hea poliitiline läbisaamine Venemaaga, 
+Similarity: 0.9534625892455924
+
+Generated: siis Ust-Luuga sadamast me midagi saaksime. 
+Subtitle: siis Ust-Luga sadamast me midagi saaksime, 
+Similarity: 0.8333333333333335
+
+Generated: Aga kuivõrd 2010. aastal, kui kaitsepolitsei süüdistas 
+Subtitle: aga kuivõrd 2010. aastal kaitsepolitsei süüdistas 
+Similarity: 0.7745966692414834
+
+Generated: Vene Raudtee presidenti härra Jakuuninit Keskerakonna rahastamises? 
+Subtitle: Vene raudtee presidenti hr Jakuninit Keskerakonna rahastamises, 
+Similarity: 0.6249999999999998
+
+Generated: Sellest hetkest peale kehtib Eestile Venemaa suunalt raudteeblokaad, 
+Subtitle: siis sellest hetkest kehtib Eestile Venemaa raudteeblokaad. 
+Similarity: 0.8249579113843053
+
+Generated: sealt lihtsalt ei saadeta siiapoole kaupasid. 
+Subtitle: Sealt lihtsalt ei saadeta siiapoole kaupasid. 
+Similarity: 1.0000000000000002
+
+Generated: See on see põhjus, miks meil praegu ei ole. Miks, miks see äri ära kaob. 
+Subtitle: See on põhjus, miks see äri ära kaob. 
+Similarity: 0.8962581595302719
+
+Generated: Rail Baltic on ka ära Lambotile ja, ja kogu sellele sektorile ainukene võimalus 
+Subtitle: Rail Baltic on ka hr Lambotile ja kogu sellele sektorile ainuke võimalus 
+Similarity: 0.8603090020146066
+
+Generated: üldse saada endale leiba lauale, 
+Subtitle: üldse saada endale leib lauale, 
+Similarity: 1.0
+
+Generated: sest et see avab. Põhja-lõunasuunalise. Kaubateed 
+Subtitle: sest see avab põhja-lõunasuunalise kaubatee. 
+Similarity: 0.912870929175277
+
+Generated: aardeni, lastekaubad ja nooremad müüjal on hambutu ja kuidas sellega on, et ei näe, 
+Subtitle: Hr Lambot, kuidas sellega on, te ei näe... 
+Similarity: 0.6605782590758164
+
+Generated: aga, aga. Milles on, milles on, milles on, milles on probleem? Probleem 
+Subtitle: Aga milles on probleem? 
+Similarity: 0.9761870601839527
+
+Generated: on selles, et Et need inimesed, 
+Subtitle: Probleem on selles, et need inimesed, 
+Similarity: 0.9198662110078
+
+Generated: kelle äriskeemid on praegusel hetkel üles ehitatud maanteetranspordile 
+Subtitle: kelle äriskeemid on praegu üles ehitatud maanteetranspordile, 
+Similarity: 0.9335638713962129
+
+Generated: nad loodavad, et protestiaktsioonidega 
+Subtitle: loodavad, et protestiaktsioonidega 
+Similarity: 0.8660254037844388
+
+Generated: ja poliit tehnoloogiaga on võimalik muuta Euroopa Liidu poliitikat, 
+Subtitle: ja poliittehnoloogiaga on võimalik muuta Euroopa Liidu poliitikat, 
+Similarity: 0.8703882797784893
+
+Generated: mille eesmärk on järgneva 15 aasta jooksul 
+Subtitle: mille eesmärk on järgneva 15 aasta jooksul 
+Similarity: 1.0
+
+Generated: vähendada 30 protsenti maanteevedusid ja seejärel aastaks 45 vist 50 
+Subtitle: vähendada 30% maanteevedusid ja seejärel aastaks 2045 50%. 
+Similarity: 0.7826237921249264
+
+Generated: protsenti. See on see, mis tegelikult kannus. Raivo Vare. Ma küsin üle. 
+Subtitle: See kannustab... - Ma küsin üle, Raivo Vare. 
+Similarity: 0.5916079783099616
+
+Generated: Katsume nendes kaupades sotti saada, kui palju neid kaupu siis tegelikult on, 
+Subtitle: Katsume kaupadest sotti saada. Kui palju neid siis tegelikult on? 
+Similarity: 0.8528028654224415
+
+Generated: et teie kogemus teie teadmiste järgi, 
+Subtitle: Teie kogemuste, teadmiste järgi, 
+Similarity: 0.8838834764831843
+
+Generated: kui palju Rail Balticu jaoks reaalselt võiks jätkuda kaupa? 
+Subtitle: kui palju Rail Balticu jaoks võiks kaupa jätkuda? 
+Similarity: 0.9574271077563382
+
+Generated: No ma arvan, et selles uuringus on juba teada numbrid, mis on Eesti 
+Subtitle: Selles uuringus on juba Eesti, Läti, Leedu impordi numbrid, 
+Similarity: 0.6851601597031489
+
+Generated: Eesti-Läti-Leedu ekspordi-impordinumbreid, sinna on lisatud Soome osakaal 
+Subtitle: sinna on lisatud Soome osakaal 
+Similarity: 0.9459053029269171
+
+Generated: ja siis on lisatud sinna suhteliselt optimistlik idapoolse kaubavoo osa, 
+Subtitle: ja siis on lisatud suhteliselt optimistlik idapoolse kaubaveo osa, 
+Similarity: 0.9304842103984708
+
+Generated: mille puhul ma olen skeptiline, 
+Subtitle: mille puhul ma olen skeptiline. 
+Similarity: 0.9999999999999998
+
+Generated: aga kõik ülejäänud võivad vabalt ka paika pidada 
+Subtitle: Aga kõik ülejäänud võivad vabalt ka paika pidada. 
+Similarity: 1.0
+
+Generated: ja asjaosalised teavad, et juba mõnda aastat räägin ma 
+Subtitle: Asjaosalised teavad, et juba mõnda aastat räägin ma, 
+Similarity: 0.9428090415820632
+
+Generated: juba seda lugu, et üldiselt maanteelt ta kolib ikkagi kaup ühel või teisel viisil ja peabki üle kolib 
+Subtitle: et üldiselt kolib  ja peabki üle kolima  kaup raudteele. 
+Similarity: 0.5913123959890827
+
+Generated: mitte ainult Euroopa poliitika pärast selle raudteele ja siis noh, see numbrimaagia on see natukene teistsugune 
+Subtitle: Mitte ainult Euroopa poliitika pärast. Numbrimaagia on seal teistsugune. 
+Similarity: 0.6350852961085884
+
+Generated: igal juhul praegu on selles uuringus ette nähtud 
+Subtitle: Selles uuringus on ette nähtud, 
+Similarity: 0.9258200997725515
+
+Generated: 30 hiljem 40 protsenti sellest maanteekaubast liigub ümber, 
+Subtitle: et 30 ja hiljem 40 protsenti maanteekaubast liigub ümber. 
+Similarity: 0.8249579113843053
+
+Generated: aga noh, potentsiaalset võib sinna liikuda kuni 80, see on nüüd 
+Subtitle: Potentsiaalselt võib sinna liikuda kuni 80. See on nüüd vaidluskoht. 
+Similarity: 0.8153742483272115
+
+Generated: see vaidlus, kohtuasi on natukene nagu täna liiga toores, et öelda, et jah, nii kindlasti juhtub. 
+Subtitle: Täna on see natukene liiga toores, et öelda, et jah, kindlasti nii juhtub. 
+Similarity: 0.8660254037844388
+
+Generated: On lambad, kas see on nii, et te jääksite lihtsalt oma ärist ilma, 
+Subtitle: Karl Lambot, kas see on nii, et te jääksite lihtsalt oma ärist ilma, 
+Similarity: 0.8660254037844388
+
+Generated: kui see, kui see raudtee tekiks 
+Subtitle: kui see raudtee tekiks? 
+Similarity: 0.9669875568304562
+
+Generated: konkreetselt teie huvi, kas on blokeerida Rail Balticut just seetõttu? 
+Subtitle: Kas konkreetselt teie huvi on blokeerida Rail Balticut just seetõttu? 
+Similarity: 1.0
+
+Generated: Ma saan rääkida loomulikult enda nimel, 
+Subtitle: Ma saan loomulikult rääkida enda nimel, 
+Similarity: 1.0000000000000002
+
+Generated: aga ka väga paljude teiste logistikaettevõtjate 
+Subtitle: aga ka väga paljude teiste logistikaettevõtjate nimel. 
+Similarity: 0.9486832980505138
+
+Generated: ning see on üks tõeline. Andke andeks, aga ebakompetentsuse ilming, 
+Subtitle: See on üks, andke andeks, ebakompetentsuse ilming, 
+Similarity: 0.9013878188659974
+
+Generated: kui, kui jutustatakse, et maantee transpordi eest võitlejad 
+Subtitle: kui jutustatakse, et maanteetranspordi eest võitlejad kaotavad. 
+Similarity: 0.8090398349558903
+
+Generated: kuidagi kaotajad, punkt üks, mina ei ole autovedaja, me kasutame kõiki erinevaid transpordiliike 
+Subtitle: Punkt üks, mina ei ole autovedaja. Kasutame kõiki transpordiliike. 
+Similarity: 0.8845379626717034
+
+Generated: punkt kaks, head raudteeühendused Euroopaga mitmekesistavad 
+Subtitle: Punkt kaks, head raudteeühendused Euroopaga mitmekesistavad 
+Similarity: 1.0000000000000002
+
+Generated: Eesti transpordiettevõtete võimalusi. See selles mõttes igal juhul head raudteeühendused on vajalikud. 
+Subtitle: Eesti transpordiettevõtete võimalusi. Head raudteeühendused on vajalikud. 
+Similarity: 0.7669649888473705
+
+Generated: Ainult üks häda on selle raudtee ühenduse puhul, 
+Subtitle: Selle raudteeühenduse puhul on ainult üks häda. 
+Similarity: 0.8894991799933215
+
+Generated: et seal need mahud, mina olen küll seisukohal, et need mahud on 
+Subtitle: Selleks on mahud. Mina olen küll seisukohal, 
+Similarity: 0.8552359741197582
+
+Generated: vähemalt kaks korda üles hinnatud. 
+Subtitle: et need mahud on vähemalt kaks korda üles hinnatud. 
+Similarity: 0.8164965809277261
+
+Generated: Ja vaatame nüüd siis seda vene osa, see on ju kuus miljonit tonni aastas lõpuks ehk 31 
+Subtitle: Vaatame Vene osa. See on lõpuks 6 miljonit tonni aastas ehk 31%. 
+Similarity: 0.8547043234472846
+
+Generated: protsenti. Urmas Reinsalu tegi eile avalduse, 
+Subtitle: Urmas Reinsalu tegi eile avalduse, 
+Similarity: 0.9128709291752769
+
+Generated: et kas Brummile tuleb määrata Euroopa Liidus suuremad trahvid. 
+Subtitle: et Gazpromile tuleb EL-is määrata suuremad trahvid. 
+Similarity: 0.5590169943749475
+
+Generated: Kui me nüüd tahame saada 31 protsenti kuus miljonit tonni aastas 
+Subtitle: Kui me tahame saada 31% ehk 6 miljonit tonni aastas 
+Similarity: 0.8486684247915057
+
+Generated: Venemaal tarbekaupa konteiner kaupa autovedude 
+Subtitle: Venemaalt tarnekaupa, konteinerkaupa, autovedusid, 
+Similarity: 0.4472135954999579
+
+Generated: kaupa, see on kallis kaup, mida on väga kerge mõjutada, 
+Subtitle: mis on kallis kaup ja mida on väga kerge mõjutada, 
+Similarity: 0.9053662845289709
+
+Generated: siis see ei tule Balti riikidesse, 
+Subtitle: siis see ei tule Balti riikidesse. 
+Similarity: 1.0000000000000002
+
+Generated: venelased ju jälgivad väga tähelepanu, kuidas me käitume. 
+Subtitle: Venelased jälgivad ju väga tähelepanelikult, kuidas me käitume. 
+Similarity: 0.8749999999999998
+
+Generated: Eestlased võivad mõelda, et meie räägime, mida tahame, 
+Subtitle: Eestlased võivad ju mõelda, et meie räägime, mida tahame. 
+Similarity: 0.9574271077563382
+
+Generated: aga lätlased ja leedulased kutsuvad meid varsti korrale, 
+Subtitle: Aga lätlased ja leedulased kutsuvad meid varsti korrale, 
+Similarity: 0.9999999999999998
+
+Generated: sest kui Rail Baltic valmis, sest me peame ju ka nendele leida, leiba andma. 
+Subtitle: kui Rail Baltic valmib. Sest me peame ka neile leiba andma. 
+Similarity: 0.7970811413304556
+
+Generated: Aga kui me selle autotranspordi juurde läheme, 
+Subtitle: Aga kui autotranspordi juurde läheme, 
+Similarity: 0.894427190999916
+
+Generated: siis loomulikult on nendest ilus rääkida Euroopa Liidu eesmärkidest 
+Subtitle: siis loomulikult on Euroopa Liidu eesmärkidest ilus rääkida. 
+Similarity: 0.9574271077563382
+
+Generated: ja, ja põhimõtteliselt on see kõik ju arusaadav, aga paneme asjad numbritesse. 
+Subtitle: Põhimõtteliselt on see kõik arusaadav, aga paneme asjad numbritesse. 
+Similarity: 0.8660254037844385
+
+Generated: FC ongi uuring, meile ju numbrid ei näita, 
+Subtitle: Ernst ja Youngi uuring meile ju numbreid ei näita. 
+Similarity: 0.5454545454545454
+
+Generated: kuidas toimub hinnastamine, kui kuidas toimub 
+Subtitle: Kuidas toimub hinnastamine, transpordi tasustamine? 
+Similarity: 0.6201736729460423
+
+Generated: transporditasustamine. Nad möönavad, et meretransport on korduvalt odavam, 
+Subtitle: Nad möönavad, et meretransport on korduvalt odavam, 
+Similarity: 0.9534625892455924
+
+Generated: maanteetransport on kaks-kolm korda odavam 
+Subtitle: maanteetransport on 2 või 3 korda odavam. 
+Similarity: 0.8749999999999998
+
+Generated: kui raudteetransport, ainukene efekt on see, et võib-olla ta on kiirem, 
+Subtitle: Ainukene efekt on see, et võib-olla ta on kiirem. 
+Similarity: 0.9063269671749657
+
+Generated: millest saab ka väga tugevasti kahelda. Ja meie oleme teinud arvutusi 
+Subtitle: Selles saab ka väga tugevasti kahelda. Meie oleme teinud arvutusi, 
+Similarity: 0.8610567718228918
+
+Generated: ja ei ole võimalik, ei ole võimalik ilma 1500 eurost teemaksu Balti riikides kehtestamata 
+Subtitle: ja ei ole võimalik ilma 1 500- eurost teemaksu Balti riikides kehtestamata, 
+Similarity: 0.9438798074485389
+
+Generated: ühekordselt igale veokile needa, masinaid raudteele saada. 
+Subtitle: ühekordset ja igale veokile, neid masinaid raudteele saada. 
+Similarity: 0.6681531047810609
+
+Generated: Ehk et me saame väga ilusasti rääkida eesmärkidest numbritest, 
+Subtitle: Ehk saame ilusasti rääkida eesmärkidest, numbritest, 
+Similarity: 0.816496580927726
+
+Generated: panna need 20 miljonit kuskile ritta kuskile graafikusse, 
+Subtitle: panna 20 miljonit kuskile ritta, graafikusse, 
+Similarity: 0.903696114115064
+
+Generated: aga kui me tahame aru saada, mis see sisu on, ta aga, missuguse hinnapoliitikaga seda lõpuks tehakse ja 
+Subtitle: aga kui tahame sisust aru saada ja millise hinnapoliitikaga seda tehakse. 
+Similarity: 0.720023041105979
+
+Generated: need jälle teemaksud peavad väga suured olema, 
+Subtitle: Need teemaksud peavad väga suured olema. 
+Similarity: 0.9258200997725514
+
+Generated: kui neid, vastupidi, vennad lendaks, see oleks ju väga tore, aga mina 
+Subtitle: Kui meid vastupidi veendaks, oleks väga tore. 
+Similarity: 0.6902684899626335
+
+Generated: mõtlen terve ühiskonna huvide peale. Kas me 
+Subtitle: Aga mina mõtlen terve ühiskonna huvide peale. 
+Similarity: 0.857142857142857
+
+Generated: kõik tahame kauplustes 
+Subtitle: Kas me kõik tahame kauplustes, 
+Similarity: 0.8660254037844388
+
+Generated: tööstusettevõtete puhul mida iganes selle hinnatõusu kinni maksta? 
+Subtitle: tööstusettevõtetes selle hinnatõusu kinni maksta? 
+Similarity: 0.6741998624632421
+
+Generated: Ülesandele tere, Oleg Tšubarov, raudteelaste ametiühing. 
+Subtitle: Ülevalt palun. - Tere. Oleg Tšubarov, raudteelaste ametiühing. 
+Similarity: 0.7715167498104596
+
+Generated: Ja tahaks tulevikus tuua minevikku ja tänases päevas, 
+Subtitle: Tahaksin tulla tulevikust minevikku ja tänasesse päeva. 
+Similarity: 0.8366600265340756
+
+Generated: et meil on raudtee, mis viib Euroopasse. 
+Subtitle: Meil on raudtee, mis viib Euroopasse. 
+Similarity: 0.960768922830523
+
+Generated: Aasta 95 96 sinna vedati kaupa, sinna vedati reisijaid. Ja see oli mitte väike number oli 
+Subtitle: Aastatel 1995-96 veeti sinna kaupa, reisijaid ja see number oli suur, 
+Similarity: 0.49543369430686224
+
+Generated: kuni kaks, kaks miljonit aastas 
+Subtitle: kuni kaks miljonit inimest aastas. 
+Similarity: 0.8451542547285166
+
+Generated: oli rahvast ja küsimus on selles, et aasta 98, kui seda lõpetati 
+Subtitle: Küsimus on selles, et aastal 1998, kui see lõpetati. 
+Similarity: 0.891132788679007
+
+Generated: Euroopa Liidus, me oleme juba ka 
+Subtitle: Ka Euroopa Liidus oleme me pikka aega. 
+Similarity: 0.7715167498104596
+
+Generated: pika-pika ajal. Ja nüüd on kuidagi kummaline, et Euroopa Liit nüüd avastas, 
+Subtitle: Ja nüüd on kuidagi kummaline, et Euroopa Liit nüüd avastas, 
+Similarity: 0.9393364366277241
+
+Generated: et me oleme kuskil kaugel ja peaks kuidagi ühendust looma. 
+Subtitle: et me oleme kuskil kaugel ja peaks kuidagi ühendust looma. 
+Similarity: 1.0
+
+Generated: Meil ei ole banaalse elementaarset ühendust Lätiga ja see alates juba 90 98 ja samuti ei ole 
+Subtitle: Meil ei ole elementaarset ühendust Lätigagi  samuti alates 1998. aastast, 
+Similarity: 0.5059644256269408
+
+Generated: Lätiga ühendust raudteelt, kuigi raudtee on olemas. 
+Subtitle: seda siis raudteel. Kuigi raudtee on olemas. 
+Similarity: 0.85106449634699
+
+Generated: Ja nüüd on küsimus, kas, kas see riik üldse need valitsus, kes on juhtinud, 
+Subtitle: Kas need valitsused, kes on juhtinud, on üldse vaadanud, 
+Similarity: 0.8181818181818182
+
+Generated: kas vaatanud seda, et, et need rööpad on olemas? Kõik on olemas 
+Subtitle: et need rööpad on olemas, kõik on olemas 
+Similarity: 0.9609331989577095
+
+Generated: ja see investeeringut, mis siin on tehtud? Võiks 
+Subtitle: ja sinna tehtud investeeringuid võiks kasutada. 
+Similarity: 0.6998964726756153
+
+Generated: nagu kasutada ja mitte kellelegi ei tulnud mõtet, et seda ikkagi kaupa sinna vedada, reisijad sinna vedada? 
+Subtitle: Mitte kellelgi ei tulnud mõtet sinna kaupa, reisijaid vedada. 
+Similarity: 0.7795794428691073
+
+Generated: Võib-olla ikkagi tuli mõtet, saame kohe küsida, 
+Subtitle: Võib-olla ikkagi tuli mõte. Saame kohe küsida. 
+Similarity: 0.9999999999999998
+
+Generated: et miks me ei kasuta seda olemasolevat raudteed, siis palun. 
+Subtitle: Miks me ei kasuta olemasolevat raudteed? Palun. 
+Similarity: 0.8770580193070294
+
+Generated: No täna seda saab kasutada ja siis on seda plaan kasutada ka, 
+Subtitle: Täna saab seda kasutada ja on ka plaan seda kasutada, 
+Similarity: 0.9459053029269172
+
+Generated: aga. Taaskäivitada need 
+Subtitle: taaskäivitada need veod. 
+Similarity: 0.6666666666666669
+
+Generated: vead, aga. See on hoopis teise kvaliteediga ikkagi kui Rail Baltic, 
+Subtitle: Aga see on ikkagi hoopis teise kvaliteediga kui Rail Baltic, 
+Similarity: 0.9746794344808962
+
+Generated: et kui me jah, kaubavedude puhul või siis ka reisijate vedu. Kiirus on teine 
+Subtitle: kaubavedude ja reisijaveo puhul. Kiirus on teine. 
+Similarity: 0.6361464251628643
+
+Generated: selleks, et me need kiirused tõstaksime siin. Noh, jah, ma saan aru, et 
+Subtitle: Et tõstaksime kiirused sinna... Jah, ma saan aru, 
+Similarity: 0.7299963950884314
+
+Generated: ei mõtlegi kahtlased või 40 kilomeetrit tunnis, mis tegelikult tagab selle, et me saame Pärnusse tõesti alla 50 minuti 
+Subtitle: et te ei mõtlegi 240 km/h, mis tagab, et saame Pärnusse alla 50 minutiga 
+Similarity: 0.6847623832623257
+
+Generated: ja Riiga kaheldud. Niikaua kui me räägime kaubarongidest, 
+Subtitle: ja Riiga kahe tunniga. - Aga kui räägime kaubarongist? 
+Similarity: 0.5393598899705937
+
+Generated: Kaunast Okei, kaubarong on 
+Subtitle: Okei, kaubarong on vähe aeglasem. 
+Similarity: 0.801783725737273
+
+Generated: jah väiksem. Kaubarongiga põhimõtteliselt jah, oleks võimalik seda renoveerida. 
+Subtitle: Kaubarongile oleks seda võimalik renoveerida. 
+Similarity: 0.6741998624632421
+
+Generated: Sellisel juhul noh, on vaja seda teha ka mujal, 
+Subtitle: Sellisel juhul on vaja seda teha ka mujal. 
+Similarity: 0.9574271077563382
+
+Generated: trassid jäävad kindlasti oluliselt pikemaks 
+Subtitle: Trassid jäävad kindlasti oluliselt pikemaks. 
+Similarity: 1.0
+
+Generated: ja mis Pärnu trass on valitud, see on kõige lühem. Läti puhul oleks ta kohe pikem 
+Subtitle: Pärnu trassiks on valitud kõige lühem. Läti pool oleks ta pikem, 
+Similarity: 0.8709296863229077
+
+Generated: ikkagi kaotatakse ajaks. 
+Subtitle: ikkagi kaotaks ajas. 
+Similarity: 0.6666666666666669
+
+Generated: Ja selleks, et olla konkurentsivõimeline teiste riikidega, 
+Subtitle: Ja et olla konkurentsivõimeline teiste riikidega, 
+Similarity: 0.9486832980505138
+
+Generated: tegelikult seda enam, et ei ehitada suuri ladusid, 
+Subtitle: eriti kuna ei ehitata suuri ladusid, 
+Similarity: 0.5773502691896258
+
+Generated: vaid tahetakse teiega ka väiksed sattu kaubatarneid 
+Subtitle: tahetakse teha väikseid shuttle kaubatarneid, 
+Similarity: 0.50709255283711
+
+Generated: siis me kaotaksime, et meil on vaja siin võita iga minut. 
+Subtitle: siis me kaotaksime. Meil on vaja siin võita iga minut. 
+Similarity: 0.968245836551854
+
+Generated: Aga ikkagi, ma ei saa aru, praegu see praegu ei tööta, miks 
+Subtitle: Ma ei saa ikkagi aru. Miks see praegu ei tööta? 
+Similarity: 0.9477582044145476
+
+Generated: see kaubavedu praegu ei, ei käi, millesse Raivo Vare, millesse küsimus on selles, 
+Subtitle: Miks kaubavedu praegu ei käi? Milles see küsimus on, Vare? 
+Similarity: 0.8262339491328652
+
+Generated: et kaupa lihtsalt ei ole või milles küsimus on? 
+Subtitle: Kas kaupa lihtsalt ei ole või milles see on? 
+Similarity: 0.8947368421052628
+
+Generated: No täna on autodega lihtsam ja nimetame asju õige nimega 
+Subtitle: Täna on autodega lihtsam vedada. Nimetame asju õige nimega. 
+Similarity: 0.8807048459279794
+
+Generated: ja tegelikult ongi täpselt 
+Subtitle: Tegelikult täpselt nii ongi. Olen sattunud advokaadi rolli, 
+Similarity: 0.6172133998483676
+
+Generated: niimoodi, aga sellest Euroopat ei maksaks nüüd küll väga. Ma olen nüüd sattunud advokaadi rolli, aga Euroopat ei maksaks küll maha kanda, 
+Subtitle: aga Euroopat ei tasu küll maha kanda. 
+Similarity: 0.4611123341633879
+
+Generated: sellepärast et minu mälu järgi ja mina mäletan seda ka natukene kauem 
+Subtitle: Minu mälu järgi ja mina mäletan ka seda natukene kauem, 
+Similarity: 0.9258200997725516
+
+Generated: on see eesmärk viia ära maanteedelt, kaubaveod on olnud alati selline paleus, 
+Subtitle: on eesmärk kaubaveod maanteedelt ära viia alati olnud paleus, 
+Similarity: 0.9454911360621489
+
+Generated: mida on alati aetud ühel või teisel viisil, 
+Subtitle: mida on alati aetud. Ühel või teisel viisil. 
+Similarity: 1.0
+
+Generated: omal ajal oli neil paleus, oli šotsi Shipping, eks ole, kui keegi mäletab, nüüd on, eks ole, tulnud jälle tagasi rõhuasetus raudteele, 
+Subtitle: Omal ajal oli see short sea shipping, nüüd on rõhuasetus tagasi raudteel. 
+Similarity: 0.6955186050933213
+
+Generated: nii et nii et see on nagu teema, mis puudutab, miks kaubad, miks reisijad ei liigu, reisijad ei liigu 
+Subtitle: See on teema. Miks reisijad ei liigu? 
+Similarity: 0.7692307692307693
+
+Generated: sellepärast et ega seda väga-väga noh, ebamugavat korraldust tõesti ei poolda. 
+Subtitle: Reisijad ei liigu, sest seda väga ebamugavat korraldust ei pooldata. 
+Similarity: 0.5640760748177662
+
+Generated: Ja kiirused eriti Läti poole peal teadupärast on liiga madalad, 
+Subtitle: Ja kiirused, eriti Läti poolel, on liiga madalad, 
+Similarity: 0.9198662110078
+
+Generated: kui meil on 120 Valgani, siis seal ei ole sedagi, eks ole, 
+Subtitle: meil on Valgani 120, seal ei ole sedagi. 
+Similarity: 0.8630339426736914
+
+Generated: te aga kaubad noh, me sellest räägime, eks ole, et see on nüüd valiku koht. 
+Subtitle: Aga kaubad? Me räägime sellest, see on valiku koht. 
+Similarity: 0.8728715609439697
+
+Generated: Kristjan Lepik, Kristjan Lepik, 
+Subtitle: Kristjan Lepik. 
+Similarity: 0.9999999999999998
+
+Generated: mina et võib-olla alustaks ühe sellise looga, et vana hea sõber, 
+Subtitle: Võib-olla alustaksin ühe looga. Vana hea sõber Tadas Langaitis, 
+Similarity: 0.7559289460184546
+
+Generated: Taadaselangaitis, leedukas Eesti IT-võtja ettevõtte Nortali kunagi asutajatest 
+Subtitle: leedukas, Eesti IT-ettevõtte Nortali kunagine asutaja, 
+Similarity: 0.5039526306789696
+
+Generated: nüüd Leedus, parlamendisaadik su endaga lõunat hiljuti ja ta 
+Subtitle: nüüd Leedus parlamendisaadik. Sõin temaga hiljuti lõunat 
+Similarity: 0.7559289460184544
+
+Generated: imestas, et kuidas teil Eestis nii kõva kaklus käib, 
+Subtitle: ja ta imestas, kuidas Eestis nii kõva kaklus käib. 
+Similarity: 0.7777777777777777
+
+Generated: et Leedus on kuskil üksmeel, et see on mõistlik ja ja nagu vajalik. 
+Subtitle: Leedus on üksmeel, et see on mõistlik ja vajalik. 
+Similarity: 0.8582382478225818
+
+Generated: Majanduslikult väga nõus, et minusse nii tundub. 
+Subtitle: Majanduslikult väga nõus, minu meelest see tundub nii. 
+Similarity: 0.8017837257372731
+
+Generated: Aga noh, kui vaadata seda, et piketid on toimuvad protestid 
+Subtitle: Aga kui vaadata, et on piketid, toimuvad protestid. 
+Similarity: 0.8685990362153793
+
+Generated: ja no kui nüüd päris ausalt otsa vaadata, siis vaevalt, 
+Subtitle: Kui ausalt otsa vaadata, siis vaevalt, 
+Similarity: 0.8320502943378436
+
+Generated: et inimene keetis suppi ja siis leemekulpi lendas nurka, 
+Subtitle: et inimene keetis suppi ja leemekulp lendas nurka, 
+Similarity: 0.9428090415820632
+
+Generated: kuna äkki tekkis tunne minna tänavale, 
+Subtitle: kuna äkki tekkis tunne minna tänavale. 
+Similarity: 1.0000000000000002
+
+Generated: et siin on väga süstemaatiline tööga vastu, 
+Subtitle: Siin on ka väga süstemaatiline töö ka vastu. 
+Similarity: 0.7893522173763264
+
+Generated: et, et on selgelt majanduslikud huvigrupid, kes sellest võidavad, kui seda ei tuleks. 
+Subtitle: On selged majanduslikud huvigrupid, kes võidavad, kui seda ei tuleks. 
+Similarity: 0.8548504142651102
+
+Generated: Ja minu nagu mõte ongi see, et, et nagu võib-olla siin selline kultuuriline küsimus, 
+Subtitle: Minu mõte ongi, et võib-olla see on kultuuriline küsimus, 
+Similarity: 0.5807632069125023
+
+Generated: et eestlusele hinge sisse vaatamine, et justkui kakleme siin lõputult 
+Subtitle: eestlusele hinge sisse vaatamine. Justkui kakleme siin lõputult 
+Similarity: 0.82915619758885
+
+Generated: ja pärast kõik teised on kõik asjad ära teinud 
+Subtitle: ja pärast on kõik teised kõik asjad ära teinud, 
+Similarity: 1.0
+
+Generated: omavahel kohati üsna ebakvaliteetselt. 
+Subtitle: kohati täitsa ebakvaliteetselt. 
+Similarity: 0.5773502691896258
+
+Generated: Oleks teine sõber pakkus siin võib-olla lahenduse välja, mis aitaks, 
+Subtitle: Mul üks teine sõber pakkus välja lahenduse, mis aitaks. 
+Similarity: 0.7660323462854265
+
+Generated: et et ta tegelikult ka Tartust on täna nagu pinget, miks Pärnust läbi läheb 
+Subtitle: Ka Tartus on pinget, et miks Pärnust läbi läheb. 
+Similarity: 0.7745966692414833
+
+Generated: ja Pärnu on kindlasti sellest võitmas. Et äkki lahenduseks ongi see, 
+Subtitle: Pärnu on kindlasti sellest võitmas. Äkki lahenduseks ongi see, 
+Similarity: 0.9622504486493764
+
+Generated: et võib-olla aeg seda ka otse-eetris välja öelda, 
+Subtitle: ja on ka aeg seda otse-eetris välja öelda, 
+Similarity: 0.6396021490668312
+
+Generated: et teeme siis sinna vahepeale, et teeme läbi Kilingi-Nõmme. 
+Subtitle: et teeme siis vahepeale, teeme läbi Kilingi-Nõmme. 
+Similarity: 0.9245003270420485
+
+Generated: Ja see tähendab, 
+Subtitle: Palun. 
+Similarity: 0.0
+
+Generated: et püsib endale ojad, dotsent. 
+Subtitle: Endel Oja, dotsent. 
+Similarity: 0.5163977794943223
+
+Generated: Rämboolane Just et nad tahaksid mõned numbrid öelda, 
+Subtitle: Tahaksin mõned numbrid öelda. 
+Similarity: 0.6030226891555273
+
+Generated: et, et me me kogu aeg nagu räägime, et see raudtee peaks olema 
+Subtitle: Kogu aeg räägime, et raudtee peaks olema elujõuline 
+Similarity: 0.649519052838329
+
+Generated: nagu elujõuline ja, ja jääda toob seda teist ja kolmandat. Esiteks ära Kosenkranius, 
+Subtitle: ja ta toob seda, teist ja kolmandat. Esiteks, härra Kosenkranius, 
+Similarity: 0.7745966692414832
+
+Generated: ma ütlen teile sellise numbri, et et kui me tahame minna Muugalt veoautoga 
+Subtitle: ma ütlen teile sellise numbri: kui tahame minna veoautoga Muugalt 
+Similarity: 0.8682431421244592
+
+Generated: ja viia Viini ühe konteineri 40 jalase, siis see maksab kuskil maksimaalselt 2000 eurot. 
+Subtitle: ja viia Viini ühe 40-jalase konteineri, see maksab maksimaalselt 2 000 eurot. 
+Similarity: 0.8426648406178137
+
+Generated: Kui me viime selle raudteega ka Rail Balticuga, 
+Subtitle: Kui viime selle raudteega, ka Rail Balticuga, 
+Similarity: 0.9534625892455924
+
+Generated: siis see maksab minimaalselt 3500 eurot. 
+Subtitle: siis see maksab minimaalselt 3 500 eurot. 
+Similarity: 1.0000000000000002
+
+Generated: Kõik see jutt ja, ja ka Raivo varele ma ütlen, et need, need 
+Subtitle: Kõik see jutt, ütlen seda ka Raivo Varele, 
+Similarity: 0.849207775608447
+
+Generated: ilusad loosungid, need ei ole realistlikud. 
+Subtitle: need ilusad loosungid ei ole realistlikud. 
+Similarity: 1.0000000000000002
+
+Generated: Me, meie, ükski ärimees ei hakka maksma selliseid summasid. 
+Subtitle: Ükski ärimees ei hakka maksma selliseid summasid, 
+Similarity: 0.8563488385776752
+
+Generated: Nad ei koli mitte kunagi need sajad teod ega tuhanded teod nii-öelda sellele raudteele, 
+Subtitle: need sajad ja tuhanded teod ei koli kunagi sellele raudteele, 
+Similarity: 0.8278373543847156
+
+Generated: sest see ei ole reaalne. 
+Subtitle: sest see ei ole reaalne. 
+Similarity: 1.0
+
+Generated: Teiseks, me räägime kaubamahtudest 2030 näiteks peaks äriplaani järgi 
+Subtitle: Teiseks, kui räägime kaubamahtudest, äriplaani järgi peaks 2030. aastal 
+Similarity: 0.6735753140545634
+
+Generated: ainuüksi Kaunase terminalist minema läbi 10 miljonit tonni kaupa. 
+Subtitle: ainuüksi Kaunase terminalist minema läbi 10 miljonit tonni kaupa. 
+Similarity: 1.0
+
+Generated: 10 miljonit tonni kaupa läheb täna läbi Bresti terminalist. 
+Subtitle: 10 miljonit tonni kaupa läheb täna läbi Bresti terminalist, 
+Similarity: 1.0
+
+Generated: Kus on see taga Hiina, Venemaa, Valgevene ja Kasahstan. 
+Subtitle: kus on taga Hiina, Venemaa, Valgevene ja Kasahstan. 
+Similarity: 0.9574271077563382
+
+Generated: Ja meie arvame, et viie või ütleme vabandust, 10 aasta pärast tekib samasugune maht 
+Subtitle: Ja meie arvame, et 10 aasta pärast tekib samasugune maht 
+Similarity: 0.8451542547285167
+
+Generated: tänu Rein Baltikule Kaunase terminal, 
+Subtitle: tänu Rail Balticule Kaunase terminali. 
+Similarity: 0.5477225575051662
+
+Generated: ehk teiste sõnadega, kõik need sisendid, mis selle äriplaanis on, 
+Subtitle: Teiste sõnadega, kõik sisendid, mis selles äriplaanis on, 
+Similarity: 0.9585144756340407
+
+Generated: need on kordades 
+Subtitle: on kordades üledimensioneeritud. 
+Similarity: 0.545544725589981
+
+Generated: üle tee dimensioneeritud. Seetõttu see äriplaan ei ole üldse usaldusväärne 
+Subtitle: Seetõttu ei ole see äriplaan üldse usaldusväärne 
+Similarity: 0.6069769786668839
+
+Generated: ja sellele tuleks teha sõltumatu analüüs 
+Subtitle: ja sellele tuleks teha sõltumatu analüüs 
+Similarity: 1.0000000000000002
+
+Generated: vähemalt sama tõsise ettevõtte kaasabil, nagu seda on 
+Subtitle: vähemalt sama tõsise ettevõtte kaasabil, kui seda on Ernst & Young. 
+Similarity: 0.668153104781061
+
+Generated: Estland, Jiang, vastasel juhul me ei saa seda üldse usaldada, 
+Subtitle: Vastasel juhul ei saa me seda üldse usaldada. 
+Similarity: 0.894427190999916
+
+Generated: see on tehtud iseendale, see riba. Ja ma vastan, 
+Subtitle: See äriplaan on iseendale tehtud. - Ma vastan. 
+Similarity: 0.9088932591463857
+
+Generated: et need ei ole minu välja mõeldud numbrid, 
+Subtitle: Need ei ole minu välja mõeldud numbrid. 
+Similarity: 0.970142500145332
+
+Generated: need on Soome transpordiministeeriumi 
+Subtitle: Need on Soome transpordiministeeriumi... - Valetavad! 
+Similarity: 0.9354143466934852
+
+Generated: antud. Okei, kõik riigid, kõik valetavad, kes on teie vastu 
+Subtitle: Okei, valetavad kõik riigid, kes on teie vastu. 
+Similarity: 0.8155724192496482
+
+Generated: ja küsimus ongi siin tegelik, et usus et me kõik usume 
+Subtitle: Siin ongi küsimus usus. Me kõik usume jumalat, 
+Similarity: 0.7970811413304555
+
+Generated: nagu jumalat, aga ühe jumala nimi on alla ja teise nimi on Jeesus 
+Subtitle: aga ühe jumala nimi on Allah ja teise nimi on Jeesus. 
+Similarity: 0.9082951062292476
+
+Generated: ja ühed on ühest ühe ühe usu toetajaid, teised on teise usu toetajad. 
+Subtitle: Ühed on ühe usu toetajad, teised teise usu toetajad. 
+Similarity: 0.9209726620845753
+
+Generated: Et siit see kahjuks see piir läheb ja, ja midagi ei ole teha, 
+Subtitle: Kahjuks siit see piir läheb ja midagi ei ole teha. 
+Similarity: 0.9203579866168445
+
+Generated: aga ma tahtsin seda öelda, et selline raudteetrassiga trass või selline koridor ei ole midagi unikaalset Euroopas, 
+Subtitle: Tahtsin öelda, et selline raudteetrass või koridor ei ole Euroopas unikaalne. 
+Similarity: 0.8300573566392896
+
+Generated: neid on tehtud Hispaanias, Prantsusmaal Saksamaal erinevates riikides 
+Subtitle: Neid on tehtud Hispaanias, Prantsusmaal, Saksamaal, erinevates riikides. 
+Similarity: 1.0
+
+Generated: ja tegelikult vaadake tõele otsa. 
+Subtitle: Vaadake tõele otsa: 
+Similarity: 0.8164965809277261
+
+Generated: Kõik need on, need omavalitsused on võitnud, kus see raudtee on läbi läinud, 
+Subtitle: on võitnud nii need omavalitsused, kust raudtee läbi on läinud, 
+Similarity: 0.9029920547884625
+
+Generated: kõik need riigid on võitnud. See ei ole midagi unikaalset, 
+Subtitle: kõik riigid on võitnud. See ei ole midagi unikaalset. 
+Similarity: 0.9843241382880894
+
+Generated: see on lihtsalt ühe väga hea projekti ülekandmine. Baltikumi aitäh. 
+Subtitle: See on lihtsalt ühe väga hea projekti üle kandmine Baltikumi. Aitäh. 
+Similarity: 0.9095085938862486
+
+Generated: Olev Tinn, Erakond Eestimaa Rohelised 
+Subtitle: Palun. - Olev Tinn, erakond Eestimaa Rohelised. 
+Similarity: 0.9128709291752769
+
+Generated: ma tahangi öelda, et siin on küsimus usus 
+Subtitle: Ma tahangi öelda, et siin on küsimus usus. 
+Similarity: 1.0
+
+Generated: aga samas on küsimus ka majandusarvestuses, 
+Subtitle: Aga samas on küsimus ka majandusarvestuses. 
+Similarity: 0.9999999999999999
+
+Generated: et kui millegipärast tundub, et noh, ministeerium on meil väga optimistlik 
+Subtitle: Tundub, et ministeerium on meil väga optimistlik 
+Similarity: 0.7980238751210128
+
+Generated: ja väga usub, et see projekt õnnestub. 
+Subtitle: ja väga usub, et see projekt õnnestub. 
+Similarity: 0.9999999999999998
+
+Generated: Aga küsimus on selles, et kui see projekt natukenegi ebaõnnestub, 
+Subtitle: Aga küsimus on selles, et kui projekt natukenegi ebaõnnestub, 
+Similarity: 0.9737289911202953
+
+Generated: siis need kahjumid on sadades miljonites eurodes. 
+Subtitle: siis kahjumid on sadades miljonites eurodes. 
+Similarity: 0.9486832980505138
+
+Generated: Ja küsimus on väga lihtne, et mille arvelt seda katma hakatakse. 
+Subtitle: Küsimus on väga lihtne. Mille arvelt seda katma hakatakse? 
+Similarity: 0.9393364366277241
+
+Generated: Kas see tuleb haigekassa arvelt, kas see tuleb päästeameti arvelt 
+Subtitle: Kas see tuleb haigekassa, päästeameti arvelt? 
+Similarity: 0.9622504486493764
+
+Generated: ja siin on, me loeme, kas siis inimelusid, mida Eesti enam ei päästa? 
+Subtitle: Siin loeme inimelusid, mida Eesti enam ei päästa. 
+Similarity: 0.760885910252682
+
+Generated: Palav, tahan öelda seda, et me oleme mõnes mõttes nagu hea näide. 
+Subtitle: Tahan öelda, et olen mõnes mõttes hea näide. 
+Similarity: 0.7302967433402212
+
+Generated: Mulle iseenesest transpordikoridoride ehitamine meeldib. 
+Subtitle: Mulle iseenesest transpordikoridoride ehitamine meeldib. 
+Similarity: 1.0
+
+Generated: See on, me ei oska öelda, mismoodi see kasulik 
+Subtitle: Me ei oska öelda, mismoodi see kasulik on. 
+Similarity: 0.9669875568304563
+
+Generated: on ja tegelikult me ei saagi seda öelda. 
+Subtitle: Tegelikult me ei saagi seda öelda. 
+Similarity: 0.7385489458759965
+
+Generated: Kõige õudsem selle arutelu juures on see, 
+Subtitle: Kõige õudsam selle arutelu juures on see, 
+Similarity: 0.916666666666667
+
+Generated: et istuvad inimesed, kes ütlevad, et nagu eksperdid 
+Subtitle: et istuvad inimesed, kes ütlevad, et nad on eksperdid, 
+Similarity: 0.727606875108999
+
+Generated: ja ennustavad majandust 10 või isegi 30 aastat ette. 
+Subtitle: ja ennustavad majandust 10 või isegi 30 aastat ette. 
+Similarity: 1.0
+
+Generated: See on, saage aru, sama jabur 
+Subtitle: See on sama jabur kui küsida: 
+Similarity: 0.6735753140545635
+
+Generated: ülesanne, kui küsida, kui palju maksab aastal 2037 esimesel jaanuaril leib Pekingi kesklinnas 
+Subtitle: kui palju maksab 1. jaanuaril 2037 leib Pekingi kesklinna jüaanides? 
+Similarity: 0.8333333333333335
+
+Generated: Juan siis seda ei ole võimalik ette ennustada. 
+Subtitle: Seda ei ole võimalik ennustada. 
+Similarity: 0.7905694150420948
+
+Generated: Ja nüüd on süsteemide mingid protsessid on ju enam-vähem jälgida, me näeme 
+Subtitle: Süsteemida ja protsessid on jälgitavad. Me näeme, mismoodi on asjad... 
+Similarity: 0.8006407690254358
+
+Generated: ju edasi ja ma tulen tagasi selle juurde, 
+Subtitle: Protsessid on keerukamad. 
+Similarity: 0.0
+
+Generated: kus Raivo Vare arvas, et ma 
+Subtitle: Ma tulen tagasi selle juurde, kus Raivo Vare arvas, 
+Similarity: 0.6804138174397717
+
+Generated: räägin mingist vandenõust ja ma ei räägi vandenõus. 
+Subtitle: et ma räägin mingist vandenõust. Ma ei räägi vandenõust. 
+Similarity: 0.894427190999916
+
+Generated: See ei ole vandenõu, 
+Subtitle: See ei ole vandenõu. 
+Similarity: 1.0
+
+Generated: see on lihtsalt ehe kommunikatiivne rumaluse 
+Subtitle: See on ehe kommunikatiivne rumalus ja käpardlikkus, 
+Similarity: 0.8432740427115679
+
+Generated: käppartlikus, mismoodi Rail Baltica korraldatakse ja ma seletan kohe, 
+Subtitle: mismoodi Rail Balticut korraldatakse. Seletan kohe. 
+Similarity: 0.6804138174397717
+
+Generated: miks ja selles mõttes noh, ta on osav nii-öelda propagandist teab, et kui öelda, et 
+Subtitle: Vare on osav propagandist ja teab, et kui öelda, et see on vandenõu, 
+Similarity: 0.7627127698096902
+
+Generated: see on vandenõu, siis kõige voo see ongi vandenõus ei 
+Subtitle: siis kõik ütlevad, et see ongi vandenõu. See ei ole vandenõu. 
+Similarity: 0.8315218406202998
+
+Generated: ole vaatajale. Aga küsimus on väga põhimõtteline. 
+Subtitle: Küsimus on väga põhimõtteline. 
+Similarity: 0.9091372900969896
+
+Generated: Meil on vaja teada nende inimeste võimekust lahendada, see keeruline ülesanne, 
+Subtitle: Meil on vaja teada nende inimeste võimekust lahendada keeruline ülesanne. 
+Similarity: 0.9707253433941511
+
+Generated: peab, see jääbki ja, ja vaadake, see keeruline ülesanne ei ole ainult seotud sellega, 
+Subtitle: See keeruline ülesanne ei ole seotud ainult sellega, 
+Similarity: 0.8652899256018456
+
+Generated: kuidas see transpordikoridor töötab, vaid see keeruline ülesanne eeldab ökoloogia 
+Subtitle: kuidas transpordikoridor töötab. See keeruline ülesanne eeldab ökoloogia, 
+Similarity: 0.9185586535436917
+
+Generated: tehnoloogia parimate asjatundjate kaasamist, 
+Subtitle: tehnoloogia parimate asjatundjate kaasamist. 
+Similarity: 1.0
+
+Generated: mida me ei tea, kas täna on tehtud 
+Subtitle: Me ei tea, kas seda on tehtud. 
+Similarity: 0.8610567718228918
+
+Generated: sellepärast et Lisaks sellele, et ta tehniliselt toimiks 
+Subtitle: Lisaks sellele, et see tehniliselt toimiks, 
+Similarity: 0.7826237921249264
+
+Generated: peab 21. sajandil ehitatud nii suur 
+Subtitle: peab 21. sajandil ehitatud nii suur infrastruktuurne süsteem 
+Similarity: 0.9393364366277241
+
+Generated: infrastruktuur, on süsteem olema ka ökoloogiliselt arukas? Ma ei tea, kes seda teevad, ma ei tea, 
+Subtitle: olema ka ökoloogiliselt arukas. Ma ei tea, kes seda teevad. 
+Similarity: 0.882522608121828
+
+Generated: mis on nende inimeste Siivid, ma ei tea, 
+Subtitle: Ma ei tea, mis on nende inimeste CV-d. 
+Similarity: 0.8685990362153793
+
+Generated: mida nad on teinud ja see umbusk Me 
+Subtitle: Ma ei tea, mida nad on teinud. Ja see umbusk minus süveneb. 
+Similarity: 0.9292837111948395
+
+Generated: oleme sellest aru saanud, ministeerium lubanud, 
+Subtitle: Me oleme sellest aru saanud. Ministeerium on lubanud, 
+Similarity: 0.923869770874312
+
+Generated: et need nimed tekivad sinna, kes seda juhib. Palun, 
+Subtitle: et seda juhtijate nimed tekivad sinna. Palun. 
+Similarity: 0.7071067811865475
+
+Generated: aga otsus tuleb ju enne kui nime. 
+Subtitle: Aga otsus tuleb ju enne kui nimed! 
+Similarity: 1.0
+
+Generated: Tundub see, et me räägime kogu aeg üks aiast ja teine aiaaugust 
+Subtitle: Tundub, et kogu aeg räägib üks aiast, teine aiaaugust. 
+Similarity: 0.9128709291752769
+
+Generated: ja ega seda ei ole võimalik ära rääkida, 
+Subtitle: Seda ei ole võimalik ära rääkida. 
+Similarity: 0.8660254037844388
+
+Generated: mõlemad pooled on väga kindlalt oma seisukohal 
+Subtitle: Mõlemad pooled on väga kindlalt oma seisukohal. 
+Similarity: 1.0
+
+Generated: mõlemad kolm poolt, mõlemad kolm poolt 
+Subtitle: Mõlemad kolm poolt! - Mõlemad kolm poolt, jah. 
+Similarity: 0.960768922830523
+
+Generated: ja et ja kui mina ei saa ka sellest aru, et kui keegi räägib, 
+Subtitle: Mina ka ei saa sellest aru, kui keegi räägib, 
+Similarity: 0.816496580927726
+
+Generated: et kuskilt tulevad kaubad ja meeletud mahud, 
+Subtitle: et kuskilt tulevad kaubad ja meeletud mahud. 
+Similarity: 0.9999999999999998
+
+Generated: siis miks nad täna selle raudtee peale sõidab, mis täna olemas on? 
+Subtitle: Miks nad siis täna selle raudtee peal ei sõida, mis olemas on? 
+Similarity: 0.9237604307034013
+
+Generated: Kui me räägime mahtudest, et võiks ju Soomest need kaubad tulla meie sadamatesse, 
+Subtitle: Kui räägime mahtudest. Võiks ju Soomest tulla kaubad meie sadamatesse, 
+Similarity: 0.915208630644859
+
+Generated: mis mille infolaadsus tuur on meil väga hea ja hakata minema 
+Subtitle: mille infrastruktuur on väga hea, ja hakata minema. 
+Similarity: 0.858629662869379
+
+Generated: teist poolt vaadata siis siiamaani, mis on Rail Balticu tehtud. 
+Subtitle: Kui teistpoolt vaadata, siis siiamaani on Rail Balticut tehtud, 
+Similarity: 0.7329409123199366
+
+Generated: Ega Eesti riik peab mütsi maha võtma nende eest nagu süte tundmatud kirjas, nüüd ei ole, kes 
+Subtitle: Eesti riik peab mütsi maha võtma nende tundmatute ees, keda kirjas ei ole. 
+Similarity: 0.7298004491997616
+
+Generated: nad on, aga kõik, kes on seal taga olnud, on väga head tööd teinud. 
+Subtitle: Aga kõik, kes seal taga on, on väga head tööd teinud. 
+Similarity: 0.9024731748508102
+
+Generated: Eesti Raudtee, et on renoveeritud trammitee jõuab kohe-kohe lennujaama. 
+Subtitle: Eesti raudteed on renoveeritud, trammitee jõuab kohe lennujaama. 
+Similarity: 0.9271050693011065
+
+Generated: Nüüd vaatame, mida lätlased teevad. 
+Subtitle: Nüüd vaatame, mida lätlased teevad. 
+Similarity: 0.9999999999999998
+
+Generated: Lätlased ma istusin eelmine nädal koos nendega 
+Subtitle: Istusin eelmine nädal nendega Tartus koos. 
+Similarity: 0.7715167498104596
+
+Generated: Tartus ja seal ma mu kolleegidel, et väga lihtne 
+Subtitle: Seal mu kolleeg ütleb, et väga lihtne, 
+Similarity: 0.7977240352174656
+
+Generated: meil on vaja teha väga selgelt ja Riia raudteejaam korda. 
+Subtitle: väga selgelt on vaja teha Riia raudteejaam korda 
+Similarity: 0.9198662110078
+
+Generated: No meil on vaja väga head kiiret ühendust raudteejaama ja lennujaama vahel. 
+Subtitle: ja väga head kiiret ühendust raudteejaama ja lennujaama vahel. 
+Similarity: 0.7006490497453706
+
+Generated: Ma ütlen, et gei meile pakutakse 80 protsendiga raha 20, ise panna. 
+Subtitle: Ma ütlen, et okei, meile pakutakse 80% raha, 20 tuleb ise panna. 
+Similarity: 0.8823529411764706
+
+Generated: Võtame, lepime täna siis kokku, et mis on Eestil vaja, 
+Subtitle: Lepime täna siis kokku, mida on Eestile vaja. 
+Similarity: 0.939336436627724
+
+Generated: vaatan Pärnu linna peal otsa, selge see raudtee, mis täna Pärnu läheb, 
+Subtitle: Vaatan Pärnu linnapeale otsa. Selge, see raudtee, mis täna Pärnusse läheb... 
+Similarity: 0.8426648406178137
+
+Generated: on kas noh, keegi ministritest soovib seda renoveerima hakata 
+Subtitle: Kui keegi ministritest soovib seda renoveerima hakata 
+Similarity: 0.5477225575051663
+
+Generated: ja siis seitsme aasta pärast Rail 
+Subtitle: ja seitsme aasta pärast sinna Rail Balticut ehitama hakata. 
+Similarity: 0.6454972243679029
+
+Generated: Baltica näitama. Lepime siis kokku, teeme oma raudteejaama, 
+Subtitle: Lepime siis kokku. Teeme oma raudteejaama, 
+Similarity: 0.8660254037844388
+
+Generated: Ülemiste termi, transpordikeskuse valmis, mida on vaja nii või 
+Subtitle: Ülemiste transpordikeskuse valmis. Seda on nii või naa vaja. 
+Similarity: 0.7453559924999299
+
+Generated: naapidi ja hakkame siis tallinna poolt ehitama raudteed Pärnu poole. 
+Subtitle: Ja hakkame siis Tallinna poolt ehitama raudteed Pärnu poole. 
+Similarity: 0.9534625892455924
+
+Generated: Aga. Kui ma praegu olen, räägitakse vastupidist juttu, 
+Subtitle: Aga praegu kuulen, räägitakse vastupidist juttu, 
+Similarity: 0.6154574548966638
+
+Generated: et tahetakse piiri. Poolt hakata Pärnu 
+Subtitle: et tahetakse piiri poolt hakata Pärnu poole viima. Teate, sõbrad, 
+Similarity: 0.7745966692414834
+
+Generated: poole filme, teatrisõbrad Tallinna lennujaam on kindlasti meie jaoks Eesti majanduse jaoks olulisem 
+Subtitle: Tallinna lennujaam on kindlasti Eesti majanduse jaoks Riia omast olulisem. 
+Similarity: 0.7844645405527363
+
+Generated: kui Riia lennujaam, nii et raha tuleb ära korjata. Kui keegi ütleb, et see raha tuleks tagasi Euroopa Liidule anda, 
+Subtitle: Raha tuleb ära korjata. Kui keegi ütleb, et see raha tuleks EL-ile tagasi anda, 
+Similarity: 0.8625819491779427
+
+Generated: siis ma vaidleks vastu. 
+Subtitle: siis ma vaidleks vastu. 
+Similarity: 1.0
+
+Generated: Aga teistpidi võttes teeks need asjad ära, mida Eesti riigil nagunii on vaja teha, 
+Subtitle: Aga teeks ära need asjad, mida Eesti riigil nagunii on vaja teha. 
+Similarity: 0.9534625892455922
+
+Generated: kui need on tehtud diskaks 1021. Me saame alles teada, 
+Subtitle: Kui need on tehtud, siis 2021 me saame alles teada, 
+Similarity: 0.9200000000000002
+
+Generated: milline meie omaosalus on järgmisel rahastusperioodi. 
+Subtitle: milline on me omaosalus järgmisel rahastusperioodil. 
+Similarity: 1.0
+
+Generated: See ei ole mitte enam ei 15 ja 20 protsenti, vaid on kindlasti suurem. 
+Subtitle: See ei ole enam 15 või 20 protsenti, on kindlasti suurem. 
+Similarity: 0.8846517369293829
+
+Generated: Seda ütlevad kõik Euroopa Liidu komisjon, komitee see oli ametnikud, kes on meil külas käinud, 
+Subtitle: Seda ütlevad kõik EL-i komisjoni ametnikud, kes on meil külas käinud. 
+Similarity: 0.9217866018475814
+
+Generated: nüüd sellise protsendiga enam ei saa. Ja ma arvan, et siin toas oleks rahu palju suurem, 
+Subtitle: Sellise protsendiga enam ei saa. Arvan, et siin oleks rahu palju suurem, 
+Similarity: 0.8660254037844388
+
+Generated: kui me teame, et me teeme 
+Subtitle: kui teame, et teeme neid asju, 
+Similarity: 0.7035264706814485
+
+Generated: neid, kes Eesti riigile ja Eesti inimestele vajalikud 
+Subtitle: mis Eesti riigile ja inimestele vajalikud on. 
+Similarity: 0.46153846153846156
+
+Generated: parlamendis juba poisi silme või mina olen üks 
+Subtitle: Parlamendis jõuab asi sinnani? - Mina olen üks saja ühest. 
+Similarity: 0.6915640748081247
+
+Generated: 101-st, et seal on ikkagi 100 veel. Kas tohib, 
+Subtitle: Seal on ikkagi sada veel. - Kas tohib? 
+Similarity: 0.8215838362577492
+
+Generated: no esiteks, ma ei saa tõesti aru, kuskohast need numbrid võetud on, 
+Subtitle: Esiteks, ma ei saa tõesti aru, kust on võetud need numbrid, 
+Similarity: 0.9363821838346237
+
+Generated: mis tulevad ka, mis need Aivar Koka suust tulid, aga, aga see 
+Subtitle: mis tulevad ja mis Aivar Koka suust tulid. Aga see selleks. 
+Similarity: 0.9534625892455922
+
+Generated: selleks? Kui nüüd päriselt, kui päriselt numbritest rääkida, 
+Subtitle: Ma ei öelnud ühtegi numbrit. - Kui päriselt numbritest rääkida, 
+Similarity: 0.5204164998665333
+
+Generated: siis siis kuidas saab olla Tallinnast läbi Pärnu Riiga 
+Subtitle: siis kuidas saab Tallinnast läbi Pärnu Riiga mineval raudteel olla kaupa, 
+Similarity: 0.8181818181818181
+
+Generated: minema raudteekaupa, kui seda raudteed ei ole? 
+Subtitle: kui seda raudteed ei ole? 
+Similarity: 0.8944271909999159
+
+Generated: Ja siis oleks mõistlik äkki vaadates seda, mis toimub maanteedel? 
+Subtitle: Siis oleks mõistlik vaadata seda, mis toimub maanteedel. 
+Similarity: 0.9198662110077999
+
+Generated: Me oleme seda ka kõik see aeg öelnud, et raudteele tuleb kaup maanteedelt. 
+Subtitle: Olme kogu aeg öelnud ka, raudteele tuleb kaup maanteedelt. 
+Similarity: 0.7257747386024231
+
+Generated: Kui me võtame näiteks Ikla piiripunkti andmed, kus ööpäevas liigub 
+Subtitle: Kui võtame näiteks Ikla piiripunkti andmed, kus ööpäevas liigub 
+Similarity: 0.960768922830523
+
+Generated: üle piiri edasi-tagasi 1500 sadulveokit 
+Subtitle: üle piiri edasi-tagasi 1 500 sadulveokit, 
+Similarity: 1.0
+
+Generated: ja võtame siin näiteks paralleelina, 
+Subtitle: ja võtame sinna paralleelina 
+Similarity: 0.6708203932499369
+
+Generated: siis Valga-Valka, kus kohas arv on kordades väiksem, 
+Subtitle: Valga- Valka, kus see arv on kordades väiksem. 
+Similarity: 0.6689936080056726
+
+Generated: kui ma õigesti mäletan, see oli vist 300 tükki neid autosid siis 
+Subtitle: Kui ma õigesti mäletan, siis oli neid autosid 300. 
+Similarity: 0.9101820546182066
+
+Generated: on, tekib küsimus, et mille pärast siis valitakse ka maanteed pidi 
+Subtitle: Siis seal tekkib küsimus: mille pärast valitakse ka maanteid pidi 
+Similarity: 0.807207352795575
+
+Generated: sõites see, see Ikla piiripunkti, mitte palga oma. 
+Subtitle: sõites Ikla piiripunkt ja mitte Valga oma? 
+Similarity: 0.5976143046671969
+
+Generated: No miskipärast ma ise arvan, et äkki seetõttu, 
+Subtitle: Miskipärast ma ise arvan, et äkki seetõttu, 
+Similarity: 0.9534625892455924
+
+Generated: et tegemist on siis lühema teega, mida on nagu mõistlik kasutada, eks ole. 
+Subtitle: et tegemist on lühema teega, mida on mõistlik kasutada. 
+Similarity: 0.9188458377475335
+
+Generated: Nüüd kui selle Riia juurde tagasi tulla, no ma ei, ma tõesti 
+Subtitle: Kui Riia juurde tagasi tulla... Ma tõesti ei usu, 
+Similarity: 0.840168050416806
+
+Generated: ei usu, et et Läti peaminister ei olnud teadlik, 
+Subtitle: et Läti peaminister ei olnud teadlik, 
+Similarity: 0.9358192003574064
+
+Generated: millele ta selle kolme riigi vahelise kokkuleppe puhul alla kirjutab. 
+Subtitle: millele ta kolme riigi vahelise kokkuleppe puhul alla kirjutab. 
+Similarity: 0.960768922830523
+
+Generated: Et et, et me räägime sellest, et kolm Balti riiki leppisid kokku, 
+Subtitle: Me räägime sellest, et kolm Balti riiki leppisid kokku, 
+Similarity: 0.816496580927726
+
+Generated: et nad ehitavad Rail Baltic valmis 
+Subtitle: et nad ehitavad Rail Balticu valmis. 
+Similarity: 0.8333333333333335
+
+Generated: noh, kui nüüd lätlased peaks olema mingisugune suur kaval plaan 
+Subtitle: Kui lätlastel peaks olema mingi suur kaval plaan... 
+Similarity: 0.8362420100070908
+
+Generated: noh seda lätlaste valetamises süüdistamisest 
+Subtitle: Lätlaste valetamises süüdistamisel... 
+Similarity: 0.7745966692414834
+
+Generated: samas teistpidi võttes noh, ega meie paralleel on sarnane, 
+Subtitle: Teistpidi võttes on meie paralleel sarnane. 
+Similarity: 0.8660254037844387
+
+Generated: eks ole, kui Riia räägib, eks ole, Riia ringi ja lennujaama ning raudteejaama 
+Subtitle: Kui Riia räägib Riia ringi, raudteejaama ja lennujaama välja ehitamisest. 
+Similarity: 0.7156264473321343
+
+Generated: väljaehitamist kõigepealt me oleme samamoodi alustanud tulevase Rail Balticu Ülemiste terminali 
+Subtitle: Oleme sama moodi alustanud tulevase Rail Balticu Ülemiste terminali 
+Similarity: 0.8432740427115679
+
+Generated: ning ning Tallinna lennujaama vahelise trammide ehitusega. 
+Subtitle: ning Tallinna lennujaama vahelise trammitee ehitusega. 
+Similarity: 0.816496580927726
+
+Generated: Samamoodi on meil raha 
+Subtitle: Samamoodi on meil rahad olemas 
+Similarity: 0.9819805060619656
+
+Generated: tulemas nii ülemiste kui Pärnu raudteejaamade 
+Subtitle: nii Ülemiste kui Pärnu raudteejaamade valmis ehitamiseks. 
+Similarity: 0.8432740427115679
+
+Generated: valmisehitamiseks, mis on samamoodi kasutatavad nii 14 35 kui 15 20, laiusega raudteede 
+Subtitle: Need on samuti kasutatavad 1435 kui 1520 laiusega raudteedel. 
+Similarity: 0.6055300708194982
+
+Generated: jaoks. Samamoodi on plaanis ka Vanasadamat ning Ülemiste terminali 
+Subtitle: On plaanis Vanasadamat ning Ülemiste terminali ühendav trammitee. 
+Similarity: 0.7833494518006403
+
+Generated: ühendab trammide lihtsalt sellepärast, et me nüüd võiksime või peaksime rohkem raha kulutama. 
+Subtitle: Lihtsalt selle pärast, et võiksime või saaksime rohkem raha kulutada, 
+Similarity: 0.5916079783099617
+
+Generated: Me, me ei hakka ju nüüd Tallinna lennujaama nüüd liigutama kuskile kaugemale 
+Subtitle: ei hakka me ju Tallinna lennujaama liigutama kuskile kaugemale, 
+Similarity: 0.8436614877321075
+
+Generated: selleks et sinna juurde siis tekitada mingisugune kiirraudtee 
+Subtitle: et sinna juurde siis tekitada kiirraudtee, 
+Similarity: 0.8660254037844388
+
+Generated: seda kauged lennujaama siis ühendada raudteed pidi. Et 
+Subtitle: et seda kauget lennujaama ühendada raudteed pidi. 
+Similarity: 0.9354143466934852
+
+Generated: seal oleks, oleks väga kummaline. 
+Subtitle: See oleks väga kummaline. - Palun. 
+Similarity: 0.6761234037828132
+
+Generated: Mihkel Kangur, Eesti Geograafia Selts. 
+Subtitle: Mihkel Kangur, Eesti Geograafia Selts. 
+Similarity: 1.0
+
+Generated: See on hästi huvitav jälgida televaatajal kindlasti, 
+Subtitle: Televaatajal on kindlasti hästi huvitav jälgida, 
+Similarity: 0.9486832980505138
+
+Generated: kuidas hästi osavalt liigutakse esimesest küsimusest, 
+Subtitle: kuidas hästi osavalt liigutakse esimesest küsimusest, 
+Similarity: 1.0000000000000002
+
+Generated: mis jäetakse vastamata kohe majandusküsimuse juurde, 
+Subtitle: mis jäetakse vastamata, kohe majandusküsimuse juurde, 
+Similarity: 0.9999999999999999
+
+Generated: sest et see on ainus argument, mis on veel Rail Baltica puhul jäänud, 
+Subtitle: sest see on ainus argument, mis on Rail Balticu puhul jäänud. 
+Similarity: 0.9476966276867814
+
+Generated: milles meid üritatakse meid veenda, 
+Subtitle: Meid üritatakse nüüd veenda, 
+Similarity: 0.6324555320336759
+
+Generated: et, et majanduslikult see asi tasub meil ikkagi ära. 
+Subtitle: et majanduslikult tasub see asi ikkagi ära. 
+Similarity: 0.9116846116771036
+
+Generated: Tuletan meelde, saade algas küsimusega. 
+Subtitle: Tuletan meelde, et saade algas küsimusega: 
+Similarity: 0.912870929175277
+
+Generated: Kas see trass, mis on praegusel hetkel aluseks võetud, 
+Subtitle: kas see trass, mis on praegusel hetkel aluseks võetud, 
+Similarity: 1.0
+
+Generated: on optimaalseim lahendus, meie jaoks? 
+Subtitle: on optimaalseim lahendus meie jaoks? 
+Similarity: 0.9999999999999998
+
+Generated: Sellist vastust ei ole me saanud, 
+Subtitle: Sellist vastust ei ole me saanud. 
+Similarity: 1.0
+
+Generated: sellist vastust on ainult ühes dokumendis öeldud. 
+Subtitle: Sellist vastust on ainult ühes dokumendis öeldud, 
+Similarity: 1.0
+
+Generated: Mis on aekumi uuring? Vabandage väga, 
+Subtitle: see on AECOM-i uuring. Vabandage väga, 
+Similarity: 0.6139406135149206
+
+Generated: üheski Eesti ülikoolis ei kirjutata nii kehva magistritööd 
+Subtitle: üheski eesti ülikoolis ei kirjutata nii kehva magistritööd, 
+Similarity: 1.0
+
+Generated: kui seal on käsitletud keskkonnaküsimused. 
+Subtitle: kui seal keskkonnaküsimusi on käsitletud. 
+Similarity: 1.0
+
+Generated: Tegu on klassikalises mõttes ühisvara tragöödia juhtumiga. 
+Subtitle: Tegu on klassikalises mõttes ühisvara tragöödia juhtumiga. 
+Similarity: 1.0
+
+Generated: Neil on. Üritatakse veenda, et, et vaadake 
+Subtitle: Meid üritatakse veenda, et vaadake, 
+Similarity: 0.6454972243679029
+
+Generated: majanduslikult otseselt see raudtee ära ei tasu, 
+Subtitle: majanduslikult otseselt see raudtee ära ei tasu, 
+Similarity: 0.9999999999999998
+
+Generated: aga võtame aluseks laiema pildi, katsuge aru saada, 
+Subtitle: aga võtame aluseks laiema pildi, katsuge aru saada, 
+Similarity: 1.0
+
+Generated: siis see tuleb meile kõigile kasuks. Õnneks on meil 
+Subtitle: siis see tuleb meile kõigile kasuks. Õnneks on meil olemas objektid, 
+Similarity: 0.9561828874675149
+
+Generated: näha olemasobjektid Saaremaa süvasadam Koidula piiripunkt, kus olid need täpselt needsamad argumendid 
+Subtitle: Saaremaa süvasadam, Koidula piiripunkt, kus olid täpselt samad argumendid. 
+Similarity: 0.769800358919501
+
+Generated: käisid kui me tahame neid võrrelda seda kas kui meil on vaja seda ühendust, 
+Subtitle: Kui tahame neid võrrelda seda, kas meil on vaja seda ühendust, 
+Similarity: 0.934892788611849
+
+Generated: ma usun, et meil on vaja seda head ühendust. 
+Subtitle: usun, et meil on vaja seda head ühendust. 
+Similarity: 0.9669875568304563
+
+Generated: Et me peame võrdlema asju võrreldavatel alustel, 
+Subtitle: Peame võrdlema asju võrreldavatel alustel. 
+Similarity: 0.8660254037844388
+
+Generated: tahate võrrel öelda, et majanduslikult tuleb vaadata laia pilti, 
+Subtitle: Tahate öelda, et majanduslikult tuleb vaadata laia pilti, 
+Similarity: 0.9428090415820632
+
+Generated: siis seda tuleb vaadata ka keskkonna puhul 
+Subtitle: siis tuleb seda vaadata ka keskkonna puhul 
+Similarity: 0.9999999999999998
+
+Generated: ja sotsiaalsete küsimuste puhul. 
+Subtitle: ja sotsiaalsete küsimuste puhul. 
+Similarity: 1.0
+
+Generated: Ja keskkonnaküsimuste puhul on selleks olemas 
+Subtitle: Ja keskkonnaküsimuste puhul on selleks olemas 
+Similarity: 1.0000000000000002
+
+Generated: väga head metoodikat paarkümmend aastat juba üle maailma kasutusel 
+Subtitle: väga head metoodikad kasutusel paarkümmend aastat üle maailma. 
+Similarity: 0.9428090415820632
+
+Generated: on ökosüsteemi teenused. 
+Subtitle: On ökosüsteemi teenused. 
+Similarity: 1.0000000000000002
+
+Generated: Vaatame, kui palju me kaotame ökosüsteemi teenuseid tänu sellele, 
+Subtitle: Vaatame, kui palju me kaotame ökosüsteemi teenuseid tänu sellele, 
+Similarity: 1.0000000000000002
+
+Generated: et me rajame uue trassi, kui me kasutaksime olemasolevat trassi, kui 
+Subtitle: et rajame uue trassi, kui kasutaksime olemasolevat trassi. 
+Similarity: 0.8755445444618281
+
+Generated: palju me kaotamised, kui palju läheks maksma see, kui 
+Subtitle: Kui palju me kaotame? Kui palju läheks maksma see, 
+Similarity: 0.9600000000000002
+
+Generated: nende kaotatud ökosüsteemi teenused tuleb taastada kusagil mujal, 
+Subtitle: kui kaotatud ökosüsteemi teenused tuleb taastada kusagil mujal? 
+Similarity: 0.8677218312746245
+
+Generated: kus kui meil kõik läheme raudteega läbi soo siis see tähendab seda, 
+Subtitle: Kui läheme raudteega läbi soo, siis see tähendab, 
+Similarity: 0.8189230248533257
+
+Generated: et kogu see soo kaob ta hädroloogiline režiim muutub, 
+Subtitle: et kogu see soo kaob. Ta hüdroloogiline režiim muutub, 
+Similarity: 0.9
+
+Generated: ta kaotab enda senised ökosüsteemi teenuste väärtused 
+Subtitle: ta kaotab senised ökosüsteemide väärtused. 
+Similarity: 0.8451542547285166
+
+Generated: siis need tuleb taastada kusagil mujal 
+Subtitle: Siis tuleb need kusagil mujal taastada. 
+Similarity: 1.0000000000000002
+
+Generated: ja need tuleb panna nüüd majandusliku arvestusse juurde. 
+Subtitle: Ja need tuleb majanduslikku arvestusse juurde panna, 
+Similarity: 0.9354143466934852
+
+Generated: Samamoodi see küsimus, kui kaob näiteks ühendus Viljandiga, 
+Subtitle: sama moodi see küsimus, kui kaob näiteks ühendus Viljandiga. 
+Similarity: 0.8703882797784892
+
+Generated: missugused on sellised sotsiaalsed mõjud? 
+Subtitle: Mis on selle sotsiaalsed mõjud? 
+Similarity: 0.6396021490668312
+
+Generated: Et paluks tulla saate alguse küsimuse juurde tagasi, 
+Subtitle: Paluks tulla saate alguse küsimuse juurde tagasi. 
+Similarity: 0.9354143466934852
+
+Generated: millel põhineb väide, et see trass on Eestile kõige kasulikum? 
+Subtitle: Millel põhineb väide, et see trass on Eestile kõige kasulikum? 
+Similarity: 0.9999999999999999
+
+Generated: Palun, kust me tahame vastata? Selle küsimusele 
+Subtitle: Palun. Kas me tahame vastata sellele küsimusele? 
+Similarity: 0.857142857142857
+
+Generated: valmis masina veel vastutamatus, paluksin, ma võin vastata 
+Subtitle: Kas oleme valmis vastama? - Mina võin vastata. - Palun. 
+Similarity: 0.6708203932499369
+
+Generated: sellele küsimusele, et see põhineb ilmselt sellel ühel põhilisel põhjusel, 
+Subtitle: See põhineb ilmselt sellel, ühel põhilisel põhjusel, 
+Similarity: 0.9271726499455307
+
+Generated: miks seda trassi Eestis sedaviisi tahetakse rajada, 
+Subtitle: miks seda trassi Eestis sel viisil tahetakse rajada, 
+Similarity: 0.8770580193070293
+
+Generated: et me saame tohutu suure osa Euroopa rahast 
+Subtitle: et me saame tohutu suure osa Euroopa rahast 
+Similarity: 0.9999999999999998
+
+Generated: ja loll oleks seda jätta mitte võtmata 
+Subtitle: ja loll oleks jätta seda võtmata. 
+Similarity: 0.9258200997725514
+
+Generated: ja me saame selle suure osa Euroopa rahast, kui me sellise trassi rajama. 
+Subtitle: Saame suure osa Euroopa rahast, kui sellise trassi rajame. 
+Similarity: 0.8164965809277263
+
+Generated: See on ilmselt põhiline põhjus, miks seda uut rassi oleks vaja 
+Subtitle: See on ilmselt põhiline põhjus, miks uut trassi oleks vaja rajada. 
+Similarity: 0.9100315103865803
+
+Generated: ära ära ja see on ka ainukene põhjus. 
+Subtitle: Ja see on ka ainukene põhjus. 
+Similarity: 0.8320502943378436
+
+Generated: Aga nagu näha, näha tänasest vaate suurest hulgast ja sellest, 
+Subtitle: Aga nagu näha tänase saate suurest hulgast ja sellest, 
+Similarity: 0.894427190999916
+
+Generated: et üldse Eesti Televisioonis servad eetris on 
+Subtitle: et see Eesti Televisioonis üldse eetris on... 
+Similarity: 0.8999999999999999
+
+Generated: ja üldse sellest, et inimesed mulle tundub, et inimesed üle Eesti on hakanud lõpuks mõistma, 
+Subtitle: Mulle tundub, et inimesed üle Eesti on hakanud lõpuks mõistma, 
+Similarity: 0.9190074972809803
+
+Generated: mida me Rail Balticu nime all siis Eestile ja tegelikult saame. 
+Subtitle: mida me Rail Balticu nime all Eestile tegelikult saame. 
+Similarity: 0.9309493362512626
+
+Generated: Siin oli võrratu juttu sellest, mis lätlased saavad, 
+Subtitle: Siin oli õrnalt juttu sellest, mida lätlased saavad. 
+Similarity: 0.9090909090909092
+
+Generated: lätlased saavad seal Riia ühenduse, lennujaama, raudteejaama 
+Subtitle: Lätlased saavad Riia ühenduse lennujaama, raudteejaama 
+Similarity: 0.9258200997725514
+
+Generated: ja Riia ringi ühenduse. 
+Subtitle: ja Riia ringi ühenduse. 
+Similarity: 1.0
+
+Generated: Leedulased saavad Vilniuse ja Kaunase suurepärase ühenduse 
+Subtitle: Leedulased saavad Vilniuse ja Kaunase suurepärase ühenduse. 
+Similarity: 0.9999999999999998
+
+Generated: endale. Mida saavad eestlased 
+Subtitle: Mida saavad eestlased? 
+Similarity: 0.9258200997725515
+
+Generated: saavad ühe täiesti uue trassi läbi soode eemal asulatest. 
+Subtitle: Eestlased saavad ühe täiesti uue trassi läbi soode, eemal asulatest, 
+Similarity: 0.960768922830523
+
+Generated: Tuleb üles kaevata 
+Subtitle: kus tuleb üles kaevata maa, 
+Similarity: 0.8164965809277261
+
+Generated: maakonna peale kokku kolme aasta kruusa ja liivavarud 
+Subtitle: tuleb korraga kokku vedada kolme aasta kruusa- ja liivavarud, 
+Similarity: 0.7071067811865475
+
+Generated: terve selle trassile korraga. Nii et võid need aastate jooksul 
+Subtitle: tervele trassile korraga. Või aastate jooksul... 
+Similarity: 0.5892556509887897
+
+Generated: umbes niisama suur, me saame sellise läbi. Ei, ei kuskil tähja uue 
+Subtitle: Me saame sellise läbi ei-kuskil tühja uue raudtee, 
+Similarity: 0.47245559126153397
+
+Generated: Saudes elasema, nagu Mihkel Kangur viitas, Marek võiks kasutada 
+Subtitle: selle asemel et, nagu Mihkel Kangur viitas, võiks kasutada 
+Similarity: 0.7205766921228922
+
+Generated: olemasolevat asja, tõsi see tähendab seda, 
+Subtitle: olemasolevat trassi. Tõsi, see tähendab seda, 
+Similarity: 0.8749999999999998
+
+Generated: et kiirus reisirongidele jääb natukene madalamaks, 
+Subtitle: et kiirus reisirongidele jääb natukene madalamaks. 
+Similarity: 1.0000000000000002
+
+Generated: aga miks me ei võiks sõita 160 kilomeetrit tunnis Tallinnast Pärnusse 
+Subtitle: Aga miks me ei võiks sõita 160 km/h Tallinnast Pärnusse? 
+Similarity: 0.8894991799933216
+
+Generated: seal ja üle lasta lätlased-leedukad suudavad kiiresti, 
+Subtitle: Las lätlased ja leedulased sõidavad kiiresti. 
+Similarity: 0.3086066999241838
+
+Generated: me kaotame uut laias laastus veerand tundi Tallinnast 
+Subtitle: Tallinnast Pärnusse teel kaotame umbes veerand tundi. 
+Similarity: 0.5345224838248487
+
+Generated: Pärnust ja kas selle nimel tasub üles kaevata tervet maa? 
+Subtitle: Kas selle nimel tasub üles kaevata tervet maad? 
+Similarity: 0.9045340337332909
+
+Generated: Täitsa ma ütlen ka siin Poola Poolas näiteks tuima 
+Subtitle: Ütleksin veel. Näiteks Poolas, tuima rahuga, 
+Similarity: 0.6154574548966638
+
+Generated: rahuga täpselt samal trassil, mis ühendab meid selle raudteed pidi Euroopaga 
+Subtitle: täpselt samal trassil, mis ühendab meid raudteed pidi Euroopaga, 
+Similarity: 0.9258200997725516
+
+Generated: sõidetakse nende loodust säästvast 106 kilovatt-tundi siis miks me ei võiks olla sama targad 
+Subtitle: sõidetakse loodust säästvalt 160 km/h. Miks me ei võiks olla sama tark? 
+Similarity: 0.7514691493021793
+
+Generated: kui Poolal ja seepärast ma palun Riigikogu liikmed, kes siin on. 
+Subtitle: Sellepärast ma palun riigikogu liikmetel, kes siin on, 
+Similarity: 0.7768985960673558
+
+Generated: Ometigi ärge 
+Subtitle: et ärge ometigi ratifitseerige seda eelnõud, mis nii kaugele on läinud. 
+Similarity: 0.2773500981126146
+
+Generated: ratifitseerimise teel. Ja Savisaar saab kohe vastata, kas kavatseb. 
+Subtitle: Erki Savisaar saab kohe vastata. Kas kavatsete seda teha? 
+Similarity: 0.6324555320336759
+
+Generated: Jah, aitäh. Siin on minu meelest nagu kaks küsimust, mis lähevad sassi, 
+Subtitle: Jah, aitäh. Minu meelest on siin kaks küsimust, mis lähevad sassi. 
+Similarity: 0.8997354108424374
+
+Generated: esimene on see, et kas meil on vaja kiireid ühendusi Euroopaga 
+Subtitle: Esimene on: kas meil on vaja kiireid ühendusi Euroopaga? 
+Similarity: 0.9591663046625442
+
+Generated: ja ma arvan, et keegi ei vaidle vastu, et meil on vaja Euroopaga kiir kiireid ühendusi. 
+Subtitle: Keegi ei vaidle vastu, et meil on vaja Euroopaga kiireid ühendusi. 
+Similarity: 0.8916451401205645
+
+Generated: Nüüd küsimus, kas Rail Baltica piisavalt kiire? See on tõesti vaieldav 
+Subtitle: Küsimus, kas Rail Baltica on piisavalt kiire, on vaieldav. 
+Similarity: 0.8359173188630293
+
+Generated: ja, ja ka mina olen öelnud, et see ühendus võiks olla palju kiirem, 
+Subtitle: Ka mina olen öelnud, et see ühendus võiks olla palju kiirem, 
+Similarity: 0.9198662110077999
+
+Generated: sest tehnoloogia on olemas. 
+Subtitle: sest tehnoloogia on olemas. 
+Similarity: 1.0
+
+Generated: Aga see kompromiss 240 kilomeetrit tundub täna mõistlik, 
+Subtitle: Aga kompromissina 240 km/h tundub täna mõistlik, 
+Similarity: 0.8017837257372731
+
+Generated: sest siis saab raudteel vedada nii reisijaid kui kaupasid. 
+Subtitle: sest siis saab raudteel vedada nii reisijaid kui kaupasid. 
+Similarity: 1.0000000000000002
+
+Generated: Kui me läheme kiiremaks, siis kaubad kaovad. 
+Subtitle: Kui läheme kiiremaks, siis kaubad kaovad. 
+Similarity: 0.9486832980505138
+
+Generated: Kui keegi suudaks tõestada, et näiteks hüperruumi täna on toimine tehnoloogia 
+Subtitle: Kui keegi suudaks tõestada, et hüperluup on täna toimiv tehnoloogia 
+Similarity: 0.8488746876271653
+
+Generated: ja tõesti seda saab ehitada mõistliku rahaga, 
+Subtitle: ja seda saab ehitada mõistliku rahaga, 
+Similarity: 0.9258200997725514
+
+Generated: siis ma arvan, et me oleksime kahe käega selle poolt 
+Subtitle: siis arvan, et oleksime kahe käega selle poolt 
+Similarity: 0.816496580927726
+
+Generated: ja meil oleks sõiduaeg Berliini kaks tundi 
+Subtitle: ja meil oleks sõiduaeg Berliini kaks tundi, 
+Similarity: 0.9999999999999998
+
+Generated: mis oleks oluliselt parem. 
+Subtitle: mis oleks oluliselt parem. 
+Similarity: 0.9999999999999998
+
+Generated: Nüüd teine küsimus on see, et kas projekt on majanduslikult tasuv? 
+Subtitle: Teine küsimus on: kas projekt on majanduslikult tasuv? 
+Similarity: 0.9449111825230679
+
+Generated: No siin otseste kuludega nii ja naa. 
+Subtitle: Otseste kuludega on nii ja naa. 
+Similarity: 0.629940788348712
+
+Generated: Huvitav on see, et me nagu maanteeprojektide juures neid küsimusi väga ei küsi, et 
+Subtitle: Huvitav on, et maanteeprojektide juures me seda eriti ei küsi. 
+Similarity: 0.7925939239012171
+
+Generated: järgmise nelja aasta jooksul on riigieelarves planeeritud 
+Subtitle: Järgmise nelja aasta jooksul on riigieelarvest planeeritud 
+Similarity: 0.9999999999999997
+
+Generated: investeeringuid kuskil kahe miljardi ulatuses 
+Subtitle: investeeringuid umbes 2 miljardi ulatuses. 
+Similarity: 0.6708203932499369
+
+Generated: see sisaldab veel Euroopa rahasid, see on nagu otsene raha riigieelarvest. 
+Subtitle: See ei sisalda Euroopa rahasid, see on otsene raha riigieelarvest. 
+Similarity: 0.8468097984399411
+
+Generated: Ja nüüd sellest 10 protsenti läheb siis Rail Balticust see või on mõeldud sinna panna. 
+Subtitle: Sellest 10% läheb Rail Balticusse, või on mõeldud sinna panna. 
+Similarity: 0.8709883407113853
+
+Generated: Nüüd see värske analüüs näitab meile seda, et see raha tuleb seal kuuekordselt tagasi 
+Subtitle: Värske analüüs näitab, et raha tuleb kuuekordselt tagasi. 
+Similarity: 0.6324555320336758
+
+Generated: iga euro, mis me sinna paneme, saame kuuekordselt tagasi. 
+Subtitle: Iga euro, mis me sinna paneme, saame kuuekordselt tagasi. 
+Similarity: 1.0000000000000002
+
+Generated: Mitte otse on selle juba mitu otse see. Aga 
+Subtitle: Mitte otseselt, aga sotsiaalmajanduslikult. 
+Similarity: 0.25
+
+Generated: sotsiaalmajanduslik. Kuulame ära. Ja kas keegi suudab näidata nagu parema projekti, 
+Subtitle: Kas keegi suudab näidata mõne parema projekti, 
+Similarity: 0.6060915267313264
+
+Generated: kus tasuvus oleks nagu veelgi veelgi suurem, 
+Subtitle: kus tasuvus oleks veelgi suurem? 
+Similarity: 0.7745966692414834
+
+Generated: et loomulikult otseselt täna, et kui palju meil on 
+Subtitle: Loomulikult otseselt täna on küsitav see, 
+Similarity: 0.5659164584181102
+
+Generated: kaupasid ja palju seal reaalselt nagu raha liigub, on 
+Subtitle: kui palju meil on kaupasid ja palju seal reaalselt raha liigub. 
+Similarity: 0.7108186533109107
+
+Generated: küsitav, aga see sotsiaalne mõju on äärmiselt suur 
+Subtitle: Aga see sotsiaalne mõju on äärmiselt suur 
+Similarity: 0.9534625892455924
+
+Generated: ja see mõju SKP-s on samuti äärmiselt suur. 
+Subtitle: ja mõju SKP-sse on samuti äärmiselt suur. 
+Similarity: 0.8581163303210332
+
+Generated: Ja ma arvan, et meil on väga mõistlik sellega kaasa. 
+Subtitle: Ma arvan, et meil on väga mõistlik sellega kaasa minna 
+Similarity: 0.9333333333333331
+
+Generated: Küsib majandus investeerida, küsimus oli ju selles, 
+Subtitle: ja majandusse investeerida. - Küsimus oli ju selles, 
+Similarity: 0.857142857142857
+
+Generated: et kui suur on see sotsiaalne 
+Subtitle: kui suur on sotsiaalne kahjum. 
+Similarity: 0.8703882797784892
+
+Generated: kahju, et kas see on seal selles uuringus teie 
+Subtitle: Kas see on teie teada seal uuringus sees? 
+Similarity: 0.8058229640253802
+
+Generated: teadmise järgi? Seda kahju on samuti seal analüüsitud 
+Subtitle: Seda kahju on seal samuti analüüsitud. 
+Similarity: 0.9511897312113418
+
+Generated: ja, ja see kahju sisalduva juba selles kuuekordses 
+Subtitle: Ja see kahju sisaldub juba selles kuuekordses kasus. 
+Similarity: 0.8215838362577493
+
+Generated: kasvus ehk siis. See on arvestatud seda arvest. Vaata sinna sisse 
+Subtitle: Seda on arvestatud? - Jah, see on sisse arvestatud. 
+Similarity: 0.8382008382012573
+
+Generated: ja et kui me seda ei arvestaks, oleks kasu, on veelgi suurem. 
+Subtitle: Kui me seda ei arvestaks, siis oleks kasum veelgi suurem. 
+Similarity: 0.7687061147858074
+
+Generated: Teeme siin väikese pausi ja vaatame ära vahepeal, mida on arvatud kodudes, 
+Subtitle: Teeme väikese pausi, vaatame, mida on arvatud kodudes. 
+Similarity: 0.9258200997725514
+
+Generated: millised on teie mõtted, Indrek Tarand on täna see, kes on 
+Subtitle: Need on teie mõtted. Tänane säutsutoimetaja on Indrek Tarand. 
+Similarity: 0.8820336437750866
+
+Generated: meie saate säutsu toimetaja. Jaa. Paarkümmend minutit saate lõpuni aega, säutsu, aga edasi 
+Subtitle: Paarkümmend minutit on saate lõpuni aega, säutsuge edasi. 
+Similarity: 0.5118906968889915
+
+Generated: ei soovinud. Vahepeal ja täna, Indrek Tarand, aga olge palun. Robocop. Väike kommentaar seda on korduvalt kõlanud, 
+Subtitle: Kommentaar. Korduvalt on kõlanud, 
+Similarity: 0.6943650748294135
+
+Generated: et et raudtee puhul arvestatakse laiemas mõttes kasu 
+Subtitle: et raudtee puhul arvestatakse laiemas mõttes kasu, 
+Similarity: 0.9561828874675149
+
+Generated: aga maanteede ja teiste infrastruktuuriprojektide mulje arvestatav see ei 
+Subtitle: aga maanteede ja teiste infrastruktuuri- projektide puhul ei arvestata. 
+Similarity: 0.6666666666666669
+
+Generated: ole nii maanteeamet kui ta teeb otsuseid, 
+Subtitle: See ei ole nii. Kui maanteeamet teeb otsuseid, 
+Similarity: 0.8581163303210332
+
+Generated: kuhu rajada või kus renoveerida, teid võetakse arvesse liiklustihedus 
+Subtitle: kuhu rajada või kus renoveerida, siis võetakse arvesse liiklustihedust. 
+Similarity: 0.8888888888888888
+
+Generated: ehk see on väga lihtne ja väga selge Muttik, millel on taga väga selge majanduslik taust 
+Subtitle: See on väga lihtne ja selge mõõdik, millel on taga väga selge majanduslik taust. 
+Similarity: 0.9503346192272184
+
+Generated: ja selle alusel tehakse otsuseid, 
+Subtitle: Otsuseid tehakse selle alusel 
+Similarity: 0.9128709291752769
+
+Generated: ehk et maanteede ehitamisel tehakse samamoodi. 
+Subtitle: ehk maanteede ehitamisel tehakse samamoodi. 
+Similarity: 0.9128709291752769
+
+Generated: Aga mis ma tahan öelda selle majandusliku arvestuse puhul. Kui me nüüd siin on nagu tagasi läheksime, et toome ühe lihtsa näite 
+Subtitle: Läheme tagasi majandusliku arvestuse juurde. Toon lihtsa näite: 
+Similarity: 0.3396831102433787
+
+Generated: lamatši tunnelis, ta on nüüd 27 aastat töötanud, 
+Subtitle: La Manche'i tunnelis, mis on 27 aastat töötanud, 
+Similarity: 0.7735267838285933
+
+Generated: viimased seitse aastat on kaubakogused alla 20 miljoni tonni aastas. 
+Subtitle: viimased 7 aastat on kaubakogused alla 20 miljoni tonni aastas. 
+Similarity: 0.9660917830792959
+
+Generated: Ühel pool elab 60 miljonit, teisel pool elab veel rohkem 
+Subtitle: Ühel pool elab 60 miljonit, teisel pool elab veel rohkem. 
+Similarity: 0.9999999999999999
+
+Generated: ja see on noh, sisuliselt kõige kiirem ja kõige parem alternatiiv, mis ingl Suurbritanniat mandriga 
+Subtitle: See on kõige kiirem ja parem alternatiiv, mis Suurbritanniat mandriga ühendab. 
+Similarity: 0.8782753106899464
+
+Generated: ühendav. Ehk et selles suures piirkonnas jõukas piirkonnas on needsamad mahud, 
+Subtitle: Selles suures ja jõukas piirkonnas on needsamad mahud, 
+Similarity: 0.8291561975888501
+
+Generated: mida me unistame oma hõre asutusega armsal kodumaal. 
+Subtitle: millest me unistame oma armsal hõreasustusega kodumaal. 
+Similarity: 0.8581163303210331
+
+Generated: Ehk et siit tuleb tegelikult välja, mis minu meelest ka täna siin diskussioonis on välja tulnud, aga see nagu illustreerib seda Relbooltikul on hulk hädasid, tal ei ole regionaalselt 
+Subtitle: Siit tuleb välja see, et Rail Balticul on hulk hädasid - ei ole regionaalselt otstarbekas, 
+Similarity: 0.6895927497223759
+
+Generated: kõige otstarbekam, looduskahjud on, aga mis on, vähemalt minu jaoks on kõige ilmekam ja kõige peamine miinus on selle asja, kui see on liiga kallis projekt 
+Subtitle: looduskahjud - aga kõige peamine miinus on siiski see, et projekt on liiga kallis. 
+Similarity: 0.8588699337066176
+
+Generated: meie jaoks, meid on liiga vähe, et nii ilusat ja nii suurt luksuslikku asja üleval pidada. 
+Subtitle: Meid on liiga vähe, et nii suurt ja luksuslikku asja ülal pidada. 
+Similarity: 0.8614110432930648
+
+Generated: Loomulikult me kõik tahame, mina ka tahaks, et meil oleks väga kiire, transpordiühendus 
+Subtitle: Loomulikult me kõik tahame, et meil oleks kiired transpordiühendused, 
+Similarity: 0.9274260335029678
+
+Generated: on, aga kuna ta on liiga kallis meie jaoks, 
+Subtitle: aga kuna see on meie jaoks liiga kallis, 
+Similarity: 0.8801724588467039
+
+Generated: siis me hakkame võtma uskumatult suuri riske, et see projekt realiseerida. 
+Subtitle: siis me hakkame võtma uskumatult suuri riske, et see projekt realiseerida. 
+Similarity: 1.0
+
+Generated: Ja see kõige ilmekam näide, millest Aivar Kokk rääkis, on see, et me ei tea ju, 
+Subtitle: Aivar Kokk ju rääkis, et me ei tea, 
+Similarity: 0.5773502691896258
+
+Generated: missugune on Euroopa finantseerimismäär pärast 2000 kahtekümne esimest aastat, 
+Subtitle: milline on Euroopa finantseerimismäär pärast 2021. aastat. 
+Similarity: 0.7302967433402217
+
+Generated: mitte keegi ei saa seda lubada. 
+Subtitle: Mitte keegi ei saa seda lubada! 
+Similarity: 1.0000000000000002
+
+Generated: Kui keegi räägib sellest kui kindlasti numbrist, siis ta lihtsalt ajab udu. 
+Subtitle: Kui keegi räägib mingist kindlast numbrist, siis ta lihtsalt ajab udu. 
+Similarity: 0.8386278693775348
+
+Generated: Seda ei otsusta ametnikud, seda ostust otsustavad Euroopa liikmesriigid küll, aga see 
+Subtitle: Seda otsustavad EL-i riikmesriigid, mitte ametnikud. 
+Similarity: 0.5477225575051662
+
+Generated: on ju ei ole 
+Subtitle: Kas see on nii? 
+Similarity: 0.6837634587578276
+
+Generated: ja, ja, ja me me eeldame, et meil on see raha antud, 
+Subtitle: Me eeldame, et meile on see raha antud, 
+Similarity: 0.8528028654224417
+
+Generated: aga paari aasta pärast me väga tõenäoliselt on olukorras, 
+Subtitle: aga paari aasta pärast võime olla olukorras, 
+Similarity: 0.7637626158259734
+
+Generated: et me peame hakkama otsustama, millest me Eestis, Lätis ja Leedus hakkam loobuma 
+Subtitle: kus peame otsustama, millest me Eestis, Lätis ja Leedus peame hakkama loobuma. 
+Similarity: 0.8003267306650412
+
+Generated: ja me hakkame loobuma kohalikest infrastruktuuri objektidesse, 
+Subtitle: Me peame hakkama loobuma kohalikest infrastruktuuri objektidest, 
+Similarity: 0.857142857142857
+
+Generated: sest meil ei jätku raha. 
+Subtitle: sest meil ei jätku raha. 
+Similarity: 1.0
+
+Generated: Täna jätku Eesti Raudteele raha. 
+Subtitle: Täna ei jätku Eesti Raudteel raha, 
+Similarity: 0.912870929175277
+
+Generated: Juhtub see paari aasta pärast väga tõenäoliselt ka palju laiemalt. 
+Subtitle: paari aasta pärast juhtub see väga tõenäoliselt ka palju laiemalt. 
+Similarity: 1.0
+
+Generated: On see nii 
+Subtitle: On see nii? 
+Similarity: 1.0000000000000002
+
+Generated: või ma hakkan algusest peale siis kõigepealt see, et ma ei öelnud, et maanteeobjektid on kulukad, 
+Subtitle: Ma ei öelnud, et maanteeobjektid on kulukad, 
+Similarity: 0.8516624609365032
+
+Generated: vaid et siis kui te ütlete, et Rail Baltica ehitamine on kulu, siis ma ütlen, et noh, iga niisugune objekt 
+Subtitle: vaid kui te ütlete, et RB ehitamine on kulu, siis iga niisugune objekt on kulu, 
+Similarity: 0.7717436331412897
+
+Generated: ka saartega ühenduse pidamine 
+Subtitle: ka saartega ühenduse pidamine. 
+Similarity: 1.0
+
+Generated: on kulu, aga me vaatamegi kõikide objektide puhul sotsiaalmajanduslikku tulu, 
+Subtitle: Me vaatame kõikide objektide puhul sotsiaalmajanduslikku tulu, 
+Similarity: 0.7337993857053429
+
+Generated: muidu me seda investeeringut ei teeks ka maanteedesse või ka 
+Subtitle: vastasel korral ei teeks me seda ka maanteesse. 
+Similarity: 0.7144345083117603
+
+Generated: saarte ühenduse pidamist 
+Subtitle: Ka saartega ühenduse pidamisse. 
+Similarity: 0.8660254037844388
+
+Generated: ma kommentaare, et seal pole vahet 
+Subtitle: Ma kommenteerin... - Ma jätkan. - Pole vahet. 
+Similarity: 0.5773502691896258
+
+Generated: siis mõned asjad siin on väga palju mainitud seda algu seda artiklit ka, et kuidas saab Muugalt Viini 
+Subtitle: Ma lugesin ka artiklit sellest, kuidas saab Muugalt Viini 
+Similarity: 0.4714045207910316
+
+Generated: ja mis see maksab? Autoga circa 800 eurot? Ei olnud. 1500 oli vist 
+Subtitle: ja mis see maksab autoga - ca 800 eurot. Ei olnud! Vist oli 1500 eurot. 
+Similarity: 0.9486832980505138
+
+Generated: teil ja siis, et kui viies üks konteinerrongiga, siis see maksab 2700. 
+Subtitle: Ja kui viia üks konteiner rongiga, siis see maksab 2700. 
+Similarity: 0.7826237921249264
+
+Generated: Et see sõltub täpselt, kas sa teed regulaarreise, kas sa tood selle rongiga ka mingit kaupa tagasi, 
+Subtitle: Sõltub sellest, kas sa teed regulaarreise, tood selle rongiga mingit kaupa tagasi. 
+Similarity: 0.8916451401205647
+
+Generated: et noh, näiteks täna ma küsisin kargalt, palju maksab reis mingisuguste punktist, 
+Subtitle: Küsisin Cargolt, palju maksab mingitesse punktidesse, 
+Similarity: 0.4714045207910318
+
+Generated: sest ta sai kohe välja tuua infot Muugal Odessas 1100, 
+Subtitle: siis toodi kohe välja info, et Muugalt Odessasse on 1100. 
+Similarity: 0.50709255283711
+
+Generated: nii et see 2700 või 3000 need numbrid tegelikult ei ole 
+Subtitle: Nii et 2700 või 3000 - need numbrid ei ole adekvaatsed. 
+Similarity: 0.8770580193070293
+
+Generated: väga. Õrnade valesid asju Kesk-Euroopa ja Odessa ei ole päris ühes piirkonnas. 
+Subtitle: Te võrdlete valesid asju. Kesk-Euroopa ja Odessa ei ole ühes piirkonnas. - Just. 
+Similarity: 0.7302967433402214
+
+Generated: Jah, sa ise ka neid 10 miljonilise on väga eriline, ei ole väga ulmeline. 
+Subtitle: Siis need kümnemiljonilised numbrid ei ole väga ulmelised. 
+Similarity: 0.5547001962252291
+
+Generated: Et noh, kui me vaatame täna, et me ei näe eriti neid Venemaalt tulevaid ronge liikvel 
+Subtitle: Kui täna me ei näe Venemaalt tulevaid ronge liikvel. 
+Similarity: 0.7825080450574999
+
+Generated: samas see teeb ikkagi kaheksa miljonit tonni eelmisel aastal 
+Subtitle: Samas, eelmisel aastal see ikkagi oli 8 miljonit tonni. 
+Similarity: 0.8249579113843053
+
+Generated: mis, mis rääkida veel sellest analüüsist, siis noh, mis mulle meeldis, 
+Subtitle: Kui rääkida analüüsist, siis mulle meeldis see, 
+Similarity: 0.2860387767736777
+
+Generated: et see oli olnud liiga ulmelised numbrid 
+Subtitle: et seal ei olnud liiga ulmelised numbrid. 
+Similarity: 0.8838834764831844
+
+Generated: Soomest tulev kaup meritsi või siis autodega, sellest tuli arvestada, et kui kuni kolm kuni seitse protsenti tuleb raudtee 
+Subtitle: Soomest tulev kaup, meritsi või autodega, tuleb 3-7 protsenti raudteele. 
+Similarity: 0.6201736729460423
+
+Generated: peale Baltikumis samamoodi circa mingisugune viis protsenti läheb autode autodelt raudtee peale 
+Subtitle: Baltimaades läheb ca 5 protsenti autodelt raudtee peale. 
+Similarity: 0.6416889479197478
+
+Generated: Saksamaalt siia tulev kaup, noh seal 10 protsenti 
+Subtitle: Saksamaalt siia tulev kaup - 10 protsendi ulatuses. 
+Similarity: 0.8017837257372731
+
+Generated: pikem distants siis oli arvestanud kaubaga, mis läheb ida poole, 
+Subtitle: Oli arvestatud kaubaga, mis läheb ida poole, 
+Similarity: 0.4891159880445184
+
+Generated: aga mitte ei olnud teki tekitatud niisugust illusiooni, et tõesti selle Vene raudtee pealt peaks tulema kaup 
+Subtitle: mitte ei olnud tekitatud illusiooni, et Vene raudtee pealt peaks tulema kaup 
+Similarity: 0.9258200997725514
+
+Generated: siia Euroopa laiusega raudteetalent, noh, minu meelest oli ta üsna adekvaatne, uuri. Mul 
+Subtitle: Euroopa-laiusega raudtee peale. Minu meelest oli uuring üsna adekvaatne. 
+Similarity: 0.5163977794943222
+
+Generated:  
+Subtitle: Kristjan Lepik. 
+Similarity: 0.0
+
+Generated: siin võib-olla vahele üksteistmoodi mõtte, 
+Subtitle: Mul on natuke teistsugune mõte. 
+Similarity: 0.15811388300841894
+
+Generated: et siin mitmel pool ka küsitud, et kes seda kaupa hakkab vedama, on küsitud ka, et kes ja üldse tahab tulla selle rongiga ja, ja 
+Subtitle: Küsiti, kes hakkab kaupa vedama ja seda, kes siia üldse rongiga tahab tulla. 
+Similarity: 0.5892556509887896
+
+Generated: olles terve elu töötanud tehnoloogiatega, siis ma sageli näen seda, 
+Subtitle: Olen kogu elu töötanud tehnoloogiatega ja näen sageli seda, 
+Similarity: 0.8651809126974002
+
+Generated: kuidas alahinnatakse seda muutust, mis ka nagu taristu võib keskkonnas tuua 
+Subtitle: kuidas alahinnatakse muutust, mida taristu võib keskkonnas tuua. 
+Similarity: 0.8043996665398437
+
+Generated: kui see ja kui see juhtub, siis saadakse aru, olgu nüüd söön käes, aga seda 
+Subtitle: Ja kui see juhtub, siis öeldakse, olgu, nüüd on see käes. 
+Similarity: 0.7753981145352655
+
+Generated: ei suudeta ette näha. 
+Subtitle: Aga seda ei suudeta ette näha. 
+Similarity: 0.8164965809277261
+
+Generated: Võib-olla ühe näitena võib siin tuua, et kui aastaid 95 Tallinki sugune ettevõte hakkab rääkima, 
+Subtitle: Toon näite. 1995. aastal hakkas Tallink rääkima, 
+Similarity: 0.4029114820126901
+
+Generated: et me paneme siin viis-kuus nii sellise suurusega uut laeva käima, see kõlas nagu ilmselt üsna nagu rumal plaan, et ebareaalne, 
+Subtitle: et panevad 5-6 uut laeva käima. See kõlas rumala ja ebareaalse plaanina. 
+Similarity: 0.5220368976638745
+
+Generated: lihtsalt liiga kallis ja mitte mõistlike. Ja ometi nad tegid selle ära 
+Subtitle: Et see on liiga kallis ja mitte mõistlik. Ometi nad tegid selle ära. 
+Similarity: 0.7559289460184545
+
+Generated: ainult selle talikel eraettevõttena oli see eelis, et nad said ühekaupa neid laevu teha, et ettevõttena 
+Subtitle: Ettevõttena oli neil see eelis, et nad said laevu teha ühe-kahe kaupa. 
+Similarity: 0.7092081432669753
+
+Generated: testides, kui hakkas turg, on 
+Subtitle: Ettevõttena nad testisid, kas sellele on turgu. 
+Similarity: 0.4767312946227962
+
+Generated: Rail Baltic, aga seda võimalust ei ole, ei 
+Subtitle: Rail Balticuga sellist võimalust ei ole. 
+Similarity: 0.6454972243679029
+
+Generated: saa teha kahtekümmend kilomeetrit, seda tuleks teha tervikuna 
+Subtitle: Ei saa teha 20 kilomeetrit, seda tuleks teha tervikuna 
+Similarity: 0.8581163303210332
+
+Generated: selle pärast, eks teda nagu riik tegema. Ja 
+Subtitle: ja riik peaks seda tegema. 
+Similarity: 0.5393598899705937
+
+Generated: minu mõte on siin nüüd selles, et mina arvan, et nähes tegelikult kui palju Lääne-Euroopas 
+Subtitle: Elades Lääne-Euroopas ma olen näinud, 
+Similarity: 0.30983866769659335
+
+Generated: ka elades, kui kerge on liikuda, kui palju see toob inimesi ja kohti lähemale, 
+Subtitle: kui kerge on liikuda, kui palju see toob inimesi ja kohti lähemale, 
+Similarity: 0.9672041516493517
+
+Generated: me alahindame seda 
+Subtitle: ja minu meelest me alahindame seda aspekti. 
+Similarity: 0.769800358919501
+
+Generated: alahindama seda mahtu nii kaubast kui inimestes, mis saab liikuda. 
+Subtitle: Me alahindame mahtu, nii kaubas kui inimestes, mis saab liikuda. 
+Similarity: 0.9375
+
+Generated: Ja tegelikult mõelge korra samm tagasi, 
+Subtitle: Mõelge korraks samm tagasi. 
+Similarity: 0.6123724356957946
+
+Generated: et see üheksa või 10 miljonit reisijat, mis tuleb Tallinna sadamasse iga aasta. 
+Subtitle: Tallinna sadamasse tuleb iga aasta 9-10 miljonit reisijat. 
+Similarity: 0.618718433538229
+
+Generated: Et kui me taastaks seal need 20 aasta tagasi re regulad käima, 
+Subtitle: Kui me paneks uuesti käima 20 aasta tagused Regulad, 
+Similarity: 0.6933752452815365
+
+Generated: et mis see number oleks, ta ei oleks võib-olla isegi viis miljonit, siis 
+Subtitle: siis mis see number oleks? Ei oleks isegi 5 miljonit. 
+Similarity: 0.881917103688197
+
+Generated: see taristu ei ole hea, inimesed ei liigu, 
+Subtitle: See taristu ei ole hea, inimesed ei liigu. 
+Similarity: 1.0
+
+Generated: nii et tegelikult see 
+Subtitle: Kui suudaksime selle ühenduse luua, 
+Similarity: 0.17677669529663687
+
+Generated: tooks Eestisse minu arust täiesti teise elukvaliteedi, kui me suudaksime selle 
+Subtitle: siis see tooks Eestisse täiesti uue elukvaliteedi. 
+Similarity: 0.329914439536929
+
+Generated: ühenduse luua. Enamik titt, küsin teie käest, kas te 
+Subtitle: Ene-Margit Tiit, küsin teilt. 
+Similarity: 0.45226701686664544
+
+Generated: olete öelnud, et see raudtee peaks käima läbi Tartu? Te 
+Subtitle: Te olete öelnud, et see raudtee peaks käima läbi Tartu. 
+Similarity: 0.9999999999999997
+
+Generated: ei ole iseenesest Rail Balticu vastu, ma saan aru, te tahate, et see käiks läbi. Tartu 
+Subtitle: Te ei ole Rail Balticu vastu, aga te tahate, et see käiks läbi Tartu? 
+Similarity: 0.8125
+
+Generated: on seni. Ma tahaks, et ta käiks seal, kus on rohkem inimesi, 
+Subtitle: Ma tahaks, et see käiks sealt, kus on rohkem inimesi. 
+Similarity: 0.8158924398306319
+
+Generated: praegu on, on see Rail Baltic planeeritud sinna, kus on Eesti kõige hõredam asustus 
+Subtitle: Praegu on Rail Baltic planeeritud sinna, kus on kõige hõredam asustus. 
+Similarity: 0.9625334218796219
+
+Generated: samas kui ta läbi Tartu või, 
+Subtitle: Samas, kui see liiguks läbi Tartu või ka - 
+Similarity: 0.8040302522073697
+
+Generated: või ka No vast mitte just läbi Kilingi-Nõmme, nagu, nagu Kristjan 
+Subtitle: mitte just läbi Kilingi-Nõmme, nagu Kristjan ütles -, 
+Similarity: 0.8386278693775345
+
+Generated: pakkus, kui tal liiguks seal, kus on olemas tegelikult hästi toimiv taristu, 
+Subtitle: kui see liiguks seal, kus on olemas hästi toimiv taristu, 
+Similarity: 0.9057894597833127
+
+Generated: kus on tegelikult inimesi, kes tahavad sõita, 
+Subtitle: kus on tegelikult inimesi, kes tahavad sõita, 
+Similarity: 1.0
+
+Generated: siis oleks ta ilmselt märksa mõistlikum. 
+Subtitle: siis oleks ta ilmselt märksa mõistlikum. 
+Similarity: 1.0000000000000002
+
+Generated: Kõige õnnetum on see, et praegune see joonlaua trass ei haaku 
+Subtitle: Kõige õnnetum on, et praegune joonlaua-trass ei haaku 
+Similarity: 0.753778361444409
+
+Generated: ka üldse muu Eesti raudteevõrguga 
+Subtitle: muu Eesti raudteevõrguga. 
+Similarity: 0.7745966692414834
+
+Generated: ja kui rehkendatakse, kuidas, kui suur on ajavõit, siis see on 
+Subtitle: Kui rehkendatakse, kui suur on ajavõit, siis see on ju üksi tallinlaste ajavõit, 
+Similarity: 0.9279339519604584
+
+Generated: nagu Tallinn lasteaiavõit üksi? Pärnakatel ka, aga see on kolmandik Eesti rahvast 
+Subtitle: samuti pärnakatel, aga see on kolmandik Eesti rahvast, 
+Similarity: 0.7106690545187015
+
+Generated: ja ülejäänutel on kahjuks ajakaotus selle tõttu 
+Subtitle: ja ülejäänutel on kahjuks ajakaotus selle tõttu, 
+Similarity: 1.0
+
+Generated: tundub, et, et muud korralikku ühendust ei ole ju. Ei Ida, ei Lõuna-Eestil üldse Euroopaga, 
+Subtitle: et muud korralikku ühendust ei ole ju ei Ida- ega Lõuna-Eestil üldse Euroopaga. 
+Similarity: 0.9185586535436918
+
+Generated: see on, see on praktiliselt ära kadunud. 
+Subtitle: See on praktiliselt ära kadunud. 
+Similarity: 0.9432422182837985
+
+Generated: Nii et sotsiaalmajanduslikku efekti puhul tuleks rääkida sellest, 
+Subtitle: Sotsiaalmajandusliku efekti puhul tuleks rääkida sellest, 
+Similarity: 0.8660254037844388
+
+Generated: et loomulik on see, et raudtee käib seal, kus on inimesed, aga mitte läbi läbi soo. 
+Subtitle: et loomulik on see, et raudtee käib seal, kus on inimesed, aga mitte läbi soo. 
+Similarity: 0.9860636027008748
+
+Generated: Andke mikrofon üles, 
+Subtitle: Andke mikrofon üles. 
+Similarity: 1.0000000000000002
+
+Generated: Jaan Jagomägi, siin tahaks teie käest küsida, et miks ikkagi see mõte ei tööta, et see Rail Baltic peaks läbi Tartu käima? 
+Subtitle: Jaan Jagomägi, miks ei tööta mõte, et Rail Baltic peaks läbi Tartu käima? 
+Similarity: 0.7892051872524704
+
+Generated: Saadet ette valmistades rääkisime teiega sellest. 
+Subtitle: Me rääkisime sellest teiega saadet ette valmistades. 
+Similarity: 0.9258200997725514
+
+Generated: Bapopo tervist, 
+Subtitle: Tervist. 
+Similarity: 0.7071067811865475
+
+Generated: et arhitekti ja linnaplaneerija ana tahaksin välja tuua tegelikult ühe, ühe 
+Subtitle: Arhitekti ja linnaplaneerijana tahaksin püstitada ühe teema, 
+Similarity: 0.7589466384404111
+
+Generated: teemapüstituse, mida minu arust sellest debatis ei olegi väga palju väga palju puudutatud, see aegruum, 
+Subtitle: mida selles debatis ei ole väga palju puudutatud - see on aegruum. 
+Similarity: 0.8616404368553291
+
+Generated: mida tähendab aegruum, ma mõtlen selle all seda, et kui palju inimesi, kui kiiresti me suudame 
+Subtitle: Aegruum tähendab seda, et kui palju inimesi, kui kiiresti me suudame 
+Similarity: 0.8877545314489295
+
+Generated: ühe või teise raudtee puhul ära ühendada. 
+Subtitle: ühe või teise raudtee puhul ära ühendada? 
+Similarity: 1.0
+
+Generated: Ja ja sellise suure kiirraudtee puhul tekib selline küsimus nagu 
+Subtitle: Sellise suure kiirraudtee puhul selline küsimus nagu ajaparadoks. 
+Similarity: 0.8072073527955749
+
+Generated: aja paradoks, mis asi see on? See tähendab seda, et kui me kaotame kriitilise piiri, ütleme kaks tundi 
+Subtitle: Ajaparadoks tähendab seda, et kui me kaotame kriitilise piiri, ütleme 2 tundi, 
+Similarity: 0.6978631577988532
+
+Generated: Tallinna ja Riia vahel muudame selle näiteks kolmeks tunniks, 
+Subtitle: Tallinna ja Riia vahel, näiteks muudame selle 3 tunniks, 
+Similarity: 0.9428090415820632
+
+Generated: siis sisuliselt Tallinna ja Riia vahel ei ole 
+Subtitle: siis sisuliselt Tallinna ja Riia vahel ei ole võimalik pidada 
+Similarity: 0.894427190999916
+
+Generated: enam normaalselt toimivat igapäevast töösuhet 
+Subtitle: normaalset, igapäevaselt toimivat töösuhet. 
+Similarity: 0.4472135954999579
+
+Generated: võimalik pidada. Et kui me mõtleme, et mida see Rail Baltic meile võiks anda, 
+Subtitle: Mida võiks Rail Baltic anda meile kui regioonile? 
+Similarity: 0.7637626158259734
+
+Generated: religioonina mõtleme selle peale, et Helsingis on 1,2 miljonit elanikku 
+Subtitle: Mõtleme sellele, et Helsingis on 1,2 miljonit elanikku urbanalas, 
+Similarity: 0.8807048459279794
+
+Generated: Urban alas, Tallinnas on 500000 inimest, Riias on 750000 inimest. Vilnius Kaunas, 
+Subtitle: Tallinnas on 500 000 inimest, Riias on 750 000 inimest, Vilnius, Kaunas. 
+Similarity: 0.9636241116594315
+
+Generated: et kas need linnad suudavad tekitada ühe 
+Subtitle: Kas need linnad suudavad tekitada ühe regiooni, 
+Similarity: 0.9000000000000001
+
+Generated: religiooni, millega me näiteks konkureerime teiste regioonidega, 
+Subtitle: millega me näiteks konkureerime teiste regioonidega? 
+Similarity: 0.960768922830523
+
+Generated: ütleme Kopenhaagen, Malmö, Euroopas erinevad kohad, 
+Subtitle: Kopenhaagen-Malmöga? Erinevate kohtadega Euroopas? 
+Similarity: 0.3779644730092272
+
+Generated: et kas meil tekib sidusajaline ruum, kas meil 
+Subtitle: Kas meil tekib sidus ajaline ruum? 
+Similarity: 0.7071067811865477
+
+Generated: on võimalik suured linnad kokku ühendada 
+Subtitle: Kas meil on võimalik suured linnad kokku ühendada? 
+Similarity: 0.9045340337332909
+
+Generated: ja ja selle koha peal minu arust on meeletult kahju, et aetakse segi kaks väga-väga oluliste väga 
+Subtitle: On meeletult kahju, et aetakse segi kaks väga olulist asja. 
+Similarity: 0.6939779183594883
+
+Generated: tähtsa asja, kõigil on põhimõtteliselt õigused. 
+Subtitle: Kõigil on põhimõtteliselt õigus. 
+Similarity: 0.8819171036881968
+
+Generated: Väga-väga õige ongi see, et tuleb ära ühendada kogu Lõuna-Eesti. 
+Subtitle: Väga oluline on see, et tuleb ära ühendada kogu Lõuna-Eesti. 
+Similarity: 0.8461538461538463
+
+Generated: Tuleb saade tihedaks, tuleb siduda kokku ka minul on selle pärast mure 
+Subtitle: Tuleb saada tihedaks, tuleb siduda kokku. Minul on selle pärast mure. 
+Similarity: 0.9095085938862486
+
+Generated: ja ma näen seda, et, et üks ei sega teist tegelikult mõlemad ära teha, 
+Subtitle: Ma näen seda, et üks ei sega teist. Tegelikult tuleb mõlemad ära teha. 
+Similarity: 0.9293203772845849
+
+Generated: meil on vaja saada regioonina tihedaks ja meil on vaja siduda tagamaad 
+Subtitle: Meil on vaja saada regioonina tihedaks ja meil on vaja siduda tagamaad. 
+Similarity: 0.9999999999999998
+
+Generated: ära. Et win näidetega piltide 
+Subtitle: Võin näidata pilti. - Vaatame kiiresti pilti. 
+Similarity: 0.3162277660168379
+
+Generated: vaatamine eksamiteks, võtsin kaasa, et ta plätu kaamera poole, muidu ma ei näe 
+Subtitle: Võtsin kaasa. - Näidake kaamera poole, muidu ei näe. 
+Similarity: 0.6864064729836441
+
+Generated: seda pilti, aga nii siin on siis kujutajad. Nüüd Eesti kaart siin 
+Subtitle: Siin on kujutatud Eesti kaart. 
+Similarity: 0.47058823529411764
+
+Generated: peal on aegruumiline Eesti kaart. 
+Subtitle: Siin peal on aegruumiline Eesti kaart. 
+Similarity: 0.9428090415820632
+
+Generated: Et kui nüüd selle pildi peale vaadata, siis aegruumiliselt, kui lähedale Riia tuleb praegu Tallinnale, 
+Subtitle: Kui vaadata, kui lähedale aegruumiliselt Riia tuleb Tallinnale. 
+Similarity: 0.8709883407113853
+
+Generated: ta tuleb tunni ja 50 minuti kaugusele. 
+Subtitle: Ta tuleb 1 tunni ja 50 minuti kaugusele. 
+Similarity: 0.9999999999999998
+
+Generated: Mida see tähendab, see tähendab seda, et Riia on sisuliselt sama kaugel kui Pärnu linn praegu 
+Subtitle: See tähendab seda, et Riia on sisuliselt sama kaugel kui Pärnu linn praegu. 
+Similarity: 0.9116846116771037
+
+Generated: tulevikus Rail Balticu ehitamise järel. 
+Subtitle: Tulevikus Rail Balticu ehitamise järel. 
+Similarity: 1.0
+
+Generated: Jah, ja vot see on tegelikult päris väärtus ja see on see, mis on aegruumiliselt oluline, 
+Subtitle: Ja see on päris väärtus ja on aegruumiliselt oluline. 
+Similarity: 0.903696114115064
+
+Generated: et võib tunduda. 
+Subtitle: Võib tunduda... - Sõnum selge. Arusaadav. 
+Similarity: 0.5163977794943223
+
+Generated: Sõnu selgelt aru saada, et me oleme siin pool aastat näinud. Palun Riias konverentsil räägiti Prantsusmaa kiirraudtee näitel sellest, 
+Subtitle: Riia konverentsil räägiti Prantsusmaa kiirraudtee näitel sellest, 
+Similarity: 0.4913036844405174
+
+Generated: mida kiirraudtee annab. 
+Subtitle: mida kiirraudtee annab. 
+Similarity: 1.0000000000000002
+
+Generated: Kõige suurem efekt on selles, et kaotada ära kaugusid 50 
+Subtitle: Kõige suurem efekt on selles, et kaotada ära kaugused 50 km. 
+Similarity: 0.8894991799933216
+
+Generated: kilomeetrit. Kaks tundi on liiga pikk aeg selleks, 
+Subtitle: Kaks tundi on liiga pikk aeg selleks, 
+Similarity: 0.9534625892455924
+
+Generated: et igapäevaselt seda edasi-tagasi sõitmiseks kasutada. 
+Subtitle: et seda igapäevaselt edasi-tagasi sõitmiseks kasutada. 
+Similarity: 0.8333333333333335
+
+Generated: Palju normaalsem on väiksematel vahemaadel raudteega abil 
+Subtitle: Palju normaalsem on väiksematel vahemaadel, raudtee abil, 
+Similarity: 1.0
+
+Generated: aegruum ära kaotada 
+Subtitle: aegruum ära kaotada. 
+Similarity: 1.0000000000000002
+
+Generated: ja seda on just eelkõige võimalik teha Eesti sees. 
+Subtitle: Ja eelkõige on seda võimalik teha Eesti sees. 
+Similarity: 0.8563488385776752
+
+Generated: See, et, et Narvast või Rak Rauno Narvast Rakverre või Tapalt Tartusse või Tapalt ka Valka 
+Subtitle: Narvast Rakverre või Tapalt Tartusse või Tapalt Valka - 
+Similarity: 0.7925939239012172
+
+Generated: näiteks, et need Eestis jäid vahemaad, need on need sellised kõige suuremad efektid, 
+Subtitle: need Eesti-sisesed vahemaad on kõige suuremad efektid, 
+Similarity: 0.7416198487095662
+
+Generated: mida raudtee abil on võimalik saavutada. 
+Subtitle: mida raudtee abil on võimalik saavutada. 
+Similarity: 1.0000000000000002
+
+Generated: Seda, et igapäevaselt Tallinnast Kaunasesse või Varssavisse sõita, kas keegi, 
+Subtitle: Seda, et keegi igapäevaselt Tallinnast Kaunasesse või Varssavisse sõidaks, 
+Similarity: 0.9486832980505138
+
+Generated: seda me ilmselt ei mõtle nagunii? Ka Riia jääb 
+Subtitle: me nagunii ei mõtle. Ka Riia jääb kaugele. 
+Similarity: 0.8249579113843053
+
+Generated: kauge, aga see efekt, mida me selle tõttu jätame saama saavutamata, et me teeme selle Rail Balticu, 
+Subtitle: Kui teeme Rail Balticu, siis jääb meil see efekt saavutamata, 
+Similarity: 0.5241424183609592
+
+Generated: sest meil mõlema asja jaoks raha jätku. 
+Subtitle: sest mõlema asja jaoks raha ei jätku. 
+Similarity: 0.857142857142857
+
+Generated: Me võime ütelda küll, et me, poliitikud on alati hea lubama, 
+Subtitle: Poliitikud on alati head lubama. 
+Similarity: 0.7071067811865475
+
+Generated: et me ütleme, et me teeme ikka proks. Teeme ühe Pärnust ühe 
+Subtitle: Et teeme ikka kaks, teeme ühe Pärnust ja ühe Tartust, 
+Similarity: 0.8320502943378436
+
+Generated: Tartust, aga reaalsus on see, et meil tegelikult ei jätku investeeringuraha 
+Subtitle: aga reaalsus on see, et tegelikult ei jätku meil investeeringuraha, 
+Similarity: 0.9636241116594317
+
+Generated: ega meil ei jätku ka hooldusraha mõlema raudtee jaoks 
+Subtitle: meil ei jätku ka hooldusraha mõlema raudtee jaoks. 
+Similarity: 0.9428090415820632
+
+Generated: paratamatult mõlemalt tuleb hakata ära võtma 
+Subtitle: Paratamatult mõlemalt tuleb hakata ära võtma. 
+Similarity: 1.0000000000000002
+
+Generated: ja nii see, nii see elu parasjagu kujuneb, 
+Subtitle: Nii see elu kujuneb... 
+Similarity: 0.8660254037844388
+
+Generated: ükskõik. Investeeringu plaanis sama kaks miljardit, seal on sees ka nii 
+Subtitle: Investeeringuplaanis, seesama 2 miljardit, on sees nii Tallinn-Narva 
+Similarity: 0.5916079783099617
+
+Generated: Tallinna-Narva kui ka Tallinn-Tartu raudtee uuendamine. 160 kilomeetri peale 
+Subtitle: kui ka Tallinn-Tartu raudtee uuendamine 160 kilomeetri peale. 
+Similarity: 0.9574271077563381
+
+Generated: ei ole meil. Ma tahakski öelda, et me ei ole kaks inimest on öelnud, et läbi soo läheb, Pärnu ei ole 
+Subtitle: Kaks inimest on öelnud, et läheb läbi soo. Pärnu ei ole soo. 
+Similarity: 0.8318903308077028
+
+Generated: soov, et ma olen 
+Subtitle: Linnapeana ma olen pahane. 
+Similarity: 0.5
+
+Generated: tõesti linna paha, need nimetatud härra Kiho ost oli, läheb 
+Subtitle: Härra Kiho just oli... Ta läheb otse. 
+Similarity: 0.29019050004400465
+
+Generated: läbi endise pära, aga ta läheb otse sellega, et kõik need inimesed, kes on siiamaani rääkinud, et läbi Tartu on mõistlikum 
+Subtitle: Kõik need inimesed, kes on rääkinud, et läbi Tartu on mõistlikum, 
+Similarity: 0.9085408238331554
+
+Generated: läbi Tartu on 108 kilomeetrit pikem. 
+Subtitle: läbi Tartu on 108 kilomeetrit pikem. 
+Similarity: 1.0
+
+Generated: See tekitab rohkem. Ma kirjutasin ka sellest Avalikult Rail Balticust lehel 
+Subtitle: Ma kirjutasin sellest ka lehel Avalikult Rail Balticust, 
+Similarity: 0.882522608121828
+
+Generated: tiirutasin sellest, et kui me tõmbame selle läbi Tartu, siis meie lõhestamine ju selle Eestimaa veel rohkem 
+Subtitle: et kui me tõmbame selle läbi Tartu, siis lõhestame Eestimaad veel rohkem 
+Similarity: 0.829515062006253
+
+Generated: pooleks ja ja tekitame veel rohkem looduskahjusid selle peale, siis mind visati sealt listist välja. 
+Subtitle: ja tekitame veel rohkem looduskahjusid. Selle peale visati mind listist välja. 
+Similarity: 0.8845379626717034
+
+Generated: Okei, see selleks. Aga ma tahan öelda ka seda, et täna on ka tartlastel võimalus sõita 120 
+Subtitle: Täna on ka tartlastel võimalus sõita 120-ga... 
+Similarity: 0.6573757351339165
+
+Generated: Pärnusse saab rongiga täna kahe tunni ja 40 minutiga. 
+Subtitle: Pärnusse saab täna rongiga 2 tunni ja 40 minutiga. 
+Similarity: 0.9428090415820632
+
+Generated: Tallinnast Tartusse saab alla kahe tunni juba 
+Subtitle: Tallinnast Tartusse saab juba alla 2 tunni. 
+Similarity: 0.9258200997725514
+
+Generated: ja teil on võimalus ära. Zimmermann on öelnud, 
+Subtitle: Raudteespetsialist hr Simmermann on öelnud... 
+Similarity: 0.7840923153642578
+
+Generated: keda ma usaldan ja kes on tõesti raudteespetsialist. Siin on ka muidugi väga palju raudteespetsialiste, 
+Subtitle: muidugi on siin ka väga palju raudteespetsialiste, 
+Similarity: 0.7071067811865475
+
+Generated: aga teda ma usaldan ja tema 
+Subtitle: aga teda ma usaldan ja tema öelnud, 
+Similarity: 0.6666666666666666
+
+Generated: on öelnud, et tegelikult on täna juba võimalik see kiirust tõsta 160 peale Tallinn-Tartu vahel ja 
+Subtitle: et juba täna on võimalik tõsta kiirust 160-le Tallinna ja Tartu vahel. 
+Similarity: 0.7028634960055146
+
+Generated: teil on ka olemas tartlastel see võimalus sõita rongiga. Ärge olge pärnakate peale kadedad. 
+Subtitle: Tartlased, teil on ka võimalus rongiga sõita, ärge olge pärnakatele kadedad. 
+Similarity: 0.9525793444156805
+
+Generated: Räägib laseme Eesti Raudtee ära, juhatuse liikmel ka, 
+Subtitle: Laseme Eesti Raudtee juhatuse liikmel ka rääkida. 
+Similarity: 0.9354143466934852
+
+Generated: palun rääkida. Toomas 
+Subtitle: Toomas Virro. 
+Similarity: 0.408248290463863
+
+Generated: oli tõesti halb, et see oli väga meeldiv kuulda peaministri ja meie nii-öelda valitsus ministri erakonnakaaslast ütlemas, 
+Subtitle: Oli väga meeldiv kuulda peaministri ja valitsuse erakonna kaaslast ütlemas, 
+Similarity: 0.6529286250990105
+
+Generated: et meie raudtee taristu 106-l viimiseks on raha juba valitsuskohvris olemas. 
+Subtitle: et meie raudteetaristu 160-le viimiseks on raha juba valitsuse kohvris olemas. 
+Similarity: 0.777777777777778
+
+Generated: Tõstke mikrofon, 
+Subtitle: Tõstke mikrofon lähemale. 
+Similarity: 0.816496580927726
+
+Generated: on ka näha, et see oli meeldiv, meeldiv uudis. 
+Subtitle: Meeldiv uudis. 
+Similarity: 0.5
+
+Generated: Aga, aga tegelikult tegelikult 
+Subtitle: Aga tegelikult? 
+Similarity: 0.9999999999999998
+
+Generated: ma täna hommikul siis välja pressiteate, 
+Subtitle: Tegelikult andsin täna hommikul välja pressiteate, 
+Similarity: 0.6666666666666669
+
+Generated: kus, kus kurtis just seda, et 
+Subtitle: kus kurtsin seda, et vastuvõetud riigieelarvestrateegias 
+Similarity: 0.4029114820126901
+
+Generated: vastu võetud riigieelarve strateegias ei olnud ette nähtud summat, mida mass, mis teil on, taotles 
+Subtitle: ei olnud ette nähtud summat, mida majandusminister taotles, 
+Similarity: 0.7987620630283672
+
+Generated: selleks, et me saaks oma Taristud nii-öelda tänases kvaliteedis jätkata ülalpidamist. 
+Subtitle: selleks et me saaksime jätkata oma taristu ülalpidamist tänases kvaliteedis. 
+Similarity: 0.9534625892455924
+
+Generated: Ja teiselt poolt kahtlemata on, on palju tehtud selleks, et olematut taristut hoida, hoida 
+Subtitle: Teisalt, kahtlemata on palju tehtud, et olemasolevat taristut hoida, 
+Similarity: 0.8081220356417687
+
+Generated: heas seisukorras, edasi arendada, 
+Subtitle: hoida heas seisukorras ja edasi arendada. 
+Similarity: 0.8164965809277261
+
+Generated: et eelmisel Euroopa Liidu eelarveperioodil 
+Subtitle: Et eelmisel Euroopa Liidu eelarveperioodil 
+Similarity: 1.0
+
+Generated: investeeriti 100 miljonit eurot selle aasta või sellel eelarveperioodil on seitse, viis miljonit eurot. 
+Subtitle: investeeriti 100 miljonit eurot, sel eelarveperioodil on 75 miljonit eurot. 
+Similarity: 0.8597269536210952
+
+Generated: Lõppemas ongi tööd, jah? Tapa-Tartu vahel 
+Subtitle: Lõppemas on kapitaalremont Tapa-Tartu vahel. 
+Similarity: 0.8249579113843054
+
+Generated: kap remont, 160 kohe tõsta ei saa, seal on lihtsalt raudtee enda kvaliteedile on teemaks ka 
+Subtitle: 160-ni kohe tõsta ei saa, lisaks raudtee enda kvaliteedile on teemaks ka 
+Similarity: 0.8485281374238569
+
+Generated: side, turvasüsteemid ja ka 
+Subtitle: side- ja turvasüsteemid ja ka ohutuse küsimused. 
+Similarity: 0.8333333333333333
+
+Generated: uudse asjad. Aga jah, teie enda kvaliteet võimelised täna 160 sõita 
+Subtitle: Tee enda kvaliteet võimaldaks ka täna 160-ga sõita, 
+Similarity: 0.533001790889026
+
+Generated: aga 135-ni, kui oleks piisavalt raha, et, et hoolduseks, siis seda on võimalik tõsta 
+Subtitle: kui on piisavalt raha hoolduseks, siis on võimalik tõsta 135-ni. 
+Similarity: 0.8680790595108568
+
+Generated: küll, jah. Ana mikrofoni alla 
+Subtitle: Andke mikrofon alla. 
+Similarity: 0.5163977794943223
+
+Generated: ja siis. Rea Raus ja jätkusuutliku arengu uurimiskeskusest 
+Subtitle: Rea Raus, jätkusuutliku arengu uurimiskeskusest. 
+Similarity: 0.7071067811865475
+
+Generated: ma püüan panna ennast praegu vaataja olukorda, 
+Subtitle: Püüan panna ennast vaataja olukorda, 
+Similarity: 0.8451542547285166
+
+Generated: kes on kuulanud nüüd päris pikalt igasuguseid numbreid ja tehnilisi detaile. 
+Subtitle: kes on kuulanud päris pikalt igasuguseid numbreid ja tehnilisi detaile. 
+Similarity: 0.9805806756909202
+
+Generated: Tahaks tuletada paari asja meelde, mida me kipume unustama ära 
+Subtitle: Tahaksin tuletada meelde paari asja, mida me kipume ära unustama. 
+Similarity: 1.0
+
+Generated: esiteks seda, et uuringuid tellitakse ja tellitakse ka etteantud skeemi järgi 
+Subtitle: Esiteks, et uuringuid tellitakse etteantud skeemi järgi. 
+Similarity: 0.9014978717104177
+
+Generated: ja uurida saab musta ja uurida saab valged ja tõestada, et päike on sinine ja kandiline 
+Subtitle: Uurida saab musta ja valget ja tõestada, et päike on sinine ja kandiline. 
+Similarity: 0.9730124597112036
+
+Generated: vastavalt tellimusele, et seda ei tohiks ka 
+Subtitle: Vastavalt tellimusele. Seda tuleks ka arvesse võtta. 
+Similarity: 0.5714285714285713
+
+Generated: kõrvaleid ta sellist asja. Ja huviga kuulama ka seda, et kaubavood tekivad ainuüksi ühe trassi mahamärkimisest 
+Subtitle: Kuulan huviga, et kaubavood tekivad ainuüksi trassi mahamärkimisest. 
+Similarity: 0.6488856845230501
+
+Generated: sest noh, minu mälu järgi tavaline ettevõtlusõpe juba õpetab, et kaubad tekivad ikka nõudlusest ja pakkumisest ja sellest suhtest. 
+Subtitle: Tavaline ettevõtlusõpe õpetab, et kaubad tekivad nõudluse ja pakkumise suhtest. 
+Similarity: 0.7590721152765896
+
+Generated: Päris niimoodi õhust on nagu raske mõista, et, et kuskilt tekivad mingisugused ebamäärased kaubavood. 
+Subtitle: Raske mõista, et kuskilt õhust tekivad mingid ebamäärased kaubavood. 
+Similarity: 0.6396021490668312
+
+Generated: Aga millest ma tegelikult tahaks rääkida, on see, et raudtee ei ole usu küsimus antud juhul vaid see on usalduse küsimus. 
+Subtitle: Tahaksin rääkida sellest, et raudtee ei ole usuküsimus, vaid on usalduse küsimus. 
+Similarity: 0.7765519984163485
+
+Generated: Eestis on meil paraku ajalugu, kuhu selline suurte ja väga kulukate objektide puhul 
+Subtitle: Eesti on paraku ajalugu selline, et suurte ja väga kulukate objektide puhul 
+Similarity: 0.8391463916782735
+
+Generated: teeme me suurepäraseid uuringuid, finantsprognoose, 
+Subtitle: teeme suurepäraseid uuringuid, finantsprognoose, 
+Similarity: 0.8944271909999159
+
+Generated: aga veel osavamad oleme me pärast tõestama, 
+Subtitle: aga veel osavamad oleme pärast tõestama, 
+Similarity: 0.9258200997725514
+
+Generated: miks need prognoosid ei täitunud. 
+Subtitle: miks need prognoosid ei täitunud. 
+Similarity: 1.0
+
+Generated: Ja siin on juba mainitud Saaremaa süda süvasadamat, meil on Estonian Air, meil on 
+Subtitle: Siin mainiti Saaremaa süvasadamat, meil on Estonian Air, 
+Similarity: 0.7918075824648958
+
+Generated: jutt ahje, Jordaania projektid ja, ja väga palju muid huvitavaid ideid, 
+Subtitle: meil on Uhtah' ja Jordaania projektid ja väga palju muid huvitavaid ideid, 
+Similarity: 0.7399400733959436
+
+Generated: mida sellise järjest suurenevas mastaabis tahetakse Eesti maksumaksjale 
+Subtitle: mida järjest suurenevas mastaabis tahetakse Eesti maksumaksjale 
+Similarity: 0.9534625892455924
+
+Generated: nii-öelda kaela suruda. 
+Subtitle: nii-öelda kaela suruda. 
+Similarity: 1.0000000000000002
+
+Generated: Ja selliste projektide puhul tuleb ikkagi arvestada rahva arvamusega ka selles mõistes 
+Subtitle: Selliste projektide puhul tuleb arvestada rahva arvamusega ka selles mõistes, 
+Similarity: 0.9128709291752771
+
+Generated: et mis ei ole ainult majanduslikult numbriliselt välja mõeldult kasulik, 
+Subtitle: et mis ei ole ainult majanduslikult, numbriliselt välja mõeldud kasulik, 
+Similarity: 0.7095748751868991
+
+Generated: vaid mis on selle rahva prioriteedid. 
+Subtitle: vaid mis on selle rahva prioriteedid. 
+Similarity: 1.0000000000000002
+
+Generated: Ja meil ei ole võimalik paraku arutleda reaalselt tõsiselt ja konstruktiivselt 
+Subtitle: Paraku meil ei ole võimalik arutada reaalselt, tõsiselt ja konstruktiivselt 
+Similarity: 0.8770580193070293
+
+Generated: erinevate prioriteetide alternatiivide üle. 
+Subtitle: erinevate prioriteetide alternatiivide üle. 
+Similarity: 1.0
+
+Generated: Sest paraku on praegu kodanikkond selles 
+Subtitle: Sest paraku on kodanikkond selles seisus, 
+Similarity: 0.8888888888888888
+
+Generated: selles seisus, kus me oma jõududega vabatahtlikkuse alusel uurime, analüüsime, 
+Subtitle: kus me oma jõududega, vabatahtlikkuse alusel uurime, analüüsime 
+Similarity: 0.9045340337332909
+
+Generated: võtame sõna ja saame selle eest kaela väga inetuid silte. Ja 
+Subtitle: ja võtame sõna ja saame selle eest kaela väga inetuid silte 
+Similarity: 1.0
+
+Generated: samas valitsuse poolt on palgatud suured kallid kommunikatsioonifirmad, 
+Subtitle: ja samas valitsuse poolt on palgatud suured, kallid kommunikatsioonifirmad, 
+Similarity: 0.9759000729485332
+
+Generated: kes tegelevad mitte dialoogiga, vaid info ja promoga. 
+Subtitle: kes tegelevad mitte dialoogi, vaid info ja promoga. 
+Similarity: 1.0
+
+Generated: Ja see küsimus oli meil ka presidendi juures arutelu all, 
+Subtitle: See küsimus oli meil ka presidendi juures arutelu all, 
+Similarity: 0.9486832980505138
+
+Generated: et kas see on need võrdsed võimalused, euroopalikud väärtused, 
+Subtitle: et kas need on võrdsed võimalused, euroopalikud väärtused, 
+Similarity: 0.9669875568304563
+
+Generated: kus me räägime avatud ühiskonnast, et tänase puud ja see 
+Subtitle: kus me räägime avatud ühiskonnast. Täna see puudub. - Arusaadav. 
+Similarity: 0.790569415042095
+
+Generated: on väga suur. Vaid vähendamine, Sepp, palun. 
+Subtitle: See on väga suur probleem. - Aitäh. Palun Evelyn Sepp. 
+Similarity: 0.7302967433402215
+
+Generated: Jah, et, 
+Subtitle: Aitäh. 
+Similarity: 0.0
+
+Generated: et mitte, et mul ei oleks varem olnud Nii-öelda positsiooni selles küsimuses, 
+Subtitle: Mitte et mul ei oleks varem olnud positsiooni selles küsimuses, 
+Similarity: 0.9601587170383666
+
+Generated: et kas on hea või halb, õige või vale 
+Subtitle: et kas on hea või halb, õige või vale. 
+Similarity: 1.0000000000000002
+
+Generated: aga kui see saade on nüüd kestnud juba ilmselt üle tunni pisut just 
+Subtitle: See saade on juba kestnud üle tunni... - Kohe hakkab lõppema. - Just. 
+Similarity: 0.8101404467277991
+
+Generated: ja, ja, ja me siiamaale noh, kõige kurjemad kommentaarid tegelikult on niisugune lihtlabane hirmutamine 
+Subtitle: Kõige kurjemad kommentaarid on lihtlabane hirmutamine. 
+Similarity: 0.6255432421712244
+
+Generated: siis, siis, siis, siis see on küll üks asi, mis, mis mulle nagu tundub täiesti veenev olema selleks, 
+Subtitle: Mulle tundub täiesti veenev olema selleks, 
+Similarity: 0.47834460310746063
+
+Generated: et, et mitte olla lihtsalt neutraalne selles küsimuses vaid vaid pigem optimist. 
+Subtitle: et mitte olla lihtsalt neutraalne selles küsimuses, vaid pigem optimist. 
+Similarity: 0.9486832980505138
+
+Generated: Ja, ja kui te nüüd räägite nii-öelda, et rahvas peab saama ja, ja rahvas peab teadma 
+Subtitle: Kui te räägite, et rahvas peab saama ja rahvas peab teadma. 
+Similarity: 0.8366600265340756
+
+Generated: ja siis noh, ma saan positsioneerida ka ennast selle rahva üheks liikmeks. 
+Subtitle: Ma saan ka positsioneerida ennast selle rahva üheks liikmeks. 
+Similarity: 0.894427190999916
+
+Generated: Ma kavatsen elada veel ikka päris mitu-mitu-mitukümmend aastat. 
+Subtitle: Ma kavatsen elada päris mitukümmend aastat. 
+Similarity: 0.7216878364870323
+
+Generated: Vaatame, mis millised on üldised inimeste elukohavaliku trendid 
+Subtitle: Vaatame, millised on üldised inimeste elukohavaliku trendid. 
+Similarity: 0.8451542547285167
+
+Generated: mida inimesed peavad pigem oluliseks, nad pigem tahavad koonduda linnadesse, 
+Subtitle: Mida inimesed peavad pigem oluliseks? Nad pigem tahavad koonduda linnadesse. 
+Similarity: 0.9999999999999998
+
+Generated: pigem tahavad koonduda suurematesse linnadesse. 
+Subtitle: Pigem tahavad koonduda suurematesse linnadesse. 
+Similarity: 1.0
+
+Generated: Targad inimesed selleks, et nii-öelda ka oma võimed realiseerida, vajavad 
+Subtitle: Selleks, et oma võimeid realiseerida, vajavad targad inimesed 
+Similarity: 0.8944271909999159
+
+Generated: üksjagu samasuguseid tarku inimesi enda ümber. 
+Subtitle: samasuguseid tarku inimesi enda ümber. 
+Similarity: 0.912870929175277
+
+Generated: Liidame sellele ühendusele juurde minu pärast Tallinna-Helsingi tunneli. 
+Subtitle: Liidame sellele ühendusele juurde Tallinna-Helsingi tunneli. 
+Similarity: 0.8660254037844388
+
+Generated: Mulle tundub, et häppelup ei ole nii ulmeline, võib-olla kui ta tegelikult täna tundub. 
+Subtitle: Mulle tundub, et hüperloop ei ole nii ulmeline, kui tegelikult täna tundub. 
+Similarity: 0.8902638145194515
+
+Generated: Ja, ja, ja siis küsima, et, et, et kas me peaksime väga muretsema selle üle, 
+Subtitle: Ja siis küsime, et kas peaksime väga muretsema selle üle, 
+Similarity: 0.8520128672302584
+
+Generated: et kas Rakveres, Tapale sõidavad inimesed tööle noh, 30 sekundit kiiremalt või aeglasemalt 
+Subtitle: kas Rakverest Tapale sõidavad inimesed tööle 30 sek kiiremalt või aeglasemalt. 
+Similarity: 0.7526178090063816
+
+Generated: vaid me pigem peaksime enda jaoks küsimata, et kas meie jaoks on täitsa okei 
+Subtitle: Pigem peaksime endalt küsima, kas meie jaoks on täitsa okei 
+Similarity: 0.9078412990032037
+
+Generated: käia Helsingis tööl, Riias, tööl Vilniuses, Õhtul ooperis, 
+Subtitle: käia Helsingis tööl, käia Riias tööl, Vilniuses õhtul ooperis. 
+Similarity: 0.8770580193070294
+
+Generated: siis ma usun, et, et see võib noh, olla praegu natukene nagu naljakas näide. 
+Subtitle: Praegu see võib olla natuke naljakas näide, 
+Similarity: 0.5202659817144719
+
+Generated: Aga see on pigem see reaalsus, kuhu me, kuhu me ise liigume või kuhu me tahame liikuda. 
+Subtitle: aga pigem on see reaalsus, kuhu me ise liigume või kuhu me tahame liikuda. 
+Similarity: 0.9735151541830579
+
+Generated: Ja, ja, ja ma veel selle ainult selle ühe Tartu näite puhul. Ma lihtsalt pean 
+Subtitle: Pean tähelepanu juhtima Tartu näitele. 
+Similarity: 0.253546276418555
+
+Generated: sellele tähelepanu juhtima, et et ma olen väga nõus, et, et rohkem tuleb investeerida sinna, 
+Subtitle: Olen väga nõus, et rohkem tuleb investeerida sinna, 
+Similarity: 0.7484551991837488
+
+Generated: kus kus selle mõju on suurem. 
+Subtitle: kus selle mõju on suurem. 
+Similarity: 0.9594032236002468
+
+Generated: Ma katsusin meenutada täna vist Postimehes vastatud selleteemalisi küsimusi, 
+Subtitle: Meenutasin Postimehe selleteemalisi küsimusi. 
+Similarity: 0.47140452079103173
+
+Generated: Peterburg-Narva-Tartu-Riia bussi ööpäevas kasutab. See on kuus, kuus bussi 
+Subtitle: Peterburi-Narva-Tartu-Riia bussi kasutab ööpäevas... neid busse on 6. 
+Similarity: 0.7938566201357355
+
+Generated: ja need tulevad täis 
+Subtitle: Need bussid tulevad täis Peterburist, 
+Similarity: 0.6708203932499369
+
+Generated: inimesi Peterburist, mitte Tartust, ei sõida kuus bussitäit inimesi Riiga, 
+Subtitle: mitte Tartust ei sõida kuus bussitäit inimesi Riiga. 
+Similarity: 0.7844645405527361
+
+Generated: Tallinnast läbi Pärnu Riiga sõidab kas 21 või 26 bussiga ööpäev 
+Subtitle: Tallinnast läbi Pärnu Riiga sõidab 21-26 bussi iga ööpäev. 
+Similarity: 0.7035264706814485
+
+Generated: 28 bussi iga ööpäev. 
+Subtitle: 28 bussi iga ööpäev. 
+Similarity: 1.0
+
+Generated: Et, et kas seesama transpordi näidet, kas 1500, eks ju suurt kaubaautot või kuidas iganes see termin on, mida 
+Subtitle: Seesama transpordinäide. Kas 1500 suurt kaubaautot, või mis iganes see termin oli, 
+Similarity: 0.7671412823766145
+
+Generated: te kasutasite või 300, mida sõidab üle Valga piiri. Üldiselt ma saan aru, 
+Subtitle: või 300, mis sõidab üle Valga piiri. - Evelyn Sepp, saan aru, 
+Similarity: 0.8017837257372731
+
+Generated: meil on tõesti aega või läheme 
+Subtitle: meil on vähe aega, palun lähme edasi. 
+Similarity: 0.7378647873726218
+
+Generated: ülespoole. Juhan Telgmaa Eesti Rooma Klubist, Eesti Looduskaitse Seltsist. 
+Subtitle: Juhan Telgmaa Eesti Rooma Klubist, Eesti Looduskaitse Seltsist. 
+Similarity: 0.9534625892455924
+
+Generated: Siin noh, nagu tavaliselt just just aruteludel kiputakse me detailidesse, 
+Subtitle: Tavaliselt kiputakse aruteludel detailidesse takerduma. 
+Similarity: 0.34426518632954817
+
+Generated: eks ole, takerdama. Aga ikkagi see põhiline, selline metodoloogiline raskus jääb, 
+Subtitle: Siiski põhiline metodoloogiline raskus jääb. 
+Similarity: 0.5393598899705937
+
+Generated: et ka uskudes ja ja, ja täiesti respekteeritud kas või seda järjest ja ongi viimaste uurimuste 
+Subtitle: Ja uskudes ja respekteerides Ernst & Youngi viimast uurimust... 
+Similarity: 0.6247580176717713
+
+Generated: noh, hea küll, jätame praegu rääkimata, et, et see on väga ebapiisava ainult majandusliku analüüsiga piirduda, 
+Subtitle: Jätan rääkimata, et ebapiisav on piirduda ainult majandusliku analüüsiga. 
+Similarity: 0.8189230248533257
+
+Generated: aga kuna ka järsk ja yangi uurimus jääb salajaseks, 
+Subtitle: Kuna Ernst & Youngi uurimus jääb salajaseks, 
+Similarity: 0.42640143271122083
+
+Generated: on öeldud, et avaldatakse selle kohta ainult mingi laiendatud kokkuvõte. 
+Subtitle: on öeldud, et selle kohta avaldatakse laiendatud kokkuvõte, 
+Similarity: 0.9672041516493515
+
+Generated: See tähendab, et see metodoloogiline raskus jääb, need, nende järeldused võivad olla kõik õiged, 
+Subtitle: siis see tähendab, et nende järeldused võivad olla kõik õiged. 
+Similarity: 0.8096409047527364
+
+Generated: aga millel, mille, mis on see sisend mille, mille põhjal, mille põhjal need järeldus on tehtud, 
+Subtitle: Aga mis on see sisend? Mille põhjal need uurimused on tehtud? 
+Similarity: 0.8619648632133243
+
+Generated: kus on alustatud, kust, kust võetakse need prognoosid, 
+Subtitle: Kust on alustatud? Kust võetakse need prognoosid? 
+Similarity: 0.9770084209183945
+
+Generated: eks ole, pannakse siis selle kohta ei saa midagi 
+Subtitle: Loodetavasti pannakse sinna juurde. - Selle kohta ei ole midagi. 
+Similarity: 0.6666666666666666
+
+Generated: ja, ja, ja, ja noh, teine teine aspekt, mis siin on, eks ole, räägitakse, et meil on tohutu dialoog ühiskonnas, meil 
+Subtitle: Ja teine aspekt, räägitakse, et meil on tohutu dialoog ühiskonnas. 
+Similarity: 0.8718572905786446
+
+Generated: ei ole mingit dialoogi 
+Subtitle: Meil ei ole mingit dialoogi. 
+Similarity: 0.8944271909999159
+
+Generated: ühiskonnas praegu. Evelyn Sepp on esimene, kes ma näen, et niiütelda rahva hulgast tuleb hääl, 
+Subtitle: Evelyn Sepp kui hääl rahva hulgast on esimene. 
+Similarity: 0.5832118435198044
+
+Generated: et, et, et küll oleks tore põrutada otse läbi kõige ja kõigi, 
+Subtitle: Et küll oleks tore põrutada läbi kõige ja kõigi. 
+Similarity: 0.7817359599705717
+
+Generated: aga, aga dialoog ei ole ju, eks ole, rahvas arvab midagi, 
+Subtitle: Aga dialoogi ju ei ole. Rahvas arvab midagi, 
+Similarity: 0.9128709291752766
+
+Generated: aga oponendid on ainult valitsuse 
+Subtitle: aga oponendid on ainult valitsuse ametnikud 
+Similarity: 0.9428090415820632
+
+Generated: amendikud või, või siis küll võib-olla 200000 euro eest palgatud PR-firma, 
+Subtitle: või 200 000 eest palgatud PR-firma. 
+Similarity: 0.8359173188630293
+
+Generated: eks ju. Ma võin Evelyn Sepale 
+Subtitle: Kas võib Evelyn Sepale korra öelda? - Korraks. 
+Similarity: 0.4629100498862757
+
+Generated: korraga, palun, võib korraks öelda, siis oli veerand tundi varem minna Tallinnas rongi peale ja saad 160 kilomeetri tunnis sõita. 
+Subtitle: Veerand tundi varem minna Tallinnas rongi peale, saad 160 km/h sõita 
+Similarity: 0.7071067811865474
+
+Generated: Vilniusse. Emil Rutiku, palun, 
+Subtitle: ja jõuad Vilniuse ooperisse. - Palun Emil Rutiku. 
+Similarity: 0.6324555320336758
+
+Generated: nii, juba ekraanile ilmuvad siin need säutsud 
+Subtitle: Ekraanile ilmuvad kodudes tehtud säutsud. 
+Similarity: 0.3030457633656632
+
+Generated: kaablis kodunduse. On täiesti eraldi, esiteks kõigepealt siin saalis peaks istuma üks erakonna inimene, 
+Subtitle: Siin saalis peaks istuma üks erakonna inimene, 
+Similarity: 0.7071067811865476
+
+Generated: kes alles hiljaaegu oli vist selle vastu siis järsku hopsti ja teisel pool 
+Subtitle: kes alles hiljaaegu oli selle vastu. Siis järsku hopsti! ja teisel pool. 
+Similarity: 0.9733285267845753
+
+Generated: kuidagi juhtub niimoodi, onju, ja nüüd minu küsimus on silmas 
+Subtitle: Kuidagi juhtub nii. Minu küsimus... - Keda te silmas peate? 
+Similarity: 0.4003203845127179
+
+Generated: pead, noh vaadake siin ringi, järsku siin on, leiate mõne 
+Subtitle: Vaadake ringi, järsku leiate mõne. 
+Similarity: 0.5773502691896257
+
+Generated: minu küsimus. Keda te silmas peate? 
+Subtitle: Emil, rääkige välja, keda te silmas peate? 
+Similarity: 0.7378647873726218
+
+Generated: Vaadake, seal Strandbergi kõrval istub üks inimene, aga ta on ju siin, 
+Subtitle: Vaadake, Strandbergi kõrval istub üks inimene. - Aga ta on ju siin. 
+Similarity: 0.9733285267845753
+
+Generated: Keskerakond on esindanud, ütleb, et nemad nüüd toorjuustud on, tänu toidavad õige 
+Subtitle: Keskerakond nüüd täna toetab seda. - Just, täna toetavad, õige! 
+Similarity: 0.1267731382092775
+
+Generated: mees end väga huvitav asi, kui see on poliitiline, 
+Subtitle: See on väga huvitav asi. Kui see on poliitiline... 
+Similarity: 0.8783100656536798
+
+Generated: minu küsimus on, mitu poliitikut täna siin on, tõstke käsi ülesse kaks poliitikut 
+Subtitle: Mitu poliitikut täna siin on, tõstke käsi! - Kaks poliitikut. 
+Similarity: 0.8933250005738372
+
+Generated: seal, kus peab käima poliitikud, 
+Subtitle: See ei ole saade, kus peavad käima poliitikud, 
+Similarity: 0.6324555320336758
+
+Generated: siis minu küsimus ja eriti kui mitu 
+Subtitle: vaid kus peavad käima Rutikud... 
+Similarity: 0.0
+
+Generated: poliitikat reaalselt Eestis on neid, kes selle nimel, et Venemaad saada kaupa 
+Subtitle: Mitu poliitikut reaalselt on Eestis, kes selle nimel, et Venemaalt saada kaupa, 
+Similarity: 0.895978670381041
+
+Generated: on nõus näiteks loobuma sanktsioonidest, 
+Subtitle: on nõus näiteks loobuma sanktsioonidest? 
+Similarity: 0.9999999999999998
+
+Generated: kes astub välja, teist ütlema, et kuulge, lõpetame selle ära, 
+Subtitle: Kes teist astub välja ütlema, et kuulge, lõpetame selle ära, 
+Similarity: 0.8320502943378438
+
+Generated: et me hakkame kaupu saama. Näidake mulle neid poliitikuid. 
+Subtitle: et me hakkame kaupa saama? Näidake neid poliitikuid. 
+Similarity: 0.9594032236002468
+
+Generated: Kas te oleksite nõus seda tegema 
+Subtitle: Kas te oleksite nõus seda tegema? 
+Similarity: 1.0000000000000002
+
+Generated: sanktsioonid maha 
+Subtitle: Sanktsioonid maha, peaasi, et kaubad saaksid liikuma? 
+Similarity: 0.5345224838248487
+
+Generated: ja peast kaubadele? Minu küsimus oli see, kas mina olen nõus vaid, kes nendest poliitikutest on. 
+Subtitle: Minu küsimus oli, et kes nendest poliitikutest on nõus? 
+Similarity: 0.8794269798371532
+
+Generated: Näidake mulle neid Eestis, kes on nõus selle nimel, et meie projekt oleks tasuv. 
+Subtitle: Näidake neid Eestis, kes on nõus selle nimel, et meie projekt oleks tasuv, 
+Similarity: 0.944911182523068
+
+Generated: Et me saaksime need kaubad oleks nõus ütlema. 
+Subtitle: et me saaksime need kaubad, oleks nõus ütlema, 
+Similarity: 0.9999999999999998
+
+Generated: No las need venelased tulevad ikka. Ei ole ju? 
+Subtitle: et las need venelased tulevad ikka? Ei ole ju! 
+Similarity: 0.8888888888888888
+
+Generated: Äge, ma, ma ei saa aru, millele te viitate, 
+Subtitle: Äge! - Ma ei saa aru, millele te täpsemalt viitate. 
+Similarity: 0.9258200997725516
+
+Generated: päris täpselt, aga, aga, aga see, see on kindlasti just nimelt 
+Subtitle: Aga see on kindlasti huvitav küsimus. - Just nimelt. 
+Similarity: 0.8017837257372732
+
+Generated: hea, palun. Hästi ei, ma ütleksin kohe siia ära minu nime, nagu mainiti mina 
+Subtitle: Palun. - Ma ütleksin kohe. Minu nime mainiti. - Ei mainitud. 
+Similarity: 0.5779204918167031
+
+Generated:  
+Subtitle: Mina ei maininud. 
+Similarity: 0.0
+
+Generated: keskel, kes Keskerakond ei ole kunagi olnud Rail Balticu vastu, 
+Subtitle: Keskerakond ei ole kunagi olnud Rail Balticu vastu. 
+Similarity: 0.8897565210026093
+
+Generated: see on Keskerakonna valimisi rammis olnud aastast 2005 
+Subtitle: See on Keskerakonna valimisprogrammis olnud 2005. aastast. 
+Similarity: 0.9363821838346236
+
+Generated: ja mille üle me oleme vaielnud, ongi need erinevad 
+Subtitle: Me oleme vaielnud erinevate trasside üle. 
+Similarity: 0.7807200583588265
+
+Generated: trossid, et kas teha seda läbi Pärnu läbi Viljandi või läbi Tartu 
+Subtitle: Kas teha seda läbi Pärnu, läbi Viljandi või läbi Tartu? 
+Similarity: 0.9428090415820634
+
+Generated: ja igal trassil on omad plussid ja miinused 
+Subtitle: Igal trassil on omad plussid ja miinused. 
+Similarity: 0.9647638212377323
+
+Generated: ja Rail Balticu suhtes ma arvan, see tänane Pärnu trass on päris hea kompromiss 
+Subtitle: Arvan, et praegune Pärnu trass on päris hea kompromiss. 
+Similarity: 0.7001400420140049
+
+Generated: ja töötatakse edasi ka Tartu trassiga. 
+Subtitle: Ja ka Tartu trassiga töötatakse edasi. 
+Similarity: 1.0000000000000002
+
+Generated: Ja, ja mina olin üks neist, kes paar nädalat tagasi käis Moskvas. 
+Subtitle: Ja mina olin üks neid, kes paar nädalat tagasi käis Moskvas. 
+Similarity: 0.9219544457292888
+
+Generated: 20 sekundit. 
+Subtitle: 20 sekundit. 
+Similarity: 0.9999999999999998
+
+Generated: Noh, kõik kõigile Berliini sõitjatele eesotsas Erki Erki Savisaare ja selline info. 
+Subtitle: Kõigile Berliini sõitjatele eesotsas Erki Savisaarega selline info: 
+Similarity: 0.8666666666666667
+
+Generated: Keskmine Euroopa rongisõitja kilometraaž on 35 kilomeetrit 
+Subtitle: keskmine Euroopa rongisõitja kilometraaž on 35 kilomeetrit. 
+Similarity: 1.0
+
+Generated: kõige pikem Rootsis 41 kilomeetrit. 
+Subtitle: Kõige pigem on Rootsis - 41 kilomeetrit. 
+Similarity: 0.5962847939999438
+
+Generated: Nii et kindlasti tahame me sõita Riia loomaaeda, kuhugi veel kontserdile, 
+Subtitle: Kindlasti tahame sõita Riia loomaaeda, kuhugi kontserdile. 
+Similarity: 0.7977240352174656
+
+Generated: see kõik on marginaalne. Kui me räägime kahe viljaldisest kolme-nelja-viie miljardi investeeringut, 
+Subtitle: See kõik on marginaalne. Kui me räägime 2-3-4-5-miljardilisest investeeringust, 
+Similarity: 0.8743856497851875
+
+Generated: siis palun ärme räägime sellest, et sõidame kontserdil. 
+Subtitle: siis palun ärme räägime, et sõidame kontserdile. 
+Similarity: 0.9354143466934852
+
+Generated: Me ei olegi rääkisime-rääkisime ka enamus ajast. Kilomeetrit on keskmine 
+Subtitle: Me ei olegi rääkinud. - 30 kilomeetrit on keskmine sõidupikkus. 
+Similarity: 0.6305926250944658
+
+Generated: sõidu pikkus, kõik aitäh teile. Ma tahtsin veel rea Rausile juurde. Lihtsalt ei jõua enam lisada, 
+Subtitle: Tahtsin Rea Rausile juurde lisada... - Ei jõua enam lisada. 
+Similarity: 0.6454972243679029
+
+Generated: suur aitäh teile, et te lisate, sest saate tegelikult seda teha, aga kahjuks vaatajad seda ei näe. 
+Subtitle: Suur aitäh teile, et te lisate. Saate seda teha, aga kahjuks vaatajad seda ei näe. 
+Similarity: 0.9511897312113418
+
+Generated: Meie saateaeg on lihtsalt saanud läbi 
+Subtitle: Meie saateaeg on läbi. 
+Similarity: 0.6236095644623236
+
+Generated: ja tiitrid hakkavad kohe jooksma, 
+Subtitle: Tiitrid hakkavad kohe jooksma. 
+Similarity: 0.8944271909999159
+
+Generated: enne seda veel ütlen. Suur aitäh, et jälgisite, selline see debatt täna õhtul 
+Subtitle: Suur aitäh, et jälgisite. Selline debatt oli täna õhtul. 
+Similarity: 0.6885303726590962
+
+Generated: siin sai. Kui palju asjad selgemaks said? Teie jaoks kodust või 
+Subtitle: Kui palju asjad selgemaks said, teie jaoks kodus või osalejatele, 
+Similarity: 0.9013878188659974
+
+Generated: siin osalejatele ei oska päris täpselt öelda. 
+Subtitle: ei oska ma päris täpselt öelda. 
+Similarity: 0.7715167498104596
+
+Generated: Nädala aja pärast on suud puhtaks taas eetris, siis räägime 
+Subtitle: Nädala aja pärast on "Suud puhtaks" taas eetris, siis räägime liikluskultuurist. 
+Similarity: 0.9636241116594317
+
+Generated: liiklus kultuurist Eestis. Head õhtut. 
+Subtitle: Head õhtut! 
+Similarity: 0.6324555320336758
+
+Mean similarity: 0.8187565548797987

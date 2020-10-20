@@ -13,6 +13,8 @@ from estnltk import Text
 from estnltk.taggers import VabamorfTagger
 import os
 
+import numpy as np
+
 
 import Levenshtein
 
@@ -51,11 +53,15 @@ def create_lemmatized_string(generated):
 
 
 def generate_results(pairs: List[SubtitlePairWords], name: str):
-    with open(f'{name}-result.txt', encoding='utf-8', errors='ignore', mode="a+") as result_file:
+    result_file_name = f'{name}-result-try-more-or-less.txt'
+    if os.path.exists(result_file_name):
+        os.remove(result_file_name)
+    with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
         for pair in pairs:
             result_file.write(pair.__str__())
             result_file.write("\n\n")
-
+        mean = np.mean([item.similarity for item in pairs])
+        result_file.write(f"Mean similarity: {mean}")
 
 def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
     subtitles = webvtt.read(f'data/{file_name}.vtt')
@@ -83,25 +89,35 @@ def process_subtitles(file_name: str) -> List[SubtitlePairWords]:
         similarity: float = get_cosine_similarity(caption, words_in_captions)
 
         if i < len(words):
-            with_next_word = words_in_captions + [words[i]]
-            one_less_word = words_in_captions[:-1]
-
-            similarity_with_next_word = get_cosine_similarity(caption, with_next_word)
-            similarity_one_less_word = get_cosine_similarity(caption, one_less_word)
-
-            if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
-                if similarity_with_next_word > similarity_one_less_word:
-                    i += 1
-                    words_in_captions = with_next_word
-                    similarity = similarity_with_next_word
-                else:
-                    i -= 1
-                    words_in_captions = one_less_word
-                    similarity = similarity_one_less_word
+            i, similarity, words_in_captions = try_more_or_less_words(caption, i, similarity, words, words_in_captions)
 
         pairs.append(SubtitlePairWords(words_in_captions, caption, similarity))
 
     return pairs
+
+
+def try_more_or_less_words(caption, i, similarity, words, words_in_captions):
+    if i >= len(words):
+        return i, similarity, words_in_captions
+
+    with_next_word = words_in_captions + [words[i]]
+    one_less_word = words_in_captions[:-1]
+
+    similarity_with_next_word = get_cosine_similarity(caption, with_next_word)
+    similarity_one_less_word = get_cosine_similarity(caption, one_less_word)
+
+    if similarity_with_next_word > similarity or similarity_one_less_word > similarity:
+        if similarity_with_next_word > similarity_one_less_word:
+            i += 1
+            words_in_captions = with_next_word
+            similarity = similarity_with_next_word
+            return try_more_or_less_words(caption, i, similarity, words, words_in_captions)
+        else:
+            i -= 1
+            words_in_captions = one_less_word
+            similarity = similarity_one_less_word
+            return try_more_or_less_words(caption, i, similarity, words, words_in_captions)
+    return i, similarity, words_in_captions
 
 
 if __name__ == '__main__':

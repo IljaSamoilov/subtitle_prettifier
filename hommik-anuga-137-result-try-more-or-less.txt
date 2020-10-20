@@ -1,0 +1,4425 @@
+Generated: Hommikused tervitused, 
+Subtitle: Hommikused tervitused! 
+Similarity: 0.9999999999999998
+
+Generated: november on kohe läbi 
+Subtitle: November on kohe läbi 
+Similarity: 0.9999999999999998
+
+Generated: ja muide täpselt kuu aja pärast hakkab jälle valgemaks minema. 
+Subtitle: ja täpselt kuu aja pärast hakkab jälle valgemaks minema! 
+Similarity: 0.9486832980505138
+
+Generated: Seniks aga maksab vaadata meie saadet, 
+Subtitle: Seniks aga maksab vaadata meie saadet, 
+Similarity: 1.0000000000000002
+
+Generated: mis näiteks täna hommikul on ääreni valgustatud, külalisi täis. 
+Subtitle: mis näiteks täna hommikul on ääreni valgustatud külalisi täis. 
+Similarity: 1.0000000000000002
+
+Generated: Otse Suurbritanniast on täna hommikul meie stuudio diivanile jõudnud mees, 
+Subtitle: Otse Suurbritanniast on täna hommikul meie stuudiodiivanile jõudnud mees, 
+Similarity: 0.9304842103984708
+
+Generated: kes väidab olevat end kuulsuselt Arvo Pärdi järel. Teine eestlane 
+Subtitle: kes väidab end olevat kuulsuselt Arvo Pärdi järel teine eestlane, 
+Similarity: 0.9444444444444445
+
+Generated: ehk isegi tulevane Eesti president, nagu ta enda kohta ütleb. 
+Subtitle: isegi tulevane Eesti president, nagu ta enda kohta ütleb. 
+Similarity: 0.960768922830523
+
+Generated: Niisiis kõrgeimat poliitilist karjääri teinud väliseestlane, 
+Subtitle: Niisiis kõrgeimat poliitilist karjääri teinud väliseestlane, 
+Similarity: 1.0
+
+Generated: Briti endine parlamendisaadik Lembit Öpik 
+Subtitle: Briti endine parlamendisaadik Lembit Öpik. 
+Similarity: 1.0
+
+Generated: Mul on mingisugune vaenlane seal, 
+Subtitle: Mul on mingisugune vaenlane seal. 
+Similarity: 0.9999999999999998
+
+Generated: nad ise ütlesid mulle 
+Subtitle: Nad ise ütlesid mulle: 
+Similarity: 0.9999999999999998
+
+Generated: seda. Sinu probleem on MTZ kuulus. 
+Subtitle: "Sinu probleem on, Lembit, et sa oled kuulus." 
+Similarity: 0.8084520834544431
+
+Generated: Kas armastus on olemas 
+Subtitle: Kas armastus on olemas 
+Similarity: 1.0
+
+Generated: ja miks me pole tihti oma suhetes nii õnnelikud kui võiksime? 
+Subtitle: ja miks me pole tihti oma suhetes nii õnnelikud kui võiksime? 
+Similarity: 1.0
+
+Generated: Sellest räägib täna hommikul suhtenõustaja Tiina Tiitus. 
+Subtitle: Sellest räägib täna hommikul suhtenõustaja Tiina Tiitus. 
+Similarity: 0.9999999999999998
+
+Generated: Minu kogemus on see, 
+Subtitle: Minu kogemus on see, 
+Similarity: 0.9999999999999998
+
+Generated: et keegi ei lähe kergekäeliselt lahku vastupidiselt arvamusele, 
+Subtitle: et vastupidiselt arvamusele ei lähe keegi kergekäeliselt lahku. 
+Similarity: 0.9999999999999998
+
+Generated: see on alati tohutud Raumani maa, et jale kui, kui 
+Subtitle: See on alati tohutu trauma nii mahajätjale kui mahajäetule. 
+Similarity: 0.7453559924999299
+
+Generated: maha jäetule muusikat täna hommikul teeb 35 aastane ansambel Karavan 
+Subtitle: Muusikat teeb täna hommikul 35-aastane ansambel Karavan. 
+Similarity: 0.7171371656006362
+
+Generated: ja kuigi algkoosseisust on järgi vaid üks liige solist Karl Madis, 
+Subtitle: Kuigi algkoosseisust on järel vaid üks liige, solist Karl Madis, 
+Similarity: 0.9233805168766385
+
+Generated: kes ka muide paar päeva tagasi oma sünnipäeva tähistas 
+Subtitle: kes ka paar päeva tagasi oma sünnipäeva tähistas, 
+Similarity: 0.9574271077563382
+
+Generated: saame täna hommikul kuulda, mis vormis karavan on. 
+Subtitle: saame teada, mis vormis Karavan on. 
+Similarity: 0.8486684247915057
+
+Generated: Nagu hüüti siis välja miljonite tütarlaste lemmik Karl Madis. 
+Subtitle: Hüüti välja miljonite tütarlaste lemmik Karl Madis, 
+Similarity: 0.7637626158259734
+
+Generated: Ja siis, kui koju läksid, olid ikkagi üksi, 
+Subtitle: aga kui koju läksid, olid ikka üksi. 
+Similarity: 0.7627700713964739
+
+Generated: sest et siis, kui pildid olid koos, 
+Subtitle: Kui pillid olid koos, olid kõik juba läinud. 
+Similarity: 0.44271887242357316
+
+Generated: hoiti, Tal peab olema 
+Subtitle: Mees peab täpne olema 
+Similarity: 0.5
+
+Generated: ministeeriumil. 
+Subtitle: Kui keegi kell lööb, ainult siis on õige aeg. 
+Similarity: 0.0
+
+Generated: Aga nüüd on suur rõõm tervitada siin diivanil, 
+Subtitle: Aga nüüd on suur rõõm tervitada siin diivanil 
+Similarity: 1.0
+
+Generated: meie saate esimesi külalisi 
+Subtitle: meie saate esimesi külalisi - 
+Similarity: 1.0
+
+Generated: kaugelt-kaugelt Tartust kohale jõudnud, hinga Lunge ja 
+Subtitle: kaugelt-kaugelt Tartust on kohale jõudnud Inga ja Toomas Lunge! 
+Similarity: 0.7637626158259734
+
+Generated: Toomas teravam. Kas ma pole veel 
+Subtitle: Ma pole veel kohal... 
+Similarity: 0.6123724356957946
+
+Generated: kohanud? Nii et täna hommikul teie kodus need pannkoogi jäävad, 
+Subtitle: Täna hommikul jäävad teie kodus pannkoogid küpsetamata? 
+Similarity: 0.50709255283711
+
+Generated: nüüd siis ikka küpsetamata. No ma arvan, et äkki veel jõuab. Ja õhtul jõuab veel vaba päeva 
+Subtitle: Ma arvan, et äkki jõuab veel õhtul teha. - Vaba päev on pikk! 
+Similarity: 0.6197797868009121
+
+Generated: alt vabanenud ja lapsele ikka hommikul hakkad tegema, teeme õhtul, 
+Subtitle: Mis sa neist hommikul hakkad tegema, tee parem õhtul... 
+Similarity: 0.4082482904638631
+
+Generated: kui ta pidi see tee pikem on 
+Subtitle: Kumba pidi see tee pikem on? 
+Similarity: 0.7396002616336388
+
+Generated: ikka kas Tartust Tallinnasse tulles või vastupidi, Tallinnas 
+Subtitle: Kas Tartust Tallinnasse või Tallinnast Tartusse? 
+Similarity: 0.7826237921249264
+
+Generated: tagant mõlemat pidi ühe pikku. Kuule ei ole 
+Subtitle: Need on mõlemat pidi sama pikad. - Ei ole! 
+Similarity: 0.46709936649691375
+
+Generated: tal Tartus-Tallinnas, on palju lühema, päriselt, 
+Subtitle: Tartust Tallinna on palju lühem maa, päriselt! 
+Similarity: 0.7378647873726218
+
+Generated: et Toomas ei tea 
+Subtitle: Toomas ei tea, 
+Similarity: 0.8660254037844388
+
+Generated: seda ka mina tallinlasena võin kinnitada. 
+Subtitle: aga mina tallinlasena võin kinnitada, 
+Similarity: 0.7302967433402215
+
+Generated: Kui sõita Tartusse, see oli see tohutu ettevõtmine, 
+Subtitle: et kui Tallinnast tuli sõita Tartusse, siis oli see tohutu ettevõtmine. 
+Similarity: 0.8153742483272115
+
+Generated: termosega tuli mõtteka tee kaasa, võileivad, 
+Subtitle: Termosega tuli võtta tee kaasa ja võileivad, 
+Similarity: 0.7715167498104596
+
+Generated: sellepärast et noh, kes teab, mis kõik võib juhtuda, 
+Subtitle: sest kes teab, mis tee peal võib juhtuda. 
+Similarity: 0.6929348671835833
+
+Generated: vastupidiselt Võru inimesed magasid Kose-Risti söö ära, 
+Subtitle: Võru inimesed magasid Kose ristis öö ära, 
+Similarity: 0.5345224838248487
+
+Generated: sest et Tallinn oli nii kaugel, kas oli 
+Subtitle: sest Tallinn on nii kaugel - need jutud on kõik ühesugused! 
+Similarity: 0.7302967433402215
+
+Generated: tutvunud ühe sakalased, käid? Kuulge aga on nii rõõm, et te olete siia tulnud 
+Subtitle: Tore, et olete siia tulnud! 
+Similarity: 0.6185895741317419
+
+Generated: ja te olete suurte kingitustega tulnud. 
+Subtitle: Te olete suurte kingitustega tulnud, 
+Similarity: 0.9660917830792959
+
+Generated: Ma saan aru, et te teete kingituse tänagi meile kõigile, siin vaatajatele, 
+Subtitle: ma saan aru, et te teete suure kingi täna vaatajatele, 
+Similarity: 0.760638829255665
+
+Generated: aga ühtlasi ka kogu Eestile. 
+Subtitle: ühtlasi ka kogu Eestile. 
+Similarity: 0.912870929175277
+
+Generated: Teil on kingitus valmis saanud, et saategi näidata oma värsket plaati 
+Subtitle: Teil on kingitus valmis saanud, saategi näidata oma värsket plaati. 
+Similarity: 0.9780192938436516
+
+Generated: mida me hetkel küll ei näe, veel seda ei ole. Kust me üldse on, 
+Subtitle: Meil seda ei ole! - Kus meil see on? 
+Similarity: 0.7370434740955019
+
+Generated: kas teile muidugi? 
+Subtitle: Kas teil on see kaasas? - Muidugi! 
+Similarity: 0.5773502691896257
+
+Generated: Muidugi koerad. Härra 
+Subtitle: Too ära, teeme ära! 
+Similarity: 0.0
+
+Generated: Laar ikka tead eakat. Nagu amatöörid, 
+Subtitle: Lobiseme muidu mõlemad. Nagu amatöörid! 
+Similarity: 0.5892556509887895
+
+Generated: aga siin on see plaatori Vabarikal seal sees, aga siin ongi need sees. Ei, 
+Subtitle: Plaat oli Marikal juba sees, aga siin ongi sees... - Ei! 
+Similarity: 0.7719753531984983
+
+Generated: väga tore ning paneme selle siia käidemedes ei pea me selle niimoodi. Te olete nii toredad. 
+Subtitle: Teeme niimoodi, te olete nii toredad! 
+Similarity: 0.5345224838248488
+
+Generated: Aga enne seda veel, kui me räägime muusikast 
+Subtitle: Enne veel, kui me räägime muusikast, 
+Similarity: 0.9045340337332909
+
+Generated: ikkagi ma tahaks natukene teiega mängida, ühe lõbusa mängu 
+Subtitle: ma tahaks teiega mängida ühte lõbusat mängu 
+Similarity: 0.912870929175277
+
+Generated: vaadata, kui hästi te tegelikult teineteist 
+Subtitle: ja vaadata, kui hästi te teineteist tunnete. 
+Similarity: 0.8432740427115678
+
+Generated: ikkagi nagu tead seda. Oi-oi-oi, ja see 
+Subtitle: Seda me arvasime! - Oi-oi! 
+Similarity: 0.2886751345948129
+
+Generated: nüüd on nii, et kui hästi tunnen, abikaasat, 
+Subtitle: Kui hästi tunnen abikaasat? 
+Similarity: 0.7071067811865475
+
+Generated: on selle mängu nimi ja see käib väga lihtsalt. 
+Subtitle: See käib väga lihtsalt. 
+Similarity: 0.6681531047810609
+
+Generated: Oleme välja vaadanud meediast erinevaid teie lauseid 
+Subtitle: Oleme välja valinud meediast erinevaid lauseid 
+Similarity: 0.32274861218395134
+
+Generated: ja anname need valikuna teie, 
+Subtitle: ja anname need valikuna teie ette. 
+Similarity: 0.912870929175277
+
+Generated: et ehk et hinga arvab, kas ta tunneb ära, mida Toomas on öelnud 
+Subtitle: Inga arvab ära, mida Toomas on öelnud, 
+Similarity: 0.817423891369599
+
+Generated: ja Toomas, vastupidi, siis mida hingan öelnud 
+Subtitle: ja Toomas vastupidi, mida Inga on öelnud. 
+Similarity: 0.8314971796756813
+
+Generated: ja kummalegi tuleb kulm lauset 
+Subtitle: Kummalegi tuleb kolm lauset. 
+Similarity: 0.6708203932499369
+
+Generated: ja vaatame, kas te siis leiate oma kalli kaasa sõnad teiste seast üles. 
+Subtitle: Vaatame, kas te leiate oma kalli kaasa sõnad teiste seast üles. 
+Similarity: 0.9354143466934854
+
+Generated: Esimesena loomulikult on daamidel õigus, 
+Subtitle: Esimesena on muidugi daamidel õigus, 
+Similarity: 0.8749999999999998
+
+Generated: nii et hinga hakkab arvama, siis missugune lause neist on Toomas öeldud. 
+Subtitle: nii et Inga peab arvama, missugune lause on Toomase öeldud. 
+Similarity: 0.8268688657895649
+
+Generated: Ma ei taha olla särav solist. Ei, see ei ole Toomas. 
+Subtitle: "Ma ei taha olla särav solist laval!"- ei ole Toomas. 
+Similarity: 0.9197090092274487
+
+Generated: Helimees ütles, et tehke midagi lahedamat. 
+Subtitle: "Helimees ütles, et tehke midagi lahedamat!"... 
+Similarity: 1.0000000000000002
+
+Generated: Maha kõik mu lapsed on mulle kodus öelnud, et sina ära laulan, 
+Subtitle: "Kõik mu lapsed on mulle kodus öelnud, et sina ära laula!" 
+Similarity: 0.9826073688810348
+
+Generated: seal Toomas. 
+Subtitle: See on Toomas! 
+Similarity: 0.2886751345948129
+
+Generated: Võimalik. 
+Subtitle: See ei ole võimalik! - Jah! 
+Similarity: 0.4472135954999579
+
+Generated: Dist peale Ott oli päris 
+Subtitle: See hakkas Otist peale, Ott oli päris väikene. 
+Similarity: 0.7071067811865475
+
+Generated: väike, ma kord olin. Mind oli õhtuti vähe ju kodus, siis kui poiss oli 
+Subtitle: Ma olin õhtuti ju vähe kodus, kui poiss oli väike. 
+Similarity: 0.92951600308978
+
+Generated: väga väike ja siis siis ma ükskord olin hea isa ja, ja istusin poja 
+Subtitle: Ma ükskord olin hea isa, istusin oma poja voodiserval, 
+Similarity: 0.5275043787166296
+
+Generated: voodis. Elada oli just nagu vist rääkima õppinud Eestis okas nagu mingit 
+Subtitle: ta oli just rääkima õppinud, hakkasin laulma mingit lugu. 
+Similarity: 0.6017934765940705
+
+Generated: tuge, siis vaid tegi silmalaiusest hädalaula. Ja, ja, ja 
+Subtitle: Ott vaatas üles ja ütles: "Äla laula!" 
+Similarity: 0.2927700218845599
+
+Generated: kui nüüd alles hiljuti oli see, et, et noorel on nüüd jälle tulnud, siis vaimustus, 
+Subtitle: Alles hiljuti on Noral tulnud see vaimustus, 
+Similarity: 0.7443229275647868
+
+Generated: et võiks olla unelaul, mitte unejutt. 
+Subtitle: et võiks olla unelaul, mitte unejutt, 
+Similarity: 1.0000000000000002
+
+Generated: Ja, ja siis mulle tundus ka, et, et ma lähen ikkagi rohkem peale. Kahjuks. 
+Subtitle: mulle tundus ka, et ma lähen ikka rohkem peale, kahjuks. 
+Similarity: 0.7745966692414834
+
+Generated: Nii et jah, meil on millegi pärast õnni, on 
+Subtitle: Meil millegipärast on nii. 
+Similarity: 0.7881104062391007
+
+Generated: selline, nagu kodus on, niimoodi tuleb, aga mulle 
+Subtitle: On kodus nii? - Niimoodi ütleb mulle alati? 
+Similarity: 0.5916079783099617
+
+Generated: väga meeldis edasi ja meil on väga hea meel 
+Subtitle: Meil on väga hea meel, et sa laulad. 
+Similarity: 0.7252406676228422
+
+Generated: saada seda, siis satun ma mööda oma päevi. 
+Subtitle: Sedasi ma saadan oma päevi mööda... 
+Similarity: 0.5773502691896258
+
+Generated: Nii ka vaatame, kaks lauset on meil jäänud veel 
+Subtitle: Nii, Inga, kaks lauset on veel jäänud. 
+Similarity: 0.9011271137791659
+
+Generated: üks punkt käes, üks punkt on käes. Ma olen 
+Subtitle: Mul on üks punkt käes. - Üks punkt on käes! 
+Similarity: 0.9909924304103233
+
+Generated: kuulsa näitleja autot ma pea kaugemale lugema. Oi. Minu 
+Subtitle: "Mina olen kuulsa näitleja autojuht." Ma ei pea kaugemale lugema... 
+Similarity: 0.7833494518006403
+
+Generated: naine on geenius, võiksid ka öelda. Ei, ma 
+Subtitle: "Minu naine on geenius." Seda võiksid sa ka öelda, 
+Similarity: 0.8703882797784892
+
+Generated: olen kuulnud seda, kuidas aeg-ajalt teeb nalja 
+Subtitle: aga ma olen kuulnud, et ta aeg-ajalt teeb seda nalja, 
+Similarity: 0.8603090020146065
+
+Generated: ja ütleb, et ma olen kuulsa näitleja autojuht 
+Subtitle: et on kuulsa näitleja autojuht. 
+Similarity: 0.7499999999999998
+
+Generated: ja mina pole see probleemide lahendaja, need tegelikult need teised kaks vastavad ka tõele. 
+Subtitle: Tegelikult need teised kaks vastavad ka tõele. 
+Similarity: 0.8000946913656629
+
+Generated: Et sa võiksid neid öelda eriti seda viimast tihedamini. 
+Subtitle: Sa võiksid neid öelda, seda viimast tihedamini. 
+Similarity: 0.9045340337332909
+
+Generated: Aga ma arvan, et ta ütles seda esimest ikkagi, ma olen kuulsa näitleja autojuht 
+Subtitle: Ma pakun ikkagi seda esimest: "Ma olen kuulsa näitleja autojuht!" 
+Similarity: 0.7938566201357355
+
+Generated: vaatama kohe. No 
+Subtitle: Vaatame kohe! - No näed! 
+Similarity: 0.8660254037844388
+
+Generated: naine liiga tegelikult mõlemad 
+Subtitle: See oli trikiga, tegelikult olid mõlemad tõesti. 
+Similarity: 0.3333333333333333
+
+Generated: ja niimoodi? Jah, miks sa oled siis kuulsa näitleja 
+Subtitle: Miks sa oled kuulsa näitleja autojuhiks taandatud? 
+Similarity: 0.5298129428260175
+
+Generated: autosid staandud? Ei, see ei ole taanduse olnud, vastupidi kuidas selles vabandust, 
+Subtitle: Ei ole taandatud, see on vastupidi! - Vabandust. 
+Similarity: 0.6060915267313264
+
+Generated: ära. See on väga austusväärne ülesanne, oli autojuht ja minu isa. 
+Subtitle: Ära hakka, mu isa oli autojuht. - Minu isa oli ka! 
+Similarity: 0.7071067811865476
+
+Generated: Noh, just see on väga austusväärne elukutse, 
+Subtitle: No just, see on väga austusväärne elukutse. 
+Similarity: 0.9230769230769231
+
+Generated: ma tahtsin väiksena väga istuda suure bussi roolist 
+Subtitle: Ma tahtsin väiksena väga istuda suure bussi roolis, 
+Similarity: 0.9999999999999998
+
+Generated: suid suurte bussidega võimas 
+Subtitle: sõita suurte bussidega. Võimas. 
+Similarity: 0.75
+
+Generated: ja see on, et olla nii kuulsa inimese nii vastutusrikkas rollis, 
+Subtitle: Nii kuulsa inimesega oled ikka nii vastutusrikkas rollis. 
+Similarity: 0.7778174593052022
+
+Generated: et teda juhtida teda õigesse kohta. 
+Subtitle: Juhtida teda õigesse kohta. 
+Similarity: 0.8838834764831843
+
+Generated: Sa mõtle, samastada seal limusiini, tagaistme 
+Subtitle: Samas kui tema tagaistmel, 
+Similarity: 0.1543033499620919
+
+Generated: peal saab sotsiaalne, kui auto mootor vaikselt nurru lööb, eks ole, mõtleb ta oma 
+Subtitle: kui automootor vaikselt nurru lööb, mõtleb oma päevatööle. 
+Similarity: 0.6581451817144176
+
+Generated: päevadele. Ja minu naine on Keenias on ju 
+Subtitle: "Minu naine on geenius." - Seda on ju näha! 
+Similarity: 0.8636363636363635
+
+Generated: raha loomulik, kas teie jaoks, kes saaks vaielda? Ei, mitte keegi 
+Subtitle: Kes saaks vaielda? - Ei, mitte keegi. 
+Similarity: 0.8017837257372732
+
+Generated: ja siin ei olegi midagi rääkida? Pole kommentaare, ei 
+Subtitle: Siin ei olegi midagi rääkida, siin ei ole kommentaare. 
+Similarity: 0.9309493362512626
+
+Generated: ole me edasi, jah. 
+Subtitle: Me läheme edasi? - Jah, kohe! 
+Similarity: 0.6708203932499369
+
+Generated: Nii, ja kolmas kord vaatame siis igal kaks punkti käes. 
+Subtitle: Kolmas kord, vaatame, Ingal kaks punkti käes. 
+Similarity: 0.7171371656006362
+
+Generated: Või 
+Subtitle: Appi! 
+Similarity: 0.0
+
+Generated: ootate, Toomas tõi vihjata läbi kiirelt, talle on sulle filmi? Ei, naise esimene ei ole. 
+Subtitle: Esimene ei ole. 
+Similarity: 0.6793662204867575
+
+Generated: Tervis on viimane asi, mida meie elukutse juures vaadatakse. 
+Subtitle: "Tervis on viimane asi, mida meie elukutse juures vaadatakse." 
+Similarity: 0.9999999999999998
+
+Generated: Ma arvan, et see võib siis olla see teine ja ma arvan, et 
+Subtitle: Ma arvan, et see võib olla teine. 
+Similarity: 0.903696114115064
+
+Generated: see 
+Subtitle: Ma arvan, et see teine variant. 
+Similarity: 0.3333333333333333
+
+Generated: muidugi ei näe või ei tea. Naised ja mõju. Meile 
+Subtitle: Ma ise ei tea. - Ei tea? 
+Similarity: 0.5604485383178051
+
+Generated: kõigile Vastasin 
+Subtitle: Esimene see ei ole... 
+Similarity: 0.0
+
+Generated: ka valesti, 
+Subtitle: Üllatuseks meile kõigile vastas Inga valesti, 
+Similarity: 0.2886751345948129
+
+Generated: vaatame, mis on õige vastu midagi öelnud, sellest oled 
+Subtitle: vaatame, mis on õige vastus. 
+Similarity: 0.6837634587578277
+
+Generated: küll. 
+Subtitle: Ma ei ole midagi sellist öelnud. - Oled küll. 
+Similarity: 0.22941573387056174
+
+Generated: Ja see, vaata nüüd õige vastus on 
+Subtitle: Vaata nüüd, õige vastus on see! 
+Similarity: 0.9486832980505138
+
+Generated: see. Läbikasvanud ja meedia on 
+Subtitle: Läbikasvanud? - Jah, meedia on sind niimoodi tsiteerinud. 
+Similarity: 0.6735753140545634
+
+Generated: kallinenud. 
+Subtitle: Toomas, kallis... 
+Similarity: 0.0
+
+Generated: Aga nüüd Toomas, sinu kord vaadata seda, kas sa tead, mida siis iga on öelnud. 
+Subtitle: Toomas, sinu kord on vaadata, kas sa tead, mida Inga on öelnud. 
+Similarity: 0.8664763412811685
+
+Generated: Mulle meeldib pläkutada, oskan nüüd akutrelli kasutada, 
+Subtitle: "Mulle ei meeldi pläkutada!", "Oskan akutrelli kasutada!", 
+Similarity: 0.857142857142857
+
+Generated: eks ma olen naiselikult kadega, 
+Subtitle: "Eks ma olen naiselikult kade ka!" 
+Similarity: 0.912870929175277
+
+Generated: no neid asju ta on tegelikult kõiki öelnud 
+Subtitle: Neid asju on ta tegelikult kõiki öelnud 
+Similarity: 0.9746794344808964
+
+Generated: ja need sobiksid talle aga väga hästi, sest talle ei meeldi tegelikult pläkutada. 
+Subtitle: ja need sobiksid talle ka väga hästi, sest talle ei meeldi pläkutada, 
+Similarity: 0.8970852271450604
+
+Generated: Aga ta oskab akutrelli kasutada. 
+Subtitle: aga ta oskab akutrelli kasutada. 
+Similarity: 1.0
+
+Generated: Tõesti oskad? 
+Subtitle: Tõesti, Inga? Oskad akutrelli kasutada? 
+Similarity: 0.6324555320336758
+
+Generated: Hinnaaukude? Absoluutselt muidugi, ja seesinane sellest valikust on teine, 
+Subtitle: Absoluutselt. Sellest valikust ta on teine. - Minu arust on see normaalne. 
+Similarity: 0.7542472332656506
+
+Generated: aga see akutrelli kasutamine oli tal tegelikult kaasa antud juba emapiimaga. 
+Subtitle: Akutrelli kasutamise oskus oli tal juba emapiimaga kaasa antud. 
+Similarity: 0.8959786703810408
+
+Generated: Või vaatame, mis 
+Subtitle: Vaatame, mis on õige vastus! 
+Similarity: 0.6154574548966638
+
+Generated: eestlase see No ei meeldi pläkutada, 
+Subtitle: Ei meeldi pläkutada. 
+Similarity: 0.7071067811865477
+
+Generated: noh aga akutrelli on see, et, et ta armastab rõhutada 
+Subtitle: Akutrelliga on see, et ta armastab rõhutada, 
+Similarity: 0.8981462390204986
+
+Generated: seda, kuidas nad kui emaga nad ju ka kaks väikest tüdrukut kasvasid emaga ja siis nad pidid ju kõiki asju koos tegema 
+Subtitle: kui kaks tüdrukut kasvasid emaga, nad pidid kõiki asju koos tegema. 
+Similarity: 0.7572401854185358
+
+Generated: siiamaani meie kõige suuremad tülid on tavaliselt, 
+Subtitle: Meie kõige suuremad tülid on tavaliselt siis, 
+Similarity: 0.9
+
+Generated: aga me peame ostma või kokku panema ühe mööblieseme üheskoos 
+Subtitle: kui me peame üheskoos kokku panema ühe mööblieseme. 
+Similarity: 0.7412493166611014
+
+Generated: siis talle tundub sedasi, et mina teen seda kõike valesti 
+Subtitle: Talle alati tundub, et mina teen kõike valesti. 
+Similarity: 0.7826237921249264
+
+Generated: ja siis teha, sest ma olen teise tuppa, sest et siis ta istub oma drell käes ja 
+Subtitle: Siis ma tavaliselt lähen teise tuppa ja ta istub üksi oma trell käes, 
+Similarity: 0.6864064729836441
+
+Generated: tervist, sest ta tahab teha ise seda. 
+Subtitle: sest ta tahab seda ise teha. 
+Similarity: 0.9258200997725514
+
+Generated: Tal on lihtsalt selline tunne. 
+Subtitle: Tal on lihtsalt selline tunne, et ta oskab seda asja paremini. 
+Similarity: 0.795495128834866
+
+Generated: Kommenteerib 
+Subtitle: Ma ei kommenteeri, parem ei kommenteeri! 
+Similarity: 0.6324555320336759
+
+Generated: paremini minna käest ära, selle asemel et pläkutada. 
+Subtitle: See võib minna käest ära. - Talle ei meeldi pläkutada. 
+Similarity: 0.5892556509887895
+
+Generated: Ja ma ei kommenteeri, 
+Subtitle: Ma ei kommenteeri, 
+Similarity: 0.8660254037844388
+
+Generated: aga ütleme nii, et kõik mööbliesemed püsivad 
+Subtitle: aga ütleme nii, et kõik mööbliesemed püsivad ilusti koos, 
+Similarity: 0.912870929175277
+
+Generated: kenasti, mis me oleme ema ja õega kokku pannud 
+Subtitle: mis me oleme ema ja õega kokku pannud, 
+Similarity: 0.9759000729485332
+
+Generated: ja et meil on teatav vilumus selles 
+Subtitle: meil on teatud vilumus selles asjas. 
+Similarity: 0.5217491947499511
+
+Generated: mõttes, et ema ja õde elavad meil ja ei 
+Subtitle: Ema ja õde ei ela meil, 
+Similarity: 0.8616404368553293
+
+Generated: tule ka appi siis kui me paneme mööbliesemeid kokku 
+Subtitle: nad ei tule appi, kui me paneme mööbliesemeid kokku. 
+Similarity: 0.8333333333333335
+
+Generated: ja noh, õnneks me ostame harva mööblit ja mitte liiga palju. Et ma 
+Subtitle: Me ostame harva mööblit, et mitte liiga palju tülitseda. 
+Similarity: 0.7276068751089988
+
+Generated: vahel täiesti olen teinud seda, et hästi kiriku, ma tean, 
+Subtitle: Ma vahel tõesti olen teinud seda, kui ma tean, et Tomil on kontserdiaeg, 
+Similarity: 0.7367883976130072
+
+Generated: et Tomiljoniteks kontserdi aeg, et me ajast on naguniimoodi, et ma panen ise hästi kiiresti kokku 
+Subtitle: siis ma ajastan ära, ma panen ise hästi kiiresti kokku, 
+Similarity: 0.5393598899705936
+
+Generated: ja et siis ei pea nagu üldse arutama või ei tulegi diskussioon, 
+Subtitle: siis ei pea arutama ja ei tule diskussiooni. 
+Similarity: 0.7669649888473705
+
+Generated: nii et omamoodi. 
+Subtitle: See on omamoodi mugav ka. 
+Similarity: 0.2041241452319315
+
+Generated: Aga me ühe korra panime koos. Me panime voodit, 
+Subtitle: Ühe korra me panime koos, panime voodi koos kokku. 
+Similarity: 0.875
+
+Generated: kus me ostsime endale magamistuppa voodi 
+Subtitle: Me ostsime magamistuppa voodi 
+Similarity: 0.8164965809277261
+
+Generated: ja siis selgus, et see mahubki sinna tuppa. 
+Subtitle: ja siis selgus, et see ei mahugi sinna tuppa. 
+Similarity: 0.9428090415820632
+
+Generated: Kes mõõtis, 
+Subtitle: Kes mõõtmistööd tegi? Kes mõõtis enne? 
+Similarity: 0.8999999999999999
+
+Generated: muidugi mõõt vist, isegi enne seda me ei arva. 
+Subtitle: Me ei mõõtnud, me arvasime. 
+Similarity: 0.3333333333333333
+
+Generated: Tavaliselt siis ma jäängi silma järgi, ma olen kõik asjad silma järgi üsna täpselt. 
+Subtitle: Ma tavaliselt mõõdan silma järgi üsna täpselt. 
+Similarity: 0.7092993656151905
+
+Generated: Ta on, mõnikord läheb väiksed ebatäpsust, 
+Subtitle: Mõnikord tulevad väiksed ebatäpsused, 
+Similarity: 0.5
+
+Generated: aga me oleme loomingulised inimesed ja see lõpuks mahtus 
+Subtitle: aga me oleme loomingulised inimesed ja see mahtus lõpuks igati ära. 
+Similarity: 0.9045340337332909
+
+Generated: igatepidi, kõik said teise koha. Sai, sai seal lihtsalt teise tuppa. 
+Subtitle: Teise tuppa. - Jah. 
+Similarity: 0.65991201759609
+
+Generated: Elamislaagrisse. 
+Subtitle: Nüüd elame suures toas, kõlab niimoodi. 
+Similarity: 0.0
+
+Generated: Nii lause number kaks, mida on öelnud Inga. 
+Subtitle: Nii, lause number kaks, mida on öelnud Inga? 
+Similarity: 1.0000000000000002
+
+Generated: Neid kordi on olnud küll, kus olen istunud, autos 
+Subtitle: "Neid kordi on olnud küll, kus ma olen istunud autos 
+Similarity: 0.9877295966495896
+
+Generated: hakkab nutma, sest olen nii väsinud, 
+Subtitle: ja hakanud nutma, sest ma olen nii väsinud," 
+Similarity: 0.7595545253127498
+
+Generated: seda ta on ka öelnud, 
+Subtitle: seda on ta küll öelnud. 
+Similarity: 0.9411764705882353
+
+Generated: neid hetki on ette tulnud küll, kui olen 
+Subtitle: "Neid hetki on ette tulnud küll, 
+Similarity: 0.9072184232530289
+
+Generated: autos pahur, on eestlase pärast autoukse, 
+Subtitle: kui olen autos pahurana istunud ja pärast autouksi paugutanud," 
+Similarity: 0.3651483716701107
+
+Generated: peab noh, võib olla ka, 
+Subtitle: noh, võib-olla ka... 
+Similarity: 0.5163977794943223
+
+Generated: eks, väiksemaid rikkumisi tuleb meil kõigil ette, 
+Subtitle: "Eks väiksemaid rikkumisi tuleb meil kõigil ette, 
+Similarity: 0.9999999999999998
+
+Generated: märkis äärne liiklushuligaan. Ma ei ole. Ma 
+Subtitle: kuid märkimisväärne liiklushuligaan ma ei ole." 
+Similarity: 0.6804138174397717
+
+Generated: ma arvan, et ta on seda nüüd kuskil alles hiljaaegu öelnud, 
+Subtitle: Ma arvan, et ta on seda kuskil alles hiljaaegu öelnud, 
+Similarity: 0.9780192938436515
+
+Generated: et ta on nii väsinud, et, et on lausa nutma hakanud. Sellest 
+Subtitle: et ta on nii väsinud, et ta on lausa nutma hakanud sellest. 
+Similarity: 0.9797958971132712
+
+Generated: see on Egle Eller-Nabi lause. 
+Subtitle: See on Egle Eller-Nabi lause, 
+Similarity: 0.9999999999999999
+
+Generated: Ta tuli trennist ja siis ta andis intervjuu, ütles, et ta on nii väsinud. 
+Subtitle: ta tuli trennist ja ta andis intervjuud ja ütles, et ta on nii väsinud. 
+Similarity: 0.9701425001453317
+
+Generated: Jäädakse siis on 
+Subtitle: Et hakkas autos nutma? - Jah. 
+Similarity: 0.0
+
+Generated: väiksemaid, rikkumisi tuleb kõigil ette, 
+Subtitle: "Eks väiksemaid rikkumisi tuleb meil kõigil ette, 
+Similarity: 0.8451542547285166
+
+Generated: aga märkimisväärne liiklus oli ka, see on 
+Subtitle: kuid märkimisväärne liiklushuligaan ma ei ole." 
+Similarity: 0.43643578047198484
+
+Generated: Gerli Padar. Siis on neid 
+Subtitle: See on Gerli Padar. 
+Similarity: 0.9428090415820632
+
+Generated: hetki ette tulnud, tõlgustan autos, pahur oli istunud ja pärast autoukse 
+Subtitle: Siis on see, et on autos pahurana istunud ja pärast autouksi paugutanud. 
+Similarity: 0.5318978854080616
+
+Generated: paigutanud öeldud Inga Lunge. Inga Lunge Toomas Kirsi auto kohta. 
+Subtitle: Inga Lunge Toomas Kirsi auto kohta. 
+Similarity: 0.5773502691896258
+
+Generated: Oh jumal küll See võib olla lihtsalt vahele vana. 
+Subtitle: Oh jumal küll, võtate lihtsalt vahele vana inimese. 
+Similarity: 0.7071067811865475
+
+Generated: Nojah, eks ma tean, mis see oli, teine Toom, teise 
+Subtitle: Hea küll, kust ma tean, mis ta selle teise Toomasega... 
+Similarity: 0.7216878364870323
+
+Generated: Toomas kosmeenedamast üks asi, see siis on tegelikult tore teada, et 
+Subtitle: Siis on tore, et sa isegi ei teadnud sellest. 
+Similarity: 0.47633051162246687
+
+Generated: ma olen nulli peale nulli 
+Subtitle: Ma olen nulli peal? - Nulli peal. 
+Similarity: 0.7171371656006361
+
+Generated: ma seda võimalust, Toomas üks 
+Subtitle: Toomas, üks võimalus on sul veel. 
+Similarity: 0.6123724356957946
+
+Generated: või kaks punkti 
+Subtitle: Ta sai kaks punkti või? - Jah. 
+Similarity: 0.7071067811865477
+
+Generated: või siis me jagame nüüd ära ja pärast ma saan, vaatame äkki sul ikka 
+Subtitle: Siis me jagame need pärast ära, ma saan ikka ühe. 
+Similarity: 0.6454972243679027
+
+Generated: veel saame 
+Subtitle: Vaatame, äkki sul õnnestub veel saada. 
+Similarity: 0.5773502691896258
+
+Generated: võitjad, perekond, võitja perekonda. 
+Subtitle: Võit jääb perekonda. - Võit jääb perekonda! 
+Similarity: 0.408248290463863
+
+Generated: Nii viimane lause. 
+Subtitle: Nii, viimane lause! 
+Similarity: 1.0000000000000002
+
+Generated: Tähtis on see, et Välba ei saa 
+Subtitle: Tähtis on see, et Välba ei saa mitte midagi! 
+Similarity: 0.912870929175277
+
+Generated: ühtegi saanud hull, turule minnes ei värvi, seal on 
+Subtitle: "Sa oled hull!", "Turule minnes ei värvi ma suud punaseks!", 
+Similarity: 0.45184805705753206
+
+Generated: igale poole liiga palju saanud. 
+Subtitle: "Mind on igale poole liiga palju saanud." 
+Similarity: 0.8583950752789521
+
+Generated: Iga, kas sina tead, mis 
+Subtitle: Inga, kas sina tead, mis õige on? 
+Similarity: 0.686406472983644
+
+Generated: ma tegelikult olen enam kui kindel, et kaks nendest on täitsa õiged. 
+Subtitle: Tegelikult ma olen enam kui kindel, et kaks neist on täitsa õiged. 
+Similarity: 1.0
+
+Generated: Ja aga nood, et kas teie seda teate või oled me 
+Subtitle: Kas teie seda teate või ei tea, aga ma kindlasti olen kahte öelnud. 
+Similarity: 0.5539117094069974
+
+Generated: oleme mõlemad värvi kunagi 
+Subtitle: Turule minnes ta ei värvi kunagi suud, 
+Similarity: 0.3779644730092272
+
+Generated: suurt tegelikult üldse just see on õige ja loomulik on 
+Subtitle: ta tegelikult ei värvi üldse. - See on loomulikult õige. 
+Similarity: 0.6666666666666669
+
+Generated: kahjuks jah. 
+Subtitle: Kaks-üks! - Jah. 
+Similarity: 0.4999999999999999
+
+Generated: Kaks üks 
+Subtitle: Kaks, üks, null! 
+Similarity: 0.9128709291752769
+
+Generated: jah, tõesti. Nii et saame aplausi teha Ingale, 
+Subtitle: Saame Ingale aplausi teha. 
+Similarity: 0.7071067811865475
+
+Generated: meil on ära jagatud, mina olen see, kes võidab. No need mängime kodus 
+Subtitle: Meil on ära jagatud, mina olen see, kes võidab, kodus ka. 
+Similarity: 0.9428090415820632
+
+Generated: lauamänge ja isegi meie lapsed teavad, 
+Subtitle: Meil on kodus hästi palju lauamänge ja isegi meie lapsed teavad, 
+Similarity: 0.7144345083117604
+
+Generated: et, et meil ei ole niimoodi, et kõige väiksem võidab meil 
+Subtitle: et meil ole nii, et kõige väiksem võidab, 
+Similarity: 0.8705715001320139
+
+Generated: enne võidab emme peab lihtsalt 
+Subtitle: meil emme võidab. Emme lihtsalt peab võitma. 
+Similarity: 0.7453559924999298
+
+Generated: lihtsalt on nii. 
+Subtitle: Lihtsalt on nii! 
+Similarity: 1.0000000000000002
+
+Generated: Ja kui paljuvõitu muide see aasta, mis 
+Subtitle: Mida see aasta, 
+Similarity: 0.6793662204867574
+
+Generated: nüüd varsti küll lõppema hakkab, natukene veel siin aega on 
+Subtitle: mis nüüd lõppema hakkab, natukene on veel aega, 
+Similarity: 0.7412493166611014
+
+Generated: sulle toonud väga palju võite 
+Subtitle: on sulle toonud? - Väga palju võite. 
+Similarity: 0.881917103688197
+
+Generated: menüüst tegelikult Toomasega arutasime 
+Subtitle: Me just Toomasega arutasime, 
+Similarity: 0.3779644730092272
+
+Generated: seda, et, et, et kui sa oled mingisuguses protsessis sees nagu praeguse plaadi valmimine, 
+Subtitle: et kui sa oled mingis protsessis sees, nagu praegu see plaadi valmimine, 
+Similarity: 0.8320502943378439
+
+Generated: et siis siis ei pane tähelegi seda, et kui palju on saanud teha või tehtud, 
+Subtitle: siis ei pane tähelegi, kui palju on saanud ära tehtud. 
+Similarity: 0.8947924869885988
+
+Generated: et et aasta alguses tuli ju pilved, on film välja ja siis tuli 
+Subtitle: Aasta alguses tuli "Pilvede all" film välja, 
+Similarity: 0.5916079783099616
+
+Generated: kohe otsa raamat nupukas 
+Subtitle: siis tuli kohe otsa raamat "Nupukas Nora", 
+Similarity: 0.7559289460184544
+
+Generated: noore minu kõige esimene raamat, et väga südamelähedane 
+Subtitle: minu kõige esimene raamat, väga südamelähedane. 
+Similarity: 0.8660254037844388
+
+Generated: töö ja, ja sealt edasi. 
+Subtitle: Sealt edasi - 
+Similarity: 0.5345224838248487
+
+Generated: Tõepoolest suve jooksul ma osalesin siis Eesti spinningu Spordiliidu poolt korraldatud võistlustel 
+Subtitle: suve jooksul ma osalesin Eesti spinninguliidu korraldatud võistlusel 
+Similarity: 0.846809798439941
+
+Generated: naiste arvestuses koos oma oma kalastuspartneriga. 
+Subtitle: naiste arvestuses koos oma kalastuspartneriga. 
+Similarity: 0.9486832980505137
+
+Generated: Ja kelleks ei ole, Toomas ei, seal on naised, 
+Subtitle: Kelleks ei ole Toomas? - Ei, seal on naised. 
+Similarity: 0.9759000729485332
+
+Generated: mais on see lisatervitan, vestleme Riini 
+Subtitle: Tervitan Agneriini. 
+Similarity: 0.0
+
+Generated: hommikul. Meeste peab eraldi võistlus. 
+Subtitle: Meestel on eraldi võistlused. 
+Similarity: 0.50709255283711
+
+Generated: Et ja, ja suve lõpuks selgus see, et, et meist said Eesti meistrid 
+Subtitle: Suve lõpuks selgus, et meist said Eesti meistrid. 
+Similarity: 0.7715167498104596
+
+Generated: ja see ei olnud üldsegi nii lihtne või, või kui võiks arvata, 
+Subtitle: See ei olnud üldse nii lihtne, kui võiks arvata. 
+Similarity: 0.8559209850218259
+
+Generated: et, et lõpuks ikka täitsa. Süda 
+Subtitle: Lõpuks ikka täitsa süda tagus. 
+Similarity: 0.6324555320336758
+
+Generated: satuks, teine paatkond oli ka. Seekord oli, 
+Subtitle: Üks teine paatkond oli ka. Ei olnud niisama lihtne. 
+Similarity: 0.566138517072298
+
+Generated: aga tore oli tõdeda, et mõnel võistlusel Või mõnel etapil 
+Subtitle: Järgmisena tuli tõdeda, et mõnel võistlusel või etapil nägime, 
+Similarity: 0.6735753140545634
+
+Generated: oli, oli täitsa, nägime, et me oleme juba konkurise konkurentsivõimelised juba meestega ka, et et mehed 
+Subtitle: et olime konkurentsivõimelised meestega ka. 
+Similarity: 0.7905694150420948
+
+Generated: on Eestis väga tublid ja püüavad väga hästi 
+Subtitle: Mehed on Eestis väga tublid ja püüavad väga hästi... 
+Similarity: 0.9636241116594317
+
+Generated: ja Inglismaal tõid koju Inglismaal maailmameistritiitli. 
+Subtitle: Tõid Inglismaalt maailmameistritiitli, 
+Similarity: 0.408248290463863
+
+Generated: Ma olen saanud äärmiselt vähe kajastamist, 
+Subtitle: mis on saanud äärmiselt vähe kajastamist. 
+Similarity: 0.8451542547285166
+
+Generated: aga tegelikult on see väga kõva sõna. 
+Subtitle: Tegelikult on see väga kõva sõna. 
+Similarity: 0.9486832980505138
+
+Generated: Et jah, niisiis ehk siis noh, seal oli ka vaja võid ju päriselt, kui ma mõtlesin, et, et ka see võit ei ole seal nii tähtis, 
+Subtitle: Päriselt, kui ma mõtlesin, et see võit pole seal nii tähtis, 
+Similarity: 0.751305484016714
+
+Generated: siis lõpuks oli küll, 
+Subtitle: siis lõpuks oli küll! 
+Similarity: 1.0
+
+Generated: et kui see oli ainult punktide mäng 
+Subtitle: Kui oli ainult punktide mäng, 
+Similarity: 0.894427190999916
+
+Generated: ja ma ei mäleta, et me jäime vist pealegi ühe 
+Subtitle: me jäime peale vist ühe haugi ja ühe ahvenaga... 
+Similarity: 0.6998964726756151
+
+Generated: haugi-ahvenat umbes punktiarvestuses, et et siis me olime ikka noh, väga õnnelikud 
+Subtitle: Umbes punktiarvestusega, siis me olime ikka väga õnnelikud. 
+Similarity: 0.7559289460184544
+
+Generated: küll ja ja nüüd siis tõepoolest see see plaat, et mida, mida ma vahepeal mõtlesin suvel, 
+Subtitle: Nüüd ka see plaat, mille kohta ma vahepeal suvel arvasin, 
+Similarity: 0.7134772412317412
+
+Generated: et noh, et äkki me jõuagi. 
+Subtitle: et äkki me ei jõuagi, 
+Similarity: 0.7905694150420948
+
+Generated: Aga seal on tõesti kõik sellised lood, mis minu tekstid Toomase 
+Subtitle: aga seal on tõesti kõik lood minu teksti ja Toomase viisiga. 
+Similarity: 0.8528028654224418
+
+Generated: viisid, mida me oleme nagu väga hoolega valinud, läbi mõelnud, 
+Subtitle: Me oleme väga hoolega valinud, läbi mõelnud, 
+Similarity: 0.8574929257125441
+
+Generated: et mis sinna siis sobiks, mis on täpselt need mõtted ja tunded, 
+Subtitle: mis sinna sobiks, mis on täpselt need mõtted ja tunded, 
+Similarity: 0.9649012813540153
+
+Generated: mida meie praegu tahaksime edasi öelda. 
+Subtitle: mida meie praegu tahaksime edasi öelda. 
+Similarity: 1.0
+
+Generated: Natuke tahaks ikka sellest kalastamisest ka rääkida, 
+Subtitle: Natuke tahaks ikka kalastamisest ka rääkida, 
+Similarity: 0.9258200997725514
+
+Generated: ma ei saa sellest üle ega ümber, kui ikkagi meister on stuudiost, 
+Subtitle: ma ei saa sellest üle ega ümber, kui ikkagi meister on stuudios. 
+Similarity: 1.0
+
+Generated: tahakski näha, et näiteks, et 
+Subtitle: Tahakski, et sa näitaksid, 
+Similarity: 0.5669467095138407
+
+Generated: kui suur see kõige suurem kala on millesele kinni püüdnud 
+Subtitle: kui suur on kõige suurem kala, mille sa oled kinni püüdnud. 
+Similarity: 0.8703882797784892
+
+Generated: see jää kahjuks Eesti vetesse, 
+Subtitle: See ei jää kahjuks Eesti vetesse. 
+Similarity: 0.912870929175277
+
+Generated: selles mõttes minu rekord on Soomes püütud. No nojah, kõik 
+Subtitle: Minu rekord on Soomes püütud... Kõik need silmajutud... 
+Similarity: 0.9174634218511291
+
+Generated: need silma, et, et ma ei, ma ei tea, noh niimoodi umbes või et, et ega ta nüüd ülemäära ei olnud, 
+Subtitle: Ma ei tea, nii suur umbes. Ta ülemäära suur ei olnud. 
+Similarity: 0.6350852961085884
+
+Generated: naeruhaug, 
+Subtitle: Väike hai, ma saan aru? 
+Similarity: 0.0
+
+Generated: haug 
+Subtitle: Haug, haug ikka. - Jah. 
+Similarity: 0.8164965809277261
+
+Generated: oli tükk, et aga, aga ülemäära suur, ei olnud. 
+Subtitle: Ülemäära suur ei olnud. 
+Similarity: 0.8278373543847157
+
+Generated: Loomulik on, et kuuekilone haug on ikka päris, see on see, et kui sa tõstad, ütleme ta niimoodi püsti seistes, siis ta ripub maani, 
+Subtitle: Kuuekilone haug, kui tõstad nii, siis ripub maani. 
+Similarity: 0.3711348095126027
+
+Generated: et on umbes niisugune, mis kalaroog Ingal kõige paremini välja tuleb? 
+Subtitle: Mis kalaroog Ingal kõige paremini välja tuleb? 
+Similarity: 0.7669649888473705
+
+Generated: Ka tegelikult on ju, mina ei tea, kui sa kala ei lase või Eesti värskest kalast võib ju teha igat moodi 
+Subtitle: Värskest kalast võib ju teha igat moodi. 
+Similarity: 0.5921565254637922
+
+Generated: ja, ja noh, tegelikult, kui viitsib jamada, siis haugi kotlette on ikka tegelikult ikka suurepärane. 
+Subtitle: Kui viitsib jamada, siis haugikotlet on suurepärane. 
+Similarity: 0.6405126152203485
+
+Generated: Kusjuures kotletid lähevad siis, kui on nad tavaliselt juba kalast juba siiamaani 
+Subtitle: Kusjuures kotletid lähevad siis, kui on juba kalast siiamaani, 
+Similarity: 0.9237604307034011
+
+Generated: siis lõpuks teed kotleriteks saati söövad jälle terve pere kõik rõõmsalt. 
+Subtitle: lõpuks teed kotletiks ja jälle kõik söövad rõõmsalt. 
+Similarity: 0.7006490497453707
+
+Generated: Ütle, et on muidugi värskest haugist. 
+Subtitle: Haugikotlet värskest haugist... 
+Similarity: 0.3849001794597505
+
+Generated: Aga lepingu kevadel, ükskõik mis 
+Subtitle: Lepime kokku, kevadel, ükskõik, mis sealt tuleb. 
+Similarity: 0.7035264706814485
+
+Generated: seal tuleva kevade 
+Subtitle: Kevadel esimene värske kala, mis sealt tuleb, 
+Similarity: 0.30151134457776363
+
+Generated: esiveo kargas või siis järgivad nad kõik lähevad. 
+Subtitle: kas või särg, kõik läheb! 
+Similarity: 0.6396021490668312
+
+Generated: Riidikad, nii väiksed vidinad, kevadel pannile õliga pannile, 
+Subtitle: Nii väiksed viidikad lähevad kevadel õliga pannile, 
+Similarity: 0.7144345083117603
+
+Generated: veidiks läheb nii pehme õlle tuleb eetikast, läheb nii pehmeks, et 
+Subtitle: viidikas läheb nii pehmeks, et sööd lihtsalt niisama järjest. 
+Similarity: 0.5659164584181102
+
+Generated: sa oled 
+Subtitle: Õudselt hea on. - Pead meile külla tulema. 
+Similarity: 0.42640143271122083
+
+Generated: lihtsalt niisama järjest õudsad. 29.-st novembrist tegelikult te lähete ka mööda Eestimaad 
+Subtitle: 29. novembrist lähete mööda Eestimaad 
+Similarity: 0.6454972243679029
+
+Generated: selle nendesamade lugudega kõndima. 
+Subtitle: nende lugudega kõndima. 
+Similarity: 0.8660254037844388
+
+Generated: 11 kohta olete te välja valinud? 11 laulu on siin peal 
+Subtitle: 11 kohta olete te valinud, 11 laulu on siin peal. 
+Similarity: 0.9826073688810348
+
+Generated: ja ma saan aru, et see 11, number on kuidagi väga oluline, 
+Subtitle: Ma saan aru, et see number 11 on kuidagi väga oluline. 
+Similarity: 0.9660917830792959
+
+Generated: 11 veebruar on minu sünnipäev. 
+Subtitle: 11. veebruar... - On minu sünnipäev. 
+Similarity: 0.9999999999999998
+
+Generated: Seda numbrit 11 on tõesti hästi palju. 
+Subtitle: Number 11 on tõesti hästi palju. 
+Similarity: 0.9486832980505138
+
+Generated: Ja, ja, ja kui ma seda hakkasin ära märkama juba juba ammu ikkagi kooli ajal, 
+Subtitle: Ma hakkasin märkama juba ammu, kooli ajal, 
+Similarity: 0.5929994533288809
+
+Generated: et seda number ühteteist igalt poolt tuleb, et ma 11. 
+Subtitle: et seda number 11 tuleb igalt poolt. 
+Similarity: 0.8728715609439697
+
+Generated: kuupäevaga on sündinud. Minu ema, mina 
+Subtitle: 11. kuupäeval on sündinud minu ema, mina, 
+Similarity: 0.9759000729485332
+
+Generated: ja hõlme seda noorelt, ootasime ta noh, muudkui sändise sündis 
+Subtitle: kui me Norat ootasime, siis ta muudkui sündis ja sündis. 
+Similarity: 0.4898979485566356
+
+Generated: juba, mõtlesin, mis jama on, kui ema lõpuks saatis sõnumi, et Inga teate ootab kuupäeva 
+Subtitle: Kuni ema mulle lõpuks saatis sõnumi, et Inga, ta ootab kuupäeva. 
+Similarity: 0.492365963917331
+
+Generated: ja tõesti noore kuupäev on ka 11, et no see oli 
+Subtitle: Nora kuupäev on ka 11. Tohutult kaua sai oodatud. 
+Similarity: 0.46291004988627577
+
+Generated: tohutu. Sedasorti pead kõigepealt mängida, tuli 
+Subtitle: Hakkas kohe pärast südaööd sündima, kribinal- krabinal tuli. 
+Similarity: 0.14433756729740646
+
+Generated: siis laps, sõime lapse, esimene reaktsioon vaatas mulle otsa, tegid ja ohkasin. 
+Subtitle: Lapse esimene reaktsioon oli: vaatas mulle otsa ja ohkas nii... 
+Similarity: 0.760638829255665
+
+Generated: Huh, jube väsitav, ta oli, kolm päeva tuli 
+Subtitle: Jube väsitav oli, kolm päeva tuli. 
+Similarity: 0.8660254037844388
+
+Generated: nüüd Kolbe, valib. 
+Subtitle: Kolm päeva oli teel. 
+Similarity: 0.0
+
+Generated: Et ma näen seda numbrit, on niimoodi siit-sealt tulnud, 
+Subtitle: Seda numbrit on alati siit-sealt tulnud, 
+Similarity: 0.8743856497851877
+
+Generated: et siis et ma olen nagu kummarduse teinud sellele numbrile vastu ka. 
+Subtitle: ma olen nagu kummarduse teinud sellele numbrile vastu ka. 
+Similarity: 0.8987170342729173
+
+Generated: Et, et noh, kui on mõned asjad, kus siis sa pead nagunii-öelda, numbriliselt lähtume, 
+Subtitle: Nüüd, kui on mõned asjad, kus peab numbriliselt lähtuma, 
+Similarity: 0.7706746355884523
+
+Generated: et, et siis ma siis ma olen seda, seda nagu rõõmsasti kasutanud 
+Subtitle: siis ma olen seda rõõmsasti kasutanud. 
+Similarity: 0.8215838362577491
+
+Generated: ka meil on ikkagi rõõm kohe nüüd kuulata 
+Subtitle: Meil on rõõm kohe kuulata üht muusikapala ka. 
+Similarity: 0.7252406676228422
+
+Generated: muusikalugu ka see on kingitus, on selle plaadi nimilugu, plaadi 
+Subtitle: "Kingitus" on plaadi nimilugu. 
+Similarity: 0.857142857142857
+
+Generated: pealkiri on kingitus ja loob järgi pealkiri on kingitus 
+Subtitle: Plaadi pealkiri on "Kingitus" ja loo pealkiri on "Kingitus". 
+Similarity: 0.8934271123648291
+
+Generated: ja see mõte, mis minu sees oli või see mõttekäik oli umbes selline, 
+Subtitle: See mõte, mis minu sees oli, see mõttekäik oli umbes selline: 
+Similarity: 0.9486832980505139
+
+Generated: et ma hakkasin mõtlema, et vaat kui on sünnipäev, kui on jõulud. 
+Subtitle: ma hakkasin mõtlema, et kui on sünnipäev, kui on jõulud, 
+Similarity: 0.9762210399274298
+
+Generated: No see ikka ju nuputada ja mõtlen, mida teistele kinkida. 
+Subtitle: ikka nuputad ja mõtled, mida teistele kinkida, 
+Similarity: 0.9013878188659974
+
+Generated: Noh, et, et, et see kingitus ei jääks niisama kuhugi vedelema 
+Subtitle: et kingitus ei jääks niisama kuskile vedelema. 
+Similarity: 0.733358797622569
+
+Generated: või või paned palju raha sinna alla ka teisele ei meeldigi, 
+Subtitle: Sa paned palju raha alla ja teisele ei meeldi. 
+Similarity: 0.7216878364870323
+
+Generated: on ju, et sa püüad nagu mõelda, et mis sellele teisele inimesele meeldib. 
+Subtitle: Püüad ikka mõelda, mis teisele inimesele meeldib. 
+Similarity: 0.6405126152203485
+
+Generated: Aga kui mõelda enda peale 
+Subtitle: Kui nüüd mõelda enda peale, 
+Similarity: 0.8749999999999998
+
+Generated: ja öeldi, et kui sul olekski kõik rahalised võimalused, 
+Subtitle: kui sul olekski kõik rahalised võimalused, 
+Similarity: 0.8944271909999159
+
+Generated: mida sa iseendale kingiksid, nagu sa saaksid 
+Subtitle: mida sa iseendale kingiksid, kui sa saaksid? 
+Similarity: 0.7333333333333332
+
+Generated: Noh, et, et mis siis, et nad kas ostaks maja või või läheks reisima 
+Subtitle: Mida siis? Ostaksid maja või läheksid reisima... 
+Similarity: 0.6957010852370435
+
+Generated: või? No mis sa nagu, et, et nagu noh, et mis oleks see kõige tähtsam asi 
+Subtitle: Mis oleks see kõige tähtsam asi? 
+Similarity: 0.6128258770283411
+
+Generated: ja mina jõudsin sinnani, et et minu jaoks on see aeg, 
+Subtitle: Mina jõudsin selleni, et minu jaoks on see aeg. 
+Similarity: 0.8838834764831844
+
+Generated: et mina kingiksin ise endale aega, 
+Subtitle: Mina kingiksin iseendale aega, 
+Similarity: 0.41602514716892186
+
+Generated: et olla koos Toomasega, et olla koos lastega. 
+Subtitle: et olla koos Toomasega, et olla koos lastega. 
+Similarity: 1.0000000000000002
+
+Generated: See võib-olla kõlab nagu pateetiliselt ja suurelt, aga päriselt. 
+Subtitle: See võib-olla kõlab pateetiliselt ja suurelt, aga päriselt! 
+Similarity: 0.8164965809277259
+
+Generated:  
+Subtitle: See kõlabki. 
+Similarity: 0.0
+
+Generated: Sest, et mulle tundub, et see, see, miks me tööl käime ja rassime, 
+Subtitle: Mulle tundub, et see, miks me tööl käime ja rassime, 
+Similarity: 0.9358192003574064
+
+Generated: on ju tegelikult see, et, et me kujutame ette, 
+Subtitle: on ju see, et me kujutame ette, 
+Similarity: 0.9296696802013683
+
+Generated: et meil on aega olla koos oma kallite 
+Subtitle: et siis meil on aega olla koos kallitega. 
+Similarity: 0.9333333333333333
+
+Generated: ka, eks ju. Et et siis me saame hästi palju raha, siis me oleme koos 
+Subtitle: Me saame hästi palju raha ja siis saame olla koos, 
+Similarity: 0.6929348671835833
+
+Generated: olnud, aga tegelikkuses see niimoodi välja ei tule. 
+Subtitle: aga tegelikkuses see välja ei tule. 
+Similarity: 0.5940885257860047
+
+Generated: Me oleme ikkagi rohkem seal tööle, eks lapsi näeme siis, kui näeme 
+Subtitle: Me oleme kogu aeg tööl ja lapsi näeme siis, kui näeme. 
+Similarity: 0.7882407813680823
+
+Generated: Väga paljud tegusad inimesed on tegelikult pidanud päevikuid 
+Subtitle: Väga paljud tegusad inimesed on tegelikult pidanud päevikuid. 
+Similarity: 1.0
+
+Generated: ja mina tean ühe tegusa mehe päevikut, 
+Subtitle: Mina tean ühe tegusa mehe päevikut, 
+Similarity: 0.9486832980505138
+
+Generated: mida me tema pojaga lappasime pärast seda, 
+Subtitle: mida me tema pojaga lappasime pärast seda, 
+Similarity: 1.0
+
+Generated: kui ta oli lahkunud meie 
+Subtitle: kui ta oli meie seast lahkunud. 
+Similarity: 0.9718253158075503
+
+Generated: hulgast ja seal oli terve aeg, oli mees kirjutanud 
+Subtitle: Seal oli ta terve aeg kirjutanud: 
+Similarity: 0.8660254037844387
+
+Generated: sisse, et ma saan selle asja valmis, siis ma hakkan. Ma 
+Subtitle: "Ma saan selle asja valmis, siis ma hakkan..." 
+Similarity: 0.9203579866168445
+
+Generated: saan, küll ma siis hakkan, kui ma, ma siis hakkan endale tegema seal seda, 
+Subtitle: Küll ma siis hakkan endale tegema seda. 
+Similarity: 0.8001322641986388
+
+Generated: kui ma kogu aeg hakkad, mis ta 
+Subtitle: Lehitsed ta päevikuid 
+Similarity: 0.16012815380508716
+
+Generated: terve elu lehitsejat, päevikud, ta terve eluaega hakkas nagu endale siis ka lõpuks elama. 
+Subtitle: ja ta terve elu hakkas nagu endale ka lõpuks elama. 
+Similarity: 0.8271701918685112
+
+Generated: Aga nüüd me tegimegi kingituse ja see kingitus juba seda tehes, 
+Subtitle: Nüüd me tegimegi kingituse ja juba seda kingitust tehes 
+Similarity: 0.9417419115948374
+
+Generated: ma sain aru, et ongi, saime koos teha, 
+Subtitle: ma sain aru, et me saime koos teha, 
+Similarity: 0.8006407690254358
+
+Generated: koos luua, me olime kõik koos, 
+Subtitle: koos luua, me olimegi koos. 
+Similarity: 0.7977240352174657
+
+Generated: andsime üksteisele ka aega selles loomingulises mõttes. 
+Subtitle: Veetsime teineteisega aega loomingulises mõttes. 
+Similarity: 0.50709255283711
+
+Generated: Nüüd me peame, et koosneb ja nüüd me käime terve terve aeg saame anda kontserte ka koos, 
+Subtitle: Nüüd me saame terve aja kontserte ka koos anda, 
+Similarity: 0.8340576562282991
+
+Generated: nii et, et see on puhtalt meie 
+Subtitle: see on puhtalt meie kvaliteetaeg. 
+Similarity: 0.7144345083117603
+
+Generated: aeg. Ja puhas rõõm on. Esmaspäeva hommikul olete külla tulnud. 
+Subtitle: Puhas rõõm, et te täna hommikul külla olete tulnud 
+Similarity: 0.7947194142390261
+
+Generated: Kohe seda lugu ka kuulame, aitäh teile. 
+Subtitle: ja me kohe seda lugu ka kuuleme. Aitäh teile! - Aitäh! 
+Similarity: 0.7637626158259734
+
+Generated: Niisiis, Inga ja Toomas juba alates 29.-st novembrist kuni peaaegu jõuludeni 
+Subtitle: Inga ja Toomas, juba 29. novembrist kuni peaaegu jõuludeni 
+Similarity: 0.9045340337332909
+
+Generated: oli hästi 11 paika Eestimaal, jõuate läbi käia, aitäh teile. 
+Subtitle: jõuate läbi käia 11 paika Eestimaal. Aitäh teile. 
+Similarity: 0.8944271909999159
+
+Generated: Las magab ainult 
+Subtitle: Las ühe kingi ma valin ainult endale 
+Similarity: 0.3651483716701108
+
+Generated: teenindajale. Ei ole. Kallis. Ega. 
+Subtitle: ei ole auto, kallis ehe ega maja. 
+Similarity: 0.6761234037828132
+
+Generated: Segi on mõeldud üksnes 
+Subtitle: See kingitus on mõeldud üksnes minule 
+Similarity: 0.8838834764831845
+
+Generated: neile, ülejäänud täitsa päriselt. Seda 
+Subtitle: ja täitsa päriselt, mul ongi seda vaja. 
+Similarity: 0.2631174057921088
+
+Generated: ta enam. Kui olin, 
+Subtitle: Kui olin väike, tahtsin, ootasin ja lootsin, 
+Similarity: 0.5698028822981898
+
+Generated: et siin siin jällo Et üks koordi värvilisi asju hoides 
+Subtitle: et ükskord värvilisi asju hoida saan 
+Similarity: 0.48112522432468824
+
+Generated: Ja 
+Subtitle: ja kui on võimalik, siis Soome või ka Rootsi 
+Similarity: 0.2581988897471611
+
+Generated:  
+Subtitle: mu unistuste sihtpunkt oli välismaa. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega, kingin endal aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega olla sinuga koos. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega, ütlen nüüd head aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aegamööda pidurdub hoog. 
+Similarity: 0.0
+
+Generated: seda ei saagi ju olla, ei too. Ei 
+Subtitle: Seda kinki keegi koju mul ei too. 
+Similarity: 0.5050762722761053
+
+Generated: saa ma lind sellelt lahti harutada. 
+Subtitle: Ei saa ma linte sellelt lahti harutada. 
+Similarity: 0.7715167498104596
+
+Generated: Kui klaas, siis alles pole veerand 
+Subtitle: Kui klaasis alles pole veerand ega pool 
+Similarity: 0.8432740427115678
+
+Generated: kapo viimne võimalus sulle ennast lohutada. 
+Subtitle: käes viimne võimalus sul ennast lohutada. 
+Similarity: 0.8333333333333335
+
+Generated: Mis olid kas meist keegi hiljem? 
+Subtitle: Mis oli tähtsam, kas meist keegi hiljem teab, 
+Similarity: 0.9045340337332909
+
+Generated: Hoopis kaotab see 
+Subtitle: ehk hoopis kaotab see, kel asju teistest enam. 
+Similarity: 0.5222329678670936
+
+Generated: heegel ass tähistest. Sinduva saatus hetkeks 
+Subtitle: Sind vahel saatus hetkeks hellalt paika seab 
+Similarity: 0.3086066999241838
+
+Generated: hella pai, kas ja tänu taevale saab maailm sellest? 
+Subtitle: ja tänu taevale saab maailm sellest kenam 
+Similarity: 0.7559289460184544
+
+Generated: Kena. 
+Subtitle: Aega, kingin endal aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega olla sinuga koos. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega, ütlen nüüd head aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aegamööda pidurdub hoog. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega, kingin endal aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega olla sinuga koos. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aega, ütlen nüüd head aega. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Aegamööda pidurdub hoog. 
+Similarity: 0.0
+
+Generated: Peiduõhtu. 
+Subtitle: Aegamööda pidurdub hoog. 
+Similarity: 0.0
+
+Generated: Meie järgmine külaline täna hommikul on väga erakordne. 
+Subtitle: Meie järgmine külaline täna hommikul on väga erakordne. 
+Similarity: 1.0
+
+Generated: Tere hommikust, Lembit 
+Subtitle: Tere hommikust, Lembit Öpik. - Tere hommikust sulle ka! 
+Similarity: 0.7302967433402217
+
+Generated: Öpiku õiglustundega. Lembit Öpik on inimene, ma arvan, kelle üle me kõik oleme saanud uhked olla, 
+Subtitle: Lembit Öpik on see inimene, kelle üle me kõik oleme saanud uhked olla, 
+Similarity: 0.9370425713316365
+
+Generated: sellepärast et. No ainus väliseesti nii kõrgel tasemel olev poliitik, 
+Subtitle: selle pärast, et ta on ainus välis-Eesti nii kõrgel tasemel olev poliitik, 
+Similarity: 0.6531972647421809
+
+Generated: kes on kuulunud Briti parlamendi tervelt 13 aastat 
+Subtitle: kes on kuulunud Briti parlamenti 13 aastat. 
+Similarity: 0.9780192938436516
+
+Generated: ja kuulsa astronoomiaprofessori 
+Subtitle: Kuulsa astronoomiaprofessori, 
+Similarity: 0.816496580927726
+
+Generated: särava mõtleja koolkonna rajaja Ernst Öpiku 
+Subtitle: särava mõtleja ja koolkonnarajaja Ernst Öpiku lapselaps. 
+Similarity: 0.6681531047810608
+
+Generated: lapsele See ei ole uhkuse küsimus, on lihtsalt hea või halb. 
+Subtitle: See ei ole uhkuse küsimus, võib-olla lihtsalt hea või halb õnn. 
+Similarity: 0.7817359599705717
+
+Generated: Et miks te praegu Briti põlve parlament Ei, 
+Subtitle: Miks te praegu Briti parlamenti ei kuulu? 
+Similarity: 0.8215838362577493
+
+Generated: kuula see, ma tegin 13 aastat seda, et sellest oli küllalt väga väsitav ja 
+Subtitle: Ma tegin 13 aastat seda tööd ja sellest sai küllalt - väga väsitav oli. 
+Similarity: 0.8660254037844385
+
+Generated: paadi positiivne asi ka 
+Subtitle: Oli ka positiivset, 
+Similarity: 0.5773502691896258
+
+Generated: löpuks. See ei ole minu arvates võimalik seda rohkem, kõik ütleme 20 aastat teha 
+Subtitle: aga lõpuks ei ole minu arvates võimalik seda üle 20 aasta teha. 
+Similarity: 0.6622661785325219
+
+Generated: ja mul oli elu elada, on raske seda teha, kui pildi parlamendi liige samal ajal olla. 
+Subtitle: Mul oli elu ka elada ja on raske seda teha, kui oled samal ajal parlamendiliige. 
+Similarity: 0.9207509207513812
+
+Generated: Kuidas see võimalik on, 
+Subtitle: Kuidas see võimalik on, 
+Similarity: 0.9999999999999998
+
+Generated: et ühest väliseestlasest saab Briti 
+Subtitle: et ühest väliseestlasest saab Briti parlamendi liige? 
+Similarity: 0.8944271909999159
+
+Generated: parlamendiliige, kas teie päritolu on seda kergendanud või vastupidi ikkagi raskendanud? 
+Subtitle: Kas teie päritolu on seda kergendanud või raskendanud? 
+Similarity: 0.9519716382329884
+
+Generated: Ma usun, 
+Subtitle: Ma usun, et kergendanud, 
+Similarity: 0.7071067811865475
+
+Generated: kergend on olnud sellepärast, et mul oli juba nagu poliitiline väljavaade, minu 
+Subtitle: sest mul oli juba poliitiline väljavaade. 
+Similarity: 0.5883484054145522
+
+Generated: pere on alati olnud välispoliitiline. 
+Subtitle: Minu pere on alati olnud välispoliitiline. 
+Similarity: 0.9770084209183945
+
+Generated: Aga siis teine õnnetus oli, et ma sündisin 
+Subtitle: Teine õnnetus oli see, et sündisin Põhja-Iirimaal, 
+Similarity: 0.7627700713964739
+
+Generated: sealt Põhja-Iirimaad ja see on väga poliitiline rajoon. 
+Subtitle: see on väga poliitiline rajoon. 
+Similarity: 0.8528028654224415
+
+Generated: Teie ema, isa, eks ole, rändasid sõja ajal siit välja ja. 
+Subtitle: Teie ema ja isa rändasid sõja ajal siit välja. 
+Similarity: 0.9045340337332909
+
+Generated: 70 aastat tagasi ja see oli poliitiline asi, ka 
+Subtitle: Jah, 70 aastat tagasi. See oli poliitiline asi ka. 
+Similarity: 0.8888888888888888
+
+Generated: need ma sündisin noh, 53 aastat tagasi ja elu minu elu oli juba poliitiline, siis 
+Subtitle: Ma sündisin 53 aastat tagasi, minu elu oli juba siis poliitiline. 
+Similarity: 0.8907986681660888
+
+Generated: siis ma elan siin-seal Belfasti, suured probleemid seal 
+Subtitle: Ma elasin Belfastis, seal on suured probleemid. 
+Similarity: 0.6708203932499369
+
+Generated: mudeli huvi 
+Subtitle: Mul oli huvi... 
+Similarity: 0.408248290463863
+
+Generated: ja siis noh, ma ütlen peaaegu nagu 
+Subtitle: Need kõik olid peaaegu nagu õnnetused. 
+Similarity: 0.4564354645876385
+
+Generated: ennetused ma öelda, 97 olin, kandideerisin ja 
+Subtitle: 1997. aastal ma kandideerisin ja võitsin. 
+Similarity: 0.4629100498862757
+
+Generated: peitsin, aga nüüd ma näen, see peab, võib-olla oli nagu mingisuguse suures plaanis selle 
+Subtitle: Ma näen, et see võib-olla oli mingisuguses suures plaanis, 
+Similarity: 0.6708203932499368
+
+Generated: pärast olin seal. 
+Subtitle: mille pärast olin ma seal. 
+Similarity: 0.6123724356957945
+
+Generated: No meil on õige pea, seisavad valimised ees märtsikuu 
+Subtitle: Meil seisavad õige pea valimised ees - märtsikuus. 
+Similarity: 0.7637626158259734
+
+Generated: sees, kõik soovivad võita ja mis on teie soovitus 
+Subtitle: Kõik soovivad võita. Mis on teie soovitus? 
+Similarity: 0.9428090415820634
+
+Generated: siis on, et kuidas ja palju uusi tegijaid tuleb 
+Subtitle: Palju uusi tegelasi tuleb alati poliitikasse, 
+Similarity: 0.35355339059327384
+
+Generated: poliitikusse alates lauljatest, sportlastest kuni oma mingite teiste tegijateni. 
+Subtitle: alates lauljatest, sportlastest kuni teiste oma ala tegijateni. 
+Similarity: 0.8703882797784893
+
+Generated: Kuidas siis endale peaks kampaaniat tegema, 
+Subtitle: Kuidas peab endale kampaaniat tegema, 
+Similarity: 0.912870929175277
+
+Generated: et inimesed. 
+Subtitle: et inimesed hääletaksid? 
+Similarity: 0.816496580927726
+
+Generated: Noh, minu metes olebaikne Ole aus, 
+Subtitle: Minu arvates ole vaikne, ole aus. 
+Similarity: 0.5773502691896258
+
+Generated: aga raskus on need, kui nimetatav vestlevad, siis nad, nad on natuke midagi läheb valesti, inimesed 
+Subtitle: Raske on, kui inimesed võistlevad, siis läheb midagi valesti, 
+Similarity: 0.741940826802374
+
+Generated: hakkavad valetama natuke 
+Subtitle: nad hakkavad natuke valetama. 
+Similarity: 0.8660254037844388
+
+Generated: või võib-olla ei ole, isegi paletus on nagu on soo, ta ei, sa annad luba, et ta teid ühte või teist asja asja 
+Subtitle: Võib-olla see isegi ei ole valetamine, kui lubad, et teed ühte või teist asja. 
+Similarity: 0.5689866601230589
+
+Generated: siis täpselt samuti on UK-s. 
+Subtitle: Täpselt sama asi on UK-s. 
+Similarity: 0.7499999999999999
+
+Generated: Ja siis, kui sa väidad, siis ei saa kõiki neid asju teha. 
+Subtitle: Kui sa võidad, siis ei saa kõiki neid asju teha. 
+Similarity: 0.8744746321952062
+
+Generated: Ei saa 100 asja asju teha, võib-olla 
+Subtitle: Ei saa sadat asja teha, võib-olla 5. 
+Similarity: 0.816496580927726
+
+Generated: viis Paistab, et sa lubasid liiga palju siis inimesed on pettunud. 
+Subtitle: Paistab, et lubasid liiga palju, aga inimesed on pettunud. 
+Similarity: 0.9100315103865803
+
+Generated: Need ole aus, oled vaiksem maad, on see siis inimesed saavad, näevad, et 
+Subtitle: Ole aus ja ole vaiksem - ma arvan, et siis inimesed näevad, 
+Similarity: 0.7337993857053428
+
+Generated: sa oled nagu tõsine, tõsine poliitiline inimene, aga käsku keskkes kuulab 
+Subtitle: et sa oled tõsine poliitik. Aga kes kuulab? 
+Similarity: 0.4522670168666455
+
+Generated: käskula. Lembit te olete lubanud nii mitmetes intervjuudes, 
+Subtitle: Lembit, te olete lubanud nii mitmetes intervjuudes, 
+Similarity: 0.970142500145332
+
+Generated: et ühel hetkel ta siis ikka Eestisse ikka tagasi tulete, 
+Subtitle: et ühel hetkel te tulete Eestisse ikka tagasi, 
+Similarity: 0.8744746321952063
+
+Generated: jaganud oma telefoninumbrit, vaateid, kes soovib mind mulle helistada, 
+Subtitle: jaganud oma telefoninumbritki, et kes soovib teid endale, võib helistada. 
+Similarity: 0.8001976040538967
+
+Generated: on siis neid kõnesid tulnud siit Eesti erinevatelt parteidelt? 
+Subtitle: On siis tulnud kõnesid Eesti erinevatelt parteidelt? 
+Similarity: 0.9511897312113418
+
+Generated: Ma ma luban, jälle, võib olla kaheksa aastat, nüüd mitte 12, need elu läheb edasi. 
+Subtitle: Ma luban jälle nüüd, et 8 aastat, mitte 12, elu läheb edasi. 
+Similarity: 0.8043996665398437
+
+Generated: Ma, ma olen töötanud iga palk peaaegu iga bapteega siin Eestis 
+Subtitle: Ma olen töötanud peaaegu iga parteiga siin Eestis. 
+Similarity: 0.8911327886790069
+
+Generated: alguses 20 aastat tagasi aitasin, 
+Subtitle: Alguses 20 aastat tagasi ma aitasin, 
+Similarity: 0.912870929175277
+
+Generated: kui see, see demograafiline protsess on, 
+Subtitle: kui see demokraatiline protsess oli siin veel noor. 
+Similarity: 0.7252406676228422
+
+Generated: ikka noodaksin, aga nüüd see nii ei, ma ei ole partei liige siin Eestis, aga vaatame, mis juhtub. 
+Subtitle: Nüüd ma ei ole Eestis ühegi partei liige, aga vaatame, mis juhtub. 
+Similarity: 0.7542472332656509
+
+Generated: See suur küsimus on, kas parteid saavad siin koos, töödatas, on tähtis. 
+Subtitle: Suur küsimus on, kas parteid saavad koos töötada, see on tähtis! 
+Similarity: 0.9413574486632834
+
+Generated: Me näeme, et sealhulgas need parteid ei tööta väga hästi 
+Subtitle: Me näeme UK-s, et nad ei tööta koos hästi, 
+Similarity: 0.6324555320336759
+
+Generated: kindlasti rääkida ja praktiliselt vist ka 
+Subtitle: kindlasti räägime Brexitist ka. 
+Similarity: 0.5000000000000001
+
+Generated: see seesama nagu praegu on siin 
+Subtitle: Selsamal on rõhk ka siin. 
+Similarity: 0.6123724356957946
+
+Generated: see süsteem Eestis tähendab, et üks, ükski partei saadikud ei saa 
+Subtitle: Praegune süsteem Eestis tähendab, et ükski partei ei saa enamust. 
+Similarity: 0.8320502943378438
+
+Generated: nagu me Charlotte'i. Need, nad peavad koos töötama ja see tekitab raskusi 
+Subtitle: Nad peavad koos töötama ja see tekitab raskusi. 
+Similarity: 0.7717436331412897
+
+Generated: ka, aga võib-olla on parem süsteem kui ukaas, kas see 
+Subtitle: Võib-olla on see parem süsteem kui UK-s. 
+Similarity: 0.8320502943378438
+
+Generated: ju ka üks partei on nagu see suurem 
+Subtitle: UK-s üks partei suurem 
+Similarity: 0.5500190982169267
+
+Generated: ja siis väiksed partiid, siis elavad selle ringi nagu, nagu planeedid peaaegu. Ja see 
+Subtitle: ja väiksed parteid teevad selle ümber ringi nagu planeedid, 
+Similarity: 0.7426106572325056
+
+Generated: sealhulgas nii hästi ei tööta 
+Subtitle: see UK-s väga hästi ei tööta. 
+Similarity: 0.5477225575051662
+
+Generated: minu arvates Eestis süsteem töötab paremini kui, kui seal Londonis. 
+Subtitle: Minu meelest Eesti süsteem töötab paremini kui Londoni oma. 
+Similarity: 0.7505553499465136
+
+Generated: Aga igal juhul arvatavasti veel, et kandideerima siia ei tule. 
+Subtitle: Igal juhul te siia veel kandideerima ei tule? 
+Similarity: 0.7826237921249264
+
+Generated: Mitte veel, aga mul on huvi, 
+Subtitle: Mitte veel, aga mul on huvi. 
+Similarity: 0.9999999999999999
+
+Generated: on, ma olen täitsa ausalt öeldes pooles, kui, kui ma kolin siia, siis beiba see 
+Subtitle: Ma olen täitsa aus selles suhtes, et kui ma kolin siia... 
+Similarity: 0.7705517503711221
+
+Generated: poliitiline nagu huvi on, 
+Subtitle: Poliitiline huvi on nagu malaaria, 
+Similarity: 0.9534625892455924
+
+Generated: nagu meil läheb ja halvad, et said sellest lahti, aga siis tuleb tagasi 
+Subtitle: arvad, et oled sellest lahti, aga see tuleb tagasi. 
+Similarity: 0.5276448530110863
+
+Generated: algentsi ja siis ma olen päris kindel, 
+Subtitle: Kui ma kolin siia, siis ma olen päris kindel, 
+Similarity: 0.6060915267313264
+
+Generated: et see, see poliitiline meelitus on nii suur, et ma kandideerin siin. 
+Subtitle: et poliitika tõmme on nii suur, et ma kandideerin siin. 
+Similarity: 0.7700535410868199
+
+Generated: 100 protsenti ei saa 
+Subtitle: Sada protsenti ei saa lubada, 
+Similarity: 0.6708203932499369
+
+Generated: ütelda, aga teeksin seda, aga ma tahan, ma tahan, mul on peaaegu nagu kohustus seda teha. 
+Subtitle: aga ma arvan, et mul on peaaegu kohustus seda teha. 
+Similarity: 0.7745966692414832
+
+Generated: Nii et te planeerite ikka Eestisse tagasi 
+Subtitle: Nii et te planeerite Eestisse elama tulla? 
+Similarity: 0.7142857142857142
+
+Generated: tulla või mitte tavaliselt üle elama tulla, sest et te pole vist Eestimaal elanud ta tegelikult. Siin elanud 
+Subtitle: Te pole vist Eestimaal kunagi elanud? - Ma pole siin kunagi elanud, 
+Similarity: 0.8373508351824621
+
+Generated: 53 aastat, 
+Subtitle: ma olen olnud 53 aastat elanud UK-s. 
+Similarity: 0.2721655269759087
+
+Generated: sealhulgas, aga aga ma tulen siia, nii tihti hiljuti jäi, on ikka käinud 
+Subtitle: Ma käin siin tihti, nüüd ei ole käinud, 
+Similarity: 0.6622661785325218
+
+Generated: ahe halikult iga kahe kuu tagant 
+Subtitle: aga harilikult käin iga kahe kuu tagant. 
+Similarity: 0.6172133998483676
+
+Generated: tulen siia ja on täitsa selge, 
+Subtitle: On täitsa selge, 
+Similarity: 0.816496580927726
+
+Generated: et elu siin on, on minu mõttes mugavam kui 
+Subtitle: et elu siin on minu jaoks mugavam kui Londonis. 
+Similarity: 0.8608284620211165
+
+Generated: Londoni Londonist natuke häälet tüdinenud, ma tahan sealt ära kolida, 
+Subtitle: London on ära tüüdanud, ma tahan sealt ära kolida. 
+Similarity: 0.3111879571320709
+
+Generated: õieti et see on nagu loomulik, see on. See on selge koht, kuhu tulla. 
+Subtitle: See on loomulik, see on selge koht, kuhu tulla. 
+Similarity: 0.9354143466934854
+
+Generated: Mis teile Eestis meeldib, kui ta Londonis ei ole? 
+Subtitle: Mis teile Eestis meeldib, mida Londonis ei ole? 
+Similarity: 0.6998964726756151
+
+Generated: Tallinn on on mugavam selles poolest, et see 
+Subtitle: Tallinn on mugavam selle poolest, 
+Similarity: 0.9381941874331421
+
+Generated: liiklus, töö saab sees, need trammid töötab. 
+Subtitle: et liiklus töötab, trammid töötavad, 
+Similarity: 0.5714285714285713
+
+Generated: Lennujaam on ainult 10 minutit 
+Subtitle: lennujaam on ainult 10 minuti kaugusel. 
+Similarity: 0.9428090415820632
+
+Generated: siit eemal Londonis 10 miljoni inimesi, kõik istuvad vaikselt ja. Täitsa aeglaselt 
+Subtitle: Londonis on 10 miljonit inimest, kõik reisivad aeglaselt. 
+Similarity: 0.5345224838248488
+
+Generated: küll see käsk kiirusel Londoni tee pääl on 10 
+Subtitle: Keskmine kiirus Londoni teedel on 10 km/h. 
+Similarity: 0.7302967433402217
+
+Generated: kilomeetrit tunnis. Asjad on kallid, inimesed on, on 
+Subtitle: Asjad on kallid, inimesed on väsinud. 
+Similarity: 0.7830199672637511
+
+Generated: tantsinud seal, Eestis ka on, optimism 
+Subtitle: Eestis on optimismi. 
+Similarity: 0.48112522432468824
+
+Generated: siin ja Eesti kasvab ja London nagu peaaegu magab 
+Subtitle: Eesti kasvab, London peaaegu nagu magab, 
+Similarity: 0.8017837257372732
+
+Generated: nende maha, palun anna on lihtsalt väsinud, siis on see kõige parem seal selle jaoks 
+Subtitle: mitte ei maga, aga on lihtsalt väsinud, see on kõige parem sõna selle jaoks. 
+Similarity: 0.8608284620211166
+
+Generated: ja see on ainult kolm tundi 
+Subtitle: See võtab ainult kolm tundi. 
+Similarity: 0.5962847939999438
+
+Generated: on kiirem siia lennata, kuid Londonist ühest otsast teisi autoga 
+Subtitle: Siia lendab kiiremini, kui sõidab autoga ühest Londoni otsast teise. 
+Similarity: 0.6315789473684208
+
+Generated: minna. See peatatud pügamine pool tundi ja siia kaks ja pool. 
+Subtitle: See võtab kolm ja pool tundi, siia lendab kaks ja pool. 
+Similarity: 0.6324555320336759
+
+Generated: Lembit meil on väga sagedasti siin poliitikud rääkinud sellest, 
+Subtitle: Lembit, meil on poliitikud väga sageli sellest rääkinud, 
+Similarity: 0.9271050693011065
+
+Generated: kuidas tegelikult poliitikat ikkagi tehakse 
+Subtitle: kuidas poliitikat tehakse. 
+Similarity: 0.7745966692414834
+
+Generated: ja et poliitikuks olemine on ikkagi katsumus omaette. 
+Subtitle: Poliitikuks olemine on ikka katsumus omaette. 
+Similarity: 0.8040302522073697
+
+Generated: Missugused teie sellised kõige karmimad õppetunnid poliitikast on? 
+Subtitle: Missugused on teie kõige karmimad õppetunnid poliitikas olnud? 
+Similarity: 0.7385489458759965
+
+Generated: Selles on neid nii palju minu minumetes. Väike on kaks asja, 
+Subtitle: Neid on nii palju. Minul on kaks asja. 
+Similarity: 0.9437014308415508
+
+Generated: kui sul on mingisugune enne aru, et see, kui sul on oma juht nagu filosoofiline juht, see on tähtis, 
+Subtitle: On tähtis, kui sul mingi oma lugu, oma filosoofiline jutt. 
+Similarity: 0.7076303701373626
+
+Generated: ilma selleta ei ole mõtet poliitilises alast isegi töötama. 
+Subtitle: Ilma ei ole mõtet poliitikas isegi töötada. 
+Similarity: 0.7559289460184544
+
+Generated: Teine asi on. Kui sa teed asju valesti, siis ole aus 
+Subtitle: Teine asi, kui sa teed asju valesti, siis ole aus, 
+Similarity: 0.9245003270420488
+
+Generated: ja ütle, et ma katsusin seda teha, aga ei läinud 
+Subtitle: ütle, et ma katsusin seda teha, aga ei läinud õigesti. 
+Similarity: 0.9473684210526313
+
+Generated: õieti, inimesed on ausad 
+Subtitle: Inimesed on ausad vastu. 
+Similarity: 0.857142857142857
+
+Generated: tagasi, nad, nad usuvad sind, kus saab, paistavad aus. 
+Subtitle: Nad usuvad sind, kui sa paistad aus. 
+Similarity: 0.6092717958449425
+
+Generated: Aga kui sa vaadata, et no näed, näevad sellest täitsa läbi otsekohe. 
+Subtitle: Kui sa valetad, nad näevad selle otsekohe läbi. 
+Similarity: 0.7312724241271307
+
+Generated: Et see on see probleem 
+Subtitle: See on see probleem! 
+Similarity: 0.9486832980505138
+
+Generated: selle pärast. Poliitiline alaalal on nii suured probleemid, 
+Subtitle: Selle pärast poliitikas on nii suured probleemid, 
+Similarity: 0.8581163303210332
+
+Generated: sest nad näevad, et sa valetad 
+Subtitle: sest nad näevad, et sa valetad. 
+Similarity: 1.0000000000000002
+
+Generated: ja ma ei tea, mis pärast keegi isegi katsub nii nii käituda. 
+Subtitle: Ma ei tea isegi, mispärast keegi üldse katsub niimoodi käituda. 
+Similarity: 0.5368754921931593
+
+Generated: Mai palad valetanud mitte palju kui 
+Subtitle: Ma ei valetanud palju, kui ma olin Briti parlamendis. 
+Similarity: 0.7372097807744857
+
+Generated: moodi. Nojah, võib-olla, aga mitte meelega vahetevahel 
+Subtitle: Natukene ikka! - Mitte meelega, vahete-vahel. 
+Similarity: 0.50709255283711
+
+Generated: ette, et no ja kindlasti teen seda, siis unustas, 
+Subtitle: Ütled, et kindlasti teed seda, ja siis unustad. 
+Similarity: 0.8249579113843053
+
+Generated: ta ei, seal seal ja, ja ma saan seda teha, 
+Subtitle: Ütled, et jah-jah, ma saan seda teha, aga ei saa! 
+Similarity: 0.4629100498862758
+
+Generated: jäissa ta, et vahel iga andis inimene selle pärast 
+Subtitle: Vahete-vahel, ma olen ka inimene, selle pärast. 
+Similarity: 0.3779644730092272
+
+Generated: aga poldiitist isendini, metsad ja parlamendiliiget mõnikord valetavad natuke liiga palju või natuke 
+Subtitle: Poliitikud või parlamendiliikmed vahel valetavad natuke liiga palju. 
+Similarity: 0.6390096504226936
+
+Generated: riideid, nii suured volitused ja see on see probleem. 
+Subtitle: Valed on liiga suured. See on probleem! 
+Similarity: 0.6998542122237652
+
+Generated: Inimesed ei armasta 
+Subtitle: Inimesed ei armasta poliitikuid. 
+Similarity: 0.8660254037844388
+
+Generated: poliitikaid, et olla poliitika on ikka üldiselt selline, et et siis sa nagu, kui sa ka enne oled suur rahva lemmik 
+Subtitle: Poliitikusse, isegi kui sa enne oled olnud rahva lemmik, 
+Similarity: 0.5013026509266503
+
+Generated: siis peale seda, kui sa poliitikasse lähed, siis ikka kõik 
+Subtitle: peale seda, kui sa poliitikasse lähed, kõik ei suhtu enam nii hästi... 
+Similarity: 0.7222222222222223
+
+Generated: ikka üldiselt. No suht. Ülesse ja alla see, see peabki, Tšaštšin, see popstaar suhtleb, kasvab ja tõuseb ja langeb. 
+Subtitle: Maine käib üles ja alla, populaarsus kasvab ja langeb. 
+Similarity: 0.4873773249664941
+
+Generated: Ma on olnud seal täitsa üleval ja täitsa all ka 
+Subtitle: Ma olen olnud seal täitsa üleval ja täitsa all ka. 
+Similarity: 0.985138007798876
+
+Generated: need ma ei tea, kas, kas on võimalik teisiti 
+Subtitle: Ma ei tea, kas on võimalik teisiti. 
+Similarity: 0.9296696802013684
+
+Generated: teha. Millest see tuli, et tegelikult see langus või see alla alla minek tuli? 
+Subtitle: Millest tuleb langus? 
+Similarity: 0.5499719409228704
+
+Generated: Ma usun, et noh, mina ise ei 
+Subtitle: Mina ise ei arva, et ma olen ekstsentriline, 
+Similarity: 0.8006407690254358
+
+Generated: adu, et mainet tsentriline PVT, seda teavad, et ma olen 
+Subtitle: võib-olla teised arvavad, et ma olen. 
+Similarity: 0.3849001794597505
+
+Generated: sellepärast et ma ütlen, mida ma mötlen, ma ütle, mida ma 
+Subtitle: Ma ütlen, mida ma mõtlen, 
+Similarity: 0.9114654303753
+
+Generated: tean, et sina tahad 
+Subtitle: ma ei ütle, mida sina tahad kuulda 
+Similarity: 0.31622776601683794
+
+Generated: kuud anda ja see on ebamugav, vahetevahel 
+Subtitle: ja see on vahete-vahel ebamugav. 
+Similarity: 0.8944271909999159
+
+Generated: ka siis. Teine asi on inimestes 
+Subtitle: Teine asi, mis inimesi huvitab, 
+Similarity: 0.5222329678670935
+
+Generated: alati huvitatud, kellega ma lähen. Kes minut Geoffenda on, kas on 
+Subtitle: kes on minu tüdruksõber, kas on popstaar... 
+Similarity: 0.7660323462854266
+
+Generated: Kapsta ja köike, aga noh see on keeruline asi, 
+Subtitle: See on keeruline asi. 
+Similarity: 0.7637626158259734
+
+Generated: ma pean sulle on suur nagu Emetš siis sellega on suurem oht ka. 
+Subtitle: Ma arvan, kui sul on suur imago, siis sellega on suurem oht ka. 
+Similarity: 0.7999999999999998
+
+Generated: Rehvid, kuidas niimoodi, kas te teate, ma vaatasin neid, guugeldasin teid 
+Subtitle: Lembit, kuidas sellega on? Ma googeldasin teid, 
+Similarity: 0.43852900965351466
+
+Generated: ja vaatasin, mis pealkirjad eesti keeles teist kõige rohkem ilmunud on. 
+Subtitle: millised pealkirjad teist kõige rohkem ilmunud on. 
+Similarity: 0.7242243488319183
+
+Generated: Lembit Öpik saatis elukaaslasele kogemata foto, 
+Subtitle: "Lembit Öpik saatis elukaaslasele kogemata foto, 
+Similarity: 1.0000000000000002
+
+Generated: millel ta võõra naise rindu suudleb 
+Subtitle: kus ta võõra naise rindu suudleb!" 
+Similarity: 0.6804138174397717
+
+Generated: pihtimus pärast armuskandaali. 
+Subtitle: "Pihtimus pärast armuskandaali", 
+Similarity: 1.0000000000000002
+
+Generated: Advokaadist kallim jättis Briti endise parlamendisaadik Kui Lembit Öpiku maha 
+Subtitle: "Advokaadist kallim jättis Briti parlamendisaadik Lembit Öpiku maha." 
+Similarity: 0.7559289460184544
+
+Generated: ja see, see on laevu käis nüüd ma peitsin, sellel 
+Subtitle: See on liable case, ma võitsin selle. 
+Similarity: 0.7100469468046932
+
+Generated: saadi, see ajaleht oli võsa ja ma peitsin nende aastasse, on son laevu, som vaadetus, aga nad ikka panid sinna. See, 
+Subtitle: Ma võitsin ajalehte, see on vale, aga nad ikka kirjutasid. 
+Similarity: 0.6759263694193747
+
+Generated: et minu, minu abikaasa läks, kolis tagasi Bulgaariasse 
+Subtitle: Minu abikaasa kolis tagasi Bulgaariasse sellepärast. 
+Similarity: 0.7977240352174656
+
+Generated: selle pärast kaheksa kuud ma ei olnud oma oma lapsega, 
+Subtitle: Kaheksa kuud ma olin oma lapsest lahus, 
+Similarity: 0.5773502691896257
+
+Generated: sellepärast on, nad panid selle sinna ajalehte, need ma ikka kannatan selle 
+Subtitle: sest nad panid selle ajalehte. Ma ikka kannatan selle pärast. 
+Similarity: 0.7559289460184545
+
+Generated: all, nüüd tahan tagasi nüüd lapsega, aga võttis kaheksa kuud 
+Subtitle: Ta tuli nüüd lapsega tagasi, aga võttis kaheksa kuud, 
+Similarity: 0.769800358919501
+
+Generated: pidin vähemalt sinna käskinud Klenski, mis on nüüd ma võin neid kohtuga. 
+Subtitle: ma pidin esitama kaebuse, ma võin nad kohtusse ka anda. 
+Similarity: 0.3333333333333334
+
+Generated: Et isegi nüüd kaheksa aasta pärast, kui ma olin 
+Subtitle: Isegi nüüd, kaheksa aastat pärast seda, kui ma olin parlamendiliige, 
+Similarity: 0.8807048459279794
+
+Generated: parlamendi liige, nad ikka teevad samal 
+Subtitle: nad ikka veel teevad sama asja. 
+Similarity: 0.6666666666666669
+
+Generated: ajal nimeni sääst, Moland. Ma, ma ikka kuulsin, kuulus 
+Subtitle: Miks nad teevad niimoodi? - Ma olen UK-s kuulus. 
+Similarity: 0.2727272727272727
+
+Generated: sealhulgas sotsiaallaiskus see 
+Subtitle: See on laiskus. 
+Similarity: 0.2357022603955159
+
+Generated: taip siis puulehte seal seal saanud, siis nad ikka 
+Subtitle: See täitis pool lehte The Sunis ära, 
+Similarity: 0.0
+
+Generated: tahvad minust rääkida, 
+Subtitle: nad ikka tahavad minust rääkida, selle pärast. 
+Similarity: 0.3779644730092272
+
+Generated: sellepärast kase vahele. No ma olin päris pahane, sest ma 
+Subtitle: Ma olin päris pahane, 
+Similarity: 0.7216878364870323
+
+Generated: pidin üksi pääni elama seal Londonis ilma lapseta, ilma 
+Subtitle: sest ma pidin elama Londonis üksipäini - ilma lapseta, ilma tüdruksõbrata, 
+Similarity: 0.7205766921228922
+
+Generated: geobrändiga. Kui ma töötasin, et, et oma nime ma 
+Subtitle: ma tegin tööd, et oma nime puhastada. 
+Similarity: 0.5500190982169267
+
+Generated: ei tea, mis inglise-eesti keel on tükk teema ei näi puhastajad ja aga see ikka see ikka käib ära, sõi need, 
+Subtitle: See ikka teeb ringi ära siin. 
+Similarity: 0.40269363312841466
+
+Generated: nad on ikka huvitatud, see on 
+Subtitle: Nad on ikka huvitatud, aga see on laiskus. 
+Similarity: 0.9672041516493516
+
+Generated: sama. Teil on ka tegelikult väga nagu tähelepanuväärselt tütarlapsed olnud ikkagi 
+Subtitle: Teil on ikkagi tähelepanuväärsed tütarlapsed olnud - 
+Similarity: 0.817423891369599
+
+Generated: popstaarid ja ja väga suurepärane, 
+Subtitle: popstaarid ja väga suurepärane ilmatüdruk. 
+Similarity: 0.8451542547285166
+
+Generated: et selline ilmateadustaja ja nii edasi, eks, et on ikka. See on huvitav, et minu elu on huvitavam kui nende oma elu. Nad 
+Subtitle: See on huvitav, et minu elu on huvitavam kui nende oma elu. 
+Similarity: 0.9081213751352621
+
+Generated: tahvad minust rääkida, selle asemel et nende oma 
+Subtitle: Nad tahavad minu elust rääkida selle asemel, et oma elust rääkida. 
+Similarity: 0.6227991553292184
+
+Generated: edust nõustuda. Ka siis veel kui mitte teie ilmateadustest kaaslane ei avaldanud ka raamatut, 
+Subtitle: Kas teie ilmateadustajast kaaslane ei avaldanud ka raamatut, 
+Similarity: 0.7333587976225691
+
+Generated: kus ta rääkis teie alkoholiprobleemist ja kas see tegelikult toona te olite tegelikult ju veel 
+Subtitle: kus rääkis teie alkoholiprobleemist? Toona te olite veel poliitikas, eks? 
+Similarity: 0.6622661785325219
+
+Generated: poliitikaseks. Kas, kas see tegi ka tegelikult nagu oma oma halvas mõttes nagu teened 
+Subtitle: Kas see tegi ka teile halvas mõttes teene? 
+Similarity: 0.49999999999999983
+
+Generated: ei? Võib-olla küll ja võib-olla ma olen natuke naiivne, 
+Subtitle: Võib-olla küll, võib-olla ma olen natuke naiivne. 
+Similarity: 0.9045340337332909
+
+Generated: sellepärast et ma arvan, et inimesed näevad, mis on tõsi ja mis ei ole 
+Subtitle: Ma arvan, et inimesed näevad, mis on tõsi ja mis ei ole. 
+Similarity: 0.9730184719546422
+
+Generated: beibasse ei ole, võib-olla saavad, noh, ütlen naiivsus, 
+Subtitle: See võib olla naiivsus. 
+Similarity: 0.35355339059327373
+
+Generated: aga tema tahtis seda raamatut kirjutada ja oma, need väiksed asjad, vaadetused seal, 
+Subtitle: Tema tahtis oma raamatut välja anda ja valetas seal väikeseid asju... 
+Similarity: 0.596284793999944
+
+Generated: no las ta räägib nii. 
+Subtitle: Las ta räägib nii. 
+Similarity: 0.8944271909999159
+
+Generated: Inimesed, kes vahivad, nüüd, 
+Subtitle: Inimesed, kes vaatavad nüüd, 
+Similarity: 0.8571428571428569
+
+Generated: saavad ise otsustada, mida nemad arvavad 
+Subtitle: saavad ise otsustada, mida nemad arvavad. 
+Similarity: 1.0000000000000002
+
+Generated: ja keegi ei ole perfektne, 
+Subtitle: Keegi ei ole perfektne. 
+Similarity: 0.8944271909999159
+
+Generated: aga usun mängivat ma ise loen 
+Subtitle: Mõnikord ma loen iseendast ja mõtlen, kas tõesti? 
+Similarity: 0.2357022603955158
+
+Generated: ennast tõsiselt. Kuulge teate, kõige värskem uudis, mis ma teist 
+Subtitle: Kõige värskem uudis, mis ma teist kuulsin, 
+Similarity: 0.8770580193070293
+
+Generated: leidsin, räägib väga kummalised asjad, nimelt liikme passist, millest ilma jäid, teil 
+Subtitle: räägib nimelt liikmepassist, millest te ilma jäite. 
+Similarity: 0.7348469228349533
+
+Generated: ei ole õigus, on, on vist ministri hoonesse siseneda. 
+Subtitle: Teil pole enam õigus Westminsteri hoonesse siseneda. 
+Similarity: 0.508000508000762
+
+Generated: Vastab tõele, et te olete seal mingeid pahandusi teinud, 
+Subtitle: Kas vastab tõele, et te olete seal pahandusi teinud? 
+Similarity: 0.9473684210526313
+
+Generated: head tava rikkunud, 
+Subtitle: Head tava rikkunud? 
+Similarity: 1.0000000000000002
+
+Generated: nagu öeldakse. See ma, nad ütlevad, et ma esimene inimene 
+Subtitle: Nad ütlevad, et ma olen esimene inimene, 
+Similarity: 0.733358797622569
+
+Generated: kes on kunagi selles olukorras ennast leidnud. 
+Subtitle: kes on kunagi ennast selles olukorras leidnud. 
+Similarity: 0.9999999999999999
+
+Generated: See, no ma ei tea, kes on, 
+Subtitle: Ma ei tea, kes see on, 
+Similarity: 0.960768922830523
+
+Generated: mul on mingisugune vaenlane, 
+Subtitle: mul on mingisugune vaenlane seal parlamendis. 
+Similarity: 0.8819171036881968
+
+Generated: saab paar endist ja see soundtrack ning see on õige, aga 
+Subtitle: See on õige, aga see on tehniline asi. 
+Similarity: 0.7144345083117604
+
+Generated: Sontektidina sei. Sest ma ei ole Yeti ta säält, ma lähen sinna iga nädal, 
+Subtitle: Ma ei ole õieti... ma käin seal iga nädal. 
+Similarity: 0.6030226891555273
+
+Generated: nii et see on jälle 
+Subtitle: See on jälle kõmu-uudis, 
+Similarity: 0.8017837257372731
+
+Generated: uudis, paistab teistsugune välja sõja ajal kui 
+Subtitle: paistab teisiti välja, kui tegelikult on. 
+Similarity: 0.5477225575051662
+
+Generated: see, et, et siin asja ma sama passid tagasi märtsikuus. 
+Subtitle: Ma saan oma passi tagasi märtsikuus. 
+Similarity: 0.4714045207910318
+
+Generated: Et ma ei tea täpselt, miks pärast nad tegi, 
+Subtitle: Ma ei tea täpselt, mispärast nad seda tegid. 
+Similarity: 0.6123724356957945
+
+Generated: tahab, mul on mingisugune vaenlane, 
+Subtitle: Mul on mingisugune vaenlane seal. 
+Similarity: 0.8749999999999998
+
+Generated: sa teed nagu ma ütlen, kus on suur nimi, 
+Subtitle: Nagu ma ütlen, kui sul on nimi, sa oled kuulus. 
+Similarity: 0.7745966692414833
+
+Generated: kused kuulus nad ise ütlesid mulle 
+Subtitle: Nad ise ütlesid mulle: 
+Similarity: 0.8819171036881966
+
+Generated: seda. Sinu probleem on Lembit 
+Subtitle: "Sinu probleem on, Lembit, et sa oled kuulus." 
+Similarity: 0.8574929257125441
+
+Generated: sett, kuulus maja, see on väga-väga nagu ja nad nägid seda, et 
+Subtitle: Ma arvan, et see ei ole väga aus, aga nad tegid seda. 
+Similarity: 0.47809144373375745
+
+Generated: ootan märtsi, kus on selle passi tagasi, 
+Subtitle: Ma ootan, märtsikuus saan passi tagasi. 
+Similarity: 0.3872983346207417
+
+Generated: aga ma ei ole enam 
+Subtitle: Mida te tegite siis? 
+Similarity: 0.0
+
+Generated: eest, vaid nad ütlesid, et ma läksin sinna parlamendi 
+Subtitle: Nad ütlesid, et ma läksin parlamenti 
+Similarity: 0.816496580927726
+
+Generated: ühe 70 aasta mehega ja tema pojaga tema sünnipäeva 
+Subtitle: ühe 70-aastase mehega ja tema pojaga tema sünnipäeva puhul. 
+Similarity: 0.8666666666666665
+
+Generated: jaoks. See on, mida ma tegin, 
+Subtitle: See on see, mida ma tegin. 
+Similarity: 0.9258200997725516
+
+Generated: ilutsesid, ühesõnaga ka väiksem, siis seal temaga seisin 
+Subtitle: Pidutsesite ühesõnaga? - Seisin temaga baaris. 
+Similarity: 0.47434164902525683
+
+Generated: seal paaristev, aga see on, see on minu suur nagu ähvardus 
+Subtitle: See on minu suur ähvardus. 
+Similarity: 0.8391463916782735
+
+Generated: sõjal, aga no jälle, et see on minu elu, on huvitavad. 
+Subtitle: Jällegi see, et minu elu on huvitav! - Ongi! 
+Similarity: 0.8954430086935639
+
+Generated: Ja Lembit, ma tahtsingi seda küsida, 
+Subtitle: Lembit, ma tahtsingi küsida, 
+Similarity: 0.8164965809277261
+
+Generated: et tegelikult, kui keeruline see on alustada oma elu pärast seda, kui te olete 
+Subtitle: kui keeruline on alustada elu pärast seda, 
+Similarity: 0.9119215051751064
+
+Generated: olnud 13 aastat on ju parlamendis 
+Subtitle: kui te olete olnud 13 aastat parlamendis? 
+Similarity: 0.8374357893586238
+
+Generated: ja siis ühel hetkel te ei osutu valituks. Mis te siis teete 
+Subtitle: Ühel hetkel te ei osutu valituks, mida te siis teete? 
+Similarity: 0.9547859244962515
+
+Generated: ja kui keeruline tegelikult sealt välja tulla oli? Oli väga raske, 
+Subtitle: Kui keeruline oli sealt välja tulla? - See oli väga raske. 
+Similarity: 0.9036961141150638
+
+Generated: mul oli kaks-kolm väga raske taastada, et pärast seda, 
+Subtitle: Mul oli 2-3 väga rasket aastat pärast seda. 
+Similarity: 0.7071067811865475
+
+Generated: kui polnud raha, polnud tööamet. Ja mul polnud õieti ma, ma 
+Subtitle: Mul polnud raha, mul polnud tööd, mul polnud õieti... 
+Similarity: 0.8559209850218259
+
+Generated: ju selge, mida ma peaksin järgmiselt tegema, 
+Subtitle: Mul ei olnud selge, mida ma peaksin järgmisena tegema. 
+Similarity: 0.5934424260562083
+
+Generated: see oli väga raske. 
+Subtitle: Oli väga raske. 
+Similarity: 0.8660254037844388
+
+Generated: Ma, mul polnud plaanis parlamendi ära minna, 
+Subtitle: Mul polnud plaanis parlamendist ära minna, 
+Similarity: 0.9525793444156804
+
+Generated: siis ma, mul oli plaanis viis aastat veel teha. Mitte rohkem 
+Subtitle: mul oli plaanis 5 aastat veel teha, mitte rohkem. 
+Similarity: 0.882522608121828
+
+Generated: olnud, viis aastat veel. Ma. Ma istusin kodus, mõtlesin, mida ma teen, 
+Subtitle: Ma istusin kodus ja mõtlesin, mida ma teen. 
+Similarity: 0.7089175569585667
+
+Generated: kindlustasin kaks raamatut, mõlemad on 
+Subtitle: Kirjutasin kaks raamatut, mõlemad on ilmunud. 
+Similarity: 0.5833333333333333
+
+Generated: seal kuskil väljas. Aga lõpuks ma peaaegu olin pea, Ecodin pank peab selle pärast, 
+Subtitle: Lõpuks ma olin peaaegu pankrotis selle pärast, 
+Similarity: 0.6060915267313264
+
+Generated: sest mul polnud mingisugune teenistus, 
+Subtitle: sest mul polnud mingit teenistust. 
+Similarity: 0.7999999999999999
+
+Generated: et see on siis tekitamist, te 
+Subtitle: Mis te siis tegite? Mis te võtsite ette? 
+Similarity: 0.2041241452319315
+
+Generated: viitsite. Noh, ma katsusin. Ma kirjutasin sellest, sellesse ei ole palju raha. 
+Subtitle: Ma katsusin kirjutada, aga sellest ei tule palju raha. 
+Similarity: 0.7276068751089988
+
+Generated: Ma otsisin nagu Pavlik pääs töö, siis ma otsustasin poolt kõvasti tööd, aga ma 
+Subtitle: Ma otsisin avaliku sektori tööd, ma otsisin teletööd, 
+Similarity: 0.5773502691896258
+
+Generated: ei saanud midagi. Kolm aastaid ei saa midagi. 
+Subtitle: ma ei saanud midagi, kolm aastat ei leidnud midagi. 
+Similarity: 0.7864561805867953
+
+Generated: Eriti alguses kodus, ootasid, vaatame, mida ma teen 
+Subtitle: Olin siis kodus ja ootasin, mida ma hakkan järgmisena tegema. 
+Similarity: 0.6689936080056726
+
+Generated: teadmiselt, aga nüüd nüüd lõpuks ma sain neid asju. Viis aastat tagasi 
+Subtitle: Nüüd lõpuks ma sain, 5 aastat tagasi asjad hakkasid... 
+Similarity: 0.7559289460184544
+
+Generated: seadsid. Kas sellepärast, et ei saanud, kas see oli ikkagi sellest, 
+Subtitle: Kas see oli ikkagi selle pärast, 
+Similarity: 0.5773502691896258
+
+Generated: et nagu mingil hetkel ei võetud teid nagu tõsiselt volitatud kuidagi kaotanud mingi renomee? 
+Subtitle: et mingil hetkel ei võetud teid tõsiselt, või olite te kaotanud renomee? 
+Similarity: 0.6771111667693441
+
+Generated: Mis sa täpselt, mis juhtus, 
+Subtitle: See on täpselt see, mis juhtus. 
+Similarity: 0.6131393394849658
+
+Generated: ja, ja siis inimesed mäletasid, nad usud, usaldasid, mida nad lugesid. 
+Subtitle: Inimesed usaldasid, mida nad lugesid. 
+Similarity: 0.75
+
+Generated: Ja mida sa teed, kui kõik ajalehed ütlevad, et sa oled üks inimene, 
+Subtitle: Mida sa teed, kui ajaleht ütleb, et sa oled niisugune inimene? 
+Similarity: 0.7947194142390261
+
+Generated: nad usaldavad seda on rohkem, kui nad osalt tasid mind. 
+Subtitle: Nad usaldavad seda rohkem kui mind! 
+Similarity: 0.7453559924999298
+
+Generated: No mõnikord see on mind aitanud, et seekord ei aidanud, 
+Subtitle: Mõnikord see on mind aidanud, seekord ei aidanud, 
+Similarity: 0.7563787698880864
+
+Generated: kolm aastat ei 
+Subtitle: kolm aastat ei aidanud. 
+Similarity: 0.4803844614152615
+
+Generated: haihtunud. Te läksite siis telemängudesse, 
+Subtitle: Te läksite telemängudesse, 
+Similarity: 0.4629100498862758
+
+Generated: tegite muusikat isegi 
+Subtitle: tegite isegi muusikat, ma kuskilt nägin. 
+Similarity: 0.7071067811865477
+
+Generated: kuskil? Viis. Proovisin palju asju ja seda küll. 
+Subtitle: Proovisin paljusid asju! Seda küll... 
+Similarity: 0.7905694150420948
+
+Generated: Ja siis ma tegin seda komeediat. See, see oli huvitav. 
+Subtitle: Siis ma tegin komöödiat, see oli huvitav. 
+Similarity: 0.7559289460184544
+
+Generated: Tõesti, kuidas tähendab koomikuna? 
+Subtitle: Kuidas te astusite stand up koomikuna üles? 
+Similarity: 0.3779644730092272
+
+Generated: Mitte küll väga raske, aga mul on hea meel ja ma proovisin, 
+Subtitle: Väga raske oli, aga mul on hea meel, et ma proovisin. 
+Similarity: 0.8677218312746247
+
+Generated: ma kindlasti ei ole, see tähendab ka meedia, ma tean seda täitsa 100 
+Subtitle: Ma ei ole kindlasti püstjalakoomik. Ma tean seda täitsa 100%! 
+Similarity: 0.840168050416806
+
+Generated: protsenti ei ole, sest ma ei olegi naljakas. 
+Subtitle: Miks? - Sest ma ei ole küllalt naljakas. 
+Similarity: 0.639009650422694
+
+Generated: Ja see lõpuks see ei olnud nii väga tahab siis ka, 
+Subtitle: Lõpuks see ei olnud nii tähtis ka. 
+Similarity: 0.8528028654224418
+
+Generated: kui sa oled nagu Padrendi liige, siis tähendabki miljon ei olnud täpselt sama asi, olin 
+Subtitle: Kui sa oled olnud parlamendiliige, siis püstjalakoomik pole sama asi. 
+Similarity: 0.8189230248533257
+
+Generated: partei esimees veel siis kuus. 
+Subtitle: Ma olin partei esimees Walesis kuus aastat. 
+Similarity: 0.50709255283711
+
+Generated: Pilt isegi Londoni linnapeaks tegelikult mingil hetkel ju te oleksite võinud saada. 
+Subtitle: Te oleksite võinud napilt isegi Londoni linnapeaks saada. 
+Similarity: 0.8468097984399411
+
+Generated: Ma proovisin seda protsessi all, et sama probleem. Ma 
+Subtitle: Ma proovisin seda, aga probleem oli jälle sama. 
+Similarity: 0.6396021490668312
+
+Generated: võin ikka parlamendi esimene koht, ma mäletasin seda teha, 
+Subtitle: Kui ma esimene kord mõtlesin seda teha, 
+Similarity: 0.4216370213557839
+
+Generated: siis ma 
+Subtitle: siis ma olin parlamendiliige. 
+Similarity: 0.7071067811865475
+
+Generated: võin parlamendi liige pärast seda Tseedsama älepit heist toob neid. See hoidis mind tagasi. Ma, ma 
+Subtitle: Pärast hoidis mind tagasi see mainemustamine. 
+Similarity: 0.6943650748294137
+
+Generated: ei saanud midagi. Ma ei saanud 
+Subtitle: Ma ei saanud midagi, 
+Similarity: 0.9814329841314369
+
+Generated: hästi oma partei esimehega läbi 
+Subtitle: ma ei saanud oma partei esimehega hästi läbi, 
+Similarity: 0.5423261445466404
+
+Generated: Ikla ja me lihtsalt ei saanud läbi 
+Subtitle: kes on Nick Clegg, me lihtsalt ei saa läbi. 
+Similarity: 0.32274861218395134
+
+Generated: üldsegi. Nii, et see oli nagu väha laskeaeg kolm aastat väha rasked aastas. 
+Subtitle: See oli väga raske aeg, kolm väga rasket aastat. 
+Similarity: 0.4341215710622296
+
+Generated: Kas usaldust on võimalik nagu taastada kas 
+Subtitle: Kas usaldust on võimalik taastada? 
+Similarity: 0.821583836257749
+
+Generated: ka seda, kas selle nimel on võimalik nagu midagi teha, 
+Subtitle: Kas selle nimel on võimalik midagi teha? 
+Similarity: 0.8198915917499231
+
+Generated: et ma ei tea, te ei ilmu ühel hetkel enam kaunite daamidega kuidagi avalikkuse ette 
+Subtitle: Te ei ilmu enam ühel hetkel kaunite daamidega avalikkuse ette 
+Similarity: 0.8682431421244592
+
+Generated: ja loobuda igasugusest meelelahutusmeediast. 
+Subtitle: ja loobute igasugusest meelelahutusmeediast? 
+Similarity: 1.0
+
+Generated: Ei ole võimalik, mida on raske ise midagi 
+Subtitle: Ei ole võimalik. On raske ise midagi parandada. 
+Similarity: 0.8451542547285167
+
+Generated: selle kallal balandata, see juhtub ainult aeg, aitab ainult aeg 
+Subtitle: See juhtub, ainult aeg aitab. 
+Similarity: 0.894427190999916
+
+Generated: ja siis sa pead ootama. Ja siis asjad 
+Subtitle: Sa pead ootama ja siis asjad muutuvad. 
+Similarity: 0.8728715609439696
+
+Generated: muudavad. Mida te kõige rohkem kahetsete? 
+Subtitle: Mida te kõige rohkem kahetsete? 
+Similarity: 0.9428090415820632
+
+Generated: See on et seda teha, siis, siis ma tahan, see tähendab, et sa kahetsed oma elu ja seda ma ei taha teha, 
+Subtitle: See tähendaks, et inimene kahetseb oma elu, ja seda ma ei taha teha. 
+Similarity: 0.8285679348701802
+
+Generated: mann ma ainult sinnani siiani saanud, ma istun siin sinuga ühes on positiivne asi, ma olen 
+Subtitle: Ma olen siiani jõudnud, ma istun siin ja see on positiivne asi. 
+Similarity: 0.570265948512201
+
+Generated: Eestis. Ma olen heas tervises, 
+Subtitle: Ma olen Eestis, ma olen hea tervise juures. 
+Similarity: 0.9036961141150641
+
+Generated: need õieti iga asi, mis on mul juhtunud, on mind õpetanud ka. 
+Subtitle: Iga asi, mis on minuga juhtunud, on mind õpetanud ka. 
+Similarity: 0.9793792286287205
+
+Generated: Elu on õpetaja. 
+Subtitle: Elu on õpetaja. 
+Similarity: 1.0000000000000002
+
+Generated: Ja kui sa, kui sa oled valmis leppima, siis iga asi aitab. 
+Subtitle: Kui sa oled valmis õppima, siis iga asi aitab. 
+Similarity: 0.8728715609439696
+
+Generated: Ja täna tegelikult arendate ju Inglismaal saan aru, et meie stažipteekronolossis pakiroboteid, 
+Subtitle: Te arendate Inglismaal meie Starship Technology pakiroboteid, 
+Similarity: 0.4364357804719848
+
+Generated: mida juba meie siin Eestis nagu näeme, 
+Subtitle: mida me siin Eestis juba näeme ka. 
+Similarity: 0.7893522173763263
+
+Generated: kas neil läheb nagu hästi, kas nende vastu on huvi, kas 
+Subtitle: Kas neil läheb hästi? Kas nende vastu on huvi? 
+Similarity: 0.8916451401205647
+
+Generated: ma saan, kas eestlased muudavad maailma sellega? Kindlasti ja 100 
+Subtitle: Kas eestlased muudavad sellega maailma? - Kindlasti, 100%. 
+Similarity: 0.8366600265340756
+
+Generated: protsenti, sest ta on kõige huvitavam projekt, 
+Subtitle: Starship on kõige huvitavam projekt sellest ajast, 
+Similarity: 0.7
+
+Generated: ma võib-olla kindlasti sellest ajast, kui ma olin 
+Subtitle: kui ma olin parlamendiliige. 
+Similarity: 0.7337993857053429
+
+Generated: parlamendi liige. See on kõige huvitavam ja nimetas kõige tähtsam 
+Subtitle: See on kõige huvitavam ja kõige tähtsam, 
+Similarity: 0.894427190999916
+
+Generated: asi millega ma olen tegelenud, 
+Subtitle: millega ma olen tegelenud. 
+Similarity: 0.970142500145332
+
+Generated: see staaž panna kui Skypes. Ent 
+Subtitle: Starship on nagu Skype, see on siin leiutatud. 
+Similarity: 0.1126872339638022
+
+Generated: andsid hea Ahti Heinla, saanud on tõesti empressiivne inimene, 
+Subtitle: Ahti Heinla on tõesti muljetavaldav inimene. 
+Similarity: 0.5520524474738834
+
+Generated: kui sa vahid nüüd pea meeles, ma ütlesin seda. 
+Subtitle: Kui sa vaatad nüüd, pea meeles, ma ütlesin seda. 
+Similarity: 0.916666666666667
+
+Generated: Ma lähen sinna isegi. No selle paugu tulen siia iga kahe kuu tagant umbes 
+Subtitle: Selle pärast ma tulengi siia umbes iga kahe kuu tagant. 
+Similarity: 0.760638829255665
+
+Generated: ja minumetesse staaž muudab maailma vaikselt väikselt, 
+Subtitle: Minu meelest Starship muudab maailma vaikselt ja väikselt, 
+Similarity: 0.6681531047810609
+
+Generated: aga muudab maailma ja see on, on Eesti. Eesti 
+Subtitle: aga ta muudab maailma. See on Eesti ime! 
+Similarity: 0.8442317648177382
+
+Generated: nagu Merko Etti. Üks väga huvitav teema, Lembit, ma tahaksin ikka teiega arutada, 
+Subtitle: Üks väga huvitav teema, mida ma tahan teiega arutada, 
+Similarity: 0.6515837655350014
+
+Generated: see on jube Brexiti, mis toimub praegu Inglismaal. 
+Subtitle: on see jube Brexit, mis toimub praegu Inglismaal. 
+Similarity: 0.9285714285714288
+
+Generated: Kuidas see võimalik oli, et Suurbritannias hääletati selle poolt 
+Subtitle: Kuidas see võimalik oli, et Inglismaal hääletati poolt? 
+Similarity: 0.8528028654224415
+
+Generated: napilt, küll, aga praegu kõik need protsessid on nii kuumad ja nii pulbitsevad 
+Subtitle: Napilt küll, aga praegu on kõik need protsessid nii kuumad, pulbitsevad 
+Similarity: 0.9526610232449337
+
+Generated: ja nii ägedad, 
+Subtitle: ja nii ägedad. 
+Similarity: 1.0000000000000002
+
+Generated: mis toimuvad. Deebet käementaadis siis peaminister, 
+Subtitle: David Cameron oli siis peaminister, 
+Similarity: 0.2519763153394848
+
+Generated: ta oli liiga palju enesekindlust ja mitte küllalt 
+Subtitle: ta oli liiga enesekindel ja mitte küllalt kogenud. 
+Similarity: 0.5144957554275265
+
+Generated: kogemusi tema advas, et ta on lihtsalt väida. Ta 
+Subtitle: Tema arvas, et ta lihtsalt võidab. 
+Similarity: 0.6666666666666667
+
+Generated: lubas, et see referendum ta hoiab referendumil sellepärast, et see 
+Subtitle: Ta lubas teha referendumi selle pärast, 
+Similarity: 0.6123724356957946
+
+Generated: käijend ja Händensbaadi olid siis väga tugev. 
+Subtitle: et UK iseseisvuspartei oli siis väga tugev. 
+Similarity: 0.5714285714285713
+
+Generated: Nii et ta ütles. No ma annan selle refrääni, nagu ma täidan ära, ta 
+Subtitle: Ta ütles, et ta laseb teha selle referendumi, aga ta võidab. 
+Similarity: 0.47633051162246687
+
+Generated: ei väitnud, et see tema kampaania oli nii vilets. 
+Subtitle: Ta ei võitnud! Tema kampaania oli nii vilets. 
+Similarity: 0.37851664930511253
+
+Generated: Ma, ma, ma ei tahtnud, peaks, et, et ma hääletasin teistpidi. 
+Subtitle: Ma ei tahtnud Brexitit, ma hääletasin teistpidi, 
+Similarity: 0.8488746876271653
+
+Generated: Aga ma nägin, et nad kaotavad 
+Subtitle: aga ma nägin, et nad kaotavad. 
+Similarity: 1.0000000000000002
+
+Generated: Londonis 65 protsenti, võib-olla ütlesid Ei, vaid me ei taha 
+Subtitle: Londonis umbes 65% ütlesid, et nad ei taha Brexitit. 
+Similarity: 0.6139406135149206
+
+Generated: breketeid. Aga ülejäänud suga Spega 60 protsenti ütlesid. 
+Subtitle: Ülejäänud UK-s ütlesid, et nad tahavad. 
+Similarity: 0.6681531047810609
+
+Generated: Me tahme. Kas nad said aru, mille poolt nad hääletasid, 
+Subtitle: Kas nad said aru, mille poolt nad hääletasid? 
+Similarity: 0.9309493362512627
+
+Generated: said nad ikka päriselt aru, mis toimub? 
+Subtitle: Said nad ikka päriselt aru, mis toimub? 
+Similarity: 1.0
+
+Generated: Ei, see ei olnud loogiline hääletamine, see oli Mosionaalne hääletamine 
+Subtitle: Ei, see ei olnud loogiline hääletamine, see oli emotsionaalne hääletamine. 
+Similarity: 0.962962962962963
+
+Generated: on nende laadi tunne, et me saame oma vanaaegse innovaatilt, hind on tagasi, 
+Subtitle: Nendel oli tunne, et me saame oma vana UK tagasi, 
+Similarity: 0.6085806194501846
+
+Generated: see Suurbritanniat jälle suur. 
+Subtitle: Suurbritannia on jälle suur! 
+Similarity: 0.3779644730092272
+
+Generated: Aga see on 
+Subtitle: See on demokraatlik protsess. 
+Similarity: 0.7715167498104596
+
+Generated: samm demokraatilineprotsess ja on täitsa selge mulle, et üldiselt noh, see häma oleks saanud 
+Subtitle: On täitsa selge, et üldiselt Cameron oleks saanud võita, 
+Similarity: 0.8398412548412546
+
+Generated: väita, aga lihtsalt taid tema kampaania oli liiga, näed iga nagu täis tahab haletsuse ja 
+Subtitle: aga tema kampaania oli lihtsalt liiga nõrk ja täis valesid. 
+Similarity: 0.5803810000880093
+
+Generated: ande, see tema vaadetas teiste, teine puu valetas ka, 
+Subtitle: Tema valetas, teine pool valetas ka, 
+Similarity: 0.7544335361543177
+
+Generated: aga ma maablanud see mäng nendega palvetas natuke rohkem 
+Subtitle: aga ma arvan, et teine kampaania valetas natuke rohkem. 
+Similarity: 0.280056016805602
+
+Generated: ja inimesed ütles, jäik, me lähme siis. Lähme. Ei ole iseseisev, jälle. 
+Subtitle: Inimesed mõtlesid, et oleme jälle iseseisvad. 
+Similarity: 0.43643578047198484
+
+Generated: Lembit, kas on võimalik, et 
+Subtitle: Lembit, kas on võimalik, et kui tehakse Brexit ära, 
+Similarity: 0.7302967433402213
+
+Generated: Inglismaal läheb elu peale breketite, et ikkagi, kui see tehakse ära, läheb paremaks. Järgmisel aastal? 
+Subtitle: läheb elu Inglismaal järgmisel aastal paremaks? 
+Similarity: 0.6092717958449425
+
+Generated: Ei lähe paremaks, aga ei lähe palju halvemaks ka 
+Subtitle: Ei lähe paremaks, aga ei lähe palju halvemaks ka. 
+Similarity: 1.0
+
+Generated: midagi ei 
+Subtitle: Midagi ei muutu. 
+Similarity: 0.816496580927726
+
+Generated: muuda. Praktilised on sõna, aga mitte filosoofia. 
+Subtitle: Brexit on sõna, mitte filosoofia. 
+Similarity: 0.7826237921249264
+
+Generated: Need me ikka elame ikka 36 kilomeetrit Prantsusmaad 
+Subtitle: Me elame ikka 36 kilomeetri kaugusel Prantsusmaast, 
+Similarity: 0.8366600265340756
+
+Generated: eemal. Me me ei koli nagu Ameerika poole. 
+Subtitle: me ei koli Ameerika poole. 
+Similarity: 0.7442084075352507
+
+Generated: Aga võib-olla see lõppkokkuvõttes on hea, 
+Subtitle: Võib-olla on see kokkuvõttes hea, 
+Similarity: 0.8249579113843054
+
+Generated: võib-olla peaks Eesti ka selle peale? 
+Subtitle: äkki peaks Eesti ka selle peale mõtlema hakkama? 
+Similarity: 0.7216878364870323
+
+Generated: Tema aga näete selle üle, kellega ära hääleta. 
+Subtitle: Mõtle selle üle küll, aga ära hääleta. 
+Similarity: 0.5698028822981898
+
+Generated: Väga ehk siis, et see on isegi halvem, et kui uhkale Aga Eesti 
+Subtitle: See ei ole väga hea Eestile, see oleks isegi halvem kui UK-le. 
+Similarity: 0.6831300510639732
+
+Generated: elu niimoodi kaugelt vaadates tundub, et läheb hästi 
+Subtitle: Kas niimoodi kaugelt vaadates tundub, et Eestis läheb elu hästi? 
+Similarity: 0.8944271909999159
+
+Generated: ja me oleme üldiselt õigel teel ja meil ei ole 
+Subtitle: Me oleme õigel teel 
+Similarity: 0.75
+
+Generated: põhjust väga norgu lasta pead. Minu 
+Subtitle: ja meil ei ole väga põhjust pead norgu lasta? 
+Similarity: 0.816496580927726
+
+Generated: arvates küll 
+Subtitle: Minu meelest küll. 
+Similarity: 0.408248290463863
+
+Generated: Eestil on alati Eestit ja kes ta on? 
+Subtitle: Eestil on narratiiv, Eesti teab, kes ta on. 
+Similarity: 0.7937253933193771
+
+Generated: Suurbritannia ei tea momendil suudki, Toni on kadunud. 
+Subtitle: Suurbritannia ei tea momendil, Suurbritannia on kadunud. 
+Similarity: 0.9271050693011067
+
+Generated: Eesti ei ole, Eestil on olnud 70 aastat seda õppida ja ta 
+Subtitle: Eestil on olnud aega 70 aastat seda õppida ja ta on õppinud. 
+Similarity: 0.8053872662568291
+
+Generated: näppinud. Kuulge, kui te siit Eestist nüüd ma tean, et te lähete siit otse lennuki peale, 
+Subtitle: Kui te Eestist lähete otse lennuki peale, 
+Similarity: 0.7385489458759966
+
+Generated: kust ostate midagi kaasa ka, 
+Subtitle: kas te ostate midagi kaasa ka? 
+Similarity: 0.7302967433402215
+
+Generated: et mis asi on, mida te Eestist kaasa osta? 
+Subtitle: Mis on see asi, mida te Eestist kaasa ostate? 
+Similarity: 0.962962962962963
+
+Generated: Üks asi alati kilu, alati kilu, 
+Subtitle: Üks asi alati - kilu. Alati kilu. 
+Similarity: 1.0
+
+Generated: no ma võin kümme-viisteist neid väikseid purki 
+Subtitle: Ma viin neid väikseid purke 10-15 tükki kaasa. 
+Similarity: 0.5345224838248487
+
+Generated: tagasi. Ütleme musta leiba ega meie suurepärast šokolaadi. 
+Subtitle: Mitte musta leiba või meie suurepärast šokolaadi? 
+Similarity: 0.6681531047810608
+
+Generated: Siis saad kilu alati kilu 
+Subtitle: Lihtsalt kilu, alati kilu. 
+Similarity: 0.7715167498104596
+
+Generated: ja siis, kui see saab otsa, et ma tulen tagasi. 
+Subtitle: Kui see saab otsa, ma tulen tagasi. 
+Similarity: 0.8770580193070293
+
+Generated: Me ootame teid varsti tagasi, 
+Subtitle: Me ootame teid varsti tagasi. 
+Similarity: 1.0
+
+Generated: aitäh täna hommikul siit stuudiost läbi 
+Subtitle: Aitäh täna hommikul siit stuudiost läbi tulemast, 
+Similarity: 0.9258200997725514
+
+Generated: tulemust, väga põnev kohtumine oli teiega ja uute kohtumisteni, ma saan aru. Aitäh. 
+Subtitle: väga põnev kohtumine oli. Uute kohtumisteni? - Jah, aitäh! 
+Similarity: 0.7348469228349535
+
+Generated: Sedaviisi ja poole. 
+Subtitle: Ühteviisi aeg ei jagune, 
+Similarity: 0.0
+
+Generated: Veider küll, kui ta elule ees seisvaid 
+Subtitle: veider küll, kuid näen ju neid seisvaid seiereid 
+Similarity: 0.33541019662496846
+
+Generated: välja rääkinud vaatamise aegu mõõtmatu 
+Subtitle: Ootamise aeg näib mõõtmatu, 
+Similarity: 0.1336306209562122
+
+Generated: loolase ootama ja see, seda 
+Subtitle: kes ei looda, see ei ootama jää 
+Similarity: 0.3273268353539886
+
+Generated: ma 
+Subtitle: Enese eest ma ei põgene, 
+Similarity: 0.4472135954999579
+
+Generated: tean, et selleks puudub. 
+Subtitle: tean, et selleks puudub tee igasugune 
+Similarity: 0.8164965809277261
+
+Generated: Ei 
+Subtitle: Vähegi, kui võin, ei tagane, 
+Similarity: 0.35355339059327373
+
+Generated: ta ta pilgus 
+Subtitle: sinu pilgust vaid ammutan väe 
+Similarity: 0.19999999999999998
+
+Generated: paika. Aasta kella 
+Subtitle: Taas kohtume kella all, näen kaugelt, 
+Similarity: 0.2357022603955159
+
+Generated: Daugem mis elu jooksul igal juhul on see minu 
+Subtitle: sinu juukseid, neid lendleb tuules, minule 
+Similarity: 0.21081851067789195
+
+Generated: poole. 
+Subtitle: Oled hea, hiiglama hea 
+Similarity: 0.0
+
+Generated: Mul on väga hea meel tervitada stuudios täna Karl Madist, 
+Subtitle: Mul on väga hea meel tervitada stuudios täna Karl Madist, 
+Similarity: 1.0
+
+Generated: kellele me saame palju õnne soovida 
+Subtitle: kellele me saame soovida palju õnne 
+Similarity: 0.9999999999999999
+
+Generated: sinu enda äsja möödunud sünnipäeva puhul. 
+Subtitle: äsjamöödunud sünnipäeva puhul! - Suur tänu. 
+Similarity: 0.14322297480788657
+
+Generated: Ja loomulikult palju õnne ka kalli karavani 35. tegutsemisaasta puhul. 
+Subtitle: Loomulikult palju õnne ka kalli Karavani 35. tegutsemisaasta puhul! 
+Similarity: 0.9486832980505138
+
+Generated: Kuidas vaatasid seda kõike? Tuli meelde, 
+Subtitle: Kuidas sa vaatasid seda kõike? - Kõik tuli meelde. 
+Similarity: 0.8432740427115679
+
+Generated: kus see oli tehtud, see oli jäähallis tehtud. 
+Subtitle: See oli jäähallis tehtud ju? - Täpselt niimoodi. 
+Similarity: 0.8838834764831843
+
+Generated: No miks Canonil kaheksakümnendatel nii hästi läks, kui te tulite 
+Subtitle: Miks Karavanil 1980ndatel nii hästi läks, kui te tulite? 
+Similarity: 0.8140915784106942
+
+Generated: ja? Vot raske öelda, sest fiks oli oma fantastilise plekiga juba ees, 
+Subtitle: Raske öelda, sest Fix oli oma fantastilise bäkiga juba ees, 
+Similarity: 0.6666666666666667
+
+Generated: aga aga noh, eks me olime jälle võib-olla värsked näod 
+Subtitle: aga eks me olime jälle värsked näod. 
+Similarity: 0.8728715609439696
+
+Generated: ja, ja ja oma värske, sellise natuke 
+Subtitle: Oma värske ja natuke queeniliku stiiliga. 
+Similarity: 0.6793662204867575
+
+Generated: kuningliku Becrandi või. Sa lihtsalt meeldisid publik. Sellepärast siis 
+Subtitle: Sa lihtsalt meeldisid publikule. - Ah soo, selle pärast siis? 
+Similarity: 0.5
+
+Generated: nagu hüüti siis välja miljonite tütarlaste lemmik Karl Madis. 
+Subtitle: Hüüti välja miljonite tütarlaste lemmik Karl Madis, 
+Similarity: 0.7637626158259734
+
+Generated: Ja siis, kui koju läksid, olid ikkagi üksi, 
+Subtitle: aga kui koju läksid, olid ikkagi üksi. 
+Similarity: 0.8581163303210331
+
+Generated: sest et siis, kui pillid olid koos, olid kõik juba läinud. 
+Subtitle: Kui pillid olid koos, olid kõik juba läinud. 
+Similarity: 0.944911182523068
+
+Generated: No kui pöörased tegelikult need ajad olid, 
+Subtitle: Kui pöörased need ajad olid, 
+Similarity: 0.8944271909999159
+
+Generated: kuid 85. 86. aastal andsid 200 kontserti aastas, 
+Subtitle: kui te 1985-1986. aastal andsite 200 kontserti aastas? 
+Similarity: 0.6139406135149206
+
+Generated: vastab ikka tõele. See on 
+Subtitle: Vastab see ikka tõele või on väike liialdus? 
+Similarity: 0.8660254037844387
+
+Generated: üldse mitte liialdus. Et ma olen 
+Subtitle: Vastab tõele, ei ole liialdus. 
+Similarity: 0.3333333333333334
+
+Generated: isiklikult teinud ka 260 kontserti aastas, 
+Subtitle: Ma olen isiklikult teinud ka 260 kontserti aastas. 
+Similarity: 0.9393364366277241
+
+Generated: aga karavani ka oli siis 200 küll 
+Subtitle: Karavaniga oli 200 küll. 
+Similarity: 0.7559289460184544
+
+Generated: ja noh, see oli ikka meeletu. Tegelikult oli see meeletu tapmine, 
+Subtitle: See oli ikka meeletu, tegelikult oli see meeletu tapmine, 
+Similarity: 0.9393364366277241
+
+Generated: aga noored mehed mis seal olid? 
+Subtitle: aga noored mehed, mis seal oli... 
+Similarity: 1.0
+
+Generated: Mida sa pead karavani kõige ägedamat uuteks saavutusteks? 
+Subtitle: Mida sa pead Karavani kõige ägedamateks saavutusteks? 
+Similarity: 0.9534625892455924
+
+Generated: No vaieldamatult Eurovision aastal 94 koos Silvi Vrait iga Me laulist laulsime Silvi 
+Subtitle: Vaieldamatult Eurovisiooni, aastal 1994 laulsime Silvi Vraidile bäkki. 
+Similarity: 0.5298129428260175
+
+Generated: Pekraagundi. Ja, ja ma kuulasin muide nüüd viimane Eurovisioon, mis oli, kuulasin meie 
+Subtitle: Ma kuulasin muide, kui viimane Eurovisioon oli, 
+Similarity: 0.5393598899705936
+
+Generated: versiooni, noh mis me sel ajal tegime. 
+Subtitle: meie versiooni, mis me sel ajal tegime. 
+Similarity: 0.912870929175277
+
+Generated: Ja, ja võrdlesin nende hästi paljude artist artistidega, kes on nüüd Eurovisioonil 
+Subtitle: Võrdlesin paljude artistidega, kes on nüüd Eurovisioonil, 
+Similarity: 0.8278373543847157
+
+Generated: praegu siis mul piinlik küll ei olnud. 
+Subtitle: ja mul piinlik küll ei olnud. 
+Similarity: 0.9036961141150639
+
+Generated: Meie eelis oli see, et me laulsime puhtalt. 
+Subtitle: Meie eelis oli see, et me laulsime puhtalt. 
+Similarity: 1.0
+
+Generated: Et seal ei olnud ühtegi vale nooti. 
+Subtitle: Ei olnud ühtegi vale nooti. 
+Similarity: 0.9534625892455924
+
+Generated: Mis siin ja mina 
+Subtitle: Sa oled mees ja mina olen naine 
+Similarity: 0.2519763153394848
+
+Generated:  
+Subtitle: tean mõnda, mida sa ei tea. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Olla võin kui jää või tulikuum, su kõigi unistuste tuum 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Ja valgel ööl ka varjust truum. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Enda nii sulle tõin ma, kuigi tean, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: et homme võin ma muutuda vaid nimeks sinu suul. 
+Similarity: 0.0
+
+Generated: Aga ometi see alati oma kaks punkti taime ära? 
+Subtitle: Ometi oma 2 punkti tõime ära. 
+Similarity: 0.5962847939999438
+
+Generated: Ja vist viimaseks jäid. Ei 
+Subtitle: Kas viimaseks jäite? - Ei, eelviimaseks. 
+Similarity: 0.6
+
+Generated: eeltingimuseks, vabandas ja 
+Subtitle: Vabandust! 
+Similarity: 0.0
+
+Generated: meie saime ikkagi kaks punkti kätte, 
+Subtitle: Meie saime ikkagi 2 punkti kätte, 
+Similarity: 0.912870929175277
+
+Generated: aga aga see oli ikkagi Eesti ajaloo esimene finaalis 
+Subtitle: aga see oli Eesti ajaloo esimene finaalis esinemine. 
+Similarity: 0.8528028654224415
+
+Generated: esinenud. Mis lugu, see on karm, mida sa oled kõige rohkem pidanud mängima? 
+Subtitle: Mis laulu sa oled pidanud kõige rohkem mängima? 
+Similarity: 0.7752170911825528
+
+Generated: No vaieldamatult Pärlipüüdjat 
+Subtitle: Vaieldamatult "Pärlipüüdjat". 
+Similarity: 0.816496580927726
+
+Generated: noh, sest ilma selleta ei ole 35 aastat saanud, 
+Subtitle: Ilma selleta ei ole 35 aastat saanud. 
+Similarity: 0.9428090415820635
+
+Generated: isegi kui jätad tegemata, 
+Subtitle: Isegi kui jätad tegemata, 
+Similarity: 0.9999999999999998
+
+Generated: siis ikka küsitakse, et kus see siis nüüd jäid. 
+Subtitle: siis ikka küsitakse, kuhu see siis nüüd jäi. 
+Similarity: 0.8581163303210332
+
+Generated: Või kui teed alguse poole ja keegi tuleb hiljem, 
+Subtitle: Isegi kui teed algusepoole, siis keegi tuleb hiljem jutuga, 
+Similarity: 0.6666666666666669
+
+Generated: aga ma ei olegi kuulnud siis, siis tuleb vahest kaks korda teha. 
+Subtitle: et ta ei kuulnud. Nii tuleb vahel kaks korda teha. 
+Similarity: 0.7175473098524098
+
+Generated: Kuumääraid. 
+Subtitle: Kuuma päikese eest merre sukeldun ma 
+Similarity: 0.0
+
+Generated:  
+Subtitle: liuglen lainete sees, puhkan soolases vees 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Pärlipüüdjaks nüüd ma jään, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: kuni pärli kätte saan. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Kuuma päikese eest korraks peitu veel poen. 
+Similarity: 0.0
+
+Generated: Mängid sa seda nagu lusti ja rõõmuga kõik, loomulikult 
+Subtitle: Mängid sa seda lusti ja rõõmuga? - Loomulikult. 
+Similarity: 0.6831300510639731
+
+Generated: ma teen seda, mida inimesed tahavad. 
+Subtitle: Ma teen seda, mida inimesed tahavad. 
+Similarity: 1.0
+
+Generated: Milleks ma siis laval olen? 
+Subtitle: Milleks ma siis laval olen? 
+Similarity: 1.0
+
+Generated: Ajan oma jonni, ei tee selliseid asju, mul ei ole. 
+Subtitle: Ajan oma jonni ja ei tee! Sellist asja mul ei ole. 
+Similarity: 0.960768922830523
+
+Generated: Kuidas 35 aastane karavani ennast praegu tunneb 
+Subtitle: Kuidas 35-aastane Karavan ennast praegu tunneb 
+Similarity: 0.7715167498104596
+
+Generated: Eesti muusika sellisel maastikul, kus artiste on väga erinevaid, 
+Subtitle: Eesti muusikamaastikul, kus artiste on väga erinevaid 
+Similarity: 0.8215838362577493
+
+Generated: eks ju, kuni sellise mõni räpp baritoni välja. 
+Subtitle: kuni selliste mõminaräppariteni välja? 
+Similarity: 0.5303300858899106
+
+Generated: Ma arvan, et üsna julgelt, et piinlik ei ole. 
+Subtitle: Ma arvan, et üsna julgelt, piinlik ei ole. 
+Similarity: 0.9594032236002468
+
+Generated: Poisid on täiesti tipptasemel, 
+Subtitle: Poisid on täiesti tipptasemel. 
+Similarity: 0.9999999999999998
+
+Generated: eks see laevakool ja, ja Viru hotelli teine korruse ja eks need need ikkagi on tugeva põhja alla. 
+Subtitle: Eks laev ja Viru hotelli teine korrus on tugeva põhja alla pannud. 
+Similarity: 0.5931710140017395
+
+Generated: Kui palju neid on seal karonile saatuslikuks saanud? 
+Subtitle: Kui palju on need Karavanile saatuslikuks saanud? 
+Similarity: 0.9139076937674138
+
+Generated: Ei oskagi ütelda, 
+Subtitle: Ei oskagi ütelda. 
+Similarity: 1.0000000000000002
+
+Generated: võib-olla võib-olla võib-olla midagi seal on ka sellest, et see elu oleks nii raskeks 
+Subtitle: Võib-olla on seal midagi ka sellest, et see elu läks nii raskeks. 
+Similarity: 0.9007546982220899
+
+Generated: et need olid ikkagi sellised päevad, kus ühel päeval tuli isegi 11 tundi laval olla 
+Subtitle: Need olid ikka päevad, kus ühel päeval tuli 11 tundi laval olla. 
+Similarity: 0.8804087784801331
+
+Generated: 11 tundi, 11 tundi 
+Subtitle: 11 tundi?! - Jah, 11 tundi. 
+Similarity: 0.9428090415820632
+
+Generated: ja siis me esitasime väikese protesti, et Soome seadused üle üheksa ei luba. 
+Subtitle: Me esitasime väikse protesti, et Soome seadused üle 9 ei luba. 
+Similarity: 0.8451542547285167
+
+Generated: Mis te mängisite üks, kas teil oli 11 tundi repertuaari? 
+Subtitle: Mida te mängisite 11 tundi? Kas teil oli 11 tundi repertuaari? 
+Similarity: 0.8432740427115679
+
+Generated: No meil oleks tegelikult rohkemgi olnud, 
+Subtitle: Meil oleks tegelikult rohkemgi olnud, 
+Similarity: 0.9701425001453319
+
+Generated: aga, aga see laev käis üsna kiiresti, 
+Subtitle: aga laev käis üsna kiiresti. 
+Similarity: 0.8944271909999157
+
+Generated: et hommikul kell 10 hakkasid tegid oma mingi neli setti ära, 
+Subtitle: Hommikul kell 10 hakkasid pihta, tegid oma neli setti ära, 
+Similarity: 0.8581163303210332
+
+Generated: siis tuli uus rahvas peale, tegid teise neli setti 
+Subtitle: tuli uus rahvas peale, tegid teised neli setti 
+Similarity: 0.9574271077563382
+
+Generated: ja pärast õhtul panid veel kolm setti, 
+Subtitle: ja pärast õhtul panid veel kolm setti. 
+Similarity: 0.9999999999999998
+
+Generated: aga, aga see protest, et 11 ei tohi, see lahenes niimoodi. 
+Subtitle: See protest, et 11 tundi ei tohi, lahenes niimoodi, 
+Similarity: 0.7745966692414832
+
+Generated: Kapten ütles, et või, või siis see, kes meid kutsus, ütles, et 
+Subtitle: et see, kes meid kutsus, ütles, 
+Similarity: 0.8001322641986388
+
+Generated: aga need viimased kolm tundi on järgmises päevas. 
+Subtitle: et need viimased 3 tundi on järgmises päevas. 
+Similarity: 0.8581163303210332
+
+Generated: Nii et see tegelikult see periood oli ikkagi 11 tundi päevas. 
+Subtitle: See periood oli tegelikult ikkagi 11 tundi päevas, 
+Similarity: 0.882522608121828
+
+Generated: Aga lihtsalt kellaaeg muutus. 
+Subtitle: lihtsalt kellaaeg muutus. 
+Similarity: 0.8660254037844388
+
+Generated: No kui vürtse Soome elu tegelikult mõjus bändi sisekliimale, 
+Subtitle: Kuivõrd elu Soomes mõjus bändi sisekliimale? 
+Similarity: 0.5892556509887897
+
+Generated: et ta nagu ikkagi ühel hetkel ei saanud millegipärast siis enam koos eksisteerida. 
+Subtitle: Ühel hetkel ikkagi ei saanud millegipärast koos eksisteerida. 
+Similarity: 0.8451542547285165
+
+Generated: Elu näitas, et selline kaks nädalat koos olla. Peale seda tekkis tüli 
+Subtitle: Elu näitas, et kaks nädalat sai koos olla, peale seda tekkis tüli. 
+Similarity: 0.9166666666666669
+
+Generated: ja kui pidi veel kaks nädalat olema, no siis vahepeal rahunes ja siis 
+Subtitle: Kui pidi veel kaks nädalat olema, siis vahepeal rahunes ja siis jälle... 
+Similarity: 0.9219544457292888
+
+Generated: peale tülid tekivad 
+Subtitle: Mille peale tülid tekivad? 
+Similarity: 0.6546536707079772
+
+Generated: bändi. No ma ei tea, närvid krussis, et tahaks koju ja ja siis olid ju, mõnel olid juba lapsed 
+Subtitle: Närvid krussis, tahaks ju koju, mõnel olid juba lapsed. 
+Similarity: 0.6950480468569159
+
+Generated: ja ja noh, ei saanud enam nii vabalt mööda maailma hulkuda. 
+Subtitle: Ei saanud enam nii vabalt mööda maailma hulkuda. 
+Similarity: 0.8790490729915326
+
+Generated: Ehk et bänd hakkas lagunema ja see lagunemine vist kestis neli aastat. 
+Subtitle: Bänd hakkas lagunema ja lagunemine kestis neli aastat. 
+Similarity: 0.816496580927726
+
+Generated:  
+Subtitle: Jah. 
+Similarity: 0.0
+
+Generated: No kui praegu kõigi bändi lauljad ja muusikud toovad olla võimalikult tervislikud, 
+Subtitle: Kui praegu kõik bändid ja muusikud tahavad olla võimalikult tervislikud, 
+Similarity: 0.8391463916782735
+
+Generated: võimalik vegan ja öko ja 
+Subtitle: võimalikult vegan ja öko, 
+Similarity: 0.7559289460184544
+
+Generated: kohutavalt kained ja karsklased ja kõik, mida veel. 
+Subtitle: kained ja karsklased ja mida kõike veel, 
+Similarity: 0.938194187433142
+
+Generated: Kas toona tegelikult see elustiil oli selline üsna metsik 
+Subtitle: siis toona oli elustiil üsna metsik. 
+Similarity: 0.6804138174397717
+
+Generated: ja kas see on üks põhjus, miks tegelikult asjad lagunevad? 
+Subtitle: Kas see on üks põhjus, miks asjad lagunevad? 
+Similarity: 0.9459053029269172
+
+Generated: Ma ei ütleks, et see põhjus on pigem see hoiab just koos, 
+Subtitle: Ma ei ütleks, et see on põhjus, pigem just see hoiab koos. 
+Similarity: 0.9999999999999999
+
+Generated: et vot see istud õhtul maha, räägid sellest kontserdist või, või sellest esinemisest 
+Subtitle: Istud õhtul maha, räägid kontserdist või esinemisest. 
+Similarity: 0.659828879073858
+
+Generated: ja ja need asjad vahest ongi vaja lihtsalt võta nina täis 
+Subtitle: Vahel ongi vaja lihtsalt nina täis võtta 
+Similarity: 0.7115124735378854
+
+Generated: ja, ja öelda ausalt, kuidas asjad on. Et mida peaks muutma, 
+Subtitle: ja öelda ausalt, kuidas asjad on ja mida peaks muutma. 
+Similarity: 0.9733285267845753
+
+Generated: aga noh, siis siis on seda solvumist olid hoopis 
+Subtitle: Solvumist on hoopis vähem. 
+Similarity: 0.7126966450997985
+
+Generated: vähemisel, see on laevade peal ka, 
+Subtitle: Laevade peal ka. 
+Similarity: 0.5773502691896257
+
+Generated: kui seal, kus tehti ikkagi selliseid iganädalasi Slabi päevi, kus siis pärast või pubi päevi kõik võisid minna 
+Subtitle: Seal, kus tehti iganädalasi pubipäevi, kuhu kõik võisid minna, 
+Similarity: 0.5896618941607872
+
+Generated: ja, ja seal seal need järgmisel päeval olid kõik jälle rõõmsad 
+Subtitle: olid kõik järgmisel päeval rõõmsad, 
+Similarity: 0.6666666666666666
+
+Generated: ja, ja ja kui need ära jäid, siis hakkas üks igavene ussitamine selja taga, 
+Subtitle: kui need ära jäid, siis hakkas igavene ussitamine selja taga pihta. 
+Similarity: 0.681385143869247
+
+Generated: et et bändis on täpselt samamoodi, 
+Subtitle: Bändis on täpselt samamoodi, 
+Similarity: 0.7977240352174657
+
+Generated: vahest on vaja pinge maha lasta, auru välja lasta. 
+Subtitle: vahel on vaja pinge maha lasta, auru välja lasta. 
+Similarity: 0.9285714285714286
+
+Generated: Aga lihtsalt karavani vinged olid siis teistsugused. 
+Subtitle: Kas Karavani pinged olid teistsugused, et sellest ei piisanud? 
+Similarity: 0.26013299085723596
+
+Generated: Noh, see oli tegelikult ju kahe mehe omavaheline tüli, 
+Subtitle: See oli tegelikult kahe mehe omavaheline tüli, 
+Similarity: 0.8819171036881968
+
+Generated: millest mina, mina olin väga õnnetu selle peale, kui Meelis pidi minema, 
+Subtitle: mille üle mina olin väga õnnetu, kui Meelis pidi minema. 
+Similarity: 0.8944271909999159
+
+Generated: aga aga ma ei saanud ka midagi teha. 
+Subtitle: Ma ei saanud ka midagi teha. 
+Similarity: 0.8885233166386384
+
+Generated: See on Jaan karke, Meelis Punder 
+Subtitle: Need on Jaan Karp ja Meelis Punder, kellest sa räägid? 
+Similarity: 0.6666666666666666
+
+Generated: kindlasti. Jah, nad ei saanud oma basstrummi ja bassi kuidagi kokku aetud. 
+Subtitle: Jah, nad ei saanud oma basstrummi ja bassi kuidagi kokku aetud. 
+Similarity: 0.9831920802501749
+
+Generated: Kuidas nüüd karavan 30 viiendat sünnipäeva tähistab? 
+Subtitle: Kuidas nüüd Karavan 35. sünnipäeva tähistab? 
+Similarity: 0.7715167498104596
+
+Generated: Kas algkoosseis tuleb kokku, on laval? 
+Subtitle: Kas algkoosseis tuleb kokku ja on laval? 
+Similarity: 0.9486832980505138
+
+Generated: Ma olen kutsunud ka 25.-le ja ma olen kutsunud ka 30.-le, 
+Subtitle: Ma olen kutsunud ka 25ndale ja ma olen kutsunud ka 30ndale, 
+Similarity: 1.0
+
+Generated: aga ei ole tulnud, 
+Subtitle: aga ei ole tulnud. 
+Similarity: 1.0
+
+Generated: et keegi neist 
+Subtitle: Mitte keegi neist? 
+Similarity: 0.6666666666666669
+
+Generated: kui üks ei tule, siis ei tule teised ka. 
+Subtitle: Kui üks ei tule, siis ei tule teised ka. 
+Similarity: 0.9999999999999999
+
+Generated: Ma olen niimoodi aru saanud. 
+Subtitle: Ma olen niimoodi aru saanud. 
+Similarity: 1.0
+
+Generated: Ja te ei soovi üksteisele häid jõule ega häid sünnipäevi. 
+Subtitle: Te ei soovi üksteisele häid jõule ja häid sünnipäevi? 
+Similarity: 0.9574271077563382
+
+Generated: Seda jah, mitte, aga, aga see ei tähenda, et kui me kuskil linna peal kokku saame, 
+Subtitle: Seda mitte, aga see ei tähenda, et kui linna peal kokku saame, 
+Similarity: 0.9102991273635126
+
+Generated: et me terekätt ei annaks ja küsiks, kuidas läheb 
+Subtitle: siis terekätt ei annaks ja ei küsiks, kuidas läheb. 
+Similarity: 0.8040302522073697
+
+Generated: ja noh, selles mõttes Aga ikkagi nagu mingi must kass läbi jooksnud, 
+Subtitle: Ikkagi on mingi must kass läbi jooksnud? 
+Similarity: 0.7024393586862704
+
+Generated: et see muusika tegemise koos praegusel hetkel ikka välistama. 
+Subtitle: Koos muusika tegemise te praegusel hetkel välistate? 
+Similarity: 0.7559289460184544
+
+Generated: Viimane kord ütlesid ausalt, et nad on vormist ära, 
+Subtitle: Nad viimane kord ütlesid ausalt, et on vormist ära. 
+Similarity: 1.0000000000000002
+
+Generated: et nad ei tahaks teha enam sellel tasemel mis noh, halvemal tasemel, kui enne oli. 
+Subtitle: Nad ei tahaks teha halvemal tasemel kui enne oli. 
+Similarity: 0.7825080450574999
+
+Generated: Mis sa arvad, mis karavani kõige suurem trump 
+Subtitle: Mis sa arvad, mis on Karavani kõige suurem trump 
+Similarity: 0.9198662110078
+
+Generated: üldse siin Eesti muusikamaastikul on olnud? Selle 
+Subtitle: Eesti muusikamaastikul olnud selle 35 aasta jooksul? 
+Similarity: 0.7819290527140306
+
+Generated: peale ma ikkagi arvan, et, et päkk ehk siis nii-öelda see kogu see Nelja-viiehäälne laul 
+Subtitle: Ma ikkagi arvan, et bäkk, kogu see nelja-viiehäälne laul. 
+Similarity: 0.7647191129018724
+
+Generated: ütleme praegusel praegusel koosseisul ma paneks esikohale ikkagi instrumentaal, 
+Subtitle: Praegusel koosseisul ma paneks esikohale instrumentaali. 
+Similarity: 0.8616404368553292
+
+Generated: sest meil on ju fantastilised instrumentalistid. 
+Subtitle: Meil on fantastilised instrumentalistid. 
+Similarity: 0.8819171036881966
+
+Generated: See bänd mängib, mida tahab, mitte seda, mida oskab. 
+Subtitle: See bänd mängib, mida tahab, mitte mida oskab. 
+Similarity: 0.980723295235808
+
+Generated: Karl, kuidas karavan siis oma 30 viiendat sünnipäeva päriselt tähistab? 
+Subtitle: Karl, kuidas Karavan oma 35. sünnipäeva tähistab? 
+Similarity: 0.7171371656006362
+
+Generated: Järgmine aasta võib-olla tuleb Käsmus üks kontsert, 
+Subtitle: Järgmine aasta võib-olla tuleb Käsmus üks kontsert, 
+Similarity: 1.0
+
+Generated: kus siis nii-öelda gara on 35 ja minul on siis juba 60. nii-öelda hõng juba juures. 
+Subtitle: kus Karavan on 35 ja minul 60 hõng juba juures. 
+Similarity: 0.7858252779857413
+
+Generated: Aga sel jõuluajal te 
+Subtitle: Jõuluajal te lähete ikkagi tuuritama? - Annely Peeboga. 
+Similarity: 0.35355339059327373
+
+Generated: lähtesiis tegelikult ikka on ja kas repertuaar on ikka selline ooperi ja operetiklassika või 
+Subtitle: Kas repertuaar on ooperi- või operetiklassika 
+Similarity: 0.7660323462854264
+
+Generated: Annely Peebo teeb ka mõned karavani lood. 
+Subtitle: või teeb Annely ka mõned Karavani lood? 
+Similarity: 0.9166666666666669
+
+Generated: Annely Peebo laulab meie karavani lugusi ka 
+Subtitle: Annely laulab Karavani lugusid ka, 
+Similarity: 0.6761234037828132
+
+Generated: täpselt samamoodi jõululauale ja jõululaule, meil on piisavalt. 
+Subtitle: jõululaule, neid on meil piisavalt. 
+Similarity: 0.7462025072446364
+
+Generated: Aitäh, selle jutu ajal kutsusid, 
+Subtitle: Aitäh selle jutuajamise eest. - Aitäh, et sa kutsusid. 
+Similarity: 0.565685424949238
+
+Generated: aga nüüd kuulume karavani. 
+Subtitle: Nüüd kuulame Karavani. 
+Similarity: 0.5773502691896258
+
+Generated:  
+Subtitle: Oh, mis küll eile enne lõunat pidin tundma ma, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: kui valel ajal kodunt lahkusin. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Tund aega varem seisin su aiaväraval 
+Similarity: 0.0
+
+Generated:  
+Subtitle: ja sellest, mida nägin, jahmusin. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Võib-olla oli see seal sulle üldse onupoeg, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: vend või keegi muu hea kolleeg. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Olla võib, et üldsegi petnud mind sa polegi. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Targem on õigel ajal ilmuda. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mul ema aina kordas nii, kui olin koolipoiss. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees peab täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Kui kell lööb, alles siis on õige aeg. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Istusid sa sohva peal, su kõrval keegi mees, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: kes abivalmilt hoidis sinu kätt. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Hetke tummalt seisin nii, siis ruttu jalga lasin sealt. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Nii ei saa ma iial teada tõtt. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Oh, miks küll pidin tulema tund aega varem ma, 
+Similarity: 0.0
+
+Generated:  
+Subtitle: siin mu ema täpsus kõiges süüdi on! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Olla võib, et üldsegi petnud mind sa polegi. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Targem on õigel ajal ilmuda. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mul ema aina kordas nii, kui olin koolipoiss. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees peab täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Kui kell lööb, alles siis on õige aeg. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees peab täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mul ema aina kordas nii, kui olin koolipoiss. 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Mees peab täpne olema! 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Kui kell lööb, alles siis on õige aeg. 
+Similarity: 0.0
+
+Generated: Niimoodi kõlab siis 35 aastane karavane 
+Subtitle: Niimoodi kõlab 35-aastane Karavan, 
+Similarity: 0.6123724356957946
+
+Generated: aga nüüd me liigume uue raamatu juurde, mis kohe ilmub või juba on ilmunud 
+Subtitle: aga nüüd liigume ühe uue raamat juurde, mis kohe ilmub või on juba ilmunud. 
+Similarity: 0.9240616554505461
+
+Generated: ja selle raamatu autor Tiina Tiitus, 
+Subtitle: Selle raamatu autor Tiina Tiitus, 
+Similarity: 0.912870929175277
+
+Generated: kes on isiku arengu ja suhtenõustaja, istub meil stuudios, 
+Subtitle: kes on isikuarengu- ja suhtenõustaja, istub meil stuudios. 
+Similarity: 0.8970852271450604
+
+Generated: tere hommikust, Tiina. Tere. 
+Subtitle: Tere hommikust, Tiina. - Tere! 
+Similarity: 1.0000000000000002
+
+Generated: Ja palju õnne uue raamatu puhul. Aitäh. 
+Subtitle: Palju õnne uue raamatu puhul. - Aitäh. 
+Similarity: 0.9258200997725514
+
+Generated: Sinu esimene raamat kandis pealkirja õnnelik suhe. 
+Subtitle: Sinu esimene raamat kandis pealkirja "Õnnelik suhe". 
+Similarity: 0.9999999999999998
+
+Generated: Ja nüüd on ilmunud Sinu teine raamat, 
+Subtitle: Nüüd on ilmunud sinu teine raamat, 
+Similarity: 0.9770084209183945
+
+Generated: mille pealkiri on Armastuse varjatud saladused. 
+Subtitle: mille nimi on "Armastuse varjatud saladused". 
+Similarity: 0.9523809523809526
+
+Generated: Nii et lõpuks ometi me saame kõike armastusest, 
+Subtitle: Lõpuks ometi me saame armastusest teada kõik, 
+Similarity: 0.7826237921249264
+
+Generated: mida siiamaani veel teadnud ei 
+Subtitle: mida veel siiamaani ei tea. 
+Similarity: 0.6859943405700353
+
+Generated: ole. Tiina, aga kust sina seda kõike tead, 
+Subtitle: Tiina, kust sina seda kõike tead? 
+Similarity: 0.8660254037844388
+
+Generated: missugused on armastuse varjatud saladused 
+Subtitle: Mis on armastuse varjatud saladused 
+Similarity: 0.8677218312746247
+
+Generated: ja missi inimestel siin südames tegelikult toimub? 
+Subtitle: ja mis inimestel tegelikult südames toimub? 
+Similarity: 0.629940788348712
+
+Generated: No eks see pealkiri on natukene selline dramaatilisem võib-olla kui, kui asi väärt on, 
+Subtitle: Eks see pealkiri on natuke dramaatilisem, kui asi väärt on. 
+Similarity: 0.8908708063747479
+
+Generated: aga aga üldiselt ma olen uurinud seda teemat päris kaua 
+Subtitle: Üldiselt ma olen uurinud seda teemat päris kaua 
+Similarity: 0.8997354108424374
+
+Generated: ja ja ma olen tahtnud rääkida inimestele noh, asjadest, 
+Subtitle: ja olen tahtnud rääkida inimestele asjadest, 
+Similarity: 0.9237604307034012
+
+Generated: mis minu meelest on nagu ilmselged, et ma olen 
+Subtitle: mis on minu meelest ilmselged. 
+Similarity: 0.8616404368553293
+
+Generated: aastaid imestan selle üle, et kuidas ma 
+Subtitle: Ma olen aastaid imestanud selle üle, 
+Similarity: 0.4879500364742665
+
+Generated: pean rääkima inimestele seda, et üks pluss üks on kaks 
+Subtitle: kuidas ma pean inimestele rääkima, et üks pluss üks on kaks. 
+Similarity: 0.9456108576893004
+
+Generated: ehk siis inimesed, olge head teineteise vastu armastage ja kõik on korras. 
+Subtitle: Inimesed, olge head üksteise vastu, armastage ja kõik on korras. 
+Similarity: 0.9057894597833126
+
+Generated: Suhtega seotud asjad on kuidagi läinud nii keeruliseks 
+Subtitle: Suhetega seotud asjad on kuidagi läinud nii keeruliseks. 
+Similarity: 1.0
+
+Generated: ja nad on läinud nii keeruliseks, 
+Subtitle: Need on läinud nii keeruliseks, 
+Similarity: 0.9146591207600473
+
+Generated: et enamuse inimestel on selline tunne, et nendest ei olegi võimalik läbi minna. 
+Subtitle: sest enamusel inimestest on tunne, et neist ei olegi võimalik läbi minna. 
+Similarity: 0.8804087784801331
+
+Generated: Ja mina siis olen võtnud nagu natuke selliseks missiooniks endale teha asju lihtsamaks tagasi. 
+Subtitle: Mina olen võtnud natuke missiooniks teha asju lihtsamaks tagasi. 
+Similarity: 0.8320502943378438
+
+Generated: Et inimesed ikka on tahtnud armastada, elada koos, sünnitada lapsi, 
+Subtitle: Inimesed ikka on tahtnud armastada, elada koos, sünnitada lapsi 
+Similarity: 0.9770084209183945
+
+Generated: elada lihtsalt kergete elu, 
+Subtitle: ja elada lihtsat ning kerget elu. 
+Similarity: 0.6123724356957946
+
+Generated: see on tegelikult kõikide inimeste unistus. 
+Subtitle: See on tegelikult kõikide inimeste unistus, 
+Similarity: 1.0
+
+Generated: Et elu oleks kerge, lihtne ja lõbus. 
+Subtitle: et elu oleks kerge, lihtne ja lõbus. 
+Similarity: 0.9999999999999998
+
+Generated: Miks ta seda siis ei ole? Vot just nimelt nende kodeeringute pärast 
+Subtitle: Miks ta seda siis ei ole? - Just nimelt nende kodeeringute pärast. 
+Similarity: 0.9746794344808962
+
+Generated: seepärast, et kui me lapsena sünnime, siis me oleme nagu puhtad paberilehed 
+Subtitle: Kui me lapsena sünnime, siis oleme nagu puhtad paberilehed 
+Similarity: 0.9237604307034011
+
+Generated: ja hakkame salvestama asju, neid asju, mis ümberringi salvestada on. 
+Subtitle: ja hakkame salvestama asju, mis ümberringi salvestada on. 
+Similarity: 0.9503288904374108
+
+Generated: Ehk siis lapsed võtavad selle maailma üle automaatselt, mida meile presenteeritakse. 
+Subtitle: Lapsed võtavad automaatselt üle maailma, mida neile presenteeritakse. 
+Similarity: 0.8058229640253802
+
+Generated: Ja lapsed on veel kodeeritud niimoodi, 
+Subtitle: Lapsed on veel kodeeritud niimoodi, 
+Similarity: 0.9718253158075503
+
+Generated: et nad hakkavad oma vanemaid nagu puhverdama või neid kompenseerima kõiges. Et 
+Subtitle: et nad hakkavad oma vanemaid puhverdama, kompenseerima kõiges. 
+Similarity: 0.7717436331412897
+
+Generated: lihtsalt hakkavad matkima seda maailma, mis ees on. 
+Subtitle: Lihtsalt hakkavad matkima kõike seda, mis ees on. 
+Similarity: 0.9285714285714288
+
+Generated: No lapsepõlved on meil kõikidel väga erinevad, 
+Subtitle: Lapsepõlved on meil kõikidel väga erinevad. 
+Similarity: 0.9534625892455924
+
+Generated: osad on tulnud tõenäoliselt toredatest, tervetest peredest, 
+Subtitle: Osad on tulnud tõenäoliselt toredatest tervetest peredest, 
+Similarity: 0.9999999999999997
+
+Generated: teised võib-olla mitte nii väga 
+Subtitle: teised mitte nii väga. 
+Similarity: 0.9354143466934852
+
+Generated: kui sa ütled, et sa meid nii 
+Subtitle: Kui sa ütled, et see meid nii mõjutab, 
+Similarity: 0.8703882797784893
+
+Generated: mõjud tahab ja võib-olla üks põhjus, miks meie elu ei lähe väga õnnelik, kui kergelt ja toredat rada 
+Subtitle: see on põhjus, miks meie elu ei lähe väga õnnelikku kerget rada, 
+Similarity: 0.5252257314388903
+
+Generated: siis, mis me teha saame 
+Subtitle: mida me siis teha saame? 
+Similarity: 0.9999999999999998
+
+Generated: või kas on selliseid universaalseid nõuandeid, 
+Subtitle: Kas on universaalseid nõuandeid? 
+Similarity: 0.8819171036881968
+
+Generated: et vot täna hommikul pühapäeval siin diivanil istudes ta seda öelda 
+Subtitle: Kas täna hommikul siin istudes sa saad öelda, 
+Similarity: 0.533001790889026
+
+Generated: kõik, kes te olete õnnetud palun, tehke nüüd nii 
+Subtitle: et kõik, kes te olete õnnetud, tehke nüüd nii, 
+Similarity: 0.9333333333333331
+
+Generated: ja teie elu muutub igaveseks? Ei, sellist asja ei saa öelda, 
+Subtitle: ja teie elu muutub igaveseks. - Ei, sellist asja ei saa öelda, 
+Similarity: 1.0
+
+Generated: sellepärast et iga inimene peabki oma teed käima 
+Subtitle: iga inimene peabki oma teed käima 
+Similarity: 0.8660254037844388
+
+Generated: ja tal peabki see oma oma rada ja oma õppetunnid peavad olema tehtud. 
+Subtitle: ja tal peabki olema oma rada ja oma õppetunnid olema tehtud. 
+Similarity: 0.9360565811300741
+
+Generated: Ja see nüüd, kuidas meile need elu õppetunnid lapsepõlves üle antakse, see on väga erinev, 
+Subtitle: On väga erinev, kuidas meile elu õppetunnid lapsepõlves üle antakse. 
+Similarity: 0.7483314773547883
+
+Generated: et võiks arvata, et mõnel on raske kodu või oli alkohoolikute pere 
+Subtitle: Võiks arvata, et mõnel oli raske kodu, alkohoolikute pere, 
+Similarity: 0.8728715609439696
+
+Generated: seal tegelikult võis olla tihtipeale armastust rohkem. 
+Subtitle: aga seal võis olla armastust rohkem. 
+Similarity: 0.7715167498104596
+
+Generated: No see ei ole alati niimoodi, loomulikult 
+Subtitle: See ei ole loomulikult alati niimoodi. 
+Similarity: 0.9258200997725514
+
+Generated: ja, ja mõne akadeemiku kodus võib-olla võis olla hoopis jahedam õhkkond, 
+Subtitle: Mõne akadeemiku kodus võis olla hoopis jahedam õhkkond. 
+Similarity: 0.7844645405527361
+
+Generated: et näiteks laste hülgamine ei ole ainult nende mahajätmine või lastekodusse viimine, 
+Subtitle: Laste hülgamine ei ole ainult nende mahajätmine või lastekodusse viimine. 
+Similarity: 0.9128709291752771
+
+Generated: laste hülgamine on ka lihtsalt nendega mittetegelemine nende 
+Subtitle: Laste hülgamine on lihtsalt nendega mitte tegelemine, 
+Similarity: 0.7627700713964739
+
+Generated: vastu jahe olemine. Lapsed, isa, tähelepanu, ehk armastust. 
+Subtitle: nende vastu jahe olemine, kui lapsed ei saa tähelepanu ehk armastust - 
+Similarity: 0.6614378277661476
+
+Generated: See on, see on tegelikult tohutu tragöödia, 
+Subtitle: see on tegelikult tohutu tragöödia. 
+Similarity: 0.9583727150068315
+
+Generated: mida sa paned lapsevanemad südamele, 
+Subtitle: Mida sa paned lapsevanematele südamele? 
+Similarity: 0.9999999999999998
+
+Generated: kuidas kasvatada oma laps, et ta tulevikus oleks õnnelik 
+Subtitle: Kuidas kasvatada oma last nii, et ta tulevikus oleks õnnelik? 
+Similarity: 0.9486832980505138
+
+Generated: laps tahab hästi palju tähelepanu ja hästi palju füüsilist 
+Subtitle: Laps tahab hästi palju tähelepanu, hästi palju füüsilist kontakti - 
+Similarity: 0.9230769230769231
+
+Generated: komp, akti, hellitusi ja hoidmist ja rohkem polegi vaja. 
+Subtitle: hellitust ja hoidmist -, rohkem ei olegi tegelikult vaja. 
+Similarity: 0.7462025072446364
+
+Generated: Ja noh, kuule on hästi palju muidugi neist igasuguste piiride seadmisest 
+Subtitle: Kuulen hästi palju igasugustest piiride seadmistest. 
+Similarity: 0.545544725589981
+
+Generated: ja lapsevanemad tegelikult ei pea isegi õpetama niivõrd palju last. 
+Subtitle: Lapsevanemad isegi ei pea last niivõrd õpetama, 
+Similarity: 0.8366600265340756
+
+Generated: Sest noh, lapsed lähevad maailma, 
+Subtitle: sest lapsed lähevad maailma, 
+Similarity: 0.8944271909999159
+
+Generated: kus maailma õpetab neid neile tohutult palju teadmisi, 
+Subtitle: maailm õpetab neile tohutult uusi teadmisi. 
+Similarity: 0.7216878364870323
+
+Generated: enamus teadmisi, mis lapsevanematel üldse ei olegi 
+Subtitle: Enamust neist teadmistest lapsevanematel üldse ei olegi. 
+Similarity: 0.7171371656006362
+
+Generated: laps õpib sellist hädapärast ellujäämist automaatselt vanematelt 
+Subtitle: Laps õpib häda pärast ellu jäämist automaatselt vanematelt. 
+Similarity: 0.5345224838248487
+
+Generated: seda kuidagi nagu ekstra õpetada ei ole vaja. 
+Subtitle: Seda õpetada ei ole vaja. 
+Similarity: 0.6741998624632421
+
+Generated: Aga mida lapsevanem saab anda, 
+Subtitle: Mida lapsevanem saab anda, 
+Similarity: 0.9354143466934852
+
+Generated: mida keegi teine enam hiljem asendada ei saa? 
+Subtitle: mida keegi teine hiljem enam asendada ei saa, 
+Similarity: 1.0000000000000002
+
+Generated: On helluse lähedus ja eelkõige füüsiline lähedus 
+Subtitle: on hellus ja lähedus - eelkõige füüsiline lähedus. 
+Similarity: 1.0000000000000002
+
+Generated: ja ja, ja naise ema roll selles mõttes on väga lihtne lihtsalt kaissu, kaissu, kaissu 
+Subtitle: Ema ja naise roll on võtta kaissu, kaissu, kaissu... 
+Similarity: 0.8176298175326768
+
+Generated: asju see, mis hiljem sõnadega tuleb, see ei olegi enam nii tähtis. 
+Subtitle: See, mis hiljem sõnadega tuleb, ei olegi enam nii tähtis. 
+Similarity: 0.9417419115948374
+
+Generated: Et hästi palju, lähedaste, hästi palju tähelepanu. 
+Subtitle: Hästi palju lähedust ja hästi palju tähelepanu. 
+Similarity: 0.8181818181818182
+
+Generated: Seda on laste jaoks kõige olulisem, kõige olulisem asi üldse. 
+Subtitle: See on laste jaoks kõige olulisem. - See on kõige olulisem asi üldse. 
+Similarity: 0.9432422182837985
+
+Generated: No nii kui me sellest lapsepõlvest nagu tuleme edasi, 
+Subtitle: Kui me lapsepõlvest tuleme edasi, 
+Similarity: 0.7499999999999999
+
+Generated: võib-olla ei ole kõik elu kooselud ka 
+Subtitle: võib-olla ei ole ka kõik kooselud õnnelikud, 
+Similarity: 0.9
+
+Generated: nii õnnelikult, kuidas nagu nendest ma tea probleemidest aru saada 
+Subtitle: kuidas probleemidest aru saada? 
+Similarity: 0.5547001962252291
+
+Generated: või mis küsimusi nagu endalt tuleb küsida, 
+Subtitle: Mis küsimusi endalt tuleb küsida, 
+Similarity: 0.7844645405527361
+
+Generated: et aru saada, kus suunas ma tegelikult pean liikuma hakkama, 
+Subtitle: et teada saada, mis suunas peab liikuma hakkama? 
+Similarity: 0.4767312946227962
+
+Generated: seal tuleks vaadata seda, kas see inimene mulle tegelikult ka meeldib 
+Subtitle: Seal tuleb vaadata, kas see inimene tegelikult ka meeldib. 
+Similarity: 0.9245003270420485
+
+Generated: ja kas ta on, ütleme niimoodi, et me ta meeldib mulle, aga me võib-olla kakleme ja me ei saa hästi läbi, 
+Subtitle: Kui ta meeldib, aga te kaklete palju ja ei saa väga hästi läbi, 
+Similarity: 0.43481317827315213
+
+Generated: siis on tegelikult päris palju lootust. 
+Subtitle: on päris palju lootust. 
+Similarity: 0.8819171036881968
+
+Generated: Lootust ei ole siis, kui ei taha enam, kui inimene ei meeldi, 
+Subtitle: Lootust ei ole siis, kui ei taha enam, kui inimene ei meeldi, 
+Similarity: 0.9999999999999998
+
+Generated: käib närvidele, vastik. 
+Subtitle: käib närvidele, on vastik. 
+Similarity: 0.6546536707079772
+
+Generated: Vot seal on kontrollküsimused ka 
+Subtitle: Mul on kontrollküsimused ka naistele ja meestele - 
+Similarity: 0.6708203932499369
+
+Generated: naistele-meestele. Kas see suhe, mis mul parasjagu käes on, kas sellel on 
+Subtitle: kas see suhe, mis parasjagu on, 
+Similarity: 0.904534033733291
+
+Generated: lootust või kas sellel on potentsiaali, 
+Subtitle: kas sellel on lootust? Kas sellel on potentsiaali? 
+Similarity: 0.9152086306448587
+
+Generated: et needki nendele küsimustele tuleks väga ausalt vastata? 
+Subtitle: Nendele küsimustele tuleks väga ausalt vastata. 
+Similarity: 0.903696114115064
+
+Generated: Ja kui needsamad ikkagi ei vastuse, siis tuleks minna teist teed? 
+Subtitle: Kui need saavad eitava vastuse, tuleks minna teist teed. 
+Similarity: 0.7514691493021793
+
+Generated: Lihtsalt seal ei ole mõtet, 
+Subtitle: Lihtsalt sel ei ole mõtet. 
+Similarity: 0.7999999999999999
+
+Generated: me peame elama oma elu, mitte kellegi teise elu. 
+Subtitle: Me peame elama oma elu, mitte kellegi teise elu. 
+Similarity: 1.0000000000000002
+
+Generated: Me tahame sellist olukorda, 
+Subtitle: Me tahame sellist olukorda, 
+Similarity: 1.0
+
+Generated: kus me tahame selle inimesega koos olla 
+Subtitle: kus me tahame selle inimesega koos olla, on ju? 
+Similarity: 0.8504200642707611
+
+Generated: aine. Ja veel oma mehega varsti 21 aastat koos ja ma 
+Subtitle: Ma olen oma mehega varsti 21 aastat koos 
+Similarity: 0.686406472983644
+
+Generated: ei tea mitte nagu lihtsalt tahan olla temaga koos kogu aeg ja 
+Subtitle: ja ma lihtsalt tahan  kogu aeg olla temaga koos. 
+Similarity: 0.6885303726590962
+
+Generated: kui see ei ole kohustus, 
+Subtitle: See ei ole kohustus. 
+Similarity: 0.7071067811865475
+
+Generated: minu kogemus on see, 
+Subtitle: Minu kogemus on see, 
+Similarity: 0.9999999999999998
+
+Generated: et keegi ei lähe kergekäeliselt lahku, 
+Subtitle: et keegi ei lähe kergekäeliselt lahku, 
+Similarity: 1.0000000000000002
+
+Generated: vastupidiselt arvamusele, see on alati tohutu traumale, maetiale, kui, kui mahajäetuna. 
+Subtitle: see on alati tohutu trauma nii mahajätjale kui mahajäetule. 
+Similarity: 0.829515062006253
+
+Generated: Ja need on, ei ole üldse kergelt ka tänapäeval, kuidas käib 
+Subtitle: Kuidas käib töö suhetega? 
+Similarity: 0.23570226039551587
+
+Generated: töösuhtega? Et noh, ma, noh, mul on siis nüüd, mis siis tähendab, et läheme kraavi kaevama koos või 
+Subtitle: Mida see siis tähendab, läheme koos kraavi kaevama või? 
+Similarity: 0.6123724356957945
+
+Generated: nõustaja juurde uus töö juurde. 
+Subtitle: Nõustaja juurde? - Nõustaja juurde. 
+Similarity: 0.8017837257372731
+
+Generated: Et aga üldiselt mulle öeldakse siis niimoodi töösuhted ja tähendab 
+Subtitle: Üldiselt mulle öeldakse, et töö suhtega tähendab, 
+Similarity: 0.5976143046671968
+
+Generated: seda, et sa pead olema ta vastu viisakas, tore, aus, aus kingitusi tooma, talle 
+Subtitle: et sa pead olema tema vastu viisakas, tore, aus, tooma talle kingitusi, 
+Similarity: 0.944911182523068
+
+Generated: kena olema, aitama kas siis muidu ei pea või 
+Subtitle: kena olema, aitama teda... Kas siis muidu ei pea või? 
+Similarity: 0.9486832980505138
+
+Generated: et kas ei ole mitte elementaarne viisakus, millest me räägime. 
+Subtitle: Kas see ei ole elementaarne viisakus, millest me räägime? 
+Similarity: 0.8807048459279794
+
+Generated: Kui see elementaarne viisakus kaob suhtest ära, 
+Subtitle: Kui see elementaarne viisakus kaob suhtest ära, 
+Similarity: 1.0
+
+Generated: siis tegelikult suhe ongi kadunud, siis hakkavadki kohe jamad 
+Subtitle: suhe ongi kadunud, siis tulevadki kohe jamad. 
+Similarity: 0.9088932591463856
+
+Generated: paarid, kes on pikaaegselt õnnelikus suhtes, 
+Subtitle: Paaridel, kes on pikaaegselt õnnelikus suhtes, 
+Similarity: 1.0000000000000002
+
+Generated: neil on säilinud elementaarne viisakus teise inimese vastu ja austus, 
+Subtitle: on säilinud elementaarne viisakus teise vastu ja austus. 
+Similarity: 0.959166304662544
+
+Generated: see on tegelikult pikaaegse suhte 
+Subtitle: See on tegelikult pikaaegse suhte põhi. 
+Similarity: 0.9428090415820632
+
+Generated: selline põhisee on tegelikult kõik, mis seal vaja on, on austus, lugupidamine, respekt. 
+Subtitle: Kõik, mis vaja on, on lugupidamine, austus, respekt. 
+Similarity: 0.9434563530497264
+
+Generated: Vaadake, kui suhted lähevad, hakkavad halvaks 
+Subtitle: Vaadake, kui suhted hakkavad halvaks minema, 
+Similarity: 1.0
+
+Generated: minema, siis viisakus kaob kohe ära, see on esimene asi, mis ära kaob. 
+Subtitle: siis viisakus kaob kohe ära, see on esimene asi, mis ära kaob. 
+Similarity: 0.9780192938436515
+
+Generated: Ja kas, kui suhtes olemine on töö tegemine, 
+Subtitle: Kui suhtes olemine on töö tegemine, 
+Similarity: 0.9258200997725516
+
+Generated: siis tänan ei siis ma ei tahaks, 
+Subtitle: siis tänan ei, ma ei tahakski seal olla. 
+Similarity: 0.8581163303210332
+
+Generated: kes arvavad, et me iga inimesega, kelle me kokku saame, igal 
+Subtitle: Iga inimesega, kellega me kokku saame, 
+Similarity: 0.9284766908852593
+
+Generated: juhul pidime kokku saama seal vigu ei 
+Subtitle: igal juhul pidime kokku saama, seal vigu ei teki. 
+Similarity: 0.8819171036881968
+
+Generated: tegi. Nii et kui meeldida ja ruttu ära saab tulla, järgmine asi, 
+Subtitle: Kui ei meeldi, tehke ruttu ära, saab tulla järgmine asi. 
+Similarity: 0.8593378488473193
+
+Generated: et kannatused on küll sellised, väga toredad asjad, 
+Subtitle: Kannatused on küll väga toredad asjad, 
+Similarity: 0.9045340337332909
+
+Generated: aga nad ei ole ette nähtud kaua kestma. 
+Subtitle: aga nad ei ole ette nähtud kaua kestma. 
+Similarity: 1.0000000000000002
+
+Generated: Nad on nagu sellised meil nagu ehmatajad 
+Subtitle: Nad on nagu sellised ehmatajad. 
+Similarity: 0.9231861823449956
+
+Generated: või ütleme niimoodi, et nagu läksid vastu kuuma pliiti, et ruttu mine mujale, 
+Subtitle: Läksid nagu vastu kuuma pliiti, mine mujale, 
+Similarity: 0.7745966692414835
+
+Generated: see pole sinu tee, et otsi otsi kohta, kus, kus oleks hästi mugav. 
+Subtitle: see pole sinu tee, otsi kohta, kus oleks hästi mugav. 
+Similarity: 0.9271726499455307
+
+Generated: Et vaat seda ma küll, aga kogu aeg, 
+Subtitle: Seda ma kuulen ka kogu aeg, 
+Similarity: 0.5773502691896258
+
+Generated: et astu välja oma mugavustsoonist, et vaat siis läheb elu õnnelikuks. 
+Subtitle: et astu välja oma mugavustsoonist, siis läheb elu õnnelikuks. 
+Similarity: 0.9245003270420485
+
+Generated: No see on mul alati hästi nalja 
+Subtitle: See on mulle alati hästi nalja teinud. 
+Similarity: 0.6529286250990105
+
+Generated: pakkunud, et et kui ma panen näiteks sulle kinga sisse knopka, siis suvel elu väga ebamugav. 
+Subtitle: Kui ma panen sulle kinga sisse knopka, siis sinu elu on väga ebamugav, 
+Similarity: 0.5976143046671968
+
+Generated: Ja kuidas see peaks sind õnnelikuks tegema 
+Subtitle: kuidas see peaks sind õnnelikuks tegema? 
+Similarity: 0.9258200997725514
+
+Generated: või midagi, et eriti suhtes just nimelt otsige oma mugavustsooni, 
+Subtitle: Eriti suhetes otsige oma mugavustsooni, 
+Similarity: 0.4961389383568338
+
+Generated: et oleks soe, pehme, huvitav ja lõbus. 
+Subtitle: et oleks soe, pehme, huvitav ja lõbus, 
+Similarity: 0.9999999999999998
+
+Generated: Ja vaadake, kui fun põnevaks ja elu läheb, 
+Subtitle: ja vaadake, kui põnevaks elu läheb. 
+Similarity: 0.9245003270420485
+
+Generated: otsige, kus on mugav 
+Subtitle: Otsige, kus on mugav. 
+Similarity: 0.9999999999999998
+
+Generated: millest me peame siis alustama? 
+Subtitle: Millest me peame siis alustama? 
+Similarity: 0.9999999999999998
+
+Generated: Julgema teha seda, mida ma tegelikult tahan, 
+Subtitle: Julgema teha seda, mida tegelikult tahate. 
+Similarity: 0.9486832980505138
+
+Generated: nagu seda, mis ma tegelikult tahan, mida mu süda tegelikult ütleb, et seda tegelikult on vaja teha ka. 
+Subtitle: Seda, mida süda tegelikult ütleb, on vaja ikka teha ka. 
+Similarity: 0.7938566201357355
+
+Generated: Kui ikkagi taha enam, siis on vaja minna mujale, 
+Subtitle: Kui ei taha enam, siis on vaja minna mujale. 
+Similarity: 0.9333333333333331
+
+Generated: kui ikkagi õudselt tahan, 
+Subtitle: Kui ma ikkagi õudselt tahan, 
+Similarity: 0.9354143466934852
+
+Generated: siis on vaja seda välja öelda ja teha seda, mida ma ikkagi tahan. 
+Subtitle: siis on vaja see välja öelda ja teha, mida ma ikkagi tahan. 
+Similarity: 0.9772545497599154
+
+Generated: Need on need kõige õnnelikumad teed, 
+Subtitle: Need on kõige õnnelikumad teed. 
+Similarity: 0.9594032236002468
+
+Generated: ei ükski kohustusega ega selline, et peab minema Deivi õnneni 
+Subtitle: Ükski kohustus ega selline "peab minema" tee ei vii õnneni. 
+Similarity: 0.8153742483272115
+
+Generated: ja, ja palju, noh, kuulake seda tohma, pean ennast armastama, 
+Subtitle: Palju kuulen ka seda, et ma pean ennast armastama, 
+Similarity: 0.4811252243246881
+
+Generated: vaid siis te hakkate siis hakkavad teised ka Sind armastama. 
+Subtitle: siis hakkavad teised ka mind armastama. 
+Similarity: 0.7647191129018724
+
+Generated: Armastust on meil küll võimalik igal hetkel ära tunda 
+Subtitle: Armastust on meil võimalik igal hetkel ära tunda, 
+Similarity: 0.9574271077563382
+
+Generated: ka kõige valusamalt kõige katkisemal hetkel tunnetada ära armastuse, 
+Subtitle: ka kõige valusamal, kõige katkisemal hetkel tunnete te ära armastuse, 
+Similarity: 0.7833494518006403
+
+Generated: no see on ju, see on ju kõige loogilisem asi, 
+Subtitle: see on ju kõige loogilisem asi. 
+Similarity: 0.9449111825230678
+
+Generated: eks, et see, kuidas siis nüüd ennast armastada, 
+Subtitle: Kuidas ennast armastada? 
+Similarity: 0.6123724356957945
+
+Generated: ma arvan, et ma ei oska seda täielikult elu lõpuni, 
+Subtitle: Ma arvan, et ma ei oska seda täielikult elu lõpuni, 
+Similarity: 1.0000000000000002
+
+Generated: et mis siis alles siis, no mul lootust saada armast vaata kas või 
+Subtitle: kas alles siis on mul lootust saada armastatuks või? 
+Similarity: 0.5443310539518175
+
+Generated: kuidas see elu armastust ära tunda siis ikkagi. Kuidas elu armastust ära tunda. 
+Subtitle: Kuidas elu armastust ära tunda? - Kuidas elu armastust ära tunda... 
+Similarity: 0.9325048082403138
+
+Generated: No see on juba nagu noh, see on nagu segi trikiga asi, et see sõltub nagu meie 
+Subtitle: See on juba trikiga küsimus. See sõltub meie inimhinge tarkusest. 
+Similarity: 0.5554920598635308
+
+Generated: seal tõesti nagu sellise inimhingetarkusest. Et ütleme siis näiteks niimoodi, 
+Subtitle: Ütleme näiteks niimoodi, 
+Similarity: 0.4803844614152615
+
+Generated: eks ole, näiteks naised soovivad niimoodi, et kui ma küsin, miks sa mees tahad, eks ole, siis nad 
+Subtitle: naised soovivad, kui ma küsin, miks nad meest tahavad, 
+Similarity: 0.7319250547113998
+
+Generated: oh, ma tahan oma ellu armastust. 
+Subtitle: nad ütlevad, et tahavad oma ellu armastust. 
+Similarity: 0.6172133998483676
+
+Generated: Aga kujuta ette, et naisel on näiteks laps ja laps peaks seda soovi kuulma. 
+Subtitle: Kujuta ette, et naisel on laps ja laps peaks seda soovi kuulma? 
+Similarity: 0.9459053029269171
+
+Generated: Minul tõmbaks küll süda valust kokku, kui ma see laps oleks, 
+Subtitle: Minul tõmbuks küll süda kokku, kui ma see laps oleks. 
+Similarity: 0.9036961141150638
+
+Generated: et kas laps juba ei ole siis armastus tema elus 
+Subtitle: Kas see laps juba ei ole armastus tema elus? 
+Similarity: 0.8432740427115678
+
+Generated: või on ju, et väga paljud soovid on täidetud, inimesed ei märka neid. 
+Subtitle: Väga paljud soovid on täidetud, inimesed ei märka neid. 
+Similarity: 0.9092412093166349
+
+Generated: Ja, ja meil on nii palju imesid juba ümberringi, mis on täidetud, neid ka ei märka, et kui me ei märka 
+Subtitle: Meil on nii palju imesid ümberringi, mida me ka ei märka. 
+Similarity: 0.7530940414109724
+
+Generated: seda, mis on 
+Subtitle: Kui me ei märka seda, mis on... 
+Similarity: 0.75
+
+Generated: ütleme siis piltlikult öeldes niimoodi, et, et meie süles istub üks magnet, 
+Subtitle: Piltlikult öeldes istub meie süles üks magnet, 
+Similarity: 0.7980238751210128
+
+Generated: mis see siis iganes on see meie uskumus, see on meie iseenesestmõistetavus 
+Subtitle: see on meie uskumus, iseenesestmõistetavus. 
+Similarity: 0.8718572905786446
+
+Generated: ja see tõmbab aina lisa. 
+Subtitle: See tõmbab aina lisa. 
+Similarity: 0.8944271909999159
+
+Generated: Kui meie iseenesestmõistetavus on see, 
+Subtitle: Kui meie iseenesestmõistetavus on see, 
+Similarity: 1.0
+
+Generated: et mehed on sead, naised on, ma ei tea, maod või, või manipuleerijad, eks ole, siis see tõmbab nüüd kogu aeg lisa. 
+Subtitle: et mehed on sead ja naised on maod, siis see tõmbabki lisa. 
+Similarity: 0.8421519210665191
+
+Generated: Aga kui me elus on magnet, et inimesed on huvitavad, 
+Subtitle: Kui meie elus on magnet, et inimesed on huvitavad, 
+Similarity: 0.9813067629253164
+
+Generated: kõik on hästi põnev, siis see tõmbab aina lisa. 
+Subtitle: kõik on hästi põnev, siis see tõmbab hästi lisa. 
+Similarity: 0.9393364366277241
+
+Generated: Et meil on lihtsalt magnet sülest vaja ära vahetada 
+Subtitle: Meil on magnet sülest vaja ära vahetada 
+Similarity: 0.912870929175277
+
+Generated: ja see hakkab tõmbama lisa, 
+Subtitle: ja see hakkab tõmbama lisa. 
+Similarity: 1.0
+
+Generated: ehk siis nägema neid huvitavaid asju, mis maailmas juba on, 
+Subtitle: Nägema neid huvitavaid asju, mis maailmas juba on, 
+Similarity: 0.9354143466934854
+
+Generated: see hakkab tõmbama lisa. 
+Subtitle: see hakkab tõmbama lisa. 
+Similarity: 1.0
+
+Generated: Me ei saa muidugi ignoreerida seda, kui okas on sõrmes, 
+Subtitle: Me ei saa muidugi ignoreerida seda, kui okas on sõrmes, 
+Similarity: 1.0
+
+Generated: eks ole, aga tõmbame selle välja, ärme jää sinna kauaks niimoodi vaatama, 
+Subtitle: aga tõmbame selle välja, ärme jää sinna kauaks vaatama, 
+Similarity: 0.8660254037844386
+
+Generated: et kui ilusasti ta nüüd mädanema hakkab või midagi, 
+Subtitle: kui ilusasti ta mädanema hakkab või midagi... 
+Similarity: 0.912870929175277
+
+Generated: aga inimesed teevad see lõpmatu analüüs 
+Subtitle: Inimesed teevad lõpmatut analüüsi selle kohta, 
+Similarity: 0.8333333333333335
+
+Generated: selle üle, et mis läks valesti ja kuidas teha. 
+Subtitle: mis läks valesti ja kuidas teha. 
+Similarity: 0.8660254037844387
+
+Generated: Seda muidugi ei ole vaja teha. 
+Subtitle: Seda ei ole vaja teha. 
+Similarity: 0.912870929175277
+
+Generated: Kelle jaoks sa kirjutasid selle raamatu. 
+Subtitle: Kelle jaoks sa kirjutasid selle raamatu? 
+Similarity: 0.9999999999999999
+
+Generated: No muidugi vist tore oleks öelda, et iseenda jaoks eelkõige 
+Subtitle: Tore oleks öelda, et iseenda jaoks eelkõige, 
+Similarity: 0.8366600265340756
+
+Generated: seda raamatute kirjutamine käib. 
+Subtitle: nagu raamatute kirjutamine käib. 
+Similarity: 0.5669467095138407
+
+Generated: Aga ma ise pean oma sihtrühmaks sellist kolmekümnendates neljakümnendates naisi, kes mehi otsivad. 
+Subtitle: Ise pean sihtrühmaks 30-40ndates naisi, kes mehi otsivad. 
+Similarity: 0.7608859102526822
+
+Generated: Ja neid on väga palju, õnneks 
+Subtitle: Neid on õnneks väga palju. 
+Similarity: 0.9428090415820632
+
+Generated: õnneks minu õnneks mul tööd 
+Subtitle: Õnneks? - Minu õnneks. Mul tööd jätkub. 
+Similarity: 0.9486832980505138
+
+Generated: jätkab. Nii et see on nagu siis mehe otsimise käsiraamat, 
+Subtitle: See on siis mehe otsimise käsiraamat? 
+Similarity: 0.7499999999999999
+
+Generated: ma saan aru, et äkki peaks järgmise kirjutama otsimise käsiraamat. 
+Subtitle: Äkki peaks järgmiseks kirjutama "Mehe otsimise käsiraamatu"? 
+Similarity: 0.7171371656006362
+
+Generated: Et noh, sellega on jah see häda, et ega seal garantiisid ei ole, 
+Subtitle: Sellega on see häda, et garantiisid ei ole. 
+Similarity: 0.891132788679007
+
+Generated: et noh, see on küll imelik, et nad ei leia, 
+Subtitle: See on küll imelik, et nad ei leia, 
+Similarity: 0.9341987329938275
+
+Generated: sellepärast et mehed ja naised on maailmas 
+Subtitle: sest mehi ja naisi on siin maailmas ikka pooleks, 
+Similarity: 0.7302967433402217
+
+Generated: tehtud ikkagi enam-vähem pooleks, nii et igaühele peaks jaguma. 
+Subtitle: igaühele peaks jaguma. 
+Similarity: 0.40824829046386313
+
+Generated: Niisiis, kes tahab põhjalikumalt veel põhjalikumalt nendel teemadel lugeda 
+Subtitle: Niisiis, kes tahab põhjalikumalt nendel teemadel lugeda 
+Similarity: 0.9296696802013684
+
+Generated: ja mõtiskleda, siis Tiina raamat on selleks abiks. 
+Subtitle: ja mõtiskleda, siis Tiina raamat on abiks. 
+Similarity: 0.9534625892455924
+
+Generated: Tere, aitäh. Mul on hea meel teada olla, oli, oli rõõm kohtuda 
+Subtitle: Aitäh, mul oli nii hea meel siia tulla. - Oli rõõm kohtuda! 
+Similarity: 0.7724872793364282
+
+Generated: ja on rõõm, et olete olnud televiisorite ees, 
+Subtitle: On rõõm, et te olete olnud televiisorite ees, 
+Similarity: 0.9666666666666665
+
+Generated: ilusat pühapäeva, aga head uut nädalat 
+Subtitle: ilusat pühapäeva, ilusat uut nädalat 
+Similarity: 0.7715167498104596
+
+Generated: ja loodetavasti uuel pühapäeval kell 10 olete teie jälle seal 
+Subtitle: ja loodetavasti järgmisel pühapäeval kell 10 olete te jälle seal 
+Similarity: 0.9000000000000001
+
+Generated: ja meie jälle siin aitäh vaatamast. 
+Subtitle: ja meie jälle siin, aitäh vaatamast! 
+Similarity: 1.0000000000000002
+
+Generated: CBS puudu ilma täidet, et päikese 
+Subtitle: Sügis uduilmadega päike väsind silmadega 
+Similarity: 0.1690308509457033
+
+Generated: käes ringsõidud omadega vaatab nukralt 
+Subtitle: vaatab nukralt maha pilvedesse peidab end 
+Similarity: 0.36514837167011077
+
+Generated: omal ajal milledes Brina veel. Läti Lynni üks ei keegi, 
+Subtitle: Kinni uks, ei keegi sega istun kambris enesega 
+Similarity: 0.1889822365046136
+
+Generated: seega istung amuuri seire seega mure meeli vaata 
+Subtitle: muremeeli vaatan põlevasse tulle 
+Similarity: 0.15811388300841897
+
+Generated: taevas küll. Praegu veel on mälestuste, 
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.13608276348795434
+
+Generated: näed, siin on neil kokku 
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.26726124191242434
+
+Generated: empudeks ja teineteise järel kaminasse 
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.6708203932499369
+
+Generated: ajanurme, 
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.4082482904638631
+
+Generated: kaalutu, raskustele, mis ei lähe kokku 
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.1259881576697424
+
+Generated: ka impudeks. Märt Ridala meetrine tee sai, neelas. 
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.0
+
+Generated: Suvine reis, suits. 
+Subtitle: Suhinal neist suitsu imbub niisked, närtsind lehekimbud 
+Similarity: 0.2182178902359924
+
+Generated: Mis te näete siin kinni ka Šveits, siis saad. Sagedane 
+Subtitle: kas neid sügissadu sagedane pesi? 
+Similarity: 0.12403473458920845
+
+Generated: Eesti-Läti sa pilgu all. Oleksid sa siin 
+Subtitle: Veel teeb pisar pilgu halliks oleksid sa siin, mu kallis 
+Similarity: 0.5270462766947299
+
+Generated: nukrary riigis teeniksid, kas teil? Mis veel silmas, 
+Subtitle: pühiksid ka selle, mis veel silmas särab! 
+Similarity: 0.5720775535473555
+
+Generated: härra? Ajal armee kaudu 
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.0
+
+Generated: mälestuslugu impudeks 
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.0
+
+Generated: Prince'i Tallinnasse 
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.0
+
+Generated: aja Nurme kaldun nende mälestuste 
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.18257418583505539
+
+Generated: närtsinud läbi viima kokku kogu tippudest. Sõidab ta, 
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.18333969940564224
+
+Generated: tegi, sai ta. 
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.0
+
+Generated:  
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.0
+
+Generated:  
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.0
+
+Generated:  
+Subtitle: Ajanurme koltund ehe mälestuste närtsind lehed 
+Similarity: 0.0
+
+Generated:  
+Subtitle: neid ma kokku kogun kimpudeks nad köidan 
+Similarity: 0.0
+
+Generated:  
+Subtitle: teineteise järel kaminasse heidan 
+Similarity: 0.0
+
+Mean similarity: 0.7070744251130219
