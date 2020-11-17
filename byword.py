@@ -1,59 +1,20 @@
 import json
-from typing import List, Dict, Tuple
+from typing import List, Dict
 
 import webvtt
 
-from sections import SubtitlePair, TranscriptSection, SubtitlePairWords
+from sections import SubtitlePairWords
 
-import string
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import CountVectorizer
-
-from estnltk import Text
-from estnltk.taggers import VabamorfTagger
+# from estnltk.taggers import VabamorfTagger
 import os
 
 import numpy as np
 
-import Levenshtein
-
-
-def clean_string(text):
-    text = text.replace('\n', " ")
-    return ''.join([word for word in text if word not in string.punctuation]).lower()
-
-
-def is_word_in_caption(capt: webvtt.Caption, word_dict: dict) -> bool:
-    return capt.end_in_seconds > word_dict['end']
-
-
-def get_similarity(this_caption: webvtt.Caption, word_dict: List[Dict]) -> (float, float):
-    real_lemmas = create_lemmatized_string(this_caption.text)
-
-    generated = ' '.join([x['word'] for x in word_dict])
-    gen_lemmas = create_lemmatized_string(generated)
-    levenshtein_distance = Levenshtein.distance(real_lemmas, gen_lemmas)
-    arr = [real_lemmas, gen_lemmas]
-
-    vectorizer = CountVectorizer().fit_transform(arr)
-    vectors = vectorizer.toarray()
-
-    vec1 = vectors[0].reshape(1, -1)
-    vec2 = vectors[1].reshape(1, -1)
-
-    return cosine_similarity(vec1, vec2)[0][0], levenshtein_distance
-
-
-def create_lemmatized_string(generated):
-    generated = Text(clean_string(generated))
-    generated.tag_layer(['morph_analysis'])
-    gen_lemmas = [item[0] for sublist in generated.lemma.amb_attr_tuple_list for item in sublist]
-    gen_lemmas = ' '.join(gen_lemmas)
-    return gen_lemmas
+from utility import is_word_in_caption, get_similarity
 
 
 def generate_results(pairs: List[SubtitlePairWords], name: str):
-    result_file_name = f'{name}-result-try-more-or-less-levenshtein.txt'
+    result_file_name = f'{name}-result-sorted-lemmas.txt'
     if os.path.exists(result_file_name):
         os.remove(result_file_name)
     with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
@@ -132,6 +93,12 @@ def try_more_or_less_words(caption, i, similarity, words, words_in_captions, use
                 similarity = similarity_one_less_word
                 return try_more_or_less_words(caption, i, similarity, words, words_in_captions, use_levishtein)
         return i, similarity, words_in_captions
+
+
+def calculate_penalty(first: str, second: str) -> float:
+    difference = abs(first.__len__() - second.__len__())
+    max_str_len = max(first.__len__(), second.__len__())
+    return (max_str_len - difference) / max_str_len
 
 
 if __name__ == '__main__':
