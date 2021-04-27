@@ -3,6 +3,7 @@ from webvtt import Caption
 import string
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from json import JSONEncoder
 
 
 def clean_string(text):
@@ -70,3 +71,16 @@ class SubtitlePairWords:
 
     def __repr__(self):
         return self.__str__()
+
+    def to_dict(self):
+        texts = self.get_texts()
+        return {
+            "similarity": self.similarity,
+            "generated": texts[0],
+            "subtitle": texts[1]
+        }
+
+
+class SubtitlePairWordsEncoder(JSONEncoder):
+    def default(self, o):
+        return o.to_dict()

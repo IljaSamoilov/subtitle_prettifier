@@ -1,10 +1,11 @@
 import json
 from typing import List, Dict, Tuple
+import os
 
 import webvtt
 import numpy as np
 
-from sections import SubtitlePair, TranscriptSection, SubtitlePairWords
+from sections import SubtitlePair, TranscriptSection, SubtitlePairWords, SubtitlePairWordsEncoder
 
 from utility import is_word_in_caption, get_similarity
 
@@ -42,11 +43,9 @@ def process_subtitles(file_name: str, use_levishtein=False) -> List[SubtitlePair
     return pairs
 
 
-if __name__ == '__main__':
-    name = 'suud-puhtaks-15'
-    pairs = process_subtitles(name, True)
+def moving_window(file_name):
+    pairs = process_subtitles(file_name, True)
     window_size = 3
-
     for i, pair in enumerate(pairs):
 
         if i <= (window_size // 2):
@@ -62,7 +61,7 @@ if __name__ == '__main__':
         windowed_array = pairs[start:end]
 
         total_diff = sum(x.similarity for x in windowed_array)
-        print(f'old diff {total_diff}')
+        # print(f'old diff {total_diff}')
 
         if pair.similarity < 2:
             continue
@@ -70,11 +69,11 @@ if __name__ == '__main__':
         if i == len(pairs) - 1:
             break
 
-        if len(pair.words) == 0 or len(pairs[i+1].words) == 0:
+        if len(pair.words) == 0 or len(pairs[i + 1].words) == 0:
             continue
 
         if i == 0:
-            print(pairs[0])
+            # print(pairs[0])
             this_pair = copy.deepcopy(pair)
 
             next_one = copy.deepcopy(pairs[i + 1])
@@ -87,13 +86,13 @@ if __name__ == '__main__':
 
             new_windowed_array = [this_pair, next_one, pairs[i + 2]]
             new_diff = sum(x.similarity for x in new_windowed_array)
-            print(f'new diff {new_diff}')
+            # print(f'new diff {new_diff}')
 
             if new_diff < total_diff:
                 pairs[i] = this_pair
                 pairs[i + 1] = next_one
         else:
-            print(pair)
+            # print(pair)
 
             this_pair = copy.deepcopy(pair)
 
@@ -107,7 +106,7 @@ if __name__ == '__main__':
 
             new_windowed_array = [pairs[i - 1], this_pair, next_one]
             new_diff = sum(x.similarity for x in new_windowed_array)
-            print(f'new diff {new_diff}')
+            # print(f'new diff {new_diff}')
 
             if new_diff < total_diff:
 
@@ -129,19 +128,31 @@ if __name__ == '__main__':
                     new_windowed_array = [pairs[i - 1], this_pair, next_one]
                     new_diff = sum(x.similarity for x in new_windowed_array)
 
-
                 pairs[i] = best_one
                 pairs[i + 1] = best_one_next
+    return pairs
 
 
+if __name__ == '__main__':
+    files_no_ext = set([os.path.splitext(f)[0] for f in os.listdir('data/')])
 
-    result_file_name = f'results/{name}-window-6-not-sorted.txt'
+    for file_name in files_no_ext:
+        if file_name.startswith("."):
+            continue
+        if not os.path.exists(f'data/{file_name}.json') or not os.path.exists(f'data/{file_name}.vtt'):
+            print(f"no file pair for {file_name}")
+            continue
+        try:
+            pairs = moving_window(file_name)
+            with open(f'training-data/{file_name}.json', 'w', encoding='utf-8') as f:
+                json.dump(pairs, f, ensure_ascii=False, indent=4, cls=SubtitlePairWordsEncoder)
+        except:
+            print(f"Error with {file_name}")
+    # result_file_name = f'results/{name}-window-6-not-sorted.txt'
 
-    with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
-        for pair in pairs:
-            result_file.write(pair.__str__())
-            result_file.write("\n\n")
-        mean = np.mean([item.similarity for item in pairs])
-        result_file.write(f"Mean similarity: {mean}")
-
-
+    # with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
+    #     for pair in pairs:
+    #         result_file.write(pair.__str__())
+    #         result_file.write("\n\n")
+    #     mean = np.mean([item.similarity for item in pairs])
+    #     result_file.write(f"Mean similarity: {mean}")
