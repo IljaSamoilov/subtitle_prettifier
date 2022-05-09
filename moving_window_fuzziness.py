@@ -7,12 +7,12 @@ import numpy as np
 
 from sections import SubtitlePair, TranscriptSection, SubtitlePairWords, SubtitlePairWordsEncoder
 
-from utility import is_word_in_caption, get_similarity
+from utility import is_word_in_caption, get_ratio
 
 import copy
 
 
-def process_subtitles(file_name: str, use_levishtein=True) -> List[SubtitlePairWords]:
+def process_subtitles(file_name: str, use_levishtein=False) -> List[SubtitlePairWords]:
     subtitles = webvtt.read(f'data/{file_name}.vtt')
 
     with open(f'data/{file_name}.json', encoding='utf-8', errors='ignore') as fh:
@@ -35,7 +35,7 @@ def process_subtitles(file_name: str, use_levishtein=True) -> List[SubtitlePairW
             words_in_captions.append(words[i])
             i += 1
 
-        cos_similarity, lev_distance = get_similarity(caption, words_in_captions)
+        cos_similarity, lev_distance = get_ratio(caption, words_in_captions)
         similarity = lev_distance if use_levishtein else cos_similarity
 
         pairs.append(SubtitlePairWords(words_in_captions, caption, similarity))
@@ -51,19 +51,19 @@ def check_forward(i: int, subtitle_pairs: List[SubtitlePairWords], total_diff: i
     this_pair.words.append(next_one.words[0])
     next_one.words.remove(next_one.words[0])
 
-    this_pair.similarity = get_similarity(this_pair.caption, this_pair.words)[1]
-    next_one.similarity = get_similarity(next_one.caption, next_one.words)[1]
+    this_pair.similarity = get_ratio(this_pair.caption, this_pair.words)[1]
+    next_one.similarity = get_ratio(next_one.caption, next_one.words)[1]
 
     new_windowed_array = [subtitle_pairs[i - 1], this_pair, next_one]
     new_diff = sum(x.similarity for x in new_windowed_array)
     # print(f'new diff {new_diff}')
 
-    if new_diff < total_diff:
+    if new_diff > total_diff:
         best_one = copy.deepcopy(this_pair)
         best_one_next = copy.deepcopy(next_one)
         diff_so_far = total_diff
 
-        while new_diff < diff_so_far:
+        while new_diff > diff_so_far:
             best_one = copy.deepcopy(this_pair)
             best_one_next = copy.deepcopy(next_one)
 
@@ -75,8 +75,8 @@ def check_forward(i: int, subtitle_pairs: List[SubtitlePairWords], total_diff: i
             this_pair.words.append(next_one.words[0])
             next_one.words.remove(next_one.words[0])
 
-            this_pair.similarity = get_similarity(this_pair.caption, this_pair.words)[1]
-            next_one.similarity = get_similarity(next_one.caption, next_one.words)[1]
+            this_pair.similarity = get_ratio(this_pair.caption, this_pair.words)[1]
+            next_one.similarity = get_ratio(next_one.caption, next_one.words)[1]
 
             new_windowed_array = [subtitle_pairs[i - 1], this_pair, next_one]
             new_diff = sum(x.similarity for x in new_windowed_array)
@@ -92,19 +92,19 @@ def check_backwards(i: int, subtitle_pairs: List[SubtitlePairWords], total_diff:
     next_one.words.insert(0, this_pair.words[-1])
     this_pair.words.remove(this_pair.words[-1])
 
-    this_pair.similarity = get_similarity(this_pair.caption, this_pair.words)[1]
-    next_one.similarity = get_similarity(next_one.caption, next_one.words)[1]
+    this_pair.similarity = get_ratio(this_pair.caption, this_pair.words)[1]
+    next_one.similarity = get_ratio(next_one.caption, next_one.words)[1]
 
     new_windowed_array = [subtitle_pairs[i - 1], this_pair, next_one]
     new_diff = sum(x.similarity for x in new_windowed_array)
     # print(f'new diff {new_diff}')
 
-    if new_diff < total_diff:
+    if new_diff > total_diff:
         best_one = copy.deepcopy(this_pair)
         best_one_next = copy.deepcopy(next_one)
         diff_so_far = total_diff
 
-        while new_diff < diff_so_far:
+        while new_diff > diff_so_far:
             best_one = copy.deepcopy(this_pair)
             best_one_next = copy.deepcopy(next_one)
 
@@ -116,16 +116,17 @@ def check_backwards(i: int, subtitle_pairs: List[SubtitlePairWords], total_diff:
             next_one.words.insert(0, this_pair.words[-1])
             this_pair.words.remove(this_pair.words[-1])
 
-            this_pair.similarity = get_similarity(this_pair.caption, this_pair.words)[1]
-            next_one.similarity = get_similarity(next_one.caption, next_one.words)[1]
+            this_pair.similarity = get_ratio(this_pair.caption, this_pair.words)[1]
+            next_one.similarity = get_ratio(next_one.caption, next_one.words)[1]
 
             new_windowed_array = [subtitle_pairs[i - 1], this_pair, next_one]
             new_diff = sum(x.similarity for x in new_windowed_array)
         return best_one, best_one_next, diff_so_far
     return subtitle_pairs[i], subtitle_pairs[i + 1], total_diff
 
+
 def moving_window(file_name):
-    pairs = process_subtitles(file_name, use_levishtein=True)
+    pairs = process_subtitles(file_name, True)
     window_size = 3
     for i, pair in enumerate(pairs):
 
@@ -162,8 +163,8 @@ def moving_window(file_name):
             forward_this_pair.words.append(forward_next_one.words[0])
             forward_next_one.words.remove(forward_next_one.words[0])
 
-            forward_this_pair.similarity = get_similarity(forward_this_pair.caption, forward_this_pair.words)[1]
-            forward_next_one.similarity = get_similarity(forward_next_one.caption, forward_next_one.words)[1]
+            forward_this_pair.similarity = get_ratio(forward_this_pair.caption, forward_this_pair.words)[1]
+            forward_next_one.similarity = get_ratio(forward_next_one.caption, forward_next_one.words)[1]
 
             forward_new_windowed_array = [forward_this_pair, forward_next_one]
             forward_new_diff = sum(x.similarity for x in forward_new_windowed_array)
@@ -175,17 +176,17 @@ def moving_window(file_name):
             backwards_next_one.words.insert(0, backwards_this_pair.words[-1])
             backwards_this_pair.words.remove(backwards_this_pair.words[-1])
 
-            backwards_this_pair.similarity = get_similarity(backwards_this_pair.caption, backwards_this_pair.words)[1]
-            backwards_next_one.similarity = get_similarity(backwards_next_one.caption, backwards_next_one.words)[1]
+            backwards_this_pair.similarity = get_ratio(backwards_this_pair.caption, backwards_this_pair.words)[1]
+            backwards_next_one.similarity = get_ratio(backwards_next_one.caption, backwards_next_one.words)[1]
 
             backwards_new_windowed_array = [backwards_this_pair, backwards_next_one]
             backwards_new_diff = sum(x.similarity for x in backwards_new_windowed_array)
 
-            if backwards_new_diff < total_diff and backwards_new_diff < forward_new_diff:
+            if backwards_new_diff > total_diff and backwards_new_diff > forward_new_diff:
                 pairs[i] = backwards_this_pair
                 pairs[i + 1] = backwards_next_one
 
-            if forward_new_diff < total_diff and forward_new_diff < backwards_new_diff:
+            if forward_new_diff > total_diff and forward_new_diff > backwards_new_diff:
                 pairs[i] = forward_this_pair
                 pairs[i + 1] = forward_next_one
 
@@ -194,11 +195,11 @@ def moving_window(file_name):
             forward_this_pair, forward_next_one, forward_new_diff = check_forward(i, pairs, total_diff)
             backwards_this_pair, backwards_next_one, backwards_new_diff = check_backwards(i, pairs, total_diff)
 
-            if backwards_new_diff < total_diff and backwards_new_diff < forward_new_diff:
+            if backwards_new_diff > total_diff and backwards_new_diff > forward_new_diff:
                 pairs[i] = backwards_this_pair
                 pairs[i + 1] = backwards_next_one
 
-            if forward_new_diff < total_diff and forward_new_diff < backwards_new_diff:
+            if forward_new_diff > total_diff and forward_new_diff > backwards_new_diff:
                 pairs[i] = forward_this_pair
                 pairs[i + 1] = forward_next_one
 
@@ -217,20 +218,22 @@ if __name__ == '__main__':
     #         continue
     #     try:
     #         pairs = moving_window(file_name)
-    #         with open(f'new-training-data/{file_name}.json', 'w', encoding='utf-8') as f:
+    #         with open(f'training-data/{file_name}.json', 'w', encoding='utf-8') as f:
     #             json.dump(pairs, f, ensure_ascii=False, indent=4, cls=SubtitlePairWordsEncoder)
     #     except:
     #         print(f"Error with {file_name}")
 
-    name = 'osoon-linne-teadusjaam-ghana-virmalised-nairoobi'
+    name = 'foorum-370'
     pairs = moving_window(name)
-    result_file_name = f'results/{name}-window-8-lemma-fixes.txt'
+    result_file_name = f'fuzziness/{name}.txt'
 
-    # with open(result_file_name, encoding='utf-8', errors='ignore', mode="a+") as result_file:
-        # for pair in pairs:
-        #     result_file.write(pair.__str__())
-        #     result_file.write("\n\n")
+    with open(f'fuzziness/{name}-no-sort.json', 'w', encoding='utf-8') as f:
+        json.dump(pairs, f, ensure_ascii=False, indent=4, cls=SubtitlePairWordsEncoder)
+
+    #
+    # with open(result_file_name, encoding='utf-8', errors='ignore', mode="w+") as result_file:
+    #     for pair in pairs:
+    #         result_file.write(pair.__str__())
+    #         result_file.write("\n\n")
         # mean = np.mean([item.similarity for item in pairs])
         # result_file.write(f"Mean difference: {mean}")
-    with open(f'results/{name}.json', 'w', encoding='utf-8') as f:
-        json.dump(pairs, f, ensure_ascii=False, indent=4, cls=SubtitlePairWordsEncoder)

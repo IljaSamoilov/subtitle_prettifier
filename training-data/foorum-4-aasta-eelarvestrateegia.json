@@ -1,12 +1,12 @@
 [
     {
-        "similarity": 9,
-        "generated": "Tere õhtust, head vaatajad, valitsus",
+        "similarity": 0,
+        "generated": "Tere õhtust, head vaatajad,",
         "subtitle": "Tere õhtust, head vaatajad."
     },
     {
-        "similarity": 14,
-        "generated": "leppis kokku nelja aasta eelarve strateegias",
+        "similarity": 5,
+        "generated": "valitsus leppis kokku nelja aasta eelarve strateegias",
         "subtitle": "Valitsus leppis kokku 4 aasta eelarvestrateegias"
     },
     {
@@ -25,7 +25,7 @@
         "subtitle": "Miks aga mõned osapooled, näiteks opositsioon, on nii kriitiline?"
     },
     {
-        "similarity": 15,
+        "similarity": 9,
         "generated": "ja viimaste aegade populaarseim küsimus? Kust siis ikkagi tuleb raha",
         "subtitle": "Miks on viimaste aegade populaarseim küsimus: kust siis ikkagi tuleb raha."
     },
@@ -75,18 +75,18 @@
         "subtitle": "Head televaatajad, teil on võimalik anda oma panus"
     },
     {
-        "similarity": 43,
+        "similarity": 27,
         "generated": "anda selle saate tegemisse läbi Twitteri ja meie teemaviide on ETV Foorum",
         "subtitle": "läbi Twitteri selle saate tegemisse ning meie teemaviide on #etvfoorum."
     },
     {
-        "similarity": 18,
-        "generated": "ja head poliitikud, nagu ikka,",
+        "similarity": 3,
+        "generated": "ja head poliitikud,",
         "subtitle": "Head poliitikud,"
     },
     {
-        "similarity": 43,
-        "generated": "esimeses ringis palun umbes ühe minutiga hakkama saada.",
+        "similarity": 26,
+        "generated": "nagu ikka, esimeses ringis palun umbes ühe minutiga hakkama saada.",
         "subtitle": "nagu ikka esimeses ringis palun hakkama saada umbes ühe minutiga."
     },
     {
@@ -95,13 +95,13 @@
         "subtitle": "Jevgeni Ossinovski, kui teist alustada,"
     },
     {
-        "similarity": 13,
-        "generated": "ilmselt tänase päeva kõige olulisem uudis on see, et",
+        "similarity": 14,
+        "generated": "ilmselt tänase päeva kõige olulisem uudis on see,",
         "subtitle": "siis tänase päeva kõige olulisem uudis on ilmselt see,"
     },
     {
-        "similarity": 3,
-        "generated": "meditsiinitöötajate streiki ei tule",
+        "similarity": 0,
+        "generated": "et meditsiinitöötajate streiki ei tule",
         "subtitle": "et meditsiinitöötajate streiki ei tule."
     },
     {
@@ -125,22 +125,22 @@
         "subtitle": "mis hõlmab tervishoiutöötajate palkasid sellel ja järgmisel aastal,"
     },
     {
-        "similarity": 44,
-        "generated": "sisse katan oma olemas olnud see haigekassa eelarves juba pikemat aega.",
+        "similarity": 41,
+        "generated": "sisse katan oma olemas olnud see haigekassa eelarves juba pikemat aega. Tegelikult",
         "subtitle": "siis see kate on haigekassa eelarves olnud olemas juba pikemat aega."
     },
     {
-        "similarity": 36,
-        "generated": "Tegelikult vaidlus tervishoiu rahastamise kontekstis on ju peetud pool aastat koos",
+        "similarity": 26,
+        "generated": "vaidlus tervishoiu rahastamise kontekstis on ju peetud pool aastat koos meedikutega",
         "subtitle": "Vaidlust tervishoiu rahastamise asjus on peetud koos meedikutega pool aastat,"
     },
     {
-        "similarity": 17,
-        "generated": "meedikutega ja räägitud sellest, et tervis või pikaajaline rahastamine vajab korralikku lahendust.",
+        "similarity": 12,
+        "generated": "ja räägitud sellest, et tervis või pikaajaline rahastamine vajab korralikku lahendust.",
         "subtitle": "on räägitud, et tervishoiu pikaajaline rahastamine vajab korralikku lahendust."
     },
     {
-        "similarity": 43,
+        "similarity": 16,
         "generated": "See lahendus on valitsuse poolt ska eelmisel nädalal lõpuks leitud,",
         "subtitle": "Selle lahenduse valitsus eelmisel nädalal lõpuks leidis,"
     },
@@ -155,18 +155,18 @@
         "subtitle": "nüüd on ka kollektiivlepe sellest tulenevalt allkirjastatud."
     },
     {
-        "similarity": 12,
-        "generated": "et mis puudutab neid konkreetseid palganumbreid, siis",
+        "similarity": 7,
+        "generated": "et mis puudutab neid konkreetseid palganumbreid,",
         "subtitle": "Mis puudutab konkreetseid palganumbreid,"
     },
     {
-        "similarity": 53,
-        "generated": "selles osas on meil kokkulepe tegelikult juba üle poole aasta olnud, nii et see on.",
+        "similarity": 25,
+        "generated": "siis selles osas on meil kokkulepe tegelikult juba üle poole aasta olnud, nii et see",
         "subtitle": "siis selles osas on meil kokkulepe olnud juba üle poole aasta."
     },
     {
-        "similarity": 0,
-        "generated": "Pärast seda, kui valitsus on oma ajaloolised otsused teinud,",
+        "similarity": 6,
+        "generated": "on. Pärast seda, kui valitsus on oma ajaloolised otsused teinud,",
         "subtitle": "Pärast seda, kui valitsus on oma ajaloolised otsused teinud,"
     },
     {
@@ -180,7 +180,7 @@
         "subtitle": "ja rahu tervishoius säilib."
     },
     {
-        "similarity": 10,
+        "similarity": 1,
         "generated": "Aivar Sõerd, Ossinovskist on nimetatud",
         "subtitle": "Aivar Sõerd, Ossinovskit on nimetatud"
     },
@@ -235,12 +235,12 @@
         "subtitle": "Eelarve kulude maht on 10,6 miljardit, nagu ajakirjanduse andmed ütlevad,"
     },
     {
-        "similarity": 13,
+        "similarity": 7,
         "generated": "Samas tulusid on 10,2 miljardit,",
         "subtitle": "samas tulusid 10,2 miljardit."
     },
     {
-        "similarity": 30,
+        "similarity": 29,
         "generated": "nii et on seni Eesti riik püüdnud hoida eelarve tulud-kulud enam-vähem tasakaalus.",
         "subtitle": "Seni on Eesti riik püüdnud eelarve tulud ja kulud hoida enam-vähem tasakaalus."
     },
@@ -255,13 +255,13 @@
         "subtitle": "sest eelarve läheb nii struktuurselt kui ka nominaalselt defitsiiti"
     },
     {
-        "similarity": 4,
-        "generated": "ja olukorras, kus",
+        "similarity": 0,
+        "generated": "ja olukorras,",
         "subtitle": "ja olukorras,"
     },
     {
-        "similarity": 16,
-        "generated": "olulised majandusnäitajad hakanud paranema",
+        "similarity": 6,
+        "generated": "kus olulised majandusnäitajad hakanud paranema",
         "subtitle": "kus olulised majandusnäitajad on hakanud paranema,"
     },
     {
@@ -270,22 +270,22 @@
         "subtitle": "majandus on kasvuteel,"
     },
     {
-        "similarity": 43,
-        "generated": "ei ole. Eelarvedefitsiidile Aitäh, Aivar, see veel sissejuhatuseks",
+        "similarity": 20,
+        "generated": "ei ole. Eelarvedefitsiidile Aitäh, Aivar, see veel",
         "subtitle": "ei ole eelarve defitsiiti laskmine põhjendatud."
     },
     {
-        "similarity": 24,
-        "generated": "Erki Savisaar,",
+        "similarity": 18,
+        "generated": "sissejuhatuseks",
         "subtitle": "Aitäh, Aivar Sõerd, sissejuhatuseks."
     },
     {
-        "similarity": 31,
-        "generated": "mis teie enda jaoks isiklikult",
+        "similarity": 7,
+        "generated": "Erki Savisaar, mis teie enda jaoks isiklikult",
         "subtitle": "Erki Savisaar, mis on teie jaoks isiklikult"
     },
     {
-        "similarity": 11,
+        "similarity": 7,
         "generated": "valitsuse eesmärkidest kõige südamehääl on",
         "subtitle": "valitsuse eesmärkidest kõige südamelähedasem,"
     },
@@ -330,27 +330,27 @@
         "subtitle": "mis on oluline just madalapalgalistele ja keskmist palka teenivatele inimestele."
     },
     {
-        "similarity": 13,
-        "generated": "Kuna talvikul on nüüd natuke teistsugune ametis, ma",
+        "similarity": 8,
+        "generated": "Kuna talvikul on nüüd natuke teistsugune ametis,",
         "subtitle": "Kuna Talvikul on nüüd natukene teistmoodi amet,"
     },
     {
-        "similarity": 25,
-        "generated": "küsin ka natuke teistsuguse küsimus, et kas",
+        "similarity": 16,
+        "generated": "ma küsin ka natuke teistsuguse küsimus, et",
         "subtitle": "siis ma küsin ka natukene teistmoodi küsimuse."
     },
     {
-        "similarity": 4,
-        "generated": "Vabaerakond hakkab olema konstruktiivne opositsioonierakond.",
+        "similarity": 0,
+        "generated": "kas Vabaerakond hakkab olema konstruktiivne opositsioonierakond.",
         "subtitle": "Kas Vabaerakond hakkab olema konstruktiivne opositsioonierakond?"
     },
     {
-        "similarity": 24,
+        "similarity": 6,
         "generated": "Jah, me oleme kogu aeg konstruktiivne opositsioonierakond",
         "subtitle": "Jah, me oleme kogu aeg olnud konstruktiivne opositsioonierakond,"
     },
     {
-        "similarity": 35,
+        "similarity": 17,
         "generated": "olnud, aga tegelikult täna väga mures,",
         "subtitle": "aga täna väga mures,"
     },
@@ -360,13 +360,13 @@
         "subtitle": "et tõenäoliselt sel hetkel, kui meie valitsusse jõuame,"
     },
     {
-        "similarity": 48,
-        "generated": "on tänane valitsus ikka korraliku nii-öelda hävitustööd teinud ja",
+        "similarity": 21,
+        "generated": "on tänane valitsus ikka korraliku nii-öelda hävitustööd teinud",
         "subtitle": "on tänane valitsus teinud korraliku hävitustöö"
     },
     {
-        "similarity": 6,
-        "generated": "must maa on ees, nii et et meil saab väga raske olema,",
+        "similarity": 3,
+        "generated": "ja must maa on ees, nii et et meil saab väga raske olema,",
         "subtitle": "ja must maa on ees, nii et meil saab väga raske olema,"
     },
     {
@@ -375,7 +375,7 @@
         "subtitle": "aga meil on lahendused ka selliste olukordade jaoks."
     },
     {
-        "similarity": 13,
+        "similarity": 9,
         "generated": "Siim Pohlak pigem Ekre on nagu rahul, et mõned suured asjad said tehtud",
         "subtitle": "Siim Pohlak, kas EKRE on pigem rahul, et mõned suured asjad said tehtud,"
     },
@@ -390,38 +390,38 @@
         "subtitle": "Eelarve defitsiidile me otseselt vastu ei ole."
     },
     {
-        "similarity": 28,
+        "similarity": 27,
         "generated": "et kui on vaja näiteks teha mõni oluline asi ära, ma ei tea,",
         "subtitle": "Kui on vaja mõni oluline asi ära teha,"
     },
     {
-        "similarity": 14,
-        "generated": "Tallinn-Tartu maantee neljarealiseks ehitada või midagi muud, siis",
+        "similarity": 9,
+        "generated": "Tallinn-Tartu maantee neljarealiseks ehitada või midagi muud,",
         "subtitle": "Tallinn-Tartu mnt 4-realiseks ehitada või midagi muud,"
     },
     {
-        "similarity": 33,
-        "generated": "tuleks, aga sellest tuleks rääkida inimestele ausalt ja otse, et mitte",
+        "similarity": 27,
+        "generated": "siis tuleks, aga sellest tuleks rääkida inimestele ausalt ja otse, et",
         "subtitle": "siis sellest tuleks inimestele rääkida ausalt ja otse,"
     },
     {
-        "similarity": 9,
-        "generated": "ajada ümmargust juttu. Et",
+        "similarity": 0,
+        "generated": "mitte ajada ümmargust juttu.",
         "subtitle": "mitte ajada ümmargust juttu,"
     },
     {
-        "similarity": 22,
-        "generated": "võib-olla on defitsiit, võib-olla ei ole, tuleks öelda otse",
+        "similarity": 0,
+        "generated": "Et võib-olla on defitsiit, võib-olla ei ole,",
         "subtitle": "et võib-olla on defitsiit, võib-olla ei ole."
     },
     {
-        "similarity": 25,
-        "generated": "ja konkreetselt välja, et me laseme eelarve defitsiiti ja et",
+        "similarity": 0,
+        "generated": "tuleks öelda otse ja konkreetselt välja, et me laseme eelarve defitsiiti",
         "subtitle": "Tuleks öelda otse ja konkreetselt välja, et me laseme eelarve defitsiiti"
     },
     {
-        "similarity": 13,
-        "generated": "meil on vaja teha neid ja neid asju, nii et",
+        "similarity": 7,
+        "generated": "ja et meil on vaja teha neid ja neid asju, nii et",
         "subtitle": "ja et meil on vaja teha neid ja neid asju."
     },
     {
@@ -435,18 +435,18 @@
         "subtitle": "sest mulle meenub see legendaarne \"Aktuaalne kaamera\","
     },
     {
-        "similarity": 32,
+        "similarity": 26,
         "generated": "kus Jüri Ratas sõna võttis, seal ennem esines ka rahandus minister,",
         "subtitle": "kus sõna võttis Jüri Ratas, enne teda esines rahandusminister,"
     },
     {
-        "similarity": 22,
-        "generated": "kes väitis katteallikatena ka mainis siis Tallinna Sadama hypata näiteks, et see",
+        "similarity": 18,
+        "generated": "kes väitis katteallikatena ka mainis siis Tallinna Sadama hypata näiteks, et",
         "subtitle": "kes väitis katteallikatena, mainis näiteks Tallinna Sadama IPOt."
     },
     {
-        "similarity": 4,
-        "generated": "ei kõla väga jätkusuutlikult.",
+        "similarity": 0,
+        "generated": "see ei kõla väga jätkusuutlikult.",
         "subtitle": "See ei kõla väga jätkusuutlikult."
     },
     {
@@ -515,7 +515,7 @@
         "subtitle": "et kui meil on 3 viimasel aastal olnud struktuurselt ülejääk,"
     },
     {
-        "similarity": 23,
+        "similarity": 24,
         "generated": "siis me võime kuni 0,5 protsenti ka rohkem teha investeeringuid",
         "subtitle": "siis me võime teha kuni 0,5% rohkem investeeringuid."
     },
@@ -540,13 +540,13 @@
         "subtitle": "või selle riigieelarvestrateegiaga anname me tõuke uueks majanduskasvuks,"
     },
     {
-        "similarity": 24,
-        "generated": "mida ka opositsioon on siin juba möönnud tänases saates.",
+        "similarity": 26,
+        "generated": "mida ka opositsioon on siin juba möönnud tänases saates. Ja",
         "subtitle": "mida ka opositsioon on tänases saates juba möönnud."
     },
     {
-        "similarity": 7,
-        "generated": "Ja tuleb öelda seda, et esimest korda üle väga pika aja",
+        "similarity": 4,
+        "generated": "tuleb öelda seda, et esimest korda üle väga pika aja",
         "subtitle": "Tuleb öelda, et esimest korda, üle väga pika aja,"
     },
     {
@@ -555,13 +555,13 @@
         "subtitle": "on tegelikkuses, järgmise aasta puhul"
     },
     {
-        "similarity": 29,
-        "generated": "prognoosi suurendatud majanduskasvule 3,1",
+        "similarity": 30,
+        "generated": "prognoosi suurendatud majanduskasvule 3,1 protsenti.",
         "subtitle": "majanduskasvule prognoosi suurendatud 3,1%."
     },
     {
-        "similarity": 25,
-        "generated": "protsenti. Ka see ei ole veel sugugi mitte piisav ka sellega, et me ei pea rahul olema,",
+        "similarity": 16,
+        "generated": "Ka see ei ole veel sugugi mitte piisav ka sellega, et me ei pea rahul olema,",
         "subtitle": "Ka see ei ole veel sugugi piisav, ka sellega ei pea me rahul olema,"
     },
     {
@@ -590,17 +590,17 @@
         "subtitle": "pikkade sõnavõttude pärast."
     },
     {
-        "similarity": 16,
+        "similarity": 14,
         "generated": "aga Sõerdi oli nüüd siin sõrm püsti, midagi ei meeldinud",
         "subtitle": "Sõerdil oli sõrm püsti, midagi ei meeldinud."
     },
     {
-        "similarity": 59,
+        "similarity": 26,
         "generated": "üldse. Tuursete positsiooni on hinnanud Eesti, Eesti puhul on hinnanud Euroopa Komisjon",
         "subtitle": "Struktuurset positsiooni on Eesti puhul hinnanud Euroopa Komisjon,"
     },
     {
-        "similarity": 103,
+        "similarity": 38,
         "generated": "on hinnanud Rahandusministeerium on hinnanud Eesti Panga juures Eela Rõugu",
         "subtitle": "rahandusministeerium ja Eesti Panga juures asuv eelarvenõukogu"
     },
@@ -620,7 +620,7 @@
         "subtitle": "nii struktuurset kui ka nominaalset positsiooni"
     },
     {
-        "similarity": 4,
+        "similarity": 1,
         "generated": "ja nominaalne defitsiit, on teil suurem kuist struktuurne defitsiit",
         "subtitle": "ja nominaalne defitsiit on teil suurem kui struktuurne defitsiit"
     },
@@ -630,13 +630,13 @@
         "subtitle": "ja nominaalset defitsiiti"
     },
     {
-        "similarity": 36,
-        "generated": "tuleb finantseerida täiendavalt jooksvatele maksutuludele, sest",
+        "similarity": 32,
+        "generated": "tuleb finantseerida täiendavalt jooksvatele maksutuludele,",
         "subtitle": "tuleb jooksvatele maksutuludele täiendavalt finantseerida,"
     },
     {
-        "similarity": 5,
-        "generated": "defitsiit tähendab, et jooksvad tulud ei katta jooksvaid kulusid",
+        "similarity": 0,
+        "generated": "sest defitsiit tähendab, et jooksvad tulud ei katta jooksvaid kulusid",
         "subtitle": "sest defitsiit tähendab, et jooksvad tulud ei kata jooksvaid kulusid"
     },
     {
@@ -655,7 +655,7 @@
         "subtitle": "Ma tõmban natukene seda hoogu tagasi."
     },
     {
-        "similarity": 28,
+        "similarity": 25,
         "generated": "et meil tõenäoliselt vaate ja ta ei ole rahandusministeeriumi ametnikud",
         "subtitle": "Tõenäoliselt ei ole kõik vaatajad rahandusministeeriumi ametnikud"
     },
@@ -670,13 +670,13 @@
         "subtitle": "koguperesaate raamidesse."
     },
     {
-        "similarity": 54,
-        "generated": "ma saan aru, et see on jube hea kivi ja ühest põhimõttest siiski loobumine, see eelarve tasakaal. Aga kas",
+        "similarity": 46,
+        "generated": "ma saan aru, et see on jube hea kivi ja ühest põhimõttest siiski loobumine, see eelarve tasakaal.",
         "subtitle": "Ma saan aru, et see eelarve tasakaal on hea kivi ja ühest põhimõttest loobumine,"
     },
     {
-        "similarity": 17,
-        "generated": "siiski ei kaaluse kõiki üles seda,",
+        "similarity": 12,
+        "generated": "Aga kas siiski ei kaaluse kõiki üles seda,",
         "subtitle": "aga kas see ei kaalu üles seda,"
     },
     {
@@ -685,7 +685,7 @@
         "subtitle": "et Ossinovski tõepoolest võitleski tervishoiule raha juurde,"
     },
     {
-        "similarity": 11,
+        "similarity": 7,
         "generated": "et mingisugune üks suur asi saab tehtud?",
         "subtitle": "mingisugune suur asi saab tehtud?"
     },
@@ -705,7 +705,7 @@
         "subtitle": "Kui tervishoiule lihtsalt kütta raha alla, siis see ei lahenda probleemi,"
     },
     {
-        "similarity": 32,
+        "similarity": 26,
         "generated": "sele probleemi edasi, meie tehke",
         "subtitle": "see lükkab probleemi edasi. - Aga see on meie tervis."
     },
@@ -715,23 +715,23 @@
         "subtitle": "Jah, see on meie tervis tõepoolest, aga see tähendab,"
     },
     {
-        "similarity": 8,
-        "generated": "et tervishoid iseenesest muutub kogu aeg kallimaks, ehk see",
+        "similarity": 0,
+        "generated": "et tervishoid iseenesest muutub kogu aeg kallimaks,",
         "subtitle": "et tervishoid iseenesest muutub kogu aeg kallimaks"
     },
     {
-        "similarity": 20,
-        "generated": "aparatuur, mis tuleb, on, on väga kallis",
+        "similarity": 6,
+        "generated": "ehk see aparatuur, mis tuleb, on, on väga kallis",
         "subtitle": "ehk see aparatuur, mis tuleb, on väga kallis"
     },
     {
-        "similarity": 19,
-        "generated": "ja ja see nõuab aina rohkem investeeringuid, kui see",
+        "similarity": 7,
+        "generated": "ja ja see nõuab aina rohkem investeeringuid,",
         "subtitle": "ja nõuab aina rohkem investeeringuid."
     },
     {
-        "similarity": 14,
-        "generated": "siin on lihtsalt raha sisse tõstan siis ühel hetkel käib veel suurem pauk.",
+        "similarity": 9,
+        "generated": "kui see siin on lihtsalt raha sisse tõstan siis ühel hetkel käib veel suurem pauk.",
         "subtitle": "Kui sa sinna lihtsalt raha sisse tõstad, siis ühel hetkel käib veel suurem pauk."
     },
     {
@@ -760,7 +760,7 @@
         "subtitle": "ja kuidas me ta tervena hoiame, kui ta pole veel haigeks jäänud."
     },
     {
-        "similarity": 52,
+        "similarity": 40,
         "generated": "ja see on, see on selline, see asi peab sellega kaasas käima ka täna seda ei ole käinud, nii et",
         "subtitle": "See asi peab sellega kaasas käima, aga täna seda ei ole käinud."
     },
@@ -775,18 +775,18 @@
         "subtitle": "Kogun repliike. Kõigepealt Pohlak ja siis Savisaar."
     },
     {
-        "similarity": 5,
-        "generated": "Ma tahaks öelda härra Reinsalule, et kui te räägite, et me ei ela üle jõu, siis",
+        "similarity": 0,
+        "generated": "Ma tahaks öelda härra Reinsalule, et kui te räägite, et me ei ela üle jõu,",
         "subtitle": "Ma tahaks öelda härra Reinsalule, et kui te räägite, et me ei ela üle jõu,"
     },
     {
-        "similarity": 23,
-        "generated": "tegelikult milline eelarves juba pikalt doping sees meil",
+        "similarity": 15,
+        "generated": "siis tegelikult milline eelarves juba pikalt doping sees",
         "subtitle": "siis meil on eelarves juba pikalt doping sees."
     },
     {
-        "similarity": 21,
-        "generated": "umbes 10 protsenti Euroopa Liidu raha",
+        "similarity": 15,
+        "generated": "meil umbes 10 protsenti Euroopa Liidu raha",
         "subtitle": "Meil on umbes 10% Euroopa Liidu raha"
     },
     {
@@ -800,7 +800,7 @@
         "subtitle": "meile sealt tulenev raha väheneb ja kui me praegu reservid ära sööme,"
     },
     {
-        "similarity": 20,
+        "similarity": 15,
         "generated": "et kuidas me aastal 2021 selle asja uuesti sirgeks saame, nagu väidetakse?",
         "subtitle": "kuidas me aastal 2021 selle asja uuesti sirgeks saame?"
     },
@@ -845,7 +845,7 @@
         "subtitle": "väga võimas maksureform, see soodustab majanduskasvu."
     },
     {
-        "similarity": 32,
+        "similarity": 9,
         "generated": "Lisaks oleme täna ju rea maksumuudatusi,",
         "subtitle": "Lisaks oleme ette näinud rea maksumuudatusi,"
     },
@@ -870,7 +870,7 @@
         "subtitle": "kuid erastamisel on,"
     },
     {
-        "similarity": 13,
+        "similarity": 9,
         "generated": "kui, kui me räägime nii Eesti Energia taastuvenergiaportfelli",
         "subtitle": "kui me räägime Eesti Energia taastuvenergia portfelli"
     },
@@ -900,38 +900,38 @@
         "subtitle": "Kui sobib, tuleme natuke hiljem majanduslike aspektide juurde."
     },
     {
-        "similarity": 45,
-        "generated": "tulenevalt hiljem tagasi ma tahan selle",
+        "similarity": 37,
+        "generated": "tulenevalt hiljem tagasi",
         "subtitle": "... ja me peame sellega tegelema. - Tuleme natukene hiljem tagasi."
     },
     {
-        "similarity": 26,
-        "generated": "meditsiini teema ikkagi selgeks rääkida, et",
+        "similarity": 11,
+        "generated": "ma tahan selle meditsiini teema ikkagi selgeks rääkida, et",
         "subtitle": "Ma tahan selle meditsiiniteema selgeks rääkida."
     },
     {
-        "similarity": 7,
-        "generated": "kas Ossinovski on nõus selle jutuga, mida Talvik räägib, et",
+        "similarity": 4,
+        "generated": "kas Ossinovski on nõus selle jutuga, mida Talvik räägib,",
         "subtitle": "Kas Ossinovski on nõus jutuga, mida Talvik räägib,"
     },
     {
-        "similarity": 3,
-        "generated": "lihtsalt raha pumpamisest ei ole kasu,",
+        "similarity": 0,
+        "generated": "et lihtsalt raha pumpamisest ei ole kasu,",
         "subtitle": "et lihtsalt raha pumpamisest ei ole kasu,"
     },
     {
-        "similarity": 14,
+        "similarity": 9,
         "generated": "et tuleks nagu seest midagi lahti loksutada ja ümber ehitada.",
         "subtitle": "vaid tuleks seest midagi lahti loksutada ja ümber ehitada?"
     },
     {
-        "similarity": 5,
-        "generated": "Ja loomulikult, see on seesama jutt, mida ma olen rääkinud, et",
+        "similarity": 2,
+        "generated": "Ja loomulikult, see on seesama jutt, mida ma olen rääkinud,",
         "subtitle": "Jaa, loomulikult. See on see sama jutt, mida ma olen rääkinud."
     },
     {
-        "similarity": 23,
-        "generated": "hea, kui keegi vastu vastu peegeldab sedasama juttu ja ega",
+        "similarity": 15,
+        "generated": "et hea, kui keegi vastu vastu peegeldab sedasama juttu ja ega",
         "subtitle": "See on hea, kui keegi vastu peegeldab seda sama juttu ja ega..."
     },
     {
@@ -940,13 +940,13 @@
         "subtitle": "Aga täna sul seda lahendust ei ole, seda teist lahendust."
     },
     {
-        "similarity": 47,
-        "generated": "On ikka, seda sa veel ei ole kuulnud.",
+        "similarity": 9,
+        "generated": "On ikka, seda sa veel",
         "subtitle": "On ikka. - Tõsi ka või?"
     },
     {
-        "similarity": 51,
-        "generated": "Koolis sinu hea kolleeg Monika on,",
+        "similarity": 17,
+        "generated": "ei ole kuulnud. Koolis sinu hea kolleeg Monika on,",
         "subtitle": "Sa ei ole seda veel kuulnud, sinu hea kolleeg Monika on."
     },
     {
@@ -960,7 +960,7 @@
         "subtitle": "mis on hädavajalik selleks, et eriarstiabi järjekordasid lühendada,"
     },
     {
-        "similarity": 29,
+        "similarity": 28,
         "generated": "ja see tänane olukord on selgelt, et ebarahuldav Eesti",
         "subtitle": "tänane olukord on Eesti patsientide jaoks ebarahuldav"
     },
@@ -980,13 +980,13 @@
         "subtitle": "Kavas on kõik erinevad tervishoiukulud Haigekassasse kokku konsolideerida,"
     },
     {
-        "similarity": 23,
-        "generated": "haigekassasse selleks et sünergiat seal suurendada. Meil",
+        "similarity": 18,
+        "generated": "haigekassasse selleks et sünergiat seal suurendada.",
         "subtitle": "et seal sünergiat suurendada."
     },
     {
-        "similarity": 5,
-        "generated": "on juba pikemat aega käimas reform selleks,",
+        "similarity": 0,
+        "generated": "Meil on juba pikemat aega käimas reform selleks,",
         "subtitle": "Meil on juba pikemat aega käimas reform selleks,"
     },
     {
@@ -1000,28 +1000,28 @@
         "subtitle": "Ehitame uusi tervisekeskusi, laiendame seal teenuseid."
     },
     {
-        "similarity": 24,
+        "similarity": 14,
         "generated": "meil on seesama asi, millest, et millest Artur rääkis, on tegelikult plaanis.",
         "subtitle": "Meil on see sama asi, millest Artur rääkis, tegelikult plaanis."
     },
     {
-        "similarity": 13,
-        "generated": "Me hakkame proteerima seda, et, et",
+        "similarity": 10,
+        "generated": "Me hakkame proteerima seda, et,",
         "subtitle": "Me hakkame soosima seda,"
     },
     {
-        "similarity": 7,
-        "generated": "haigekassa ei ostaks mitte ravijuhtusid ehk",
+        "similarity": 0,
+        "generated": "et haigekassa ei ostaks mitte ravijuhtusid",
         "subtitle": "et Haigekassa ei ostaks mitte ravijuhtusid,"
     },
     {
-        "similarity": 19,
-        "generated": "siis ei ostaks mitte sisendeid või osta, vaid",
+        "similarity": 15,
+        "generated": "ehk siis ei ostaks mitte sisendeid või osta,",
         "subtitle": "ehk ei ostaks mitte sisendeid,"
     },
     {
-        "similarity": 10,
-        "generated": "ostaks väljundeid ehk siis inimeste paremaid tervisenäitajaid.",
+        "similarity": 5,
+        "generated": "vaid ostaks väljundeid ehk siis inimeste paremaid tervisenäitajaid.",
         "subtitle": "vaid ostaks väljundeid ehk inimeste paremaid tervisenäitajaid."
     },
     {
@@ -1035,12 +1035,12 @@
         "subtitle": "ja e-tervise arengusse, et kasutada uuemat tehnoloogiat tervise jaoks..."
     },
     {
-        "similarity": 26,
+        "similarity": 23,
         "generated": "ära, mis edasi, kas see loetelu on pikk, nüüd veel kord,",
         "subtitle": "Härra Ossinovski, kas see loetelu on veel pikk?"
     },
     {
-        "similarity": 21,
+        "similarity": 17,
         "generated": "see loetelu on päris pikk, nendest väga hea, aga ei,",
         "subtitle": "See loetelu on päris pikk nendest tegevustest, mida me teeme."
     },
@@ -1050,7 +1050,7 @@
         "subtitle": "Sõnum jõudis kohale, aitäh. Aivar Sõerd."
     },
     {
-        "similarity": 20,
+        "similarity": 16,
         "generated": "Noh, üks teema kindlasti on",
         "subtitle": "Üks teema on kindlasti,"
     },
@@ -1080,17 +1080,17 @@
         "subtitle": "Sellele tahan ma ka kohe vastata."
     },
     {
-        "similarity": 20,
+        "similarity": 17,
         "generated": "eraosa eraraha ehk siis patsientide omaosaluse osakaal on",
         "subtitle": "Eraraha ehk patsientide omaosaluse osakaal Eestis"
     },
     {
-        "similarity": 34,
+        "similarity": 21,
         "generated": "üks euro kõrgemaid Eestis ulatub peaaegu 25 protsendini",
         "subtitle": "on Euroopas üks kõrgemaid, ulatub peaaegu 25%ni"
     },
     {
-        "similarity": 21,
+        "similarity": 15,
         "generated": "ja WHO ütleb, et üle viie 15 protsendiline omaosalus on juba takistab",
         "subtitle": "ja WHO ütleb, et üle 15% omaosalus on juba takistav"
     },
@@ -1100,23 +1100,23 @@
         "subtitle": "inimestel tervishoiuteenusteni jõudmisel."
     },
     {
-        "similarity": 29,
-        "generated": "tuleb see reformi Reformierakonna",
+        "similarity": 25,
+        "generated": "tuleb see reformi",
         "subtitle": "Aga millest tuleb see omaosalus? Hambaravist."
     },
     {
-        "similarity": 13,
-        "generated": "pika-pikaajaline ettepanek suurendada patsientide omaosalust",
+        "similarity": 4,
+        "generated": "Reformierakonna pika-pikaajaline ettepanek suurendada patsientide omaosalust",
         "subtitle": "Reformierakonna pikaajaline ettepanek, suurendada patsientide omaosalust,"
     },
     {
-        "similarity": 5,
-        "generated": "on minule täiesti vastuvõetamatu. Ma",
+        "similarity": 0,
+        "generated": "on minule täiesti vastuvõetamatu.",
         "subtitle": "on minule täiesti vastuvõetamatu."
     },
     {
-        "similarity": 17,
-        "generated": "arvan, et arstiabi peab patsient olema kättesaadav",
+        "similarity": 12,
+        "generated": "Ma arvan, et arstiabi peab patsient olema kättesaadav",
         "subtitle": "Ma arvan, et arstiabi peab olema patsientidele kättesaadav"
     },
     {
@@ -1175,7 +1175,7 @@
         "subtitle": "ja strateegiliste investeeringute jaoks võetakse laenu."
     },
     {
-        "similarity": 18,
+        "similarity": 13,
         "generated": "et selles suhtes on nagu kõik väga heas korras.",
         "subtitle": "Selles suhtes on kõik heas korras"
     },
@@ -1185,12 +1185,12 @@
         "subtitle": "ja prognoosid rahandusministeeriumis on head, mis andis samuti lisavahendeid."
     },
     {
-        "similarity": 16,
+        "similarity": 15,
         "generated": "Ja ma, härra Sõeridel ütleksin, et selle asja nimeks on majanduskasv,",
         "subtitle": "Ma ütleksin härra Sõerdile, et selle asja nimeks on majanduskasv."
     },
     {
-        "similarity": 20,
+        "similarity": 8,
         "generated": "et Reformierakond ei ole seda 10 aastat läinud,",
         "subtitle": "Reformierakond ei ole seda 10 aastat näinud,"
     },
@@ -1215,7 +1215,7 @@
         "subtitle": "Majandus pöördus kasvule juba eelmise aasta 4. kvartalis."
     },
     {
-        "similarity": 40,
+        "similarity": 36,
         "generated": "aga nüüd see, mida me olimegi, kuid küsi või kui eelarve kulud ja tulud",
         "subtitle": "Aga väide, et; kui eearve kulud ja tulud"
     },
@@ -1300,7 +1300,7 @@
         "subtitle": "Küsimus on ka see, kuhu investeeritakse."
     },
     {
-        "similarity": 21,
+        "similarity": 17,
         "generated": "et kui ikkagi jätkuvalt investeeritakse, mida autodesse ja betooni sisse ei ole jätkusuutlik,",
         "subtitle": "Kui jätkuvalt investeeritakse autodesse ja betooni, siis see ei ole jätkusuutlik,"
     },
@@ -1315,7 +1315,7 @@
         "subtitle": "ta ei tõsta tootlikkust ja ei ole selleks suunatud."
     },
     {
-        "similarity": 14,
+        "similarity": 11,
         "generated": "Korralik Kärdla",
         "subtitle": "Kui me võrdleme..."
     },
@@ -1340,13 +1340,13 @@
         "subtitle": "oleme me soomlastega võrdsed,"
     },
     {
-        "similarity": 10,
-        "generated": "aga teadusesse ja teadus ja arendustegevuse investeeringute poolest me",
+        "similarity": 5,
+        "generated": "aga teadusesse ja teadus ja arendustegevuse investeeringute poolest",
         "subtitle": "aga teadusesse ja teadusarendus- tegevusse investeeringute poolest"
     },
     {
-        "similarity": 13,
-        "generated": "oleme võib-olla viiendik sellest, mida teevad soomlased,",
+        "similarity": 16,
+        "generated": "me oleme võib-olla viiendik sellest, mida teevad soomlased,",
         "subtitle": "oleme me võib-olla 1/5 sellest, mida teevad soomlased."
     },
     {
@@ -1360,13 +1360,13 @@
         "subtitle": "ja meil jäävad siia lihtsad ja odavad töökohad."
     },
     {
-        "similarity": 8,
-        "generated": "Tõsiteaduse arendus saab ka kopika juurde, aga,",
+        "similarity": 4,
+        "generated": "Tõsiteaduse arendus saab ka kopika juurde,",
         "subtitle": "Tõsi, teadus ja arendus saab ka kopika juurde,"
     },
     {
-        "similarity": 30,
-        "generated": "aga mitte piisavalt kindlasti. Ja",
+        "similarity": 28,
+        "generated": "aga, aga mitte piisavalt kindlasti. Ja",
         "subtitle": "aga kindlasti mitte piisavalt. - Jaa, aga protsent ei tõuse."
     },
     {
@@ -1405,12 +1405,12 @@
         "subtitle": "ja me ei saa seda otsust edasi lükata ja lükata ja lükata."
     },
     {
-        "similarity": 14,
+        "similarity": 10,
         "generated": "nüüd me enam võimalik tegelik",
         "subtitle": "Nüüd on meil võimalik tegelikult..."
     },
     {
-        "similarity": 41,
+        "similarity": 32,
         "generated": "positsioon vaidlustanud, kuulnud veel",
         "subtitle": "Seda punkti ei ole opositsioon ka vaidlustanud. Ei ole kuulnud veel."
     },
@@ -1425,23 +1425,23 @@
         "subtitle": "Ma tahan öelda seda, et kui me kõneleme eelarve tasakaalust,"
     },
     {
-        "similarity": 12,
-        "generated": "siis eelarve tasakaalu põhimõtte struktuurse",
+        "similarity": 0,
+        "generated": "siis eelarve tasakaalu põhimõtte",
         "subtitle": "siis eelarve tasakaalu põhimõte,"
     },
     {
-        "similarity": 12,
-        "generated": "eelarve tasakaalu põhimõte jääb kehtima.",
+        "similarity": 0,
+        "generated": "struktuurse eelarve tasakaalu põhimõte jääb kehtima.",
         "subtitle": "struktuurse eelarve tasakaalu põhimõte jääb kehtima."
     },
     {
-        "similarity": 26,
-        "generated": "See tähendab seda, et kui tulevikus on üle seatud normide on",
+        "similarity": 29,
+        "generated": "See tähendab seda, et kui tulevikus on üle seatud normide on defitsiit,",
         "subtitle": "See tähendab, et kui tulevikus on defitsiit üle seatud normide,"
     },
     {
-        "similarity": 10,
-        "generated": "defitsiit, siis järgmistel aastatel",
+        "similarity": 0,
+        "generated": "siis järgmistel aastatel",
         "subtitle": "siis järgmistel aastatel"
     },
     {
@@ -1460,18 +1460,18 @@
         "subtitle": "Seda ei maksa siin udujuttu ajada, segadust ajada rahvale."
     },
     {
-        "similarity": 31,
+        "similarity": 19,
         "generated": "seda segadust, on piisavalt juurde ühe lause on",
         "subtitle": "Seda segadust on piisavalt olnud. - Ühe lause annan siia vastu."
     },
     {
-        "similarity": 11,
-        "generated": "teine küsimus. Ma jääb,",
+        "similarity": 0,
+        "generated": "teine küsimus.",
         "subtitle": "Teine küsimus..."
     },
     {
-        "similarity": 38,
-        "generated": "saatsite kaks päeva tagasi",
+        "similarity": 29,
+        "generated": "Ma jääb, saatsite kaks päeva tagasi",
         "subtitle": "Kuidas see kehtima jääb, kui te saatsite 2 päeva tagasi"
     },
     {
@@ -1555,7 +1555,7 @@
         "subtitle": "mida tuleb silmas pidada. Küsimus selles;"
     },
     {
-        "similarity": 27,
+        "similarity": 17,
         "generated": "väide, et otsekui me järgmisel aastal teeme ebapiisavalt investeeringuid,",
         "subtitle": "väide, et me teeme järgmisel aastal otsekui ebapiisavalt investeeringuid;"
     },
@@ -1565,7 +1565,7 @@
         "subtitle": "mul on hea uudis, Aivar."
     },
     {
-        "similarity": 21,
+        "similarity": 17,
         "generated": "et 2018 üldsummas on, tehakse",
         "subtitle": "Üldsummas tehakse 2018,"
     },
@@ -1580,12 +1580,12 @@
         "subtitle": "ja see ei ole sugugi halb."
     },
     {
-        "similarity": 46,
+        "similarity": 36,
         "generated": "Me teeme eeluuringu rekordtasemel",
         "subtitle": "Me teeme investeeringuid taristusse... - Eelarve ise on ka rekordtasemel."
     },
     {
-        "similarity": 26,
+        "similarity": 22,
         "generated": "ja nüüd küsimus selles, et tähtis on",
         "subtitle": "Nüüd on tähtis,"
     },
@@ -1645,7 +1645,7 @@
         "subtitle": "et ma laiendaks seda, mida Urmas lõpus ütles."
     },
     {
-        "similarity": 20,
+        "similarity": 16,
         "generated": "et ma vaatan siit ühte slaidi ühte slaidi ja Aivar, mulle tundub, et selle slaidi järgi,",
         "subtitle": "Ma vaatan siit ühte slaidi ja, Aivar, mulle tundub selle slaidi järgi,"
     },
@@ -1660,13 +1660,13 @@
         "subtitle": "on prognoositud eelarvet, nominaalselt tehtud eelarvet defitsiidis"
     },
     {
-        "similarity": 15,
-        "generated": "ja aastate jooksul laekumised olnud paremad ja",
+        "similarity": 6,
+        "generated": "ja aastate jooksul laekumised olnud paremad",
         "subtitle": "ja aastate jooksul on laekumised olnud paremad"
     },
     {
-        "similarity": 3,
-        "generated": "sellest tulenevalt on nad jäänud lõpuks ülejääki.",
+        "similarity": 0,
+        "generated": "ja sellest tulenevalt on nad jäänud lõpuks ülejääki.",
         "subtitle": "ja sellest tulenevalt on nad jäänud lõpuks ülejääki."
     },
     {
@@ -1700,7 +1700,7 @@
         "subtitle": "Nii et ära... võta rahulikult, kõik läheb hästi."
     },
     {
-        "similarity": 28,
+        "similarity": 22,
         "generated": "Reformierakond versus maailm täna oma töödega. Ja",
         "subtitle": "Meil on Reformierakond versus maailm saade täna."
     },
@@ -1710,17 +1710,17 @@
         "subtitle": "Anname ühe lause, klaarime ära selle asja. - Siin tuleb õiendada."
     },
     {
-        "similarity": 8,
+        "similarity": 4,
         "generated": "kõigepealt seda, et struktuurse defitsiidi definitsioon ise tähendab,",
         "subtitle": "Kõigepealt seda, et struktuurse defitsiidi definitsioon tähendab,"
     },
     {
-        "similarity": 15,
+        "similarity": 10,
         "generated": "et vaadataksegi pikemat perioodi ja seda me hakkamegi tegema.",
         "subtitle": "et vaadataksegi pikemat perioodi, kuna... - Just, ja seda me hakkamegi tegema."
     },
     {
-        "similarity": 49,
+        "similarity": 43,
         "generated": "",
         "subtitle": "Seda tehti ka enne. - Ei, see on juba praegu,"
     },
@@ -1731,12 +1731,12 @@
     },
     {
         "similarity": 21,
-        "generated": "nii et see ongi iseenesest. Kuulge, me käime",
+        "generated": "nii et see ongi iseenesest. Kuulge, me",
         "subtitle": "Nii et see ongi juba iseenesest pikema perioodi vaade."
     },
     {
-        "similarity": 14,
-        "generated": "nagu ma toon ühe näite, aga üks lause",
+        "similarity": 11,
+        "generated": "käime nagu ma toon ühe näite, aga üks lause",
         "subtitle": "Kuulge, me käime... - Ma toon ühe näite. - Aga üks lause."
     },
     {
@@ -1755,7 +1755,7 @@
         "subtitle": "siis ei olnud üldse struktuurset, sellist mõistetki polnud,"
     },
     {
-        "similarity": 21,
+        "similarity": 22,
         "generated": "eelarve oli ülejäägis 3,8 protsenti SKP suhtes. Võlg oli 4,9 protsenti ja kaks",
         "subtitle": "eelarve oli ülejäägis 3,8% SKP suhtes, võlg oli 4,9%... - Head ajad."
     },
@@ -1785,13 +1785,13 @@
         "subtitle": "nii struktuurselt kui ka nominaalselt miinusesse"
     },
     {
-        "similarity": 16,
-        "generated": "ja ma veel kord ütlen, et",
+        "similarity": 15,
+        "generated": "ja ma veel kord ütlen,",
         "subtitle": "ja ma ütlen veelkord,"
     },
     {
-        "similarity": 3,
-        "generated": "nominaalne defitsiit on veel suurem kui struktuurne defitsiit.",
+        "similarity": 0,
+        "generated": "et nominaalne defitsiit on veel suurem kui struktuurne defitsiit.",
         "subtitle": "et nominaalne defitsiit on veel suurem kui struktuurne defitsiit"
     },
     {
@@ -1815,7 +1815,7 @@
         "subtitle": "et ta on iseenesest n-ö väike petuskeem,"
     },
     {
-        "similarity": 16,
+        "similarity": 8,
         "generated": "et selline suurel kõrgel tasemel raamatupidamis trikitamine,",
         "subtitle": "selline suurel, kõrgel tasemel raamatupidamislik trikitamine."
     },
@@ -1840,13 +1840,13 @@
         "subtitle": "me ei vaata piisavalt ette, me ei vaata sellesse aega,"
     },
     {
-        "similarity": 41,
-        "generated": "kui tõenäoliselt Euroopa Liidu toetused hakkavad vähenema, Eestile. Me",
+        "similarity": 39,
+        "generated": "kui tõenäoliselt Euroopa Liidu toetused hakkavad vähenema, Eestile. Me ei vaata,",
         "subtitle": "kui Euroopa Liidu toetused Eestile hakkavad tõenäoliselt vähenema,"
     },
     {
-        "similarity": 24,
-        "generated": "ei vaata, meie arvesta nagu seda, et, et meie elanikkond vananeb",
+        "similarity": 11,
+        "generated": "meie arvesta nagu seda, et, et meie elanikkond vananeb",
         "subtitle": "me ei arvesta seda, et meie elanikkond vananeb"
     },
     {
@@ -1870,22 +1870,22 @@
         "subtitle": "Neid aspekte peaks kindlasti sinna juurde arvestama"
     },
     {
-        "similarity": 37,
-        "generated": "Proovime siit sellest ringist välja saada, me",
+        "similarity": 26,
+        "generated": "Proovime siit sellest ringist välja saada,",
         "subtitle": "ja paljusid teisi ka. - Proovime siit ringist nüüd välja saada."
     },
     {
-        "similarity": 23,
-        "generated": "käime muidu nagu selles Kunksmoor ja Kapten Trumm, kes ei",
+        "similarity": 7,
+        "generated": "me käime muidu nagu selles Kunksmoor ja Kapten Trumm,",
         "subtitle": "Me käime muidu nagu Kunksmooris see kapten Trumm,"
     },
     {
-        "similarity": 17,
-        "generated": "saanud oma ringist välja ja, ja",
+        "similarity": 6,
+        "generated": "kes ei saanud oma ringist välja ja, ja",
         "subtitle": "kes ei saanud oma ringist välja."
     },
     {
-        "similarity": 40,
+        "similarity": 37,
         "generated": "vaatame järsku neid investeeringuid korra siis veel ikkagi, mis on suuremad numbrid siin",
         "subtitle": "Vaatame korra veel neid investeeringuid, mis on siin suuremad numbrid:"
     },
@@ -1900,7 +1900,7 @@
         "subtitle": "taristud 135 miljonit, tervisekeskused 68,7 jne."
     },
     {
-        "similarity": 57,
+        "similarity": 49,
         "generated": "ja nii edasi, et Siim Pohlak, et kas need tunduvad kõik nagu noh, nii-öelda prioriteedid paigas,",
         "subtitle": "Siim Pohlak, kas tundub, et prioriteedid on paigas,"
     },
@@ -1935,7 +1935,7 @@
         "subtitle": "siis mina ei saa aru, kuidas see peaks kasvule minema."
     },
     {
-        "similarity": 7,
+        "similarity": 6,
         "generated": "okei, ühe käega antakse raha juurde ja tulumaksuvaba miinimumi tõusuga,",
         "subtitle": "Olgu, ühe käega antakse raha juurde, tulumaksuvabamiinimumi tõusuga,"
     },
@@ -1960,27 +1960,27 @@
         "subtitle": "Erki Savisaar. - Majandus ongi selline keeruline asi,"
     },
     {
-        "similarity": 11,
-        "generated": "et raha peab ringlema, et ühelt",
+        "similarity": 0,
+        "generated": "et raha peab ringlema,",
         "subtitle": "et raha peab ringlema,"
     },
     {
-        "similarity": 37,
-        "generated": "pontaftax teiselt poolt võetakse, see ongi",
+        "similarity": 10,
+        "generated": "et ühelt pontaftax teiselt poolt võetakse,",
         "subtitle": "et ühelt poolt antakse ja teiselt pool võetakse."
     },
     {
-        "similarity": 32,
-        "generated": "selline ringlus, mida nimetatakse nagu käibeks võiks.",
+        "similarity": 11,
+        "generated": "see ongi selline ringlus, mida nimetatakse nagu käibeks võiks.",
         "subtitle": "See ongi selline ringlus, mida nimetatakse käibeks."
     },
     {
-        "similarity": 33,
+        "similarity": 28,
         "generated": "Aga, aga ma kohe nagu räägiksin ka sellest reiboltikustati just tuli uus analüüs, oi kus",
         "subtitle": "Ma kohe räägiksin ka Rail Balticust, et just tuli uus analüüs... - Oi, jumal."
     },
     {
-        "similarity": 10,
+        "similarity": 5,
         "generated": "kus, nagu räägitakse, et iga euro, mis sinna raudteesse pannakse,",
         "subtitle": "... kus räägitakse, et iga euro, mis sinna raudteesse pannakse,"
     },
@@ -1990,27 +1990,27 @@
         "subtitle": "tuleb kuuekordselt tagasi, sotsiaalmajanduslikult."
     },
     {
-        "similarity": 13,
-        "generated": "siinkohal tahaks küsida, et miks siis",
+        "similarity": 3,
+        "generated": "siinkohal tahaks küsida, et",
         "subtitle": "Siinkohal tahaks küsida,"
     },
     {
-        "similarity": 32,
-        "generated": "erakapital sinna raha ei pane, kui. Vili küpseb küll, oli",
+        "similarity": 20,
+        "generated": "miks siis erakapital sinna raha ei pane, kui. Vili küpseb",
         "subtitle": "miks siis erakapital sinna raha ei pane, kui see nii tulus projekt on?"
     },
     {
-        "similarity": 25,
-        "generated": "erakapital, paneb ka, ega see raudtee on, aga ainult üks osa",
+        "similarity": 26,
+        "generated": "küll, oli erakapital, paneb ka, ega see raudtee on, aga ainult üks osa",
         "subtitle": "Küll erakapital paneb ka. Raudtee on ainult üks osa projektist."
     },
     {
-        "similarity": 17,
+        "similarity": 14,
         "generated": "sellest projektist, see projekt on",
         "subtitle": "See projekt on märksa laiem."
     },
     {
-        "similarity": 12,
+        "similarity": 9,
         "generated": "märksa laiem. Ettepanek kõigile Rail Baltica sõpradele ja vaenlastele",
         "subtitle": "Mul on ettepanek kõigile Rail Balticu sõpradele ja vaenlastele"
     },
@@ -2040,7 +2040,7 @@
         "subtitle": "lisaks infrasse, et Eesti maakohad saavad head optilised ühendused"
     },
     {
-        "similarity": 33,
+        "similarity": 29,
         "generated": "ja, ja neid investeeringuid on nagu tegelikult veel hästi palju.",
         "subtitle": "ja neid investeeringuid on veel palju. Põllumajandus."
     },
@@ -2050,7 +2050,7 @@
         "subtitle": "Põllumajandusest ei ole ammu räägitud,"
     },
     {
-        "similarity": 16,
+        "similarity": 11,
         "generated": "aga põllumehed saavad nagu ka jälle järje peale me loodame",
         "subtitle": "aga ka põllumehed saavad jälle järje peale, me loodame,"
     },
@@ -2060,12 +2060,12 @@
         "subtitle": "ja ka sealt hakkab elu minema maale tagasi ja majandus kasvab."
     },
     {
-        "similarity": 21,
+        "similarity": 12,
         "generated": "No mis see on nagu ikkagi veider asi või veider mõtlemine,",
         "subtitle": "See on ikkagi veider asi või veider mõtlemine,"
     },
     {
-        "similarity": 18,
+        "similarity": 13,
         "generated": "et kuidagi nagu toetuste kaudu me paneme siis majanduse käima.",
         "subtitle": "et kuidagi toetuste kaudu paneme me majanduse käima..."
     },
@@ -2075,7 +2075,7 @@
         "subtitle": "Mitte toetused, aga investeeringud. - ... selle asemel, et luua tingimused."
     },
     {
-        "similarity": 28,
+        "similarity": 24,
         "generated": "et et ühe, ühe käega sa võtad sellelt samalt ettevõtjalt, et selle selle raha ära,",
         "subtitle": "Ühe käega sa ju võtad sellelt samalt ettevõtjalt raha ära."
     },
@@ -2125,13 +2125,13 @@
         "subtitle": "Baastaristu peab loomulikult olema tagatud"
     },
     {
-        "similarity": 15,
-        "generated": "ja kui Aivar ütleb, et Eestis on kõik praegu hästi ja",
+        "similarity": 10,
+        "generated": "ja kui Aivar ütleb, et Eestis on kõik praegu hästi",
         "subtitle": "ja kui Aivar ütleb, et Eestis on praegu kõik hästi"
     },
     {
-        "similarity": 6,
-        "generated": "sellepärast ei peaks rohkem investeerima,",
+        "similarity": 3,
+        "generated": "ja sellepärast ei peaks rohkem investeerima,",
         "subtitle": "ja selle pärast ei peaks rohkem investeerima,"
     },
     {
@@ -2155,12 +2155,12 @@
         "subtitle": "Ja seda, et me peaksime rohkem investeerima taristusse,"
     },
     {
-        "similarity": 25,
+        "similarity": 19,
         "generated": "taristusse, on, on meile soovitatud väga pikka aega kõikide rahvusvaheliste organisatsioonide poolt",
         "subtitle": "on meile soovitatud väga pikka aega rahvusvaheliste organisatsioonide poolt"
     },
     {
-        "similarity": 18,
+        "similarity": 12,
         "generated": "ja ma arvan, et see samm iseenesest on väga õige.",
         "subtitle": "ja ma arvan, et see samm on iseenesest väga õige."
     },
@@ -2170,12 +2170,12 @@
         "subtitle": "Mida Artur ütles ettevõtete kohta,"
     },
     {
-        "similarity": 30,
+        "similarity": 0,
         "generated": "siis ettevõtete kasumid tõepoolest vähenenud,",
         "subtitle": "siis ettevõtete kasumid tõepoolest vähenevad,"
     },
     {
-        "similarity": 18,
+        "similarity": 15,
         "generated": "aga nad vähenevad ühel väga lihtsal põhjusel.",
         "subtitle": "aga need vähenevad lihtsalt põhjusel."
     },
@@ -2195,23 +2195,23 @@
         "subtitle": "ja see on pikas perspektiivis"
     },
     {
-        "similarity": 16,
+        "similarity": 10,
         "generated": "on Eesti ettevõtete konkurentsivõime tõstmine muu",
         "subtitle": "Eesti ettevõtete konkurentsivõime tõsine mure."
     },
     {
-        "similarity": 34,
-        "generated": "rõhutlikust kui sul ja, ja, ja see",
+        "similarity": 35,
+        "generated": "rõhutlikust kui sul ja, ja,",
         "subtitle": "Kuidas sa tõstad tootlikkust, kui sul kasumit ei ole?"
     },
     {
-        "similarity": 37,
-        "generated": "on see koht, kus Eesti kindlasti üks suurimaid majanduskasvu pärssivaid tegelik nii-öelda faktoreid",
+        "similarity": 21,
+        "generated": "ja see on see koht, kus Eesti kindlasti üks suurimaid majanduskasvu pärssivaid tegelik",
         "subtitle": "Ja see on koht, kus Eesti üks suurimaid majanduskasvu pärssivaid faktoreid"
     },
     {
-        "similarity": 0,
-        "generated": "on Eesti tööturg,",
+        "similarity": 16,
+        "generated": "nii-öelda faktoreid on Eesti tööturg,",
         "subtitle": "on Eesti tööturg,"
     },
     {
@@ -2250,7 +2250,7 @@
         "subtitle": "võrreldes varasemaga,"
     },
     {
-        "similarity": 11,
+        "similarity": 7,
         "generated": "et et parandada meie hariduse kvaliteet. Kui",
         "subtitle": "et parandada meie hariduse kvaliteeti."
     },
@@ -2260,22 +2260,22 @@
         "subtitle": "Me toome tööturule inimesi läbi töövõimereformi,"
     },
     {
-        "similarity": 28,
-        "generated": "me toome tööturule noori inimesi uute meetmetega, mis, mis on, mis on käivitunud.",
+        "similarity": 11,
+        "generated": "me toome tööturule noori inimesi uute meetmetega, mis, mis on, mis on",
         "subtitle": "me toome tööturule noori inimesi uute meetmetega, mis on käivitunud."
     },
     {
-        "similarity": 44,
-        "generated": "Ja kui tööandjad tööturule, aga see on hea,",
+        "similarity": 36,
+        "generated": "käivitunud. Ja kui tööandjad tööturule, aga see on hea, et te juhite riiki kraavi poole,",
         "subtitle": "Tööandjate juht ütleb, et te juhite riiki kraavi poole."
     },
     {
-        "similarity": 59,
-        "generated": "et te juhite riiki kraavi poole, ettevõtja, võti ainult selleks ajaks ära. Vaadake, proovige ühekaupa,",
+        "similarity": 16,
+        "generated": "ettevõtja, võti ainult selleks ajaks ära. Vaadake, proovige ühekaupa,",
         "subtitle": "Ettevõtja on selleks ajaks ära põgenenud. - Proovime ühekaupa."
     },
     {
-        "similarity": 20,
+        "similarity": 14,
         "generated": "vaadake, ma olen. On ju loomulikult kõikide nende tublide inimestega",
         "subtitle": "Vaadake, ma olen loomulikult nende tublide inimestega,"
     },
@@ -2290,7 +2290,7 @@
         "subtitle": "ja tahaks ikka niimoodi, et tahaks saada paremat haridust,"
     },
     {
-        "similarity": 55,
+        "similarity": 6,
         "generated": "kvalifitseeritud neid töötajaid,",
         "subtitle": "kvalifitseeritumaid töötajaid,"
     },
@@ -2315,13 +2315,13 @@
         "subtitle": "Paraku ei ole see võimalik."
     },
     {
-        "similarity": 6,
-        "generated": "me oleme tuvastanud selle ja sellega on tööandjad nõus, et kõige",
+        "similarity": 0,
+        "generated": "me oleme tuvastanud selle ja sellega on tööandjad nõus, et",
         "subtitle": "Me oleme tuvastanud selle ja sellega on tööandjad nõus, et..."
     },
     {
-        "similarity": 20,
-        "generated": "suurem töötingimusi ja toetus,",
+        "similarity": 22,
+        "generated": "kõige suurem töötingimusi ja toetus,",
         "subtitle": "Ettevõtjad tahavd tingimusi, mitte toetusi."
     },
     {
@@ -2330,18 +2330,18 @@
         "subtitle": "... et kõige suurem kitsaskoht on tööjõud ja tööjõu arendamine,"
     },
     {
-        "similarity": 24,
+        "similarity": 20,
         "generated": "Inimestesse investeerimine on kallis tegevus. No kuulge, meil siin",
         "subtitle": "inimestesse investeerimine on kallis tegevus. Ta on kallis tegevus."
     },
     {
-        "similarity": 37,
-        "generated": "demokraatia nüüd toimima annan järjest korra sõna",
+        "similarity": 38,
+        "generated": "demokraatia nüüd toimima annan järjest korra",
         "subtitle": "Demokraatia ei toimi meil siin nüüd. Ma annan korra veel järjest sõna."
     },
     {
-        "similarity": 28,
-        "generated": "veel Sõerd. Taristu investeeringuid mainisite",
+        "similarity": 25,
+        "generated": "sõna veel Sõerd. Taristu investeeringuid mainisite",
         "subtitle": "Sõerd, kõigepealt. - Mainisite taristu investeeringuid."
     },
     {
@@ -2355,7 +2355,7 @@
         "subtitle": "järgmisel 3 aastal, võrreldes varasema strateegiaga."
     },
     {
-        "similarity": 14,
+        "similarity": 9,
         "generated": "noh, suurt poliitika muutust ma siin ei näe, aga mis on nagu põhiline, mida tuleb öelda,",
         "subtitle": "Suurt poliitika muutust ma siin ei näe, aga mis on põhiline, mida tuleb öelda..."
     },
@@ -2370,7 +2370,7 @@
         "subtitle": "et riigipoolset lisastimuleerimist läbi eelarve ei olegi tegelikult vaja."
     },
     {
-        "similarity": 21,
+        "similarity": 15,
         "generated": "see või isegi pikemas kahjuks majandusele kahju tekitada.",
         "subtitle": "See võib pikemas ajas majandusele isegi kahju tekitada,"
     },
@@ -2415,13 +2415,13 @@
         "subtitle": "Veel mõned aastad tagasi oli maksukoormus 32,6%."
     },
     {
-        "similarity": 17,
-        "generated": "ja te olete kehtestamas uusi maksusid ja",
+        "similarity": 19,
+        "generated": "ja te olete kehtestamas uusi maksusid",
         "subtitle": "Te olete kehtestamas uusi makse... - Regulatsioone ka."
     },
     {
-        "similarity": 22,
-        "generated": "ümber pööramas. Noh, kogu see maksusüsteemi,",
+        "similarity": 19,
+        "generated": "ja ümber pööramas. Noh, kogu see maksusüsteemi,",
         "subtitle": "...ja te olete ümber pööramas kogu maksusüsteemi,"
     },
     {
@@ -2435,23 +2435,23 @@
         "subtitle": "Ja see ei ole ainult maksudes,"
     },
     {
-        "similarity": 44,
-        "generated": "Sotši Reinsalu eel",
+        "similarity": 37,
+        "generated": "Sotši Reinsalu eel sulgema,",
         "subtitle": "vaid see on ka regulatsioonides, mida Reinsalu toodab."
     },
     {
-        "similarity": 11,
-        "generated": "sulgema, jätkan siin oma rangete regulatsioonidega,",
+        "similarity": 10,
+        "generated": "jätkan siin oma rangete regulatsioonidega,",
         "subtitle": "Ma jätkan oma rangete regulatsioonidega."
     },
     {
-        "similarity": 19,
-        "generated": "Siim Pohlak kõigepealt ja siis Urmas Reinsalu. Kui tegelikult",
+        "similarity": 0,
+        "generated": "Siim Pohlak kõigepealt ja siis Urmas Reinsalu.",
         "subtitle": "Siim Pohlak kõigepealt ja siis Urmas Reinsalu."
     },
     {
-        "similarity": 8,
-        "generated": "kuulata ettevõtjaid, siis ettevõtjad räägivad,",
+        "similarity": 11,
+        "generated": "Kui tegelikult kuulata ettevõtjaid, siis ettevõtjad räägivad,",
         "subtitle": "Kui kuulata ettevõtjaid, siis ettevõtjad räägivad,"
     },
     {
@@ -2465,7 +2465,7 @@
         "subtitle": "Olles ka ise ettevõtja, siis tööjõumaksud on meil kõrged,"
     },
     {
-        "similarity": 22,
+        "similarity": 16,
         "generated": "neid oleks vaja alandada ja mitte mingi 0,75 või ühe protsendi kaupa,",
         "subtitle": "neid oleks vaja alandada ja mitte 0,75 või 1% kaupa,"
     },
@@ -2505,13 +2505,13 @@
         "subtitle": "ja niimoodi on ka meie IT-tiiger varsti kõhuli."
     },
     {
-        "similarity": 33,
-        "generated": "Aga mis see teie ettepanek on, mis, mis",
+        "similarity": 14,
+        "generated": "Aga mis see teie ettepanek on, mis,",
         "subtitle": "Aga mis on teie ettepanek?"
     },
     {
-        "similarity": 13,
-        "generated": "maksab maksutasemel see arvelt siis katteallikaid otsida.",
+        "similarity": 16,
+        "generated": "mis maksab maksutasemel see arvelt siis katteallikaid otsida.",
         "subtitle": "Mis maksude arvelt siis katteallikaid otsida?"
     },
     {
@@ -2560,12 +2560,12 @@
         "subtitle": "Me maksustame kahjulikku tarbimist ja üldiselt tarbimist."
     },
     {
-        "similarity": 24,
+        "similarity": 23,
         "generated": "rohkem. Ja selles mõttes, kui teil on paremaid alternatiive paku küsima,",
         "subtitle": "Kui teil on paremaid alternatiive, pakkuge välja."
     },
     {
-        "similarity": 49,
+        "similarity": 23,
         "generated": "kas ma pole varem näinud? Ege on pakkunud välja",
         "subtitle": "Küsimus Pohlakule. - EKRE on pakkunud välja,"
     },
@@ -2575,33 +2575,33 @@
         "subtitle": "et võiks rääkida ettevõtete kasumi maksustamisest."
     },
     {
-        "similarity": 32,
-        "generated": "ikkagi tegelik. Ja see ettevõtjatele väga meeldiv ja mitte ma olen rääkinud, nendega",
+        "similarity": 27,
+        "generated": "ikkagi tegelik. Ja see ettevõtjatele väga meeldiv ja mitte ma olen rääkinud,",
         "subtitle": "Ja see ettevõtjatele väga meeldiks! Olen nendega rääkinud,"
     },
     {
-        "similarity": 24,
-        "generated": "nad tõepoolest selle peale. Reinsalu Reinsalu kannatab natukene.",
+        "similarity": 25,
+        "generated": "nendega nad tõepoolest selle peale. Reinsalu Reinsalu kannatab natukene.",
         "subtitle": "selle peale nad plaksutaks. - Rahu, Reinsalu kannatab natukene."
     },
     {
-        "similarity": 4,
-        "generated": "See ei puuduta kõiki ettevõtjaid, EKA",
+        "similarity": 0,
+        "generated": "See ei puuduta kõiki ettevõtjaid,",
         "subtitle": "See ei puuduta kõiki ettevõtjaid."
     },
     {
-        "similarity": 15,
-        "generated": "ettepanek on maksustada keskmisest suuremad Eesti ettevõtjate. Kui",
+        "similarity": 4,
+        "generated": "EKA ettepanek on maksustada keskmisest suuremad Eesti ettevõtjate.",
         "subtitle": "EKRE ettepanek on maksustada keskmisest suuremad Eesti ettevõtted."
     },
     {
-        "similarity": 21,
-        "generated": "vaadata suurettevõtjad, siis Eestis",
+        "similarity": 5,
+        "generated": "Kui vaadata suurettevõtjad, siis",
         "subtitle": "Kui vaadata suurettevõtjaid,"
     },
     {
-        "similarity": 14,
-        "generated": "tegutsevatest 100-st suuremast ettevõttest on pooled väliskapitalil",
+        "similarity": 19,
+        "generated": "Eestis tegutsevatest 100-st suuremast ettevõttest on pooled väliskapitalil",
         "subtitle": "siis 100 suuremast ettevõttest Eestis on pooled väliskapitalil."
     },
     {
@@ -2611,17 +2611,17 @@
     },
     {
         "similarity": 2,
-        "generated": "tuleb maksustada keskmisest suuremad ettevõtted ja",
+        "generated": "tuleb maksustada keskmisest suuremad ettevõtted",
         "subtitle": "Tuleb maksustada keskmisest suuremad ettevõtjad"
     },
     {
-        "similarity": 20,
-        "generated": "sealt see arvestatav. No aga pangamaksu me saime ju, ükskõik",
+        "similarity": 9,
+        "generated": "ja sealt see arvestatav. No aga pangamaksu me saime ju,",
         "subtitle": "ja sealt tuleks arvestatav tulu. - Aga pangamaksu me saime ju,"
     },
     {
-        "similarity": 14,
-        "generated": "kuidas me seda nimetame ja, ja ei tulnud üldse lihtsalt.",
+        "similarity": 6,
+        "generated": "ükskõik kuidas me seda nimetame ja, ja ei tulnud üldse lihtsalt.",
         "subtitle": "ükskõik kuidas me teda nimetame. Ja ei tulnud üldse lihtsalt."
     },
     {
@@ -2630,7 +2630,7 @@
         "subtitle": "Reinsalu, palun. - Kuulge, sõbrad."
     },
     {
-        "similarity": 7,
+        "similarity": 2,
         "generated": "tööjõu maksu langetatakse nominaalis kõige suurem reform,",
         "subtitle": "Tööjõumaks langetatakse nominaalis, kõige suurem reform,"
     },
@@ -2670,12 +2670,12 @@
         "subtitle": "millest me oleme loobunud."
     },
     {
-        "similarity": 46,
+        "similarity": 34,
         "generated": "Diisli tegelikult oleks pidanud olema järgmisest aastast diislikütusemaksutõus.",
         "subtitle": "Järgmisest aastast oleks pidanud olema diiselkütuse maksutõus."
     },
     {
-        "similarity": 41,
+        "similarity": 37,
         "generated": "Me leidsime, et see koormab tegelikult just nimelt diiselkütusel sõitvaid majanduses olevaid autosid,",
         "subtitle": "Leidsime, et see koormab majanduses olevaid diiselkütusel sõitvaid autosid."
     },
@@ -2690,7 +2690,7 @@
         "subtitle": "Siin kõneldi, et ettevõtjatel on kasumit, mida investeerida."
     },
     {
-        "similarity": 12,
+        "similarity": 8,
         "generated": "Artur kõneles seda, et kui kasum võetakse ära,",
         "subtitle": "Artur kõneles, et kasum võetakse ära."
     },
@@ -2750,7 +2750,7 @@
         "subtitle": "mis tähendab ka näiteks maavalitsuste kaotamist."
     },
     {
-        "similarity": 36,
+        "similarity": 31,
         "generated": "Kuid majanduskasvu puhul, kui me kõneleme sellest, et ettevõtjatele anda signaali",
         "subtitle": "Kuid kui kõneleme majanduskasvu puhul sellest, et ettevõtjatele anda signaali,"
     },
@@ -2765,7 +2765,7 @@
         "subtitle": "Viimane uudis erastamise kohta,"
     },
     {
-        "similarity": 24,
+        "similarity": 20,
         "generated": "mis, mida tegelikult me saime teha, Reformierakonna valitsuse ajal",
         "subtitle": "mida saime teha Reformierakonna valitsuse ajal,"
     },
@@ -2775,7 +2775,7 @@
         "subtitle": "oli uudis, et Eesti raudtee taas riigistatakse, ostetakse tagasi."
     },
     {
-        "similarity": 27,
+        "similarity": 21,
         "generated": "Nüüd on meil tegelikult on kokku lepitud konkreetsed erastamisprojektid,",
         "subtitle": "Tegelikult on nüüd kokku lepitud konkreetsed erastamisprojektid,"
     },
@@ -2785,7 +2785,7 @@
         "subtitle": "mida hakkame tegema. Usu mind, Aivar, see on positiivne."
     },
     {
-        "similarity": 41,
+        "similarity": 31,
         "generated": "saatejuht on endale majandust käima ja mina ei oleks rahul selle majandustähelepanu nagu",
         "subtitle": "See tõmbab majandust käima ja mina ei ole rahul majandusolukorraga..."
     },
@@ -2795,13 +2795,13 @@
         "subtitle": "Tähelepanu! Reinsalu! Esimene hoiatus tuleb ära."
     },
     {
-        "similarity": 52,
-        "generated": "ja ma lihtsalt tahan öelda, et ärme hakka seda ajaloo nii-öelda surnud pointut jälle üle aia viskama, et see",
+        "similarity": 48,
+        "generated": "ja ma lihtsalt tahan öelda, et ärme hakka seda ajaloo nii-öelda surnud pointut jälle üle aia viskama, et",
         "subtitle": "Ärme hakka jälle seda ajaloo surnud Pontut jälle üle aia viskama,"
     },
     {
-        "similarity": 12,
-        "generated": "ei anna meile mitte midagi ja see viib meid absoluutselt edasi,",
+        "similarity": 8,
+        "generated": "see ei anna meile mitte midagi ja see viib meid absoluutselt edasi,",
         "subtitle": "see ei anna meile midagi ja ei vii meid absoluutselt edasi."
     },
     {
@@ -2810,13 +2810,13 @@
         "subtitle": "Räägime tulevikust, ideedest ja lahendustest."
     },
     {
-        "similarity": 55,
-        "generated": "et see, kas sina tegid viis aastat seda tagasi, seda keegi ei jaksa seda kuulata.",
+        "similarity": 45,
+        "generated": "et see, kas sina tegid viis aastat seda tagasi, seda keegi ei jaksa seda",
         "subtitle": "Keegi ei jaksa kuulata juttu \"sina tegid viis aastat tagasi seda...."
     },
     {
-        "similarity": 63,
-        "generated": "Pole just kõigepealt see üksikisiku maksuvaba miinimumi reform kui taime, nagu te ütlete",
+        "similarity": 53,
+        "generated": "kuulata. Pole just kõigepealt see üksikisiku maksuvaba miinimumi reform kui taime, nagu te ütlete",
         "subtitle": "Sõerd, palun. - Kõigepealt just üksikisiku maksuvabastuse reform."
     },
     {
@@ -2830,23 +2830,23 @@
         "subtitle": "See on tase, kus on kõrgemad oskustöölised, keskastme juhid."
     },
     {
-        "similarity": 28,
+        "similarity": 22,
         "generated": "need on need töökohad, kus luuakse. Kuni 30 eurot kuus tõeline draama käega",
         "subtitle": "Need on töökohad, kus luuakse... - 30 eurot kuus on tõeline traagika."
     },
     {
-        "similarity": 28,
-        "generated": "inimesed, kel läheb väga hästi ja Euro täiendava",
+        "similarity": 27,
+        "generated": "inimesed, kel läheb väga hästi ja Euro",
         "subtitle": "Inimesed, kellel läheb väga hästi, hakkavad 30 eurot kuus juurde maksma,"
     },
     {
-        "similarity": 19,
-        "generated": "mina ei ole veel kuulnud, et",
+        "similarity": 12,
+        "generated": "täiendava mina ei ole veel kuulnud,",
         "subtitle": "mitte ettevõtjad. - Mina ei ole veel kuulnud,"
     },
     {
-        "similarity": 6,
-        "generated": "maksukoormuse tõstmine, uued maksud, kuidagi majandust edendavad",
+        "similarity": 3,
+        "generated": "et maksukoormuse tõstmine, uued maksud, kuidagi majandust edendavad",
         "subtitle": "et maksukoormuse tõstmine ja uued maksud kuidagi majandust edendavad,"
     },
     {
@@ -2865,18 +2865,18 @@
         "subtitle": "mis teevad meie eksportivate ettevõtete toodangu vähem konkurentsivõimeliseks."
     },
     {
-        "similarity": 67,
+        "similarity": 53,
         "generated": "ja igal juhul. Vabaerakond meetmed, mis te olete toi toi koalitsiooni poolel vastutusele tulevad,",
         "subtitle": "Meetmed, mis te olete välja käinud... - Laseme koalitsioonil vastata,"
     },
     {
-        "similarity": 69,
-        "generated": "endale saab ja laseme koalitsiooni vastata siis Vabaerakonna, et ma olen ikka näed ajaloolase haridust ei ole ka",
+        "similarity": 66,
+        "generated": "endale saab ja laseme koalitsiooni vastata siis Vabaerakonna, et ma olen ikka näed ajaloolase haridust ei ole",
         "subtitle": "siis Vabaerakond. - Ajaloolase haridust ei ole,"
     },
     {
-        "similarity": 16,
-        "generated": "ikkagi veidike minevikku teekasutustasu ja pandi tulumaksuküsimuses",
+        "similarity": 14,
+        "generated": "ka ikkagi veidike minevikku teekasutustasu ja pandi tulumaksuküsimuses",
         "subtitle": "aga ikkagi veidike minevikku. Teekasutustasu ja panditulumaks"
     },
     {
@@ -2885,13 +2885,13 @@
         "subtitle": "said läbi arutatud juba eelmises koalitsioonis,"
     },
     {
-        "similarity": 49,
-        "generated": "lihtsalt nüüd on rakenduvad Reinsalu midagi häda. Kollane kaart on",
+        "similarity": 29,
+        "generated": "lihtsalt nüüd on rakenduvad Reinsalu midagi häda. Kollane kaart",
         "subtitle": "nüüd need lihtsalt rakenduvad. - Reinsalu, teil on üks kollane kaart."
     },
     {
-        "similarity": 20,
-        "generated": "küsimus, mis puudutab tegelikult nüüd seda väidet, mida sa Aivar viitasid,",
+        "similarity": 26,
+        "generated": "on küsimus, mis puudutab tegelikult nüüd seda väidet, mida sa Aivar viitasid,",
         "subtitle": "Küsimus, mis puudutab väidet, millele sa, Aivar, viitasid."
     },
     {
@@ -2920,7 +2920,7 @@
         "subtitle": "ja me viime selle ellu. Leppisime partneritega kokku,"
     },
     {
-        "similarity": 43,
+        "similarity": 28,
         "generated": "leidsime selle ühisosa ja need asjad tuleb ära teha, mida on lubatud.",
         "subtitle": "leidsime selle ühisosa. Asjad, mida on lubatud, tuleb ära teha."
     },
@@ -2940,13 +2940,13 @@
         "subtitle": "205, vabandust. Kuhu me nüüd jõudsime?"
     },
     {
-        "similarity": 12,
-        "generated": "selleni, et mida on lubatud, tuleb katsuda ära teha, see",
+        "similarity": 8,
+        "generated": "selleni, et mida on lubatud, tuleb katsuda ära teha,",
         "subtitle": "Et mida on lubatud, see tuleb katsuda ära teha."
     },
     {
-        "similarity": 31,
-        "generated": "ongi nüüd edasi meis edasi",
+        "similarity": 27,
+        "generated": "see ongi nüüd edasi meis edasi",
         "subtitle": "See ongi poliitika loogika. - Kas see viis meid edasi?"
     },
     {
@@ -2970,7 +2970,7 @@
         "subtitle": "Toon ühe näite. Vabaerakond on kaks korda viinud sisse eelnõu"
     },
     {
-        "similarity": 23,
+        "similarity": 6,
         "generated": "sotsiaalmaksu lae kehtestamiseks ja kaks korda on see seal tagasilükatud,",
         "subtitle": "sotsiaalmaksu lae kehtestamiseks ja kaks korda on see tagasi lükatud."
     },
@@ -2985,7 +2985,7 @@
         "subtitle": "et see tooks vähemalt 10% kõrgepalgalisi töökohti juurde."
     },
     {
-        "similarity": 27,
+        "similarity": 23,
         "generated": "ja, ja seda jällegi teinud, eks ole. Kas Reinsalu kahe lausega hakkama",
         "subtitle": "Seda te jällegi ei teinud. - Kas Reinsalu saab kahe lausega hakkama?"
     },
@@ -2995,32 +2995,32 @@
         "subtitle": "See oli üks eelnõu. Aga teil oli ka teine eelnõu,"
     },
     {
-        "similarity": 47,
-        "generated": "et tõsta üksikisiku tulumaksu, kui me mäleta, mis tuli 25 protsendini detsembris 24",
+        "similarity": 38,
+        "generated": "et tõsta üksikisiku tulumaksu, kui me mäleta, mis tuli 25 protsendini detsembris",
         "subtitle": "et tõsta üksikisiku tulumaksu 25 protsendini. - 24."
     },
     {
-        "similarity": 100,
-        "generated": "protsendi ja kas see on jõudnud maksumäär, selle maksumäär, oleks meil jälle kõrgepalgalisi töökohti välja.",
+        "similarity": 61,
+        "generated": "24 protsendi ja kas see on jõudnud maksumäär, selle maksumäär, oleks meil jälle kõrgepalgalisi töökohti välja.",
         "subtitle": "See maksumäär oleks kõrgepalgalisi töökohti Eestist välja viinud."
     },
     {
-        "similarity": 31,
+        "similarity": 15,
         "generated": "Need asjad ongi, tasakaal oleks lõpet. Ta on ära selle jama,",
         "subtitle": "Need asjad ongi tasakaalus. - See oleks lõpetanud ära jama,"
     },
     {
-        "similarity": 29,
+        "similarity": 27,
         "generated": "et peatas neid neid asju noppima igalt poolt maid ja suhkrujookidest ja, ja, ja",
         "subtitle": "et peate neid asju igalt poolt noppima, suhkrujookidest ja kohtadest,"
     },
     {
-        "similarity": 23,
+        "similarity": 18,
         "generated": "sellistest kohtadest, mis tekitavad ühiskonnas nagu suurt segadust.",
         "subtitle": "mis tekitavad ühiskonnas suurt segadust."
     },
     {
-        "similarity": 59,
+        "similarity": 42,
         "generated": "See oleks üks ja selge olnud ja, ja väga arusaadav. Kuulge me läheme kuhugi detaili mingitel",
         "subtitle": "Oleks üks selge ja arusaadav olnud. - Läheme detailidesse ära."
     },
@@ -3030,7 +3030,7 @@
         "subtitle": "Tahan küsida küsimuse, mida võib-olla oleks pidanud esitama saate alguses."
     },
     {
-        "similarity": 13,
+        "similarity": 8,
         "generated": "et paberi peal ütlete, et nagu kõik on olemas, katteallikad on",
         "subtitle": "Paberi peal ütlete, et kõik on olemas, katteallikad on."
     },
@@ -3040,13 +3040,13 @@
         "subtitle": "Kus see trikk ikkagi on?"
     },
     {
-        "similarity": 26,
-        "generated": "need 12 eelmised valitsused olid nii noh nagu ohmud, et nad",
+        "similarity": 16,
+        "generated": "need 12 eelmised valitsused olid nii noh nagu ohmud,",
         "subtitle": "Kas eelmised valitsused olid lihtsalt nii ohmud,"
     },
     {
-        "similarity": 13,
-        "generated": "ei suutnud seda vahendit üles leida,",
+        "similarity": 5,
+        "generated": "et nad ei suutnud seda vahendit üles leida,",
         "subtitle": "et nad ei suutnud seda vahendit leida?"
     },
     {
@@ -3060,13 +3060,13 @@
         "subtitle": "uutest maksudest, koormustest?"
     },
     {
-        "similarity": 8,
-        "generated": "Et öelge nüüd ausalt ära, kuidas asi on? Ma",
+        "similarity": 3,
+        "generated": "Et öelge nüüd ausalt ära, kuidas asi on?",
         "subtitle": "Öelge nüüd ausalt ära, kuidas asi on."
     },
     {
-        "similarity": 5,
-        "generated": "reedan selle saladuse, siin on peidus üks hirmus trikk,",
+        "similarity": 0,
+        "generated": "Ma reedan selle saladuse, siin on peidus üks hirmus trikk,",
         "subtitle": "Ma reedan selle saladuse. Siin on peidus üks hirmus trikk."
     },
     {
@@ -3115,7 +3115,7 @@
         "subtitle": "madalamad maksud toovad kaasa parema laekumise. - Selge pilt."
     },
     {
-        "similarity": 25,
+        "similarity": 22,
         "generated": "veel oluline majanduspoliitiline aksioom, seda ei ole.",
         "subtitle": "See on majanduspoliitiline aktsioon, seda ei ole mõtet peljata."
     },
@@ -3135,28 +3135,28 @@
         "subtitle": "aktsiiside ja suhkrumaksuga lihtrahva taskust raha võtta."
     },
     {
-        "similarity": 27,
+        "similarity": 22,
         "generated": "tegelikult ei ole õige, õiglane maksu peavad olema õiglased ja",
         "subtitle": "See ei ole õige. Maksud peavad olema ka õiglased."
     },
     {
-        "similarity": 38,
-        "generated": "õiglane ongi see, kui ettevõtjal tekib kasum. Näiteks kui ettevõtjal on 10 miljonit kasumit suurt,",
+        "similarity": 26,
+        "generated": "õiglane ongi see, kui ettevõtjal tekib kasum. Näiteks kui ettevõtjal on 10 miljonit kasumit",
         "subtitle": "Õiglane on, kui ettevõtjal tekib kasum, suurettevõtjal näiteks 10 miljonit,"
     },
     {
-        "similarity": 35,
-        "generated": "et suurettevõtjal kui ta 30 protsendise maksuga võetakse talt sealt kolm miljonit ära,",
+        "similarity": 36,
+        "generated": "suurt, et suurettevõtjal kui ta 30 protsendise maksuga võetakse talt sealt kolm miljonit ära, seitse",
         "subtitle": "30-protsendise maksuga võetakse tal sealt 3 miljonit ära."
     },
     {
-        "similarity": 31,
-        "generated": "seitse miljonit jääb alles, kas ta läheb sellepärast ära, Eestis paneme uksed kinni.",
+        "similarity": 21,
+        "generated": "miljonit jääb alles, kas ta läheb sellepärast ära, Eestis paneme uksed",
         "subtitle": "7 miljonit jääb alles. Kas ta läheb selle peale Eestist ära, sulgeb uksed?"
     },
     {
-        "similarity": 32,
-        "generated": "Ja lähme-lähme edasi meie ühte pargi. Erki Savisaar.",
+        "similarity": 31,
+        "generated": "kinni. Ja lähme-lähme edasi meie ühte pargi. Erki Savisaar.",
         "subtitle": "Läheme edasi. Me ei jää ühte paari kinni. Erki Savisaar?"
     },
     {
@@ -3170,13 +3170,13 @@
         "subtitle": "Nad tegid hiljem ka kokkuvõtte. Selgus, et nad ei saanud"
     },
     {
-        "similarity": 3,
-        "generated": "mitte ühtegi uut töökohta ja tänu sellele reformile",
+        "similarity": 6,
+        "generated": "mitte ühtegi uut töökohta ja tänu sellele reformile ja, ja",
         "subtitle": "mitte ühtegi uut töökohta tänu sellele reformile."
     },
     {
-        "similarity": 6,
-        "generated": "ja, ja kuna oli häbi seda seadust muuta, siis kehtestati uus maks",
+        "similarity": 0,
+        "generated": "kuna oli häbi seda seadust muuta, siis kehtestati uus maks",
         "subtitle": "Kuna oli häbi seda seadust muuta, siis kehtestati uus maks,"
     },
     {
@@ -3185,23 +3185,23 @@
         "subtitle": "nimega solidaarsusmaks ja tulemus on ikkagi sama."
     },
     {
-        "similarity": 13,
-        "generated": "Ikkagi juhtivad ettevõtjad ütlevad, et see toob sisse ja",
+        "similarity": 7,
+        "generated": "Ikkagi juhtivad ettevõtjad ütlevad, et see toob sisse",
         "subtitle": "Kui täna juhtivad ettevõtjad ütlevad, et see toob sisse"
     },
     {
-        "similarity": 16,
-        "generated": "et see on. Need need on mõne mõned ettevõtted,",
+        "similarity": 17,
+        "generated": "ja et see on. Need need on mõne mõned ettevõtted,",
         "subtitle": "ja see on nendele probleem... - Need on mõned ettevõtted,"
     },
     {
-        "similarity": 25,
-        "generated": "kus on hästi suured palga Anuga, aga",
+        "similarity": 27,
+        "generated": "kus on hästi suured palga Anuga,",
         "subtitle": "kus on hästi suured palgad. - ...siis me peame neid kuulama."
     },
     {
-        "similarity": 14,
-        "generated": "enamikule ettevõtetel, nagu see niimoodi ei ole",
+        "similarity": 5,
+        "generated": "aga enamikule ettevõtetel, nagu see niimoodi ei ole",
         "subtitle": "Aga enamikul ettevõtetel see niimoodi ei ole"
     },
     {
@@ -3210,7 +3210,7 @@
         "subtitle": "ja neile mõjub rohkem maksuvaba tõstmine,"
     },
     {
-        "similarity": 45,
+        "similarity": 40,
         "generated": "mis tõstab töötajate palka 60 eurot kuus ja see on sisuliselt nagu kümneprotsendine tõus nendele inimestele.",
         "subtitle": "mis tõstab töötajate palka 60 eurot kuus ja on 10% tõus inimestele."
     },
@@ -3225,23 +3225,23 @@
         "subtitle": "mis statistikaamet on kokku löönud."
     },
     {
-        "similarity": 37,
-        "generated": "ja me näeme, et käesoleval aastal eksport on tõusnud juba kuus",
+        "similarity": 26,
+        "generated": "ja me näeme, et käesoleval aastal eksport on tõusnud juba",
         "subtitle": "Näeme, et käesoleval aastal on eksport juba 6% tõusnud,"
     },
     {
-        "similarity": 27,
-        "generated": "protsenti, mis on nagu päris hea näitaja ja selles osas turismisektor 13",
+        "similarity": 21,
+        "generated": "kuus protsenti, mis on nagu päris hea näitaja ja selles osas turismisektor 13 protsenti,",
         "subtitle": "mis on päris hea näitaja. Ja turismisektor 13%."
     },
     {
-        "similarity": 35,
-        "generated": "protsenti, nii et raha hakkab Eestisse juurde tulema. On eksporditud Läti ja",
+        "similarity": 21,
+        "generated": "nii et raha hakkab Eestisse juurde tulema. On eksporditud Läti",
         "subtitle": "Raha hakkab Eestisse juurde tulema. - Kogu alkohol on eksporditud Lätti."
     },
     {
-        "similarity": 13,
-        "generated": "selge see, et eksport tõuseb, et. Nojah, aga see ongi majandus",
+        "similarity": 16,
+        "generated": "ja selge see, et eksport tõuseb, et. Nojah, aga see ongi majandus",
         "subtitle": "Selge see, et eksport tõuseb. - See ongi majandus."
     },
     {
@@ -3250,12 +3250,12 @@
         "subtitle": "See oli väga huvitav teooria."
     },
     {
-        "similarity": 13,
+        "similarity": 8,
         "generated": "praegu? Et maksulaekumine on väga hea, nagu Reinsalu ütles",
         "subtitle": "On õige, et maksulaekumine on väga hea, nagu Reinsalu ütles."
     },
     {
-        "similarity": 25,
+        "similarity": 21,
         "generated": "ja. Kui, kui kui tulud oleksid kuludega kaetud, siis poleks teil ka ei struktuurset",
         "subtitle": "Kui kulud oleks tuludega kaetud, siis poleks ei struktuurset"
     },
@@ -3265,12 +3265,12 @@
         "subtitle": "ega nominaalset defitsiiti. Aga ometi on teil suur defitsiit."
     },
     {
-        "similarity": 27,
+        "similarity": 18,
         "generated": "aga nüüd sellest dividendide soodus maksumääras 14 protsenti? Noh,",
         "subtitle": "Aga nüüd dividendide soodsast maksumäärast  see on 14%."
     },
     {
-        "similarity": 8,
+        "similarity": 4,
         "generated": "ettevõtjad ise ütlevad, lugege Ivo Vanasauna,",
         "subtitle": "Ettevõtjad ütlevad, lugege Ivo Vanasauna,"
     },
@@ -3285,7 +3285,7 @@
         "subtitle": "et see ei ole argument, et ettevõtted hakkaksid hoogsalt dividende maksma."
     },
     {
-        "similarity": 44,
+        "similarity": 35,
         "generated": "Ja te lootsite sealt, muuseas te loodate saada järgmisel aastal 107 miljonit",
         "subtitle": "Sealt te loodate järgmisel aastal saada 107 miljonit."
     },
@@ -3295,23 +3295,23 @@
         "subtitle": "Seda prognoosi olete juba allapoole tõmmanud ehk 98 miljonile,"
     },
     {
-        "similarity": 49,
+        "similarity": 43,
         "generated": "asemel tõmmata veel allapoole, sellepärast et see, see on, see on natukene trikiga asi,",
         "subtitle": "aga seda tõmbate veel alla, sest see on trikiga asi."
     },
     {
-        "similarity": 37,
+        "similarity": 32,
         "generated": "sest et sisuliselt, et see nagu te loodate, et ettevõtted maksavad dividende välja rohkem,",
         "subtitle": "Sisuliselt te loodate, et ettevõtted maksavad dividende rohkem välja,"
     },
     {
-        "similarity": 1,
-        "generated": "lootes saada tulevikus keskmise dividendimaksumäära 14",
+        "similarity": 10,
+        "generated": "lootes saada tulevikus keskmise dividendimaksumäära 14 protsenti.",
         "subtitle": "lootes saada tulevikus keskmise dividendide maksumäära 14%."
     },
     {
-        "similarity": 36,
-        "generated": "protsenti. Aga see trikk tegelikult noh, teine ei tööta, et",
+        "similarity": 21,
+        "generated": "Aga see trikk tegelikult noh, teine ei tööta, et",
         "subtitle": "Aga see trikk teil ei tööta."
     },
     {
@@ -3320,17 +3320,17 @@
         "subtitle": "Seda prognoosi te tõmbate veel mitu korda alla."
     },
     {
-        "similarity": 85,
+        "similarity": 70,
         "generated": "ja noh, tegelikult see sisuliselt see on ikkagi nii nagu see pangamaks, mis on nüüd nagu ettevõtte kasumimaks krediidiasutustele",
         "subtitle": "Sisuliselt on see nagu pangamaks, kasumi maks krediidiasutustele."
     },
     {
-        "similarity": 10,
+        "similarity": 5,
         "generated": "ka see on sisuliselt nagu järgmiste perioodide tulude ettepoole toomine.",
         "subtitle": "Ka see on sisuliselt järgmiste perioodide tulude ettepoole toomine."
     },
     {
-        "similarity": 12,
+        "similarity": 6,
         "generated": "Ühesõnaga majandus kasvab, maksulaekumised on, on ülihead,",
         "subtitle": "Ühesõnaga, majandus kasvab, maksulaekumised on ülihead."
     },
@@ -3360,27 +3360,27 @@
         "subtitle": "Meil on ikkagi negatiivne SKP lõhe ja me peame sellega arvestama."
     },
     {
-        "similarity": 38,
+        "similarity": 33,
         "generated": "Järelikult meie ambitsioonitase või selle valitsuse ambitsioonitase on palju kõrgem majanduskasv,",
         "subtitle": "Järelikult on selle valitsuse ambitsiooniks palju kõrgem majanduskasv."
     },
     {
-        "similarity": 16,
+        "similarity": 10,
         "generated": "meie ei ütle, et see on lagi, on saavutatud",
         "subtitle": "Meie ei ütle, et lagi on saavutatud."
     },
     {
-        "similarity": 19,
+        "similarity": 17,
         "generated": "ja meil on pigem faas, kus me peaksime hakkama majandust jahutama.",
         "subtitle": "Ja et pigem oleme faasis, kus peaksime hakkama majandust jahutama."
     },
     {
-        "similarity": 33,
+        "similarity": 27,
         "generated": "Nüüd maksumuudatuste puhul ja seda on mulle veidike imestusega ma olen vaadanud,",
         "subtitle": "Maksumuudatuste puhul olen veidike imestades vaadanud,"
     },
     {
-        "similarity": 21,
+        "similarity": 16,
         "generated": "on kritiseeritud, et näete valitsuse heitlik,",
         "subtitle": "et on kritiseeritud, et valitsus on heitlik,"
     },
@@ -3390,13 +3390,13 @@
         "subtitle": "mingites maksumuudatustes teeb ka sammu tagasi, kõrvale,"
     },
     {
-        "similarity": 12,
-        "generated": "arutab sektoriga läbi. Kuule meeles,",
+        "similarity": 0,
+        "generated": "arutab sektoriga läbi.",
         "subtitle": "arutab sektoriga läbi."
     },
     {
-        "similarity": 50,
-        "generated": "kui Reformierakonna valitsuses me olime 2015 kevadel, siis",
+        "similarity": 49,
+        "generated": "Kuule meeles, kui Reformierakonna valitsuses me olime 2015 kevadel, siis",
         "subtitle": "Mul on meeles, et kui olime 2015 kevadel Reformierakonna valitsuses,"
     },
     {
@@ -3425,33 +3425,33 @@
         "subtitle": "Selle magusamaksu puhul oleme arutanud läbi toiduainetööstusega,"
     },
     {
-        "similarity": 44,
+        "similarity": 42,
         "generated": "teinud tegelikult leevendusi, julgete seda meil on nädal, Urmas. Räägime,",
         "subtitle": "teinud ka leevendusi. - Eelmine nädal Urmas Vaino saates seda me nägime."
     },
     {
-        "similarity": 59,
-        "generated": "kui rääkinud oled, nemad on niikuinii oma kriitika on veel arusaadav, nad",
+        "similarity": 32,
+        "generated": "kui rääkinud oled, nemad on niikuinii oma kriitika on veel arusaadav,",
         "subtitle": "Et kui hästi läbi olete rääkinud. - Nende kriitika on arusaadav."
     },
     {
         "similarity": 18,
-        "generated": "eelistaksid, et seda ei ole, seal ikka, tuleb leida",
+        "generated": "nad eelistaksid, et seda ei ole, seal ikka,",
         "subtitle": "Nad eelistaksid, et seda ei ole. - Seal ikka karjuti hääled kähedaks."
     },
     {
-        "similarity": 30,
-        "generated": "mõistlik lahendus. Teine asi oli,",
+        "similarity": 0,
+        "generated": "tuleb leida mõistlik lahendus.",
         "subtitle": "Tuleb leida mõistlik lahendus."
     },
     {
-        "similarity": 23,
-        "generated": "puutusid autode keskkonnalõivu. Kas",
+        "similarity": 9,
+        "generated": "Teine asi oli, puutusid autode keskkonnalõivu.",
         "subtitle": "Teine asi puudutas autode keskkonnalõivu."
     },
     {
-        "similarity": 4,
-        "generated": "selles osas oli kriitika nii tarbijate kui ettevõtjate poolt",
+        "similarity": 2,
+        "generated": "Kas selles osas oli kriitika nii tarbijate kui ettevõtjate poolt",
         "subtitle": "Ka selle osas oli kriitika, nii tarbijate kui ettevõtjate poolt."
     },
     {
@@ -3460,7 +3460,7 @@
         "subtitle": "Me ütlesime, et jääb ära. Autode maks, keskkonnalõiv jääb ära,"
     },
     {
-        "similarity": 27,
+        "similarity": 26,
         "generated": "niisugust vara maksustamist ei tule, siis on leib jaoks.",
         "subtitle": "sellist vara maksustamist ei tule. - On see siis lõiv või maks?"
     },
@@ -3495,7 +3495,7 @@
         "subtitle": "mingeid asju muudame ja mingid asjad teeme ära."
     },
     {
-        "similarity": 62,
+        "similarity": 52,
         "generated": "Et see, mis puudutas neid dividendide puhul, et kas see on nagunii-öelda tegelikult laekub ära või mitte.",
         "subtitle": "Dividendide puhul  kas see tegelikult laekub või mitte?"
     },
@@ -3510,12 +3510,12 @@
         "subtitle": "See põhineb väga selgelt rahandusministeeriumi analüüsil"
     },
     {
-        "similarity": 51,
+        "similarity": 48,
         "generated": "ja mina usun sellesse, et teie dividendidelt võiks olla, kui regulaarselt võetakse välja madalam maksumäär,",
         "subtitle": "ja mina usun, et regulaarselt võetavatel dividendidel võiks olla madalam maks."
     },
     {
-        "similarity": 21,
+        "similarity": 18,
         "generated": "et me, kas sa toetad madalamat maksumäära, mis arvad, et võiks jätta 20-le,",
         "subtitle": "Kas sa toetad madalamat maksumäära või arvad, et võiks 20 jätta?"
     },
@@ -3525,7 +3525,7 @@
         "subtitle": "Küsimus on ju selles. Kui Lätis on 15,"
     },
     {
-        "similarity": 29,
+        "similarity": 26,
         "generated": "Miks me tahame, et siis lükata Eesti ettevõtteid hoopis Läti ja kui olid",
         "subtitle": "miks me tahame Eesti ettevõtteid hoopis Lätti lükata?"
     },
@@ -3550,17 +3550,17 @@
         "subtitle": "Veel arvamusi? - Tehke kõigile 14."
     },
     {
-        "similarity": 6,
-        "generated": "Pohlak ja ettevõtjad lükkab minema ikkagi tööjõumaksud, et",
+        "similarity": 3,
+        "generated": "Pohlak ja ettevõtjad lükkab minema ikkagi tööjõumaksud,",
         "subtitle": "Pohlak? - Ettevõtjad lükkavad minema ikkagi tööjõumaksud."
     },
     {
-        "similarity": 17,
-        "generated": "see käibemaksu tuleb jõuliselt alandada, mida me teeme",
+        "similarity": 12,
+        "generated": "et see käibemaksu tuleb jõuliselt alandada, mida me teeme",
         "subtitle": "Just, ja tööjõumaksu tuleb jõuliselt alandada, mida me teeme."
     },
     {
-        "similarity": 31,
+        "similarity": 18,
         "generated": "0,17 protsenti ja 0,5 protsenti sisemajanduse kogu.",
         "subtitle": "0,75%... - 0,75% sisemajanduse koguproduktist!"
     },
@@ -3600,12 +3600,12 @@
         "subtitle": "Jah, pensionäri käest suhkrumaksu... - Ei, vastupidi."
     },
     {
-        "similarity": 45,
+        "similarity": 44,
         "generated": "kas kas teie vaate sulle, okei see, et kui inimesel, olgu ta pension või olgu ta tegelikult",
         "subtitle": "Kas teie vaates on okei, kui inimesel pension või palk"
     },
     {
-        "similarity": 29,
+        "similarity": 22,
         "generated": "palk, et 500 eurot on selline sissetulek, et selle pealt on mõistlik? Tulumaksu võtta,",
         "subtitle": "on 500 eurot, siis see on sissetulek, mille pealt on mõistlik tulumaksu võtta?"
     },
@@ -3615,12 +3615,12 @@
         "subtitle": "Sealt tuleb võitu 60 eurot. - Kuus."
     },
     {
-        "similarity": 57,
+        "similarity": 40,
         "generated": "Jah, aga samas ma ei tea, kas Jevgeni on vaadata näiteks kui palju tavalisem igal liikmel perel näiteks",
         "subtitle": "Ma ei tea, kas Jevgeni on vaadanud, kui palju tavalisel neljaliikmelisel perel,"
     },
     {
-        "similarity": 37,
+        "similarity": 33,
         "generated": "kes joob, ma ei tea, kolm pakki apelsinimahla nädalas. Et kui palju aasta lõikes nende kulud tõusevad",
         "subtitle": "kes joob kolm pakki apelsinimahla nädalas, aasta lõikes kulud tõusevad?"
     },
@@ -3650,17 +3650,17 @@
         "subtitle": "Maksustamise põhiline eesmärk on motiveerida tarbimist vähendama."
     },
     {
-        "similarity": 27,
+        "similarity": 21,
         "generated": "on see silmakirjalik? Jevgeni, see on hästi. Kallis Artur,",
         "subtitle": "See on silmakirjalik, Jevgeni. - Ei, kallis Artur."
     },
     {
-        "similarity": 35,
+        "similarity": 30,
         "generated": "kallis selle tulemus. Kallisaar. Praegu on alkohol rännanud.",
         "subtitle": "Selle tulemusena on alkohol praegu Lätti rännanud."
     },
     {
-        "similarity": 22,
+        "similarity": 21,
         "generated": "Kallis, kallis Artur, ära sina alkoholitootja jutupunkte ette ei näe,",
         "subtitle": "Kallis Artur, ära sina siin alkoholitootjate juttu ette loe."
     },
@@ -3670,23 +3670,23 @@
         "subtitle": "Kui palju eelmisel aastal alkoholi Lätis tarbiti?"
     },
     {
-        "similarity": 55,
+        "similarity": 51,
         "generated": "kui palju tarbite inimene mul on sõber, ütle mulle. Räägime faktidest, ära räägi anekdoot,",
         "subtitle": "Mul on endal tuttav inimene... - Räägime faktidest, mitte anekdoote."
     },
     {
-        "similarity": 36,
+        "similarity": 34,
         "generated": "kui räägi korraga pood. Kui",
         "subtitle": "...kes peab Lätis poodi ja alkohol läheb sinna."
     },
     {
-        "similarity": 51,
-        "generated": "palju eelmisel aastal alkoholi Lätis, kallid poliitikud alla kirjutama ühekaupa",
+        "similarity": 54,
+        "generated": "palju eelmisel aastal alkoholi Lätis, kallid poliitikud alla kirjutama ühekaupa ja, ja, ja",
         "subtitle": "Kallid poliitikud, räägime palun ühe kaupa."
     },
     {
-        "similarity": 62,
-        "generated": "ja, ja, ja see, mis ma tahan öelda. Et küsimus on sellest see, kas inimene, kes vajab arsti juurde,",
+        "similarity": 43,
+        "generated": "see, mis ma tahan öelda. Et küsimus on sellest see, kas inimene, kes vajab arsti juurde,",
         "subtitle": "Tahan öelda, et inimene, kes läheb arsti juurde,"
     },
     {
@@ -3705,12 +3705,12 @@
         "subtitle": "ta ei saa sinna minemata jätta, ta peab teenuse kätte saama"
     },
     {
-        "similarity": 31,
+        "similarity": 21,
         "generated": "Riik peab seda teenust pakkuma. Inimene, kes on laps, peab saama haridust.",
         "subtitle": "ja riik peab seda teenust pakkuma. Laps peab saama haridust."
     },
     {
-        "similarity": 15,
+        "similarity": 9,
         "generated": "Ta peab seda saama. See on riigi huvis, on inimese huvi.",
         "subtitle": "Ta peab seda saama, see on riigi ja inimese huvi."
     },
@@ -3740,32 +3740,32 @@
         "subtitle": "Inimene saab valida ka seda, kas ta joob kolm pudelit õlut või ühe."
     },
     {
-        "similarity": 6,
-        "generated": "õlut. See on see koht, kus me tõepoolest tahame selleks, et",
+        "similarity": 3,
+        "generated": "õlut. See on see koht, kus me tõepoolest tahame selleks,",
         "subtitle": "Ja see on see koht, kus me tõepoolest tahame selleks,"
     },
     {
-        "similarity": 8,
-        "generated": "inimesed elaksid tervemana. Ja vähendaksid oma kahjulikku tarbimist.",
+        "similarity": 5,
+        "generated": "et inimesed elaksid tervemana. Ja vähendaksid oma kahjulikku tarbimist.",
         "subtitle": "et inimesed elaksid tervena ja vähendaksid kahjulikku tarbimist..."
     },
     {
-        "similarity": 19,
-        "generated": "Jevgeni tahab motiveerida. Kui te tahate,",
+        "similarity": 15,
+        "generated": "Jevgeni tahab motiveerida.",
         "subtitle": "Jevgeni, kui te tahate,"
     },
     {
-        "similarity": 0,
-        "generated": "et inimene elaks tervena ja panete suhkrumaksusid,",
+        "similarity": 16,
+        "generated": "Kui te tahate, et inimene elaks tervena ja panete suhkrumaksusid,",
         "subtitle": "et inimene elaks tervena ja panete suhkrumaksu,"
     },
     {
-        "similarity": 30,
+        "similarity": 20,
         "generated": "te peate kõikidele suhkrutoodetele selle maksu panema.",
         "subtitle": "siis peate selle maksu kõikidele suhkrutoodetele panema."
     },
     {
-        "similarity": 40,
+        "similarity": 39,
         "generated": "Miks ja kas ja ka magus räägime, räägime aseainet, ma võin eraldi saate sellest teha,",
         "subtitle": "Ja ka magusa aseainetele. - Võin sellest eraldi saate teha."
     },
@@ -3775,7 +3775,7 @@
         "subtitle": "See on väga hea küsimus. Jogurtid, kohukesed, kommid, küpsised..."
     },
     {
-        "similarity": 27,
+        "similarity": 16,
         "generated": "suhkrut",
         "subtitle": "Kõik on suhkrut täis."
     },
@@ -3785,7 +3785,7 @@
         "subtitle": "Väga lihtne. Sellepärast, et A. See on kõige suurem..."
     },
     {
-        "similarity": 25,
+        "similarity": 19,
         "generated": "see, ma räägin analüüsides ma räägin ja emotsioonidest on,",
         "subtitle": "Ma räägin analüüsidest, ma ei räägi emotsioonidest."
     },
@@ -3800,12 +3800,12 @@
         "subtitle": "sest inimesed tarbivad jookide kaudu kõige rohkem ülemäärast suhkrut,"
     },
     {
-        "similarity": 32,
+        "similarity": 28,
         "generated": "eriti noored. Sellepärast et joomist joogi sisse joomist ei käsitle inimesed ise toidukorrana",
         "subtitle": "eriti noored. Sest joogi joomist ei käsitle inimesed toidukorrana."
     },
     {
-        "similarity": 29,
+        "similarity": 26,
         "generated": "ja sellepärast nad ei arvesta neid kaloreid sisse oma päevasesse tarbimisse, mida nad",
         "subtitle": "Seepärast ei arvesta nad neid kaloreid oma päevasesse tarbimisse sisse,"
     },
@@ -3825,17 +3825,17 @@
         "subtitle": "Ei ole mõtet kehtestada maksu, mille administreerimine on sama kallis"
     },
     {
-        "similarity": 53,
-        "generated": "kui, kui see tulu, mis sealt kokku tuleb, väga suur jama on ju inimestele meelde",
+        "similarity": 40,
+        "generated": "kui, kui see tulu, mis sealt kokku tuleb, väga suur jama on ju inimestele meelde ja",
         "subtitle": "kui sealt tulev tulu. Väga suur jama, inimestele ei meeldi"
     },
     {
-        "similarity": 23,
-        "generated": "ja tegelikult lõpuks seda efekti ei tulegi maksumaksjate",
+        "similarity": 22,
+        "generated": "tegelikult lõpuks seda efekti ei tulegi maksumaksjate",
         "subtitle": "ja lõpuks seda efekti ei tulegi. - Maksustage suhkur ära"
     },
     {
-        "similarity": 13,
+        "similarity": 12,
         "generated": "peale aspartaami on ja ja see on üleilmne praktika,",
         "subtitle": "ja aspartaam, ja on korras. - See on üleilme praktika,"
     },
@@ -3845,23 +3845,23 @@
         "subtitle": "OECD viimased soovitused suhkru maksustamisest ütlevad,"
     },
     {
-        "similarity": 23,
+        "similarity": 18,
         "generated": "et universaalset hästi toimiv maksu on just nimelt lisatud suhkruga jookide maksustamine",
         "subtitle": "et universaalselt hästi toimiv maks on just lisatud suhkruga jookide maks."
     },
     {
-        "similarity": 14,
+        "similarity": 8,
         "generated": "kõikide muude suhkrutoodete maksustamine oluliselt keerulisem,",
         "subtitle": "Kõikide muude suhkruga toodete maksustamine on oluliselt keerulisem,"
     },
     {
-        "similarity": 14,
-        "generated": "sest seal on keeruline tuvastada, kui suur see suhkru kogus seal.",
+        "similarity": 4,
+        "generated": "sest seal on keeruline tuvastada, kui suur see suhkru kogus",
         "subtitle": "sest seal on keeruline tuvastada, kui suur on suhkru kogus."
     },
     {
-        "similarity": 17,
-        "generated": "Kuulge te veel arvamusega Reinsalu ja siis siia puhmakule,",
+        "similarity": 21,
+        "generated": "seal. Kuulge te veel arvamusega Reinsalu ja siis siia puhmakule,",
         "subtitle": "Okei. Veel arvamusi? Reinsalu ja siis Pohlakule."
     },
     {
@@ -3870,12 +3870,12 @@
         "subtitle": "Ega ma üldiselt maksude sõber ei ole."
     },
     {
-        "similarity": 17,
+        "similarity": 7,
         "generated": "et alati kui oleks võimalik maksu kaotada, maksu vähendada,",
         "subtitle": "Alati, kui oleks võimalik makse kaotada või vähendada,"
     },
     {
-        "similarity": 35,
+        "similarity": 29,
         "generated": "masendav toetud vahede puhul on, mis puudutab seda alkoholi, ma arvan, et",
         "subtitle": "ma seda toetan. Pahede puhul, mis puudutab alkoholi, peab..."
     },
@@ -3890,7 +3890,7 @@
         "subtitle": "kus inimeste ostujõud sisuliselt kasvas selles mõttes,"
     },
     {
-        "similarity": 36,
+        "similarity": 32,
         "generated": "alkoholipudeleid, palju sai poest osta, ühes kuus kasvas.",
         "subtitle": "et kui palju pudeleid alkoholi ta sai poest ühes kuus osta."
     },
@@ -3900,37 +3900,37 @@
         "subtitle": "See tuleb tasakaalus hoida ja seda me selle sammuga ka saavutame."
     },
     {
-        "similarity": 33,
+        "similarity": 23,
         "generated": "Nüüd küsimus on selles, mis oli väga oluline põhimõte,",
         "subtitle": "See oli väga oluline põhimõte."
     },
     {
-        "similarity": 38,
+        "similarity": 32,
         "generated": "et nendes mahlades, et tegelikult on, me taotleme erandit naturaalsete mahlade puhul",
         "subtitle": "Me taotleme erandit naturaalsete mahlade puhul."
     },
     {
-        "similarity": 39,
+        "similarity": 29,
         "generated": "ja teiseks, et kui mahlas või ükskõik mis magusjoogis selles magusas vees",
         "subtitle": "Teiseks, kui mahlas või magusjoogis või müüdavas magusas vees"
     },
     {
-        "similarity": 59,
-        "generated": "mida müüakse, et kui seal on alla viie milligrammi suhkrut tegelikult ühe liitri",
+        "similarity": 35,
+        "generated": "mida müüakse, et kui seal on alla viie milligrammi suhkrut tegelikult",
         "subtitle": "on ühe liitri kohta alla 5 milligrammi suhkrut,"
     },
     {
-        "similarity": 18,
-        "generated": "kohta, siis mingisugust maksu sellel ei ole.",
+        "similarity": 26,
+        "generated": "ühe liitri kohta, siis mingisugust maksu sellel ei ole.",
         "subtitle": "siis sellele mingit maksu ei ole."
     },
     {
-        "similarity": 54,
+        "similarity": 44,
         "generated": "Tegelikkuses inimestel on võimalik ka noh, kes tahab juua karastusjooke, loomulikult",
         "subtitle": "Inimestel, kes tahavad juua karastusjooke, on võimalus,"
     },
     {
-        "similarity": 21,
+        "similarity": 10,
         "generated": "need tarbimisalternatiivid on, mida ei ole mingilgi moel maksustatud",
         "subtitle": "on tarbimisalternatiivid, mida ei ole mingil moel maksustatud."
     },
@@ -3940,7 +3940,7 @@
         "subtitle": "Kui kõneleme sellest, mis selle konsolideeritud laekumine võiks olla."
     },
     {
-        "similarity": 28,
+        "similarity": 24,
         "generated": "et kui me kõneleme, et kas see ligi 700 eurot aastas ühele inimesele,",
         "subtitle": "Kas see ligi 700 eurot aastas ühele inimesele,"
     },
@@ -3955,7 +3955,7 @@
         "subtitle": "kas see tegelikult kompenseerib seda,"
     },
     {
-        "similarity": 41,
+        "similarity": 39,
         "generated": "siis ma võin seda öelda, et see tegelikult kõneleb leibkonna kohta, me räägime paarist eurost kuus,",
         "subtitle": "siis ma võin öelda, et leibkonna kohta on see paar eurot kuus,"
     },
@@ -3965,38 +3965,38 @@
         "subtitle": "kui ta senist tarbimisharjumust ei muuda."
     },
     {
-        "similarity": 42,
-        "generated": "nii ante ettepanekuga, mida Arturil oli, et teha kogu",
+        "similarity": 36,
+        "generated": "nii ante ettepanekuga, mida Arturil oli, et teha kogu läbiv.",
         "subtitle": "Arturi ettepanek teha läbiv suhkrumaks"
     },
     {
-        "similarity": 77,
-        "generated": "läbiv. Ei, ma räägin, suhkru, ma küll teen see kindlasti mõjutaks inimesi tarbijaid olulist. Kahjuri Reinsalu ma rääkisin",
+        "similarity": 71,
+        "generated": "Ei, ma räägin, suhkru, ma küll teen see kindlasti mõjutaks inimesi tarbijaid olulist. Kahjuri Reinsalu ma rääkisin",
         "subtitle": "mõjutaks tarbijaid rohkem, kahjulikumalt. - Ei, Reinsalu, ma rääkisin,"
     },
     {
-        "similarity": 23,
-        "generated": "sellest, et see on silmakirjalik, kuidas te ütlete, et",
+        "similarity": 20,
+        "generated": "sellest, et see on silmakirjalik, kuidas te ütlete,",
         "subtitle": "et on silmakirjalik öelda,"
     },
     {
-        "similarity": 6,
-        "generated": "vot selle jookidele pandud suhkrumaksuga te võitlete Eesti rahva tervise eest,",
+        "similarity": 8,
+        "generated": "et vot selle jookidele pandud suhkrumaksuga te võitlete Eesti rahva tervise eest,",
         "subtitle": "et jookidele pandud suhkrumaksuga te võitlete Eesti rahva tervise eest."
     },
     {
-        "similarity": 23,
+        "similarity": 13,
         "generated": "kui teised kohad on kõik suhkrut täis, et",
         "subtitle": "Kui kõik teised kohad on suhkrut täis."
     },
     {
-        "similarity": 15,
-        "generated": "et ärge sellist silmakirjalik. Kuhu selged nende",
+        "similarity": 11,
+        "generated": "et ärge sellist silmakirjalik. Kuhu selged",
         "subtitle": "Ärge sellist silmakirjalikku argumenti..."
     },
     {
-        "similarity": 21,
-        "generated": "arvu, majja, selgitusi sulle? See on kõigil erinev",
+        "similarity": 23,
+        "generated": "nende arvu, majja, selgitusi sulle? See on kõigil erinev",
         "subtitle": "Ma ju selgitasin sulle. A. See on kõige lihtsam."
     },
     {
@@ -4015,33 +4015,33 @@
         "subtitle": "Käiku lähevad suhkruasendajad... - Need lähevad ka maksu alla,"
     },
     {
-        "similarity": 62,
-        "generated": "selleks, et mitte motiveerida tootjaid minema suhkrut üle suhkru asemel. Ja kui",
+        "similarity": 33,
+        "generated": "selleks, et mitte motiveerida tootjaid minema suhkrut üle suhkru asemel. Ja",
         "subtitle": "et tootjad ei oleks motiveeritud minema üle suhkruasendajatele."
     },
     {
-        "similarity": 13,
-        "generated": "Reinsalu ütles samamoodi mitte magusamaks ka",
+        "similarity": 17,
+        "generated": "kui Reinsalu ütles samamoodi mitte magusamaks ka",
         "subtitle": "Reinsalu ütles samamoodi pakendimaks."
     },
     {
-        "similarity": 13,
+        "similarity": 11,
         "generated": "pakendid, inimesed tarbijapakendit igapäevase",
         "subtitle": "Kui inimesed tarbivad pakendeid iga päev,"
     },
     {
-        "similarity": 40,
-        "generated": "pakendiaktsiis, et tegelikult summa summarum, see. Toote tore.",
+        "similarity": 34,
+        "generated": "pakendiaktsiis, et tegelikult summa",
         "subtitle": "siis see pakendiaktsiis... Summa summarum, tore on öelda..."
     },
     {
-        "similarity": 37,
-        "generated": "Keskkond. Aga aga, aga ta",
+        "similarity": 33,
+        "generated": "summarum, see. Toote tore. Keskkond. Aga aga,",
         "subtitle": "Pakendeid võiks ka vähem kasutada, et keskkonda säästa."
     },
     {
-        "similarity": 15,
-        "generated": "tahes-tahtmata tekib hinnatõus ka kõik asjad, mis on kuidagi pakitud.",
+        "similarity": 19,
+        "generated": "aga ta tahes-tahtmata tekib hinnatõus ka kõik asjad, mis on kuidagi pakitud.",
         "subtitle": "Tahes tahtmata tekkib hinnatõus kõigele, mis on kuidagi pakitud."
     },
     {
@@ -4055,7 +4055,7 @@
         "subtitle": "tarbida toormahla. Osta apelsine. Või veelgi parem:"
     },
     {
-        "similarity": 18,
+        "similarity": 12,
         "generated": "vöötmes on kasutada kodumaiseid puuvilju ja marju, millest saab ka väga head mahla teha",
         "subtitle": "kasutada kodumaiseid puuvilju ja marju, millest saab ka väga head mahla teha."
     },
@@ -4100,7 +4100,7 @@
         "subtitle": "See probleem on laiem."
     },
     {
-        "similarity": 32,
+        "similarity": 25,
         "generated": "ja, ja ega ei ole sellist ühte võluvitsa, mis nagu kõik mured ära lahendaks,",
         "subtitle": "Ei ole ühte võluvitsa, mis kõik mured lahendab."
     },
@@ -4135,18 +4135,18 @@
         "subtitle": "Tegelikkuses on küsimus selles, et kui tahame  ja see on"
     },
     {
-        "similarity": 35,
-        "generated": "see on põhimõtteline väärtus, valik, et kas me võtame inimestelt raha ära,",
+        "similarity": 26,
+        "generated": "see on põhimõtteline väärtus, valik, et kas me võtame inimestelt raha ära, mida",
         "subtitle": "põhimõtteline väärtuse valik  et inimestelt võtta raha ära maksudega."
     },
     {
-        "similarity": 29,
-        "generated": "mida nad on oma tööga teeninud. Teete,",
+        "similarity": 42,
+        "generated": "nad on oma tööga teeninud. Teete, teete siis läbi, mida nad on",
         "subtitle": "Seda te teete. - Mida nad on ise teeninud,"
     },
     {
-        "similarity": 92,
-        "generated": "teete siis läbi, mida nad on ise teeninud läbi oma tööjõu maksu ja siis jagame seda mingit toetustena välja,",
+        "similarity": 18,
+        "generated": "ise teeninud läbi oma tööjõu maksu ja siis jagame seda mingit toetustena välja,",
         "subtitle": "läbi tööjõumaksu. Ja siis jagame seda mingite toetustena välja."
     },
     {
@@ -4165,23 +4165,23 @@
         "subtitle": "kes teenivad keskmist palka või alla selle,"
     },
     {
-        "similarity": 12,
+        "similarity": 6,
         "generated": "on tulumaksuvaba miinimum, alla 500 euro",
         "subtitle": "tulumaksuvaba miinimum alla 500 euro"
     },
     {
-        "similarity": 9,
-        "generated": "ja tulumaksumäär Eestis jääb 20 protsenti.",
+        "similarity": 5,
+        "generated": "ja tulumaksumäär Eestis jääb 20 protsenti. Ja",
         "subtitle": "ja tulumaksumäär Eestis jääb 20%."
     },
     {
-        "similarity": 35,
-        "generated": "Ja uskuge mind, mida esimest korda rahandusministeeriumi analüütikud Aivar olid ka nõus",
+        "similarity": 18,
+        "generated": "uskuge mind, mida esimest korda rahandusministeeriumi analüütikud Aivar",
         "subtitle": "Uskuge mind, esimest korda olid ka rahandusministeeriumi analüütikud nõus,"
     },
     {
         "similarity": 50,
-        "generated": "sellega, et see on nii suur raha hulk, mis tarbijatele kätte,",
+        "generated": "olid ka nõus sellega, et see on nii suur raha hulk, mis tarbijatele kätte,",
         "subtitle": "et raha hulk, mis tarbijatel kätte jääb, on nii suur,"
     },
     {
@@ -4190,7 +4190,7 @@
         "subtitle": "et tegelikkuses see stimuleerib ka sisetarbimist."
     },
     {
-        "similarity": 30,
+        "similarity": 24,
         "generated": "sest need inimesed tuleb ausalt tunnistada, et kui on inimese palk on 500 600 eurot,",
         "subtitle": "Tuleb ju ausalt tunnistada, et kui inimese palk on 500-600 eurot,"
     },
@@ -4205,7 +4205,7 @@
         "subtitle": "ja ka see elavdab majandust ja selles ei ole midagi halba."
     },
     {
-        "similarity": 35,
+        "similarity": 19,
         "generated": "mis öelda, olnud sellest, et noh,",
         "subtitle": "Mida Sõerd sellest jutust arvab?"
     },
@@ -4215,12 +4215,12 @@
         "subtitle": "See ülikeeruline 6000 astmest koosnev tulumaksusüsteem,"
     },
     {
-        "similarity": 21,
+        "similarity": 12,
         "generated": "mille ainukesena rakendamine ainuüksi maksuameti IT-ümberkorraldamist,",
         "subtitle": "mille ainuüksi rakendamine, maksuameti IT ümber korraldamine"
     },
     {
-        "similarity": 8,
+        "similarity": 4,
         "generated": "kes läheb maksma miljoneid eurosid ja veel kord",
         "subtitle": "läheb maksma miljoneid eurosid. Ja veel kord!"
     },
@@ -4230,7 +4230,7 @@
         "subtitle": "Juba oskustöölise tasemel hakkab maksukoormus tõusma,"
     },
     {
-        "similarity": 9,
+        "similarity": 5,
         "generated": "alates 1750-lt, mitte palgast, aga sissetulekust",
         "subtitle": "kui alates 1770. Mitte palgast, aga sissetulekust."
     },
@@ -4240,7 +4240,7 @@
         "subtitle": "Seadus ei räägi palgast. Seadus räägib aasta sissetulekust."
     },
     {
-        "similarity": 25,
+        "similarity": 15,
         "generated": "Aga muidugi noh, täiesti noh, vale on ettekujutus,",
         "subtitle": "Aga muidugi on täiesti vale ettekujutus,"
     },
@@ -4255,7 +4255,7 @@
         "subtitle": "See magustatud jookide maks:"
     },
     {
-        "similarity": 15,
+        "similarity": 10,
         "generated": "joogid, jookide osakaal suhkru tarbimisest on viis protsenti.",
         "subtitle": "jookide osakaal suhkru tarbimisest on 5 protsenti."
     },
@@ -4265,17 +4265,17 @@
         "subtitle": "Seda ütleb Tervise Arengu Instituut. Esimesel kohal on kondiitritooted,"
     },
     {
-        "similarity": 6,
-        "generated": "siis tulevad kohvi, suhkrut, kompvekid, siis",
+        "similarity": 1,
+        "generated": "siis tulevad kohvi, suhkrut, kompvekid,",
         "subtitle": "siis tulevad kohvisuhkrud, kompvekid,"
     },
     {
-        "similarity": 9,
-        "generated": "tulevad magustatud piimatooted. Siis tulevad manustatud mahlad",
+        "similarity": 1,
+        "generated": "siis tulevad magustatud piimatooted. Siis tulevad manustatud mahlad",
         "subtitle": "siis tulevad magustatud piimatooted, siis tulevad magustatud mahlad."
     },
     {
-        "similarity": 23,
+        "similarity": 8,
         "generated": "viimasel kohal. Viis protsenti on, on magustatud joogid.",
         "subtitle": "Ja viimasel kohal - 5% peal on magustatud joogid."
     },
@@ -4300,7 +4300,7 @@
         "subtitle": "Juba 10% tarbitakse Läti päritolu alkoholi,"
     },
     {
-        "similarity": 19,
+        "similarity": 15,
         "generated": "Lõuna-Eestis 30 protsenti lahjat alkoholi. Noh, kangete vahva. Et",
         "subtitle": "Lõuna-Eestis 30%, lahjat alkoholi, kanget ja lahjat."
     },
@@ -4315,28 +4315,28 @@
         "subtitle": "kui lahja alkoholi aktsiisimäärad 1. juulist tõusevad"
     },
     {
-        "similarity": 21,
-        "generated": "Euroopa absoluutsesse tippu ja väga inimesed ostavad Lätis, siis nad ostavad,",
+        "similarity": 19,
+        "generated": "Euroopa absoluutsesse tippu ja väga inimesed ostavad Lätis, siis nad",
         "subtitle": "Euroopa absoluutsesse tippu. Kui inimesed ostavad Lätist,"
     },
     {
-        "similarity": 10,
-        "generated": "ma teen nüüd suuri koguseid korraga. Aitäh, Aivar Sõerd",
+        "similarity": 15,
+        "generated": "ostavad, ma teen nüüd suuri koguseid korraga. Aitäh, Aivar Sõerd",
         "subtitle": "siis nad ostavad suuri koguseid korraga. - Aitäh, Aivar Sõerd."
     },
     {
-        "similarity": 36,
+        "similarity": 24,
         "generated": "on aitäh. Ma teen praegu hästi konkreetselt olema viis minutit saate lõpuni,",
         "subtitle": "Ma teen hästi konkreetselt. Meil on viis minutit saate lõpuni."
     },
     {
-        "similarity": 13,
-        "generated": "siis läks kaks palli nüüd üles, et kumma uuring oli täpsem, kas",
+        "similarity": 9,
+        "generated": "siis läks kaks palli nüüd üles, et kumma uuring oli täpsem,",
         "subtitle": "Siit läks kaks palli üles. Kumma uuring oli täpsem?"
     },
     {
-        "similarity": 14,
-        "generated": "Ossinovski või Sõerdi oma selle magusa tarbimisega?",
+        "similarity": 10,
+        "generated": "kas Ossinovski või Sõerdi oma selle magusa tarbimisega?",
         "subtitle": "Kas Ossinovski või Sõerdi oma magusa tarbimise kohta?"
     },
     {
@@ -4360,7 +4360,7 @@
         "subtitle": "Võib-olla seal oli eraldi kategooria Coca-Cola kohta."
     },
     {
-        "similarity": 24,
+        "similarity": 6,
         "generated": "me räägime kõikidest jookidest, kus on, kus on suhkru sees.",
         "subtitle": "Me räägime kõikidest jookidest, kus on lisatud suhkur sees."
     },
@@ -4370,22 +4370,22 @@
         "subtitle": "Kommimaksu me küll ei toeta. See pole mõistlik. - Asi selge."
     },
     {
-        "similarity": 28,
-        "generated": "teine palju jalkurallib. Et mina olin positiivselt üllatunud, alla",
+        "similarity": 23,
+        "generated": "teine palju jalkurallib. Et mina olin positiivselt üllatunud,",
         "subtitle": "Teine pall oli alkoralli Lätti. - Tõepoolest, mina olin positiivselt üllatunud,"
     },
     {
-        "similarity": 10,
-        "generated": "10 protsendi Eesti inimeste tarbimisest tuli välismaalt",
+        "similarity": 12,
+        "generated": "alla 10 protsendi Eesti inimeste tarbimisest tuli välismaalt",
         "subtitle": "et alla 10% Eesti inimeste tarbimisest tuli välismaalt."
     },
     {
-        "similarity": 18,
+        "similarity": 3,
         "generated": "esmakordselt seda uuriti seal ei ole ainult Läti,",
         "subtitle": "Esmakordselt seda uuriti, seal ei olnud ainult Läti,"
     },
     {
-        "similarity": 46,
+        "similarity": 47,
         "generated": "vaid ka ka mujalt, kus iganes inimesed toovad alkoholi alla 10 protsendi. Ma arvan,",
         "subtitle": "inimesed toovad alkoholi ka mujalt ja alla 10% näitab minu arvates,"
     },
@@ -4400,12 +4400,12 @@
         "subtitle": "Tegelik probleem on ilmselgelt oluliselt väiksem."
     },
     {
-        "similarity": 25,
+        "similarity": 23,
         "generated": "Ilmselgelt ja tõsi on see, et, et Kagu-Eestis on juba pikemat aega,",
         "subtitle": "On tõsi, et Kagu-Eestis on juba pikemat aega,"
     },
     {
-        "similarity": 30,
+        "similarity": 26,
         "generated": "siis kui Reformierakond oli võimul olid juba poodide kasumid languses",
         "subtitle": "ka Reformierakonna ajal, poodide kasumid languses,"
     },
@@ -4420,7 +4420,7 @@
         "subtitle": "Sinna ei jõua, seda aega ei mäleta niikuinii enam keegi."
     },
     {
-        "similarity": 22,
+        "similarity": 17,
         "generated": "Väga pikka üleüldiselt. Et",
         "subtitle": "...väga pikka aega. - Erki Savisaar? Punkt."
     },
@@ -4435,7 +4435,7 @@
         "subtitle": "Tervisemõju ja alkoholi tarbimise vähenemine kaalub igal juhul üle"
     },
     {
-        "similarity": 12,
+        "similarity": 9,
         "generated": "piirikaubanduse mõju. Aitäh, et külalised,",
         "subtitle": "piirikaubanduse mõju. - Aitäh. Erki Savisaar."
     },
@@ -4480,7 +4480,7 @@
         "subtitle": "Pole ka kahtlustki, seda me teame. - Mingisugust musta maad ei tule."
     },
     {
-        "similarity": 25,
+        "similarity": 23,
         "generated": "ja ma nagu ei Kälvaks seda, seda paanikat, et",
         "subtitle": "Majandus tõuseb. Ma ei külvaks seda paanikat."
     },
@@ -4500,28 +4500,28 @@
         "subtitle": "Järsku see ongi paratamatus? - Mina leian, et see pole paratamatus."
     },
     {
-        "similarity": 37,
-        "generated": "ja kui Ossinovski ütles, et see on positiivne, mis toimub, siis",
+        "similarity": 27,
+        "generated": "ja kui Ossinovski ütles, et see on positiivne, mis toimub,",
         "subtitle": "Kui Ossinovski ütles, et see, mis toimub, on positiivne."
     },
     {
-        "similarity": 24,
-        "generated": "eelmine nädal pandi Lõuna-Eestist tuldi uudisega välja, kolm kauplust läheb jälle kinni,",
+        "similarity": 19,
+        "generated": "siis eelmine nädal pandi Lõuna-Eestist tuldi uudisega välja, kolm kauplust läheb jälle kinni,",
         "subtitle": "Siis eelmine nädal tuli Lõuna-Eestist uudis, et 3 kauplust läheb jälle kinni."
     },
     {
-        "similarity": 19,
+        "similarity": 11,
         "generated": "kuna inimesed lisaks alkoholile toovad ka oma leiva ja kõik muud asjad Lätist",
         "subtitle": "Kui inimesed lisaks alkoholile toovad ka leiva ja muud asjad Lätist,"
     },
     {
-        "similarity": 40,
-        "generated": "ja kindlasti ka mahlad tulevikus, nii et see ei saa seisata. Üks paadis",
+        "similarity": 38,
+        "generated": "ja kindlasti ka mahlad tulevikus, nii et see ei saa seisata. Üks",
         "subtitle": "ja tulevikus kindlasti ka mahlad. See ei saa olla positiivne."
     },
     {
-        "similarity": 35,
-        "generated": "asus Peipsi ääres muuseas, väga loomulikult, et tõepoolest selle pärast",
+        "similarity": 39,
+        "generated": "paadis asus Peipsi ääres muuseas, väga loomulikult, et tõepoolest selle pärast",
         "subtitle": "Üks nendest poodidest asus Peipsi ääres. Tõepoolest, selle pärast."
     },
     {
@@ -4535,17 +4535,17 @@
         "subtitle": "et piirikaubandus Venemaaga kinni pandi,"
     },
     {
-        "similarity": 42,
-        "generated": "enne elasid palju suuremast, tegelikult probleemis, kui nad täna elavad.",
+        "similarity": 36,
+        "generated": "enne elasid palju suuremast, tegelikult probleemis, kui nad täna",
         "subtitle": "enne elasid nad tänasest palju suuremas probleemis."
     },
     {
-        "similarity": 28,
-        "generated": "Kaupluse siis kinni pandud toidupoed kinni. Sellepärast,",
+        "similarity": 27,
+        "generated": "elavad. Kaupluse siis kinni pandud toidupoed kinni. Sellepärast,",
         "subtitle": "Aga kauplusi siis kinni ei pandud. - Talvik, kaks lauset."
     },
     {
-        "similarity": 18,
+        "similarity": 14,
         "generated": "et siis nad võitsid sellest oma kaltsu.",
         "subtitle": "Sest siis nad võitsid valitsuse otsusest."
     },
@@ -4565,7 +4565,7 @@
         "subtitle": "Tegelikkuses tuleb alkoholi tarbimine Läti kaudu tagasi ja eksport on trikk."
     },
     {
-        "similarity": 19,
+        "similarity": 14,
         "generated": "ei ole muideks uuringud näidanud Aktsiisikaupa",
         "subtitle": "Ei ole. Uuringud on näidanud, et aktsiisikauba,"
     },
@@ -4575,17 +4575,17 @@
         "subtitle": "alkoholi eksport Lätti märkimisväärselt suurenenud ei ole."
     },
     {
-        "similarity": 29,
+        "similarity": 28,
         "generated": "ehk siis needsamad kontsernid toodavad sedasama sakut ja ja viina seal Lätis kohale müüvad seal.",
         "subtitle": "Samad kontsernid toodavad sama Sakut ja viina Lätis kohal ja müüvad sealt."
     },
     {
-        "similarity": 29,
+        "similarity": 25,
         "generated": "Reinsalu ei, no ega me püstihullud ei ole, loomulikult me",
         "subtitle": "Reinsalu. - Ega me püstihullud ole. - Seda on tore kuulda."
     },
     {
-        "similarity": 34,
+        "similarity": 33,
         "generated": "Prantsus teie seda on tore omavalitsusele ülevaateid selle kohta,",
         "subtitle": "Loomulikult teeb rahandusministeerium valitsusele ülevaateid selle kohta,"
     },
@@ -4610,13 +4610,13 @@
         "subtitle": "kui tõesti oli raskeveokite puhul näha, et tangitakse Lätis."
     },
     {
-        "similarity": 30,
-        "generated": "siis me leidsime, et teha veel hüppe 2011. aastal üle põhjendatud me jätsime",
+        "similarity": 29,
+        "generated": "siis me leidsime, et teha veel hüppe 2011. aastal üle põhjendatud",
         "subtitle": "Siis me leidsime, et 2019. aastal veel hüpet pole põhjendatud teha."
     },
     {
-        "similarity": 35,
-        "generated": "selle ära. Nii, sõel kaks lauset ja sensadeleri.",
+        "similarity": 20,
+        "generated": "me jätsime selle ära. Nii, sõel kaks lauset ja sensadeleri.",
         "subtitle": "Me jätsime selle ära. - Sõerd kaks lauset, siis on saade läbi."
     },
     {
@@ -4640,7 +4640,7 @@
         "subtitle": "Enam väidelda ei jõua. - Kõrgemal tasemel koormus tõuseb."
     },
     {
-        "similarity": 64,
+        "similarity": 60,
         "generated": "aga seesama, nüüd see, mida, mida inimesed nüüd võidavad tulu, selle äär jääb kõigile sõrmedelt, võtate tagasi ju ta tulenevalt sellest,",
         "subtitle": "Selle, mida inimesed võidavad, te võtate tagasi tulenevalt sellest,"
     },
@@ -4650,18 +4650,18 @@
         "subtitle": "et uued maksud, ka see teekasutustasu, pakendiaktsiis,"
     },
     {
-        "similarity": 35,
-        "generated": "pandi tulumaks ja see läheb ju see on ettevõtete tootmissisend, siis",
+        "similarity": 24,
+        "generated": "pandi tulumaks ja see läheb ju see on ettevõtete tootmissisend,",
         "subtitle": "panditulumaks, lähevad ettevõtete tootmissisendisse."
     },
     {
-        "similarity": 31,
-        "generated": "jõuab, see kandub edasi, juua enam loetelusid ja ka",
+        "similarity": 33,
+        "generated": "siis jõuab, see kandub edasi, juua enam loetelusid ja ka siia",
         "subtitle": "See kandub edasi tarbijateni. - Me ei jõua enam loetelusid teha."
     },
     {
-        "similarity": 20,
-        "generated": "siia panna, siis suurendab, kodu kulus. Kuulge, mul on ettepanek",
+        "similarity": 16,
+        "generated": "panna, siis suurendab, kodu kulus. Kuulge, mul on ettepanek",
         "subtitle": "Gaasiaktsiis suurendab kodukulusid. - Mul on ettepanek."
     },
     {
@@ -4695,13 +4695,13 @@
         "subtitle": "Tuleb mõelda eesti inimeste, väikeettevõtjate peale"
     },
     {
-        "similarity": 27,
-        "generated": "ja ma arvan, niimoodi oleme me siin ka olulist õnnelikum riik. Aitäh",
+        "similarity": 21,
+        "generated": "ja ma arvan, niimoodi oleme me siin ka olulist õnnelikum riik.",
         "subtitle": "ja arvan, et niimoodi oleme ka oluliselt õnnelikum riik."
     },
     {
-        "similarity": 8,
-        "generated": "siinkohal paneme sellele tunnisele debatile punkti,",
+        "similarity": 2,
+        "generated": "Aitäh siinkohal paneme sellele tunnisele debatile punkti,",
         "subtitle": "Aitäh! Siinkohal paneme sellele tulisele debatile punkti."
     },
     {

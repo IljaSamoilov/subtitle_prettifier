@@ -67,7 +67,7 @@ class SubtitlePairWords:
 
     def __str__(self):
         texts = self.get_texts()
-        return f"Generated: {texts[0]} \nSubtitle: {texts[1]} \nSimilarity: {self.similarity}"
+        return f"Generated: {texts[0]} \nSubtitle: {texts[1]} \nDistance: {self.similarity}"
 
     def __repr__(self):
         return self.__str__()
@@ -75,9 +75,10 @@ class SubtitlePairWords:
     def to_dict(self):
         texts = self.get_texts()
         return {
-            "similarity": self.similarity,
+            "distance": self.similarity,
             "generated": texts[0],
-            "subtitle": texts[1]
+            "subtitle": texts[1],
+            "seconds": self.caption.end_in_seconds - self.caption.start_in_seconds
         }
 
 
